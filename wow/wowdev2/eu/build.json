@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "WOW-69141patch1.60.1_ClassicAlpha", "token": "9473b8b8-8953-45f9-b860-7766766abdad"},
-  "buildKey": "7bf3c46f929d95fc204c6e33150e0746",
-  "cdnKey": "60c1efb64b95b6069704985c06e79dac",
-  "definition": "296e39b4ab0be570ca722ca54f82964d",
+  "build": {"name": "WOW-69328patch1.60.1_ClassicAlpha", "token": "7fbde83f-27e3-405c-8070-56d97ae3d531"},
+  "buildKey": "e2b7dfcb44a454a30bc1e4a3d502e423",
+  "cdnKey": "9147363d570a02862a327612a4f32347",
+  "definition": "9490dd858a135807b7ef8d1c4396b5f7",
   "keyRing": "3ca57fe7319a297346440e4d2a03a0cd",
-  "lastModified": "2026-08-14T22:12:41.000Z",
+  "lastModified": "2026-08-15T00:20:25.000Z",
   "path": "tpr/wowdev/1",
   "pipelineId": 56,
   "productConfig": {"cdnPath": "", "hash": "91090d67539d72877d02040e6eb56eb7"},
-  "versionNumber": 69141,
-  "versionString": "1.60.1.69141"
+  "versionNumber": 69328,
+  "versionString": "1.60.1.69328"
 }

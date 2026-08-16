@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "release_28354448_cod25_season5_5_signed_bnet_RC2_ship",
-        "token": "1f461b15-0303-46c7-9146-4bc0c29d4691"
+        "name": "cert_28338667_cod26_beta_tu1_signed_bnet_rc2_ship",
+        "token": "25dc0de8-108e-4f3f-a036-ab5f7f8256af"
       },
-      "buildKey": "baa8c6b7c8b8d0987e78e2871f80f0ff",
-      "cdnKey": "9230cc3e93d8faf7bd45cd0e106b7b33",
-      "definition": "96940b7515ae447b86d1999757c3ecb3",
+      "buildKey": "1fe1ea4eb6daa2d77b7ceef9d12ae0a5",
+      "cdnKey": "b1ad85f91d33a96c9a0caaa5a77a934f",
+      "definition": "6f9a4fd5fc244d70320ad0b53a1fb592",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:09.000Z",
+      "lastModified": "2026-08-15T19:31:21.000Z",
       "path": "tpr/aukslrc",
       "pipelineId": 392,
       "productConfig": {"cdnPath": "", "hash": "da49fafbfdd40a9ae9559cb0df3de9fa"},
-      "versionNumber": 28354448,
-      "versionString": "1.0.4.28354448s"
+      "versionNumber": 28338667,
+      "versionString": "1.0.0.28338667s"
     }
   ],
   "infrastructure": false,

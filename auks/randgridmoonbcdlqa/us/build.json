@@ -3,12 +3,12 @@
   "build": {"name": "14453783_valkyrie_cdldev_dev", "token": "c6cb65ea-aa76-40f3-9065-9aaa034b9371"},
   "buildKey": "2440fd267d942551c950541e416c4182",
   "cdnKey": "99704b2bebe13f295e39920b10ca6070",
-  "definition": "643c47dce30ced1d1e1f098de0791380",
+  "definition": "0dfccd1f08bb5dd82d27ad22a68539c4",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:13:11.000Z",
+  "lastModified": "2026-08-14T17:04:56.000Z",
   "path": "moon/moonvb",
   "pipelineId": 290,
-  "productConfig": {"hash": "16078ee7d810a86bbb681a322130803d", "id": 9317},
+  "productConfig": {"hash": "16078ee7d810a86bbb681a322130803d"},
   "versionNumber": 14453783,
   "versionString": "0.0.0.14453783d"
 }

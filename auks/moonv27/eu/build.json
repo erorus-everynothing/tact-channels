@@ -3,12 +3,12 @@
   "build": {"name": "release_17155546_cod23_tus2_v27_dev_r2", "token": "e4600547-10a1-4c3d-adcd-486d6ca2eadf"},
   "buildKey": "fb3b6c65770b76f1e3da5525dea3d1e7",
   "cdnKey": "94ab4a3f0a6412d94030074275c9a3ff",
-  "definition": "fdce1fd2a2c5dcb764b581112e46123a",
+  "definition": "c64108c1b29f8d341d0d0f2a8dbef2c9",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:38.000Z",
+  "lastModified": "2026-08-14T17:04:31.000Z",
   "path": "moon/moonvb",
   "pipelineId": 290,
-  "productConfig": {"hash": "a6f508661e33d78ed7b94d20b2303841", "id": 7848},
+  "productConfig": {"hash": "a6f508661e33d78ed7b94d20b2303841"},
   "versionNumber": 17155546,
   "versionString": "0.0.0.17155546d"
 }

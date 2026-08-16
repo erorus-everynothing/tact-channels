@@ -9,12 +9,12 @@
       },
       "buildKey": "0da91bc57ef9e333ac0183a037a27412",
       "cdnKey": "1653bbeb97ee8606ab32bf08130ca47d",
-      "definition": "9ced87f106a6241475c254a459ac64f5",
+      "definition": "e7b173d5e25839e8fbdbdefdcb65e565",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:12:42.000Z",
+      "lastModified": "2026-08-14T17:04:35.000Z",
       "path": "tpr/odin",
       "pipelineId": 193,
-      "productConfig": {"hash": "c2b74a981a0673735cb3528e101b39df", "id": 5709},
+      "productConfig": {"hash": "c2b74a981a0673735cb3528e101b39df"},
       "versionNumber": 26668155,
       "versionString": "1.69.0.26668155"
     }

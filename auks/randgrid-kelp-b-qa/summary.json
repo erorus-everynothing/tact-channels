@@ -9,12 +9,12 @@
       },
       "buildKey": "ee77330336b2a889b124daa8abcc771c",
       "cdnKey": "9942ef85c2e53734a2d2225dd60abc55",
-      "definition": "8ef017aaea29dbdaf7a7ece8c88f9890",
+      "definition": "5fb68fe37b01c30e0719ce1bedb4abf3",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:13:01.000Z",
+      "lastModified": "2026-08-14T17:04:49.000Z",
       "path": "tpr/kelpvb",
       "pipelineId": 417,
-      "productConfig": {"hash": "e1471dec6fc937b5d139c84d7bb492b5", "id": 17047},
+      "productConfig": {"hash": "e1471dec6fc937b5d139c84d7bb492b5"},
       "versionNumber": 27589122,
       "versionString": "1.0.3.27589122d"
     }

@@ -3,12 +3,12 @@
   "build": {"name": "cert_20309452_cod24_tu2_bnet_v30_dev", "token": "51ecf7bc-56f4-4287-8c1a-5a2cb45bf309"},
   "buildKey": "238e3a7d1af150f47b2fd4916b55c31e",
   "cdnKey": "28a4ae23c1fc9d56a0694bf247eccfac",
-  "definition": "269634d57844bd7eb5eb3d4eddee01d5",
+  "definition": "accac77ca48bba4bd8534fd60370422d",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:12.000Z",
+  "lastModified": "2026-08-14T17:03:57.000Z",
   "path": "tpr/btlrvb",
   "pipelineId": 293,
-  "productConfig": {"hash": "97f0372898c34c42266408fca8e959d4", "id": 9706},
+  "productConfig": {"hash": "97f0372898c34c42266408fca8e959d4"},
   "versionNumber": 20309452,
   "versionString": "0.0.0.20309452d"
 }

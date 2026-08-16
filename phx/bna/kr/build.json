@@ -3,12 +3,12 @@
   "build": {"name": "17651_release_2.52.8", "token": "835cf163-45e7-4162-b53f-3b24cecd6863"},
   "buildKey": "83e89bb98a1199169f122cd72478cd6b",
   "cdnKey": "49df939a40b75e0c7d3fa7bbfeaa4fb2",
-  "definition": "600faafd4812072197fd1490929aca6b",
+  "definition": "f15d909ce03956df1cade8a2f6abee35",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:03.000Z",
+  "lastModified": "2026-08-14T17:03:46.000Z",
   "path": "tpr/bnt002",
   "pipelineId": 53,
-  "productConfig": {"hash": "c9dc6de3a629d80327fc6e96256dd19e", "id": 9007},
+  "productConfig": {"hash": "c9dc6de3a629d80327fc6e96256dd19e"},
   "versionNumber": 17651,
   "versionString": "2.52.8.17651"
 }

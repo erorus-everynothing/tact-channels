@@ -3,12 +3,12 @@
   "build": {"name": "release_28354448_cod25_season5_5_bnet_v22_dev", "token": "127f72e9-dec4-4045-b7bf-2de240006dc4"},
   "buildKey": "8078fbe4bf3adb693592417c22668396",
   "cdnKey": "6132ab9216a58066653fa8acdf1dfaed",
-  "definition": "3569a3a426057abfa0ea4667f8b1f9b6",
+  "definition": "5f575da2ef73d63b87d5dfdeed9a36e1",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:13:30.000Z",
+  "lastModified": "2026-08-14T17:05:15.000Z",
   "path": "tpr/sagevb",
   "pipelineId": 357,
-  "productConfig": {"hash": "4a197a38d9783645f8c7546fe0505a50", "id": 15036},
+  "productConfig": {"hash": "4a197a38d9783645f8c7546fe0505a50"},
   "versionNumber": 28354448,
   "versionString": "0.0.1.28354448d"
 }

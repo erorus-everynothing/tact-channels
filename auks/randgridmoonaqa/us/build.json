@@ -3,12 +3,12 @@
   "build": {"name": "05_12_20860341_valkyrie_dev", "token": "903874cb-7138-454c-8555-ebdd62e2d461"},
   "buildKey": "a503121e1cc532bff92046ee8d7b481a",
   "cdnKey": "79ab13b6bd37e86d625a5d32f985813a",
-  "definition": "619cdfb2f6c012530fbef5382bfce202",
+  "definition": "3febafbac2dd713a1a2ba64fdd8753bd",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:13:10.000Z",
+  "lastModified": "2026-08-14T17:04:56.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
-  "productConfig": {"hash": "878515c80965cf8513c702c8198b373c", "id": 6483},
+  "productConfig": {"hash": "878515c80965cf8513c702c8198b373c"},
   "versionNumber": 20860341,
   "versionString": "0.0.0.20860341d"
 }

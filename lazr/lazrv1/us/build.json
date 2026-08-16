@@ -3,12 +3,12 @@
   "build": {"name": "CRC_1279292B_V1_signed_ship", "token": "30119e04-2631-4446-9237-2b0eab4e0397"},
   "buildKey": "991946c9812d39f56393420fce364745",
   "cdnKey": "9edf3235684da5275986525a5c5cd48f",
-  "definition": "5124a0d504d7b739d3fbda17c71ea25a",
+  "definition": "3ec826ca780a229251b4a439ba62662d",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:32.000Z",
+  "lastModified": "2026-08-14T17:04:25.000Z",
   "path": "tpr/lazrv",
   "pipelineId": 209,
-  "productConfig": {"hash": "8b59cb7beb2de8fa90e14b1ddde4e2c3", "id": 1627},
+  "productConfig": {"hash": "8b59cb7beb2de8fa90e14b1ddde4e2c3"},
   "versionNumber": 1279292,
   "versionString": "CRC_1279292B_V1_signed_ship"
 }

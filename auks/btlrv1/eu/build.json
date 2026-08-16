@@ -6,12 +6,12 @@
   },
   "buildKey": "e501fb546755ab65c8882a22981ef76e",
   "cdnKey": "d8ee62fe6e83296020f8180bbb2d5164",
-  "definition": "709fdb841bc8a067070f856a95b6a8e4",
+  "definition": "447151f1bb15010439422e5340b21474",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:05.000Z",
+  "lastModified": "2026-08-14T17:03:49.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
-  "productConfig": {"hash": "92271551acbfc6669fe9da281617c2d3", "id": 15943},
+  "productConfig": {"hash": "92271551acbfc6669fe9da281617c2d3"},
   "versionNumber": 27953690,
   "versionString": "0.0.1.27953690d"
 }

@@ -6,12 +6,12 @@
       "build": {"name": "driver_09_07_23120651_valkyrie_dev_dev", "token": "6cf45966-5a78-4325-87ec-8076c6e7684b"},
       "buildKey": "6f841dad21d9b47b778a262faaacaf36",
       "cdnKey": "92601e384e2c6521461d0c38c8f25b57",
-      "definition": "89230f7eb9c8ecdf8c43575bf16456ab",
+      "definition": "60008f00a3fd3a505034a8a804f85d48",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:13:04.000Z",
+      "lastModified": "2026-08-14T17:04:51.000Z",
       "path": "tpr/btlrv",
       "pipelineId": 292,
-      "productConfig": {"hash": "e43e8b9ed6955883ee9c113cf695f389", "id": 8374},
+      "productConfig": {"hash": "e43e8b9ed6955883ee9c113cf695f389"},
       "versionNumber": 23120651,
       "versionString": "0.0.1.23120651d"
     }

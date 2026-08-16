@@ -6,12 +6,12 @@
       "build": {"name": "s4main_11331607s_vk_geirdriful_cdlv_ship", "token": "ba617ef0-9e96-4787-aedb-e13ef5171418"},
       "buildKey": "8a385bb4e350e41a97c82abdf21ce467",
       "cdnKey": "41dbf3a93b700396289c76bcc3f2adad",
-      "definition": "9922af0be8ef4738095ba7fa35183b30",
+      "definition": "2057cc4ae37e752aafb5d8f88b2fd67f",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:12:28.000Z",
+      "lastModified": "2026-08-14T17:04:21.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
-      "productConfig": {"hash": "000e95d7f65abcc4b835950951295d99", "id": 3921},
+      "productConfig": {"hash": "000e95d7f65abcc4b835950951295d99"},
       "versionNumber": 11331607,
       "versionString": "0.0.0.11331607vs"
     }

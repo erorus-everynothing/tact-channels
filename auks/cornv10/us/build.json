@@ -3,12 +3,12 @@
   "build": {"name": "trunk_27879616_zul_full_bnet_v10_dev", "token": "adc5cd8d-6725-4cd5-9afc-514a8f56f287"},
   "buildKey": "278da2782e469b92d741ad13efde4b86",
   "cdnKey": "ea87790088c1caea78f030c7cf0b06b3",
-  "definition": "5e784b7da6bd77db04a48ab546448077",
+  "definition": "83ad4d17d6dbb26b01a3ae6ad3d8f15b",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:16.000Z",
+  "lastModified": "2026-08-14T17:04:03.000Z",
   "path": "tpr/cornv",
   "pipelineId": 376,
-  "productConfig": {"hash": "d401bc29fd2ffaa25df7c24da92b75ce", "id": 11904},
+  "productConfig": {"hash": "d401bc29fd2ffaa25df7c24da92b75ce"},
   "versionNumber": 27879616,
   "versionString": "0.0.0.27879616d"
 }

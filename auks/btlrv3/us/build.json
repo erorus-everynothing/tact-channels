@@ -3,12 +3,12 @@
   "build": {"name": "main_26461592_cod24_sep_bnet_v3_dev", "token": "d45e9fea-e44f-4244-9cb7-88ec3474bb46"},
   "buildKey": "29bb8c1617e16c0bb622d206c8c0de00",
   "cdnKey": "4aebf653e8c8aec10a835c209514b987",
-  "definition": "eedffc9c10d6fe3f7b79df62a619b61b",
+  "definition": "0fcaf4c15ae8f14eb8e1e9aca855ef9d",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:11.000Z",
+  "lastModified": "2026-08-14T17:03:57.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
-  "productConfig": {"hash": "92885515eec5158f2816c339e6971786", "id": 9758},
+  "productConfig": {"hash": "92885515eec5158f2816c339e6971786"},
   "versionNumber": 26461592,
   "versionString": "0.0.0.26461592d"
 }

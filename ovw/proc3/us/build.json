@@ -3,12 +3,12 @@
   "build": {"name": "prometheus-2_25_0_0-152194-GM-t4t", "token": "30605f32-3794-458e-abc0-aa59331b187c"},
   "buildKey": "2c859aca57258401e62c5ff25e4cbbaf",
   "cdnKey": "bf1ea9f0c75a3bfcca673e4ad561f6af",
-  "definition": "4f9f9d0fc442ef43241eddf38ec35bb2",
+  "definition": "86f9e105ac433308aad6c42013f4cb6d",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:51.000Z",
+  "lastModified": "2026-08-14T17:04:43.000Z",
   "path": "tpr/proc3",
   "pipelineId": 165,
-  "productConfig": {"hash": "23606fc0bac4e278ccfffd0483aa1faa", "id": 13624},
+  "productConfig": {"hash": "23606fc0bac4e278ccfffd0483aa1faa"},
   "versionNumber": 152194,
   "versionString": "2.25.0.0.152194"
 }

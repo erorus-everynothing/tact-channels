@@ -3,12 +3,12 @@
   "build": {"name": "main_16321666_autobuild_br_iw9_v8_dev", "token": "1094a854-97b5-4c33-bdef-b6ac3e2b387b"},
   "buildKey": "c5a3e1ec98664df6694180cebe61705c",
   "cdnKey": "e540b5efbc603031289d15d06399e63e",
-  "definition": "775dc0890ddcca7f622b960b6f0380ed",
+  "definition": "2ace143cb44b14e328b81ff06f63da64",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:02.000Z",
+  "lastModified": "2026-08-14T17:03:45.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
-  "productConfig": {"hash": "b41d517d5f9108b102027230b4262c1b", "id": 7828},
+  "productConfig": {"hash": "b41d517d5f9108b102027230b4262c1b"},
   "versionNumber": 16321666,
   "versionString": "0.0.0.16321666d"
 }

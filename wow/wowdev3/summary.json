@@ -6,12 +6,12 @@
       "build": {"name": "WOW-66521patch12.0.5_PTR", "token": "020ccca4-e826-48a2-9458-32272e44b3b8"},
       "buildKey": "239b210c430d97f6118a4be78ec52da0",
       "cdnKey": "bce3b8ad011629224e92d62447283cbd",
-      "definition": "3a2a869882aef39c0752cad7f20672b9",
+      "definition": "da480eb489097d4cf989170de4fb225c",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:13:42.000Z",
+      "lastModified": "2026-08-14T17:05:27.000Z",
       "path": "tpr/wowdev2/1",
       "pipelineId": 267,
-      "productConfig": {"hash": "529a30f6d6950f318d8ae6a5d8fb3a3d", "id": 3752},
+      "productConfig": {"hash": "529a30f6d6950f318d8ae6a5d8fb3a3d"},
       "versionNumber": 66521,
       "versionString": "12.0.5.66521"
     }

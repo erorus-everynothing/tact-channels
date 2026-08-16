@@ -3,12 +3,12 @@
   "build": {"name": "main_28188640_sat_wz_season6_bnet_v22_dev", "token": "8476e67d-06cf-4d6a-993b-e9060a31f269"},
   "buildKey": "cf9f31a25014cba4c4921a28a89b0997",
   "cdnKey": "5beb8b77eeb1e19d7214d500cdacdd07",
-  "definition": "e8c002aa7f47ff49884016b67d485aeb",
+  "definition": "514003823b035f5ba91fe8cc223d6999",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:13:30.000Z",
+  "lastModified": "2026-08-14T17:05:15.000Z",
   "path": "tpr/sagevb",
   "pipelineId": 357,
-  "productConfig": {"hash": "4a197a38d9783645f8c7546fe0505a50", "id": 15036},
+  "productConfig": {"hash": "4a197a38d9783645f8c7546fe0505a50"},
   "versionNumber": 28188640,
   "versionString": "0.0.1.28188640d"
 }

@@ -3,12 +3,12 @@
   "build": {"name": "s4release_10408193_tu2_s4_v20_dev", "token": "a9d61689-fc14-4fac-a81b-9794fe2737d8"},
   "buildKey": "45c2b6fb701079382d316dd541b9604a",
   "cdnKey": "870392e90f575a2decfb50a6b79f67ea",
-  "definition": "abc6340de755b072abeedbacd2587559",
+  "definition": "b5eb9d66886c185161885f7d556698b7",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:24.000Z",
+  "lastModified": "2026-08-14T17:04:16.000Z",
   "path": "tpr/forev",
   "pipelineId": 219,
-  "productConfig": {"hash": "4566a55a55182ecded53d1d09d9df7ac", "id": 3200},
+  "productConfig": {"hash": "4566a55a55182ecded53d1d09d9df7ac"},
   "versionNumber": 10408193,
   "versionString": "0.0.0.10408193d"
 }

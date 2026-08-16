@@ -3,12 +3,12 @@
   "build": {"name": "trunk_23796243_sat_rvn_sp_bnet_v12_dev", "token": "c501a6a4-acfe-4de9-9862-c51a13a8ceb6"},
   "buildKey": "c4911049172e517476a0dc6be0084ff6",
   "cdnKey": "c3ceb304b94e1c4efefa4f3b18138bf4",
-  "definition": "e6d83a3e4acc95b473f622bc29b49ed7",
+  "definition": "2441f6dac1f24f6920dcd2c77e87f95d",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:11:56.000Z",
+  "lastModified": "2026-08-14T17:03:36.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
-  "productConfig": {"hash": "192fcf248ce0c603a022e40bd9c631c4", "id": 9716},
+  "productConfig": {"hash": "192fcf248ce0c603a022e40bd9c631c4"},
   "versionNumber": 23796243,
   "versionString": "1.0.0.23796243d"
 }

@@ -3,12 +3,12 @@
   "build": {"name": "prometheus-2_24_0_3-152736-GM-prodevops2", "token": "390d0e29-863e-4826-8d5d-17b5d9b3c17a"},
   "buildKey": "44c73a04cfa3b8f8319f0581a9546f62",
   "cdnKey": "58eb22a059b6d9f8f1d5355da6a3a33e",
-  "definition": "f6a87867839a3b19cce207e5d003b733",
+  "definition": "8b91ca16ebe8268d0e6f4a50cd11caaf",
   "keyRing": "",
-  "lastModified": "2026-08-13T17:31:42.000Z",
+  "lastModified": "2026-08-14T17:04:46.000Z",
   "path": "tpr/proc3",
   "pipelineId": 165,
-  "productConfig": {"hash": "d3f784b439287ded2142cebb05437daa", "id": 16312},
+  "productConfig": {"hash": "d3f784b439287ded2142cebb05437daa"},
   "versionNumber": 152736,
   "versionString": "2.24.0.3.152736"
 }

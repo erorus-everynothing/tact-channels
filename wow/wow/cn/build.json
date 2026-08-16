@@ -3,12 +3,12 @@
   "build": {"name": "WOW-69283patch12.1.0_Retail", "token": "c4a95b44-a0d8-4474-8a01-457ca3d5b79d"},
   "buildKey": "f507aaae210daf1d12d95a4dfccbd040",
   "cdnKey": "ef40e270844344546c1c40da0cf600e8",
-  "definition": "8707ec0e2b22efc206032b70cef78736",
+  "definition": "3137283688e6f4a79cdde99532c2da48",
   "keyRing": "3ca57fe7319a297346440e4d2a03a0cd",
-  "lastModified": "2026-08-13T16:13:40.000Z",
+  "lastModified": "2026-08-14T17:05:25.000Z",
   "path": "tpr/wow",
   "pipelineId": 19,
-  "productConfig": {"hash": "53020d32e1a25648c8e1eafd5771935f", "id": 5732},
+  "productConfig": {"hash": "53020d32e1a25648c8e1eafd5771935f"},
   "versionNumber": 69283,
   "versionString": "12.1.0.69283"
 }

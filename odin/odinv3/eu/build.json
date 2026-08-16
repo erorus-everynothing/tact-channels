@@ -3,12 +3,12 @@
   "build": {"name": "magma_13132166_filtereddropmip_bv3_dev", "token": "fd5d958d-db45-49c3-9433-69251be5418d"},
   "buildKey": "f8b0e7c735c530a4ad3fd5267e155177",
   "cdnKey": "94e3bf94ee6e1e59abc93c2a525b6193",
-  "definition": "f6d9ae3d76ec3b5d2e11a42e0de0989d",
+  "definition": "ec39ed6a0e51ff6aa0bc11975d535987",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:44.000Z",
+  "lastModified": "2026-08-14T17:04:37.000Z",
   "path": "tpr/odinv",
   "pipelineId": 192,
-  "productConfig": {"hash": "9943dc5d066360198e03e476c43dd8b3", "id": 3725},
+  "productConfig": {"hash": "9943dc5d066360198e03e476c43dd8b3"},
   "versionNumber": 13132166,
   "versionString": "1.79.0.13132166d"
 }

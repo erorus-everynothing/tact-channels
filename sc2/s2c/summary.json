@@ -6,12 +6,12 @@
       "build": {"name": "B97579-WIN", "token": "846e2d20-0b37-4d9b-8e90-a933c4ed536b"},
       "buildKey": "0601979c3d36b9ea4d66a250191d8df5",
       "cdnKey": "ce63dfedeb97d5057f0cc58665e7dc8e",
-      "definition": "b8b5a58674e80810b8b9e342de1e014e",
+      "definition": "975b24500298ea6cd8f57257a59633a9",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:13:25.000Z",
+      "lastModified": "2026-08-14T17:05:10.000Z",
       "path": "tpr/sc2",
       "pipelineId": 52,
-      "productConfig": {"hash": "ebf79ef6e85f8358784980ac74c2f711", "id": 13563},
+      "productConfig": {"hash": "ebf79ef6e85f8358784980ac74c2f711"},
       "versionNumber": 97579,
       "versionString": "5.0.16.97579"
     }

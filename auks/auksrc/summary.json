@@ -9,18 +9,18 @@
       },
       "buildKey": "76e6b976e2401bd54c7e871398295c11",
       "cdnKey": "62abd6d47b01321c39db2d768be30920",
-      "definition": "81522ea9cc2cc18a97eff6cc5188356c",
+      "definition": "c095cb0dcb5f5edcd1239debebc62f12",
       "keyRing": "",
-      "lastModified": "2026-08-13T22:44:52.000Z",
+      "lastModified": "2026-08-14T17:03:33.000Z",
       "path": "tpr/aukslrc",
       "pipelineId": 392,
-      "productConfig": {"hash": "b43823a3929fdd62500b56346f2010a1", "id": 13838},
+      "productConfig": {"hash": "b43823a3929fdd62500b56346f2010a1"},
       "versionNumber": 28354448,
       "versionString": "0.0.1.28354448s"
     }
   ],
   "infrastructure": false,
-  "preloads": [{"branches": ["eu", "kr", "us"], "definition": "ed4ee657dbfaa4d295e04fc2f3ea4686"}],
+  "preloads": [{"branches": ["eu", "kr", "us"], "definition": "07ad1a12d153431e0af423823e194c00"}],
   "product": "auks",
   "regions": [
     {

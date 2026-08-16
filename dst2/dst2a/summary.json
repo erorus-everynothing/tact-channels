@@ -6,12 +6,12 @@
       "build": {"name": "5443954-Tiger", "token": ""},
       "buildKey": "217fe1897bdab3920dc861da360c3846",
       "cdnKey": "60228c1de1ad14c3e41c1b942c73d9e6",
-      "definition": "3557236910a9412af93edb2d9905faa9",
+      "definition": "fe0095c0086bab88a956b0fbd56b564c",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:12:19.000Z",
+      "lastModified": "2026-08-14T17:04:06.000Z",
       "path": "tpr/destiny2",
       "pipelineId": 144,
-      "productConfig": {"hash": "5658b5eab9b08d66259de00d353aec90", "id": 568},
+      "productConfig": {"hash": "5658b5eab9b08d66259de00d353aec90"},
       "versionNumber": 5443954,
       "versionString": "5443954"
     }

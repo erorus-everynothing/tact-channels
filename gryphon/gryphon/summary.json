@@ -9,12 +9,12 @@
       },
       "buildKey": "90fad5d92a51b52debf37d4833ba2143",
       "cdnKey": "ca67dd5d41fa4da127b8b6a2530dd2d7",
-      "definition": "13dd1912734ca7b6892f3c6aaa541114",
+      "definition": "295acca99447b60c44d19fa4e405954f",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:12:28.000Z",
+      "lastModified": "2026-08-14T17:04:21.000Z",
       "path": "tpr/gryphon",
       "pipelineId": 298,
-      "productConfig": {"hash": "f6a454799d25791e5a37a7547d75ce49", "id": 9956},
+      "productConfig": {"hash": "f6a454799d25791e5a37a7547d75ce49"},
       "versionNumber": 119301,
       "versionString": "16.0.0.119301"
     }

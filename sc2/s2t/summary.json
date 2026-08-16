@@ -6,12 +6,12 @@
       "build": {"name": "B97337", "token": "0080d748-a929-4f04-abfc-233e72f82137"},
       "buildKey": "34434e87fb29db80711d5ce9ef370189",
       "cdnKey": "a6398ed077720593a81c50f48d707d92",
-      "definition": "9896c87d7a3b1b41105f698f275e4113",
+      "definition": "523d9c4d842edd4384890cef7d64c85c",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:13:25.000Z",
+      "lastModified": "2026-08-14T17:05:10.000Z",
       "path": "tpr/sc2",
       "pipelineId": 52,
-      "productConfig": {"hash": "a2259e54abb742d8780921edbae35e4c", "id": 1789},
+      "productConfig": {"hash": "a2259e54abb742d8780921edbae35e4c"},
       "versionNumber": 97337,
       "versionString": "5.0.16.97337"
     }

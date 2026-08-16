@@ -6,12 +6,12 @@
       "build": {"name": "prometheus-2_24_1_0-152771-GM-proindev", "token": "d272d168-b309-4484-a235-99438f714354"},
       "buildKey": "242dcaaf73132e78e743489753adce95",
       "cdnKey": "8d04ca6be0aa6cd10037309264b0c3d2",
-      "definition": "2a7aa030e4302e993a0a6576a7c313a7",
+      "definition": "56fd2c67c42f94d06176d47011c3495f",
       "keyRing": "",
-      "lastModified": "2026-08-14T13:36:46.000Z",
+      "lastModified": "2026-08-14T17:04:47.000Z",
       "path": "tpr/proc3",
       "pipelineId": 165,
-      "productConfig": {"hash": "cca9304ea6fcf6634e872065aa580d26", "id": 13630},
+      "productConfig": {"hash": "cca9304ea6fcf6634e872065aa580d26"},
       "versionNumber": 152771,
       "versionString": "2.24.1.0.152771"
     }

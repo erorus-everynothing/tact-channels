@@ -3,12 +3,12 @@
   "build": {"name": "magma_10660674_dropmipch3_bv11_dlc_test_dev", "token": "cc34e6df-a38a-4fc9-a673-02c7fce56498"},
   "buildKey": "6258191d208efbd747542d26dece0093",
   "cdnKey": "038486ed753f47ef530c8607338d6aef",
-  "definition": "4d9c5f507d98f6d3967b2d0f17a11a30",
+  "definition": "760bbd8e4883860e8cb7bd5263d9dfbc",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:43.000Z",
+  "lastModified": "2026-08-14T17:04:36.000Z",
   "path": "tpr/odinv",
   "pipelineId": 192,
-  "productConfig": {"hash": "23a8a06f288f18f9cfa5a697b5e6c162", "id": 3061},
+  "productConfig": {"hash": "23a8a06f288f18f9cfa5a697b5e6c162"},
   "versionNumber": 10660674,
   "versionString": "1.43.0.10660674dt"
 }

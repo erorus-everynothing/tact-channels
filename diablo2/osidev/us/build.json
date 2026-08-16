@@ -3,12 +3,12 @@
   "build": {"name": "70960", "token": "ad22313a-24e7-4b89-984b-bbed6912bf23"},
   "buildKey": "468bd58462ea8516a5ba9da3cce0c10d",
   "cdnKey": "f13558ee5cf7bc031b784954aa09efcf",
-  "definition": "5464e529aa9ceacf5b825d2256a3d4ed",
+  "definition": "e1170e64dc2ad3898f1531b819d80da1",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:47.000Z",
+  "lastModified": "2026-08-14T17:04:40.000Z",
   "path": "tpr/osidev",
   "pipelineId": 243,
-  "productConfig": {"hash": "0d9d921545dd5ae3c938ae156ce4ff72", "id": 2992},
+  "productConfig": {"hash": "0d9d921545dd5ae3c938ae156ce4ff72"},
   "versionNumber": 70960,
   "versionString": "1.4.70960"
 }

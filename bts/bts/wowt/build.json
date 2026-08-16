@@ -3,12 +3,12 @@
   "build": {"name": "2988_wowt", "token": ""},
   "buildKey": "cc55f4bba01768a0c3b91f9b146621f3",
   "cdnKey": "91eee889473ba060bca863c6bc10f5a1",
-  "definition": "eab22c9a473ba41363f45d8e493b6498",
+  "definition": "52721c9cdc663ccd902d85f950e608f8",
   "keyRing": "",
-  "lastModified": "2026-08-13T22:44:55.000Z",
+  "lastModified": "2026-08-14T17:04:02.000Z",
   "path": "tpr/bnt004",
   "pipelineId": 135,
-  "productConfig": {"hash": "e8a9e3b2b36cc844d7a26a18fce57792", "id": 974},
+  "productConfig": {"hash": "e8a9e3b2b36cc844d7a26a18fce57792"},
   "versionNumber": 2988,
   "versionString": "1.16.3.2988"
 }

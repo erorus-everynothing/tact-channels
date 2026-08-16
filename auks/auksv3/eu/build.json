@@ -3,12 +3,12 @@
   "build": {"name": "etu_27898773G_cod25_season5_signed_bnet_v3_dev", "token": "271b3e80-d06f-40a5-be71-125500f414dd"},
   "buildKey": "1af395512d82021c5577544b333373e9",
   "cdnKey": "50fa0862a2f6585f98defc7389c1b82f",
-  "definition": "4ac5f38662078f54c089d338c88214ed",
+  "definition": "f9fdafe1483ad602c411cab72c3a5911",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:00.000Z",
+  "lastModified": "2026-08-14T17:03:42.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
-  "productConfig": {"hash": "7b4c9b9a99d695484c10072089118494", "id": 15283},
+  "productConfig": {"hash": "7b4c9b9a99d695484c10072089118494"},
   "versionNumber": 27898773,
   "versionString": "1.7.0.27898773d"
 }

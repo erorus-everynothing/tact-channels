@@ -3,12 +3,12 @@
   "build": {"name": "magma_14265259_magmatu_bv9_vendor_rename", "token": "10496b5a-c07a-4638-b906-9665f2ea2795"},
   "buildKey": "a02db78cca0c924badd4de6d12e753fb",
   "cdnKey": "0a6f37a171fcb6b567ee7f4708e72589",
-  "definition": "79aca4742519a4d506b19381ba3354bd",
+  "definition": "04147cf339428af969ac9a6ed68b22be",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:46.000Z",
+  "lastModified": "2026-08-14T17:04:39.000Z",
   "path": "tpr/odinv",
   "pipelineId": 192,
-  "productConfig": {"hash": "b502c7eb6e4e9965b29de100dde6bcd3", "id": 3335},
+  "productConfig": {"hash": "b502c7eb6e4e9965b29de100dde6bcd3"},
   "versionNumber": 14265259,
   "versionString": "1.51.1.14265259v"
 }

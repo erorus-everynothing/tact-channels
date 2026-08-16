@@ -6,12 +6,12 @@
       "build": {"name": "WOW-69110patch2.5.6_ClassicPTR", "token": "65503468-0e38-42fe-bc5c-cb9a0a0acc75"},
       "buildKey": "03edf6c8d7e42bd9b5438522c05938b6",
       "cdnKey": "9ebeb44997a9ed360a77452cae9cb64d",
-      "definition": "957eb42cd69b69c83a0562c2828f99f0",
+      "definition": "2df817828f14a20d45c949d0ae06e60f",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:13:41.000Z",
+      "lastModified": "2026-08-14T17:05:26.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
-      "productConfig": {"hash": "078e6fc7e9562636d078c827b9a59547", "id": 2979},
+      "productConfig": {"hash": "078e6fc7e9562636d078c827b9a59547"},
       "versionNumber": 69110,
       "versionString": "2.5.6.69110"
     }

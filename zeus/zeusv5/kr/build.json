@@ -3,12 +3,12 @@
   "build": {"name": "prod_aps_nnikaido_9888344_v5_ship", "token": "b26b8b44-9025-4300-a9a9-b0d4ac9c697f"},
   "buildKey": "503e313966c901d783ea9b149099c3a1",
   "cdnKey": "6dce41b1119a0d7bfdbec13b9fdd24af",
-  "definition": "78d084102d7122ad8b8c10f36e732a8b",
+  "definition": "399e8c25cc761dd571b2e1765066376e",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:13:49.000Z",
+  "lastModified": "2026-08-14T17:05:34.000Z",
   "path": "tpr/zeusv",
   "pipelineId": 208,
-  "productConfig": {"hash": "37c26ddd0df0abd47115ae0f9c57e11c", "id": 2567},
+  "productConfig": {"hash": "37c26ddd0df0abd47115ae0f9c57e11c"},
   "versionNumber": 9888344,
   "versionString": "1.17.0.9888344d"
 }

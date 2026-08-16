@@ -6,12 +6,12 @@
       "build": {"name": "20260724-000011-nosy-monkey", "token": "a346a977-83a1-4229-8464-ad5b87f4ec2f"},
       "buildKey": "6c2d366e2470709246df7b32ff0ba571",
       "cdnKey": "c92eae7a7f71ae403eebb9c877fffa7b",
-      "definition": "7c2499202e64d829036304d73d50ed76",
+      "definition": "62a683e648dc6c0d71dbfa307379d085",
       "keyRing": "c97d84fb48912bca458ed915fd9c677b",
-      "lastModified": "2026-08-13T16:11:52.000Z",
+      "lastModified": "2026-08-14T17:03:29.000Z",
       "path": "tpr/arisrc",
       "pipelineId": 351,
-      "productConfig": {"hash": "5bff35d0e36b3bb1664bd27bcc7e6e47", "id": 10168},
+      "productConfig": {"hash": "5bff35d0e36b3bb1664bd27bcc7e6e47"},
       "versionNumber": 499,
       "versionString": "5234B308686BDB60EEE9DC614F29A0DF"
     }

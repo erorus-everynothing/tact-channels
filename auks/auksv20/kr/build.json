@@ -3,12 +3,12 @@
   "build": {"name": "trunk_23950546_sat_ihv_bnet_v20_vendor", "token": "91eb6d39-9a20-480a-a01e-c003b4cf786c"},
   "buildKey": "dad3d2b7af756fee8904d0ee8b23ac86",
   "cdnKey": "dbb1ec8d97e93714bfb073e42cac2bd8",
-  "definition": "f9fd7ff0ea7f153039a66ecb39671ad9",
+  "definition": "7ccea41e44b1161e91b86c122d3a7320",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:11:59.000Z",
+  "lastModified": "2026-08-14T17:03:41.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
-  "productConfig": {"hash": "4c5951a3b414d6f2c5b1e5d50c8168ff", "id": 7819},
+  "productConfig": {"hash": "4c5951a3b414d6f2c5b1e5d50c8168ff"},
   "versionNumber": 23950546,
   "versionString": "0.0.3.23950546v"
 }

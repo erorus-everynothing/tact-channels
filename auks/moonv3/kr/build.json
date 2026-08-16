@@ -3,12 +3,12 @@
   "build": {"name": "etu_19722267_cod23_tus5_5_4_bnet_v3_dev_r3b", "token": "15ec848a-77af-4500-9ad0-a4079696d2bc"},
   "buildKey": "ce330a0f429f654229a757849fc99575",
   "cdnKey": "fa8604ed31f00f016397ad4295f1c545",
-  "definition": "3b14ed97e0cf9a8f3a6bb44cf897be85",
+  "definition": "ac9920374a9230db92b814d1fbf30153",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:39.000Z",
+  "lastModified": "2026-08-14T17:04:32.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
-  "productConfig": {"hash": "f6d69df61e870ca55684ac9eb8c8eb2b", "id": 9316},
+  "productConfig": {"hash": "f6d69df61e870ca55684ac9eb8c8eb2b"},
   "versionNumber": 19722267,
   "versionString": "0.0.0.19722267d"
 }

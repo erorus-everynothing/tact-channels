@@ -3,12 +3,12 @@
   "build": {"name": "s4release_25999185_tu27_november_s4_v5_ship", "token": "58814094-e716-4233-962f-8e469928fdd8"},
   "buildKey": "d4bc7fef1d1328763da2446319fed897",
   "cdnKey": "eb7db028c516c695a06b8ec08ca604ae",
-  "definition": "d4c122004203a08bc85a7ef47cdb5632",
+  "definition": "50f3d76bb0fbea72eff71817423d8912",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:25.000Z",
+  "lastModified": "2026-08-14T17:04:17.000Z",
   "path": "tpr/forev",
   "pipelineId": 219,
-  "productConfig": {"hash": "6d177547c42d8bf31aed617b85bfbcf7", "id": 3842},
+  "productConfig": {"hash": "6d177547c42d8bf31aed617b85bfbcf7"},
   "versionNumber": 25999185,
   "versionString": "0.0.0.25999185d"
 }

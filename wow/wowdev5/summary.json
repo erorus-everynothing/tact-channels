@@ -6,12 +6,12 @@
       "build": {"name": "WOW-69075patch1.60.0_Test", "token": "825df078-9f1d-4e48-985d-a4d704d23a0a"},
       "buildKey": "a1b20345279fcc554a05370926a003e7",
       "cdnKey": "d98502b71bb072e8c1e2ff584749a770",
-      "definition": "99dc9a272ec184c883d983a47051be6e",
+      "definition": "c3854075f679fc7f35b101d61a82fc87",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:13:42.000Z",
+      "lastModified": "2026-08-14T17:05:27.000Z",
       "path": "tpr/wowdev/1",
       "pipelineId": 56,
-      "productConfig": {"hash": "c91c9b31b01687baed3cfd50e4749cfc", "id": 13707},
+      "productConfig": {"hash": "c91c9b31b01687baed3cfd50e4749cfc"},
       "versionNumber": 69075,
       "versionString": "1.60.0.69075"
     }

@@ -3,12 +3,12 @@
   "build": {"name": "Milestone_Shipping_67856", "token": "e0ec0f69-157e-4e39-8d7f-c942d9363815"},
   "buildKey": "c31960d8fc64495a4d41a4f1dfd79be4",
   "cdnKey": "50a715ddda8f77af09cb43c2f645888d",
-  "definition": "8bdcc47e401040599f45d1459e785c31",
+  "definition": "727c4e214cd08099d0c20c8833e1d979",
   "keyRing": "2992e5497146612b4099dc40509aeb7a",
-  "lastModified": "2026-08-13T16:12:33.000Z",
+  "lastModified": "2026-08-14T17:04:26.000Z",
   "path": "tpr/lbradev",
   "pipelineId": 366,
-  "productConfig": {"hash": "4b58d7d61adff6428e766864cb6b0baa", "id": 10835},
+  "productConfig": {"hash": "4b58d7d61adff6428e766864cb6b0baa"},
   "versionNumber": 67856,
   "versionString": "Chicago 1.0.67856"
 }

@@ -3,12 +3,12 @@
   "build": {"name": "live_18290054_TU_WZSUNSET_1_8_C_v7_signed_dev", "token": "14679c6b-b0e6-494e-84f2-ec808d6192ff"},
   "buildKey": "9474ca369786cd20c136d28c1ce0c52d",
   "cdnKey": "bb1c6d80efb0640a9ad0f99a6203ec84",
-  "definition": "1eaecd1edd70977c2fea8a24fac80842",
+  "definition": "915f7e4844819eb93ebd90dc3c399d48",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:45.000Z",
+  "lastModified": "2026-08-14T17:04:38.000Z",
   "path": "tpr/odinv",
   "pipelineId": 192,
-  "productConfig": {"hash": "79b6ae6f0e893841125e5d7a92d960bb", "id": 5585},
+  "productConfig": {"hash": "79b6ae6f0e893841125e5d7a92d960bb"},
   "versionNumber": 18290054,
   "versionString": "1.67.3.18290054d"
 }

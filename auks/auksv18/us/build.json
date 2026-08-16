@@ -3,12 +3,12 @@
   "build": {"name": "release_25106145_cod25_tu4_bnet_signed_v18_ship", "token": "bccc11b7-7e68-4d88-8026-288ce30d307e"},
   "buildKey": "e6cffa877277473ef0daefd63843e58d",
   "cdnKey": "cc4ae14a8be7e14f2e453b4433080d00",
-  "definition": "98043a72db68d608a7e6bb203f1c608b",
+  "definition": "8790f4391e3604cb59a82a4c2092c839",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:11:58.000Z",
+  "lastModified": "2026-08-14T17:03:39.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
-  "productConfig": {"hash": "563381a136c3d4dba1683aace55e6348", "id": 14096},
+  "productConfig": {"hash": "563381a136c3d4dba1683aace55e6348"},
   "versionNumber": 25106145,
   "versionString": "0.0.0.25106145s"
 }

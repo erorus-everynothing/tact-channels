@@ -3,12 +3,12 @@
   "build": {"name": "WOW-69155patch5.5.4_ClassicRetail", "token": "299d2f75-0b3e-453c-923d-b29687f1abe7"},
   "buildKey": "8ca6e8ce7d7793c68237e40242347f47",
   "cdnKey": "643ba58b5e8503dc0b00917081b1b08d",
-  "definition": "fd26fdee7501d9749ee7d542b6a8f9cc",
+  "definition": "db4d998b2a81af3b1db241c8f714f324",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:13:41.000Z",
+  "lastModified": "2026-08-14T17:05:26.000Z",
   "path": "tpr/wow",
   "pipelineId": 19,
-  "productConfig": {"hash": "f337a1b6ece3dacf3ec807287f3c2aa6", "id": 9916},
+  "productConfig": {"hash": "f337a1b6ece3dacf3ec807287f3c2aa6"},
   "versionNumber": 69155,
   "versionString": "5.5.4.69155"
 }

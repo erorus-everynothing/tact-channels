@@ -6,12 +6,12 @@
       "build": {"name": "1.0.0.2762-retail", "token": "3c99e02b-f724-468c-8947-4123bdbbd1ce"},
       "buildKey": "31a3f666d19c9bcfecb16e353c3aa9ec",
       "cdnKey": "2615dd6d742014a24ec31ba8835bddd8",
-      "definition": "253c9e167c0f2b29eb667fb306c41e14",
+      "definition": "ce2cfd752b64dd8c239168c20c47e09e",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:13:38.000Z",
+      "lastModified": "2026-08-14T17:05:23.000Z",
       "path": "tpr/w1r-live",
       "pipelineId": 327,
-      "productConfig": {"hash": "1918ad027dd1a0e571adb9984f0a14f8", "id": 9930},
+      "productConfig": {"hash": "1918ad027dd1a0e571adb9984f0a14f8"},
       "versionNumber": 2762,
       "versionString": "1.0.0.2762"
     }

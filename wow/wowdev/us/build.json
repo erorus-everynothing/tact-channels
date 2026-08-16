@@ -3,12 +3,12 @@
   "build": {"name": "WOW-67360patch12.0.7_Alpha", "token": "2d7483b4-ad5b-4bcc-b06e-091777457d7f"},
   "buildKey": "a21a4d34cc36df3ded1e3e1e22e2190f",
   "cdnKey": "3569482c0b5ab001295b2dd809f608c9",
-  "definition": "b9d2b4a420398a75940cdd60f9ba699f",
+  "definition": "acb322d9ea542b3632cc0e66b8e1f057",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:13:42.000Z",
+  "lastModified": "2026-08-14T17:05:27.000Z",
   "path": "tpr/wowdev/1",
   "pipelineId": 56,
-  "productConfig": {"hash": "aaa48c52871af5864c4988c36a054fa6", "id": 13703},
+  "productConfig": {"hash": "aaa48c52871af5864c4988c36a054fa6"},
   "versionNumber": 67360,
   "versionString": "12.0.7.67360"
 }

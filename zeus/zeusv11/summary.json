@@ -6,12 +6,12 @@
       "build": {"name": "bo5_2_raw_13871677_signed_v11_ship", "token": "37bf95fc-fd34-450e-9799-bf634c1dc2fb"},
       "buildKey": "04fdd9d34157b1bf0f7d983f0e2ef0a3",
       "cdnKey": "c9099d86ffeb3fe3fa0a085e2c503d10",
-      "definition": "377a929cfc3c54d5efe6fac4bd1444c6",
+      "definition": "7fa0d21024ae99559465d438ac912758",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:13:47.000Z",
+      "lastModified": "2026-08-14T17:05:32.000Z",
       "path": "tpr/zeusv",
       "pipelineId": 208,
-      "productConfig": {"hash": "f6a3d84526db693f67a80d1f5b1ca69a", "id": 2558},
+      "productConfig": {"hash": "f6a3d84526db693f67a80d1f5b1ca69a"},
       "versionNumber": 13871677,
       "versionString": "0.0.0.13871677s"
     }

@@ -3,12 +3,12 @@
   "build": {"name": "main_23969451_cer_clean_bnet_v26_dev", "token": "e5471515-a116-4188-89b4-9783b99a3a32"},
   "buildKey": "a7a58906030674e34df945d22e5c0959",
   "cdnKey": "97feca0af530e1c6fb4b103c8105b279",
-  "definition": "91d9151cab58c3b79d3a3fe4ad26c075",
+  "definition": "1e0bd31d59cc84ce40d8f4bd24412b61",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:10.000Z",
+  "lastModified": "2026-08-14T17:03:55.000Z",
   "path": "tpr/btlrvb",
   "pipelineId": 293,
-  "productConfig": {"hash": "9a48ca6fc92a68d30ab253c32b662da3", "id": 9754},
+  "productConfig": {"hash": "9a48ca6fc92a68d30ab253c32b662da3"},
   "versionNumber": 23969451,
   "versionString": "0.0.0.23969451d"
 }

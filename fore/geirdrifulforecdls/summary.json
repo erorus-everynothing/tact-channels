@@ -6,12 +6,12 @@
       "build": {"name": "s4release_11429386_vk_geirdriful_fs_ship", "token": "10220b79-8be6-453b-8f51-64290a36410c"},
       "buildKey": "b753da7400133f15bf3277b1a770947e",
       "cdnKey": "f1e27c059987a5d05ae23b3f9c3dcaf2",
-      "definition": "9df16a0884f70d80c35ca37d31f61b03",
+      "definition": "4abc6148e735f0d9c4507a467e6f0097",
       "keyRing": "",
-      "lastModified": "2026-08-13T16:12:28.000Z",
+      "lastModified": "2026-08-14T17:04:21.000Z",
       "path": "tpr/foree",
       "pipelineId": 264,
-      "productConfig": {"hash": "d311d711f2cc25d073c9e7229ead79ca", "id": 4164},
+      "productConfig": {"hash": "d311d711f2cc25d073c9e7229ead79ca"},
       "versionNumber": 11429386,
       "versionString": "1.17.0.11429386"
     }

@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "92777", "token": "9de8c3f3-a27d-44a1-a43d-ce4c54582ec7"},
+  "buildKey": "3afa9806f33475daee9b317a21d55d09",
+  "cdnKey": "b593852763c6c51e5cb2cb77864f4470",
+  "definition": "0ed0b53ae468f6f7bd90ec5ad78e7877",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:46.000Z",
+  "path": "tpr/osi",
+  "pipelineId": 99,
+  "productConfig": {"hash": "e5d0a3feb55588a5da2ede452171d0fc", "id": 3211},
+  "versionNumber": 92777,
+  "versionString": "3.2.92777"
+}

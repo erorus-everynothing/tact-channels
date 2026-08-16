@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "release_22480360_cer_ihv_bnet_v15_vendor", "token": "a29df580-4197-4732-9e44-d1bfef2e41bf"},
+  "buildKey": "c2eb3e75902e7dc660b45d731cfa5724",
+  "cdnKey": "47a9205261be6136928e014b961190bb",
+  "definition": "b4f97fc5fc11848222406548fcc4d11b",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:06.000Z",
+  "path": "tpr/btlrv",
+  "pipelineId": 292,
+  "productConfig": {"hash": "9d95356c962996dfd8dfeff073254668", "id": 9689},
+  "versionNumber": 22480360,
+  "versionString": "0.0.0.22480360v"
+}

@@ -1,0 +1,49 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {
+        "name": "release_driver_28_07_2026_28195476_valkyrie_valkyrie_ship_ship_RC",
+        "token": "22072eda-03f9-46ef-8574-23af64d56061"
+      },
+      "buildKey": "04263f4d71e341cf3b0aeea7627c83b2",
+      "cdnKey": "138323554536d0973ee95e7751569e70",
+      "definition": "40d98dadc8c0de31cb5e2bf6174cf9b1",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:13:03.000Z",
+      "path": "tpr/aukslrc",
+      "pipelineId": 392,
+      "productConfig": {"hash": "291ad59e173875e80c85c7c7794db31d", "id": 13496},
+      "versionNumber": 28195476,
+      "versionString": "1.0.0.28195476s"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "287b8918c145665428c6f714cdc6e3bd",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    }
+  ],
+  "variant": "randgridauksrc"
+}

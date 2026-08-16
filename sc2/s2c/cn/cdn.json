@@ -1,0 +1,8 @@
+{
+  "cdns": "3598b2604a265c20226f1e451053089d",
+  "hosts": [
+    {"host": "http://blzdist-s2.necdn.leihuo.netease.com?maxhosts=5"},
+    {"host": "https://blzdist-s2.necdn.leihuo.netease.com?maxhosts=5&fallback=1"}
+  ],
+  "lastModified": "2026-08-14T22:10:36.000Z"
+}

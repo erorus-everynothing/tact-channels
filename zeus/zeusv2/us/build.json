@@ -1,0 +1,17 @@
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "2026_05_13__TU35__v27007542_Bnet_r2_signed_v2_ship",
+    "token": "c94fd8c6-131e-4f7b-8056-755b0620b783"
+  },
+  "buildKey": "bdb879091b794dd7bb990df5ad634f47",
+  "cdnKey": "7fa8e53126e6e1049159603fa3ac9b89",
+  "definition": "006ec166735ec6e4f3341a111000984b",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:13:48.000Z",
+  "path": "tpr/zeusv",
+  "pipelineId": 208,
+  "productConfig": {"hash": "eb4e56e10d6b7fb31bf1959485fe140f", "id": 3095},
+  "versionNumber": 27007543,
+  "versionString": "0.0.0.27007542s"
+}

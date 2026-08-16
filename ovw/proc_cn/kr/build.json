@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "prometheus-1_46_1_0-67834-PROC-CN", "token": "b62d5c2d-c86e-463e-86dc-ef69838c7fbc"},
+  "buildKey": "ed5fe6cd026efc5d30204487fd600c76",
+  "cdnKey": "46b830e2a907115766a23e089ffc4e4f",
+  "definition": "1c0503805f31bfedc3a0b128762b421a",
+  "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
+  "lastModified": "2026-08-13T16:12:51.000Z",
+  "path": "tpr/ovw",
+  "pipelineId": 43,
+  "productConfig": {"hash": "239e25850fed8523606f835310277c16", "id": 1639},
+  "versionNumber": 67834,
+  "versionString": "1.46.1.0.67834"
+}

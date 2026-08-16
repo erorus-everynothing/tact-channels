@@ -1,0 +1,61 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu"],
+      "build": {"name": "release_26596847_zul_gl_bnet_v14_dev", "token": "dae6abf4-919a-46b3-bbff-1c92162b40c2"},
+      "buildKey": "34c10515dce6d3e33596e62e944375fd",
+      "cdnKey": "6219b9cc3d859e763da2214163bf53e3",
+      "definition": "79c5a1e8c3af58ff03548e2c679a5a5c",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:17.000Z",
+      "path": "tpr/cornv",
+      "pipelineId": 376,
+      "productConfig": {"hash": "157859ad60cca2f9650a39291c1d6bfb", "id": 11908},
+      "versionNumber": 26596847,
+      "versionString": "0.0.0.26596847d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "trunk_28447549_zul_3m_bnet_v14_dev", "token": "a1a5c665-bc34-43bc-9a78-7510cdc415bf"},
+      "buildKey": "e3bcc29a067edd47f74e4775d6ba05c9",
+      "cdnKey": "4ab36ce92c7b11a15b0fc34fbf602c55",
+      "definition": "458ac0234f02631bb44f6e44b6a458f8",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:17.000Z",
+      "path": "tpr/cornv",
+      "pipelineId": 376,
+      "productConfig": {"hash": "157859ad60cca2f9650a39291c1d6bfb", "id": 11908},
+      "versionNumber": 28447549,
+      "versionString": "0.0.0.28447549d"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "084aea14e8342085ace15de6e8a53b72",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:33.000Z"
+    }
+  ],
+  "variant": "cornv14"
+}

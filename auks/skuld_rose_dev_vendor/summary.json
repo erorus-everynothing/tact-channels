@@ -1,0 +1,33 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {"name": "Skuld-Rose-Dev-Vendor-dummy", "token": "f19373d6-2e47-42e6-ab3f-b8b932d6ae2d"},
+      "buildKey": "13f63efab2f4ac186ac1e9febf72fa4b",
+      "cdnKey": "1c31736875d57fa99d1b4fdf9598ea4e",
+      "definition": "f3e119615f65efe6c1a7581de81f0d68",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:13:37.000Z",
+      "path": "tpr/auksdev/4",
+      "pipelineId": 235,
+      "productConfig": {"hash": "252a793ce95cf57a97c34fae067a4083", "id": 17692},
+      "versionNumber": 1,
+      "versionString": "1"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu", "us"],
+      "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=6"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "skuld_rose_dev_vendor"
+}

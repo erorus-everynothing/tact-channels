@@ -1,0 +1,38 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {
+        "name": "cert_24679191A_cod25_tu2_enforced_dev_valk_bnet_signed_e1_ship",
+        "token": "7c84ce1a-07b6-408b-a8d0-786b8b500fef"
+      },
+      "buildKey": "3ce8ec9e9588263ec2a39ae9987357b7",
+      "cdnKey": "ca4065ed1641024b0881e97624b16faa",
+      "definition": "ecdb24d2f15b09cf9cc38af7d3eb18f2",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:11:53.000Z",
+      "path": "tpr/aukse",
+      "pipelineId": 273,
+      "productConfig": {"hash": "cd894a3e4bdbbc5217225145778e372f", "id": 13833},
+      "versionNumber": 24679193,
+      "versionString": "2.16.0.24679191e"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["us"],
+      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "aukse"
+}

@@ -1,0 +1,35 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["fenris"],
+      "build": {"name": "73342_Win64Client_3_2_1_fenrisvendor4", "token": "453c34c6-c981-4337-90df-d7b887fa2f2c"},
+      "buildKey": "cc921c56b54482bb083354e3dc5bd99b",
+      "cdnKey": "724b08f5caaa4b713f78c1eb8c9daf7d",
+      "definition": "06885c8bf05380dceb11695e19146764",
+      "keyRing": "",
+      "lastModified": "2026-08-13T20:18:51.000Z",
+      "path": "tpr/fenrisv",
+      "pipelineId": 206,
+      "productConfig": {"hash": "c9104615596e57c338ff17540dc2be96", "id": 8987},
+      "versionNumber": 73342,
+      "versionString": "3.2.1.73342"
+    }
+  ],
+  "infrastructure": false,
+  "product": "fenris",
+  "regions": [
+    {
+      "branches": ["us"],
+      "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:33.000Z"
+    }
+  ],
+  "variant": "fenrisvendor4"
+}

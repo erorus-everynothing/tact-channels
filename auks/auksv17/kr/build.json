@@ -1,0 +1,17 @@
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "release_24703600_cod25_tu3_bnet_v17_ship_esports",
+    "token": "f30b9ab0-718b-443e-97dd-f2843ab66c88"
+  },
+  "buildKey": "a87e0400868532cbf18be556af52ff28",
+  "cdnKey": "039b95117888e15231813da708d1d621",
+  "definition": "0e9475c3e10ec968f07a2e311dba8eab",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:11:57.000Z",
+  "path": "tpr/auksv",
+  "pipelineId": 236,
+  "productConfig": {"hash": "3c3dba95aca8b899d6ca83a3a9620f5a", "id": 13848},
+  "versionNumber": 24703600,
+  "versionString": "1.8.0.24703600se"
+}

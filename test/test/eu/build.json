@@ -1,0 +1,13 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "5414-agent-2.9.5", "token": ""},
+  "buildKey": "d756ed92717bd6c1ceca7c3ba66a9c12",
+  "cdnKey": "14d88c9e06c06a46edbe39922f2f1f7d",
+  "definition": "6c6275ba7a7b633282a30b09fc28cde3",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:13:37.000Z",
+  "path": "bnet/LABS-AGENT-TEST",
+  "pipelineId": 80,
+  "versionNumber": 514,
+  "versionString": "514-2.9.5"
+}

@@ -1,0 +1,17 @@
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "magmarel_11116736_tu_wz322_2_23_dwl_p_cln_v9_dev",
+    "token": "04922c01-1e06-4d28-89b4-730f8de42946"
+  },
+  "buildKey": "26432b4f912e91cd30e8b89be131eca2",
+  "cdnKey": "50aea08ab95f6edefccabaee19987e1f",
+  "definition": "1ce81e4c6a0886e7b61d4e08e07696e6",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:46.000Z",
+  "path": "tpr/odinv",
+  "pipelineId": 192,
+  "productConfig": {"hash": "b502c7eb6e4e9965b29de100dde6bcd3", "id": 3335},
+  "versionNumber": 11116736,
+  "versionString": "1.51.1.11116736p"
+}

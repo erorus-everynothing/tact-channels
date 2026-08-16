@@ -1,0 +1,57 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "us"],
+      "build": {"name": "92373", "token": "1da18939-67f0-4d87-bf1a-b9f872460a30"},
+      "buildKey": "8790e32a98d136a9bfe1e4dd67c203db",
+      "cdnKey": "b37e2b0aa1cea90a7b799aee9ab01836",
+      "definition": "f2438fcd4d1d5a138a8efcc790c63313",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:47.000Z",
+      "path": "tpr/osiv",
+      "pipelineId": 250,
+      "productConfig": {"hash": "3f8008d995b92546602e8d7ea5314cb8", "id": 10721},
+      "versionNumber": 92373,
+      "versionString": "3.2.92373"
+    }
+  ],
+  "infrastructure": false,
+  "product": "diablo2",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "87a06f78212104fe1a98f84f0157ff50",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["kr"],
+      "cdns": "1d6d6caf60482b4053b7231cbbb850fb",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "osiv2"
+}

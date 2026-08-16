@@ -1,0 +1,82 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu"],
+      "build": {
+        "name": "trunk_22371135_cod22_sep_signed_bnet_v21_dev",
+        "token": "48be5308-ae91-4881-a3d2-87cc4e0b86cc"
+      },
+      "buildKey": "8e239016fc92fa42a2ee07b6f86522a9",
+      "cdnKey": "d4f737ffe7a310804696af88e8628fbd",
+      "definition": "d05e4f6470b7abe0f362f81a0fead6ca",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:11:59.000Z",
+      "path": "tpr/auksv",
+      "pipelineId": 236,
+      "productConfig": {"hash": "fa35c1c5eaa6873a920d3e55e513671f", "id": 7142},
+      "versionNumber": 22371135,
+      "versionString": "1.0.0.22371135d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["kr"],
+      "build": {"name": "trunk_22371135_cod22_sep_bnet_v21_dev", "token": "322568b3-7b56-4f72-9ccf-bed2bbe4cfe0"},
+      "buildKey": "4e6dcdb0c9118b2fcf0c7fe160640f10",
+      "cdnKey": "0b8e50f7e9dce000c7bf1b2c1e83bab9",
+      "definition": "49885cc5fae992664fb4d5ed53f56c3b",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:11:59.000Z",
+      "path": "tpr/auksv",
+      "pipelineId": 236,
+      "productConfig": {"hash": "fa35c1c5eaa6873a920d3e55e513671f", "id": 7142},
+      "versionNumber": 22371135,
+      "versionString": "1.0.0.22371135d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {
+        "name": "trunk_22371135_cod22_sep_signed_bnet_v21_ship_rename_fix_bootstrapper",
+        "token": "f8b6bb0d-3089-46f1-9cc3-c6a70b9eb098"
+      },
+      "buildKey": "eef253092e9d6dd5ac13be743cb6ad4f",
+      "cdnKey": "5d4245fca566fd382c7339a1e080cc03",
+      "definition": "aebb972605b7d66c7d3dbb658749dd70",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:11:59.000Z",
+      "path": "tpr/auksv",
+      "pipelineId": 236,
+      "productConfig": {"hash": "83b71c479610c4711f85a3ef40319b6e", "id": 7921},
+      "versionNumber": 22371135,
+      "versionString": "1.0.1.22371135s"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "aa0fa3968e10940e193d53bcd24b53ef",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "7d77b999022b646a1daa9a56779f335e",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "auksv21"
+}

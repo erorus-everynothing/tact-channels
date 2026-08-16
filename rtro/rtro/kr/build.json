@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "RETRO_PC_032221", "token": "a235d01f-3bb2-4266-999b-e71192a3529a"},
+  "buildKey": "d0b4fe08cf5f1dd9f12bd9498ee0d2c7",
+  "cdnKey": "fc74014306cfadef265d2deb0a3ee143",
+  "definition": "142ec15f95dee677b575acf9bb6a9ad8",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:13:24.000Z",
+  "path": "tpr/rtro",
+  "pipelineId": 228,
+  "productConfig": {"hash": "2618f7788a2dbac1e4c3f221b366e5a5", "id": 2644},
+  "versionNumber": 2,
+  "versionString": "1.0.2"
+}

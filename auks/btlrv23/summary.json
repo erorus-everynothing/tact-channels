@@ -1,0 +1,85 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu"],
+      "build": {
+        "name": "trunk_21386002_cer_clean_bnet_v23_dev_esports",
+        "token": "3b1ede2d-3ca7-4d5e-bbe8-37d9dddfba5a"
+      },
+      "buildKey": "aaee4f02083416f02cf3c112150289a4",
+      "cdnKey": "966a1999d1c5da37aa8fad25e4d59390",
+      "definition": "48ac3c1243ca665a96fe9c073270645f",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:09.000Z",
+      "path": "tpr/btlrvb",
+      "pipelineId": 293,
+      "productConfig": {"hash": "de2201f23330156f0ea64f0176eb55ff", "id": 9874},
+      "versionNumber": 21386002,
+      "versionString": "0.0.0.21386002d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["kr"],
+      "build": {
+        "name": "release_20106044_cod24_tu1_bnet_v23_dev_esports",
+        "token": "8d4c7457-de60-4d22-abb9-847696fe2259"
+      },
+      "buildKey": "09cc5ed6d0216de79b5eb91a7dfa5b95",
+      "cdnKey": "7296efc8917c5c6d188f3bd374e86b5e",
+      "definition": "d389bcebc91bc52ad3342b75078b9427",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:09.000Z",
+      "path": "tpr/btlrvb",
+      "pipelineId": 293,
+      "productConfig": {"hash": "dcd80857fc23763d11ba499245d6d2e7", "id": 9112},
+      "versionNumber": 20106044,
+      "versionString": "0.0.0.20106044d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {
+        "name": "release_22939634B_cod24_tu18_live_signed_bnet_v23_ship",
+        "token": "eb977c30-17ce-4a1c-8767-c950e73a0cfb"
+      },
+      "buildKey": "62d48383e1a429c857bc165ede5a951c",
+      "cdnKey": "497f941e7a011b90e907d189ac8d4b13",
+      "definition": "e57570da0f7cefae4daee37fd5281ca1",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:09.000Z",
+      "path": "tpr/btlrvb",
+      "pipelineId": 293,
+      "productConfig": {"hash": "fe899cfd1498ebaec275f3fae7473877", "id": 9804},
+      "versionNumber": 22939634,
+      "versionString": "0.0.2.22939634de"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "aa0fa3968e10940e193d53bcd24b53ef",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "7d77b999022b646a1daa9a56779f335e",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "btlrv23"
+}

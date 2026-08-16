@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "etu_19274610_cod23_tus5_5_1_bnet_v15_dev", "token": "93eaaa7e-0d1d-4540-8847-e26eeea6b2b4"},
+  "buildKey": "84f6c62b4bc67457fdb2921bf6599db5",
+  "cdnKey": "d5c13d82b6826f98f4555f8a456567af",
+  "definition": "6a97b2abcedf0e4ccab13245fd9fcb48",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:35.000Z",
+  "path": "moon/moonv",
+  "pipelineId": 276,
+  "productConfig": {"hash": "794b7752524b66dc654ade0d430f156d", "id": 9313},
+  "versionNumber": 19274610,
+  "versionString": "0.0.1.19274610d"
+}

@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "68700_Win64Client_diablo_play", "token": "029ab27d-ba73-43e8-adff-7844c7334037"},
+  "buildKey": "552e83cd6a9777fffcfdbc207ace6e7f",
+  "cdnKey": "f5cdf209e95f05c93bb0262d94e2e9c3",
+  "definition": "500b46df2a49418945e9a2a423be3c07",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:21.000Z",
+  "path": "tpr/fenrisvc",
+  "pipelineId": 318,
+  "productConfig": {"hash": "ab2d127fb14973db97d66e5e30f3eef4", "id": 13187},
+  "versionNumber": 68700,
+  "versionString": "Diablo_Play"
+}

@@ -1,0 +1,46 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "driver_09_07_23120651_valkyrie_dev_dev2", "token": "0c539b98-6cd8-48a4-bfc9-2236c4002833"},
+      "buildKey": "f37376709f33c97c809ef574b8f9deb8",
+      "cdnKey": "889f1b6e22db021d5f86dfa12ff70635",
+      "definition": "85d9e9f0812612828ca38be34deeb94d",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:13:06.000Z",
+      "path": "tpr/btlrvb",
+      "pipelineId": 293,
+      "productConfig": {"hash": "fbde9a92c9cfecd53f8805a8984c9e84", "id": 9079},
+      "versionNumber": 23120651,
+      "versionString": "0.0.1.23120651d"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "aa0fa3968e10940e193d53bcd24b53ef",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "7d77b999022b646a1daa9a56779f335e",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "randgridbtlrbqa2"
+}

@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "10498752_10511260_bv1_dev", "token": "5698d48a-5f2d-4557-9a49-8002a5890214"},
+  "buildKey": "d4f2660fa3d190cd048508c38bd071f6",
+  "cdnKey": "657bb876d7993aca85df2bea63e04371",
+  "definition": "8eb7666b245d8637a2e8f0aaffc1e9b1",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:43.000Z",
+  "path": "tpr/odinv",
+  "pipelineId": 192,
+  "productConfig": {"hash": "a317aada430a97650082020b427f2078", "id": 3059},
+  "versionNumber": 10511260,
+  "versionString": "1.46.0.10511260d"
+}

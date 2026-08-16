@@ -1,0 +1,67 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu"],
+      "build": {
+        "name": "trunk_27082969_cod22_sep_tu3_signed_bnet_v2_dev_r2",
+        "token": "04fe6db0-aaf1-481c-a8f6-79924bfde8b2"
+      },
+      "buildKey": "61a85ac5c17eaf0b653757b45fc67ba2",
+      "cdnKey": "931059c07d8fb3b642a9487e5a1ca93a",
+      "definition": "541a7b381528b6e7f58c5c2cda82803a",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:41.000Z",
+      "path": "tpr/ninav",
+      "pipelineId": 372,
+      "productConfig": {"hash": "e7da894fe53386a7f9638cf4259647e7", "id": 10782},
+      "versionNumber": 27082969,
+      "versionString": "0.0.1.27082969d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {
+        "name": "trunk_27082969_cod22_sep_tu3_signed_bnet_v2_ship_r2",
+        "token": "677b6db7-a5a9-462a-bc0c-746794e79a8e"
+      },
+      "buildKey": "b0a5dab2fce21aa6678c04d859498821",
+      "cdnKey": "3696cc56ef52aeccaf4d237e63875403",
+      "definition": "b004c315c3f57c0d5d0ae2fa5195a92e",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:41.000Z",
+      "path": "tpr/ninav",
+      "pipelineId": 372,
+      "productConfig": {"hash": "50f694384cf8767f6e30b3dfb36a7878", "id": 10792},
+      "versionNumber": 27082969,
+      "versionString": "0.0.1.27082969s"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "084aea14e8342085ace15de6e8a53b72",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:33.000Z"
+    }
+  ],
+  "variant": "ninav2"
+}

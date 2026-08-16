@@ -1,0 +1,13 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "2988_s1t", "token": ""},
+  "buildKey": "56151d7573f4d7eeb0a58cef103698a7",
+  "cdnKey": "f42ddff9b7520181c22e09354344649a",
+  "definition": "07fb38c88d1a48ae88dbedf26f5f171a",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:15.000Z",
+  "path": "tpr/bnt004",
+  "pipelineId": 135,
+  "versionNumber": 2988,
+  "versionString": "1.16.3.2988"
+}

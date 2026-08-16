@@ -1,0 +1,17 @@
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "release_23316564A_cod24_tu19_signed_bnet_v6_ship",
+    "token": "011d8d3d-8e82-495e-be7c-6eff9d0c9352"
+  },
+  "buildKey": "838c0a9b146de9c84d3117ba99902654",
+  "cdnKey": "f44f53e76d8268a962e8cf1d4d7cf8eb",
+  "definition": "0aa4ec3d65200e53638bdd6e7bbaa230",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:01.000Z",
+  "path": "tpr/auksv",
+  "pipelineId": 236,
+  "productConfig": {"hash": "7280cadf44bb036fc74a46a3c55c65b3", "id": 13195},
+  "versionNumber": 23316564,
+  "versionString": "2.14.1.23316564s"
+}

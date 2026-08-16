@@ -1,0 +1,22 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["cn", "eu", "kr", "tw", "us"],
+      "build": {"name": "1.19.0.2407-alpha", "token": ""},
+      "buildKey": "e32f46c7245bfc154e43924555a5cf9f",
+      "cdnKey": "99b9f94b0ca94fdf7dd67cc2c3a17efa",
+      "definition": "9d5d0ac0a3b558ea9d5fb47061b66a7e",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:13:25.000Z",
+      "path": "tpr/sc1a",
+      "pipelineId": 117,
+      "versionNumber": 2407,
+      "versionString": "1.19.0.2407"
+    }
+  ],
+  "infrastructure": false,
+  "product": "sc1",
+  "regions": [],
+  "variant": "s1a"
+}

@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "69713_Win64Client_2_5_0_dev", "token": "9ade3f67-7d29-477d-9fa1-6a76b7ebbeda"},
+  "buildKey": "5a2cdf055ea543f336a949352a3781c2",
+  "cdnKey": "d1e9f1f284703a5f00d0bc1748d8ced7",
+  "definition": "35fd6367948d1daa5bea7a48f9bac290",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:21.000Z",
+  "path": "tpr/fenrisvc",
+  "pipelineId": 318,
+  "productConfig": {"hash": "ab8574ae444e658705fd180dfa18ef6c", "id": 13186},
+  "versionNumber": 69713,
+  "versionString": "Vendor8.69713"
+}

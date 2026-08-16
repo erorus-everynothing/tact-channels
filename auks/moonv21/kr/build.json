@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "trunk_23100191_cod23_sep_tu1_bnet_v21_dev", "token": "8761464a-622a-4562-889a-fdaa33328d9d"},
+  "buildKey": "2294067e6957d6c7ead50067aa26d87c",
+  "cdnKey": "bc2ef08e72bb8e7006a4ab4331304edb",
+  "definition": "925216e260de09bb4d38e2c5b23dd7f0",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:37.000Z",
+  "path": "moon/moonvb",
+  "pipelineId": 290,
+  "productConfig": {"hash": "f290fd757a7eb23809039171fc824358", "id": 11374},
+  "versionNumber": 23100191,
+  "versionString": "0.0.0.23100191d"
+}

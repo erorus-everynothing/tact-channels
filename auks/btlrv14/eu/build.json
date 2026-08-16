@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "main_23859064_cer_clean_bnet_v14_dev", "token": "0430ac2f-44a8-4a23-a140-28d23882ac47"},
+  "buildKey": "7a11ba96fb5b151785502e0a4860adcd",
+  "cdnKey": "fd8b31462fb05970f06bee61b85e7907",
+  "definition": "9faef3a8c27ecd9e3aceb04fde5a09a3",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:06.000Z",
+  "path": "tpr/btlrv",
+  "pipelineId": 292,
+  "productConfig": {"hash": "cfcc2f25a802a541779e79954735b38e", "id": 9688},
+  "versionNumber": 23859064,
+  "versionString": "0.0.0.23859064d"
+}

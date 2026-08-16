@@ -1,0 +1,56 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {"name": "war1_1.22", "token": "76b09cc9-80fd-4642-be41-6322c7fe32b5"},
+      "buildKey": "2c6d1eafebd07cfa43bca7e10b499c26",
+      "cdnKey": "c3990e577fa7305c897435c888f057b9",
+      "definition": "e57342a656f58eeb64c6ed71b2650da8",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:13:39.000Z",
+      "path": "tpr/war1",
+      "pipelineId": 311,
+      "productConfig": {"hash": "8f0be597d219e4b434ca1724551517c5", "id": 8093},
+      "versionNumber": 122,
+      "versionString": "1.22"
+    }
+  ],
+  "infrastructure": false,
+  "product": "war1",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "5df668e69943abffe1cb7348d03856a4",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=3"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=3"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=3&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    },
+    {
+      "branches": ["kr"],
+      "cdns": "5a76d7e11ce9b74f1ec2083a2a3fb668",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=3"},
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=3"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=3&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "935e71ab8ad5742d217fa6bad6525e4f",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=3"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=3"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=3&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    }
+  ],
+  "variant": "war1"
+}

@@ -1,0 +1,46 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "driver_24_06_22966757_valkyrie_dev2_dev2", "token": "624ba044-424c-401f-8b11-b671e310d9c1"},
+      "buildKey": "2093e4bd8e4e53fbb54dc7f7666db3fc",
+      "cdnKey": "794f77863c177a02854966ec05219cff",
+      "definition": "30ce0443cbefe72b9e50c1886c691bdf",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:13:09.000Z",
+      "path": "tpr/cornvb",
+      "pipelineId": 377,
+      "productConfig": {"hash": "0396ae0b5dab461cd3fccfa21f183d35", "id": 11900},
+      "versionNumber": 22966757,
+      "versionString": "0.0.1.22966757d"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "084aea14e8342085ace15de6e8a53b72",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:33.000Z"
+    }
+  ],
+  "variant": "randgridcornbqa2"
+}

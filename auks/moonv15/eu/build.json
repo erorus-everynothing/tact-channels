@@ -1,0 +1,17 @@
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "release_19293176_cod23_cer_beta_slim_bnet_v15_dev",
+    "token": "5ad7cff7-adc3-44da-9481-ab1ced75baf0"
+  },
+  "buildKey": "036e5bfe9807e74ab1ba4cb761a5695e",
+  "cdnKey": "8eecb2fb0440d2e5d70b321e95c5609c",
+  "definition": "2eb39cf3ad8c2a0c5550c2c6693e93b8",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:35.000Z",
+  "path": "moon/moonv",
+  "pipelineId": 276,
+  "productConfig": {"hash": "794b7752524b66dc654ade0d430f156d", "id": 9313},
+  "versionNumber": 19293176,
+  "versionString": "0.0.0.19293176d"
+}

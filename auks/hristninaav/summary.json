@@ -1,0 +1,49 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {
+        "name": "driver_11_07_23137177_cod22_valkyrie_ship_ship",
+        "token": "bda54447-255e-4b8a-80c0-bc3e9adc52ee"
+      },
+      "buildKey": "c9c3e37e97efc6ec4e5b8f030968980a",
+      "cdnKey": "b46352e798cf00bd70b5a98bbad0ab2d",
+      "definition": "c9dc3823f156bd3ed87934339a465307",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:30.000Z",
+      "path": "tpr/ninav",
+      "pipelineId": 372,
+      "productConfig": {"hash": "c52e472ef6ee5f9d24776878111964e9", "id": 10772},
+      "versionNumber": 23124338,
+      "versionString": "0.0.0.23124338s"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "084aea14e8342085ace15de6e8a53b72",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:33.000Z"
+    }
+  ],
+  "variant": "hristninaav"
+}

@@ -1,0 +1,13 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "2988_hst", "token": ""},
+  "buildKey": "e2d79ee161d3999590503e47bac9af68",
+  "cdnKey": "f42ddff9b7520181c22e09354344649a",
+  "definition": "540ef6a49156a2b041b61e05fd999710",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:14.000Z",
+  "path": "tpr/bnt004",
+  "pipelineId": 135,
+  "versionNumber": 2988,
+  "versionString": "1.16.3.2988"
+}

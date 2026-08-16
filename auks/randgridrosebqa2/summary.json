@@ -1,0 +1,49 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {
+        "name": "release_driver_06_08_2026_28347379_valkyrie_valkyrie_dev_dev2",
+        "token": "c0fb4858-d59f-4f1f-b419-8b53ec1ac4a2"
+      },
+      "buildKey": "10c4ed312e1091b46ea047380e11b032",
+      "cdnKey": "2d694a375c2207ecfc9da06c2d16be8b",
+      "definition": "0ff1c9d1219946fc13a202ca5fb63462",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:13:13.000Z",
+      "path": "tpr/rosevb",
+      "pipelineId": 356,
+      "productConfig": {"hash": "c1cb537cd5d1257e2a86688ab0582ba4", "id": 12794},
+      "versionNumber": 28347379,
+      "versionString": "0.0.1.28347379d"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "084aea14e8342085ace15de6e8a53b72",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:33.000Z"
+    }
+  ],
+  "variant": "randgridrosebqa2"
+}

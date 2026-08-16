@@ -1,0 +1,13 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "5085832a-Tiger", "token": ""},
+  "buildKey": "71523314c1f04b04a06e021f3488c240",
+  "cdnKey": "e77ececa720be64e40169ab14ae3bb7c",
+  "definition": "744d610438b00bad915116af7e441e84",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:19.000Z",
+  "path": "tpr/dst2dev",
+  "pipelineId": 136,
+  "versionNumber": 5085832,
+  "versionString": "5085832a-Event"
+}

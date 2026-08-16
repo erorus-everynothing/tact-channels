@@ -1,9 +1,9 @@
 {
   "path": "blue/",
   "public": {
-    "channel": "1800bec50f71b8de6133a6ec79521d04"
+    "channel": "294ad02497943ae851e0f0ca18a773bb"
   },
-  "lastModified": "2026-08-16T19:42:27.000Z",
+  "lastModified": "2026-08-13T21:00:24.000Z",
   "products": {
     "agent": [
       "agent",
@@ -174,7 +174,6 @@
       "randgridaukscdls",
       "randgridaukscdlv",
       "randgridaukse",
-      "randgridaukslivedev",
       "randgridauksqa",
       "randgridauksqa2",
       "randgridauksrc",

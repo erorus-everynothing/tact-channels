@@ -1,0 +1,13 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "3141_wlby", "token": "3ef11673-5ea6-4ced-8ec0-3165ce0d48df"},
+  "buildKey": "aae549f2b933718d59ed51a3fa40e1c1",
+  "cdnKey": "51c1043fe59a06d56711ef633181505f",
+  "definition": "0d06e143a86c6a03f6384376382cda1f",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:15.000Z",
+  "path": "tpr/bnt004",
+  "pipelineId": 135,
+  "versionNumber": 3141,
+  "versionString": "1.18.10.3141"
+}

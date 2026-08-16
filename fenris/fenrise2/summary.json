@@ -1,0 +1,46 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "73034_Win64Client_3_2_0jakarta_event", "token": "e9b6cbc3-b748-40bd-a804-4787c86ba140"},
+      "buildKey": "dd8143c725f0444dd56480865f47bc01",
+      "cdnKey": "073f6493493e6d3aa6712fd8db0a85c3",
+      "definition": "6d388182ab2fa8546af0ce6c4861f0c2",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:20.000Z",
+      "path": "tpr/fenrisevent2/4",
+      "pipelineId": 393,
+      "productConfig": {"hash": "0a9d0e0eee67845f74f33bd41ec8fa98", "id": 17694},
+      "versionNumber": 73034,
+      "versionString": "3.2.0.73034"
+    }
+  ],
+  "infrastructure": false,
+  "product": "fenris",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "e5b42b20b4783163029cfc2b77023420",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=3&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:36.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "76da754e497b62f050afcf67d9067082",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=3&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:36.000Z"
+    }
+  ],
+  "variant": "fenrise2"
+}

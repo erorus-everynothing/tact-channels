@@ -1,0 +1,58 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "1.0.1.2343-live-dev", "token": "521c8149-da68-40f4-97b3-2eaddffe1f31"},
+      "buildKey": "5125497df859e45eb0125f5544854898",
+      "cdnKey": "85d334a4133da0b0684992d9a5a06888",
+      "definition": "549200a9be1e08d69fc4e1a96e0b7b64",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:13:38.000Z",
+      "path": "tpr/w2r-live-dev",
+      "pipelineId": 323,
+      "productConfig": {"hash": "25a63b003070197f83bf54d2c82a9429", "id": 9921},
+      "versionNumber": 2343,
+      "versionString": "1.0.1.2343"
+    }
+  ],
+  "infrastructure": false,
+  "product": "w2r",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "5df668e69943abffe1cb7348d03856a4",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=3"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=3"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=3&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    },
+    {
+      "branches": ["kr"],
+      "cdns": "7d2738eb21c4f9988e16484abd3f6ea2",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=3"},
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=3"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=3&fallback=1"},
+        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=3"},
+        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=3&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:36.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "935e71ab8ad5742d217fa6bad6525e4f",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=3"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=3"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=3&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    }
+  ],
+  "variant": "w2rd"
+}

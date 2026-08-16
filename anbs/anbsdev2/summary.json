@@ -1,0 +1,35 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "us"],
+      "build": {"name": "3487566_430_staging_tact_row", "token": "63a8b4dd-7022-4f57-9b7b-a46b06f3285c"},
+      "buildKey": "23537bb647bd8b56e6bf5be76bc86409",
+      "cdnKey": "fdae2297956fa9099b4af20c6602b8b5",
+      "definition": "72b1e0d7b3fbc4d85bf69d0209603371",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:11:49.000Z",
+      "path": "tpr/anbsdev",
+      "pipelineId": 262,
+      "productConfig": {"hash": "02733796cf0f10f5475975b830a8528c", "id": 10591},
+      "versionNumber": 3487566,
+      "versionString": "4.3.0.3487566"
+    }
+  ],
+  "infrastructure": false,
+  "product": "anbs",
+  "regions": [
+    {
+      "branches": ["eu", "us"],
+      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "anbsdev2"
+}

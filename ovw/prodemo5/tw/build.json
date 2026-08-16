@@ -1,0 +1,13 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "prometheus-2_24_0_0-152308-RC-prodemo5", "token": "e768ea14-e6e3-4864-a311-11fa9793fc41"},
+  "buildKey": "14a892405c0d701cd02e19b190129253",
+  "cdnKey": "ad8dad7186e4565af2de30a5f05b7a21",
+  "definition": "c418375c64a75dbef7e69a5466f963b7",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:53.000Z",
+  "path": "tpr/proe/2",
+  "pipelineId": 300,
+  "versionNumber": 152308,
+  "versionString": "2.24.0.0.152308"
+}

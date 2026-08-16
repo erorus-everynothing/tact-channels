@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "1.0.1.2343-live-dev", "token": "521c8149-da68-40f4-97b3-2eaddffe1f31"},
+  "buildKey": "5125497df859e45eb0125f5544854898",
+  "cdnKey": "85d334a4133da0b0684992d9a5a06888",
+  "definition": "549200a9be1e08d69fc4e1a96e0b7b64",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:13:38.000Z",
+  "path": "tpr/w2r-live-dev",
+  "pipelineId": 323,
+  "productConfig": {"hash": "25a63b003070197f83bf54d2c82a9429", "id": 9921},
+  "versionNumber": 2343,
+  "versionString": "1.0.1.2343"
+}

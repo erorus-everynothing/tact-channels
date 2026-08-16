@@ -1,0 +1,17 @@
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "driver_24_06_22966757_valkyrie_ship_ship_esports",
+    "token": "67f7ca4a-7a94-42e5-a761-2e1a370c0d66"
+  },
+  "buildKey": "2cdfcbbda686c297660e60bf4822a251",
+  "cdnKey": "794f77863c177a02854966ec05219cff",
+  "definition": "b5da8961ce44c2bfb1a0ec5c5168a112",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:13:08.000Z",
+  "path": "tpr/cornvb",
+  "pipelineId": 377,
+  "productConfig": {"hash": "f5c03bacb01186ee2f12e9cfb5d07c32", "id": 11898},
+  "versionNumber": 22966757,
+  "versionString": "0.0.1.22966757se"
+}

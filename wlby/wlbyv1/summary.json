@@ -1,0 +1,46 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {"name": "P1e_04_06_2021_v1", "token": "a74b4640-b23f-4edc-8e4a-ccd13ff436cf"},
+      "buildKey": "a7b28713fcbb723e266216ff2894f62d",
+      "cdnKey": "9cd399c5a611488f16c80ade750efafa",
+      "definition": "63d38151073bbcb021a0d3d89ffbe810",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:13:39.000Z",
+      "path": "tpr/wallabyv",
+      "pipelineId": 248,
+      "productConfig": {"hash": "d99e9b1e8afd797206399845ac859c82", "id": 2747},
+      "versionNumber": 4062021,
+      "versionString": "1.1.04062021"
+    }
+  ],
+  "infrastructure": false,
+  "product": "wlby",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "87a06f78212104fe1a98f84f0157ff50",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "wlbyv1"
+}

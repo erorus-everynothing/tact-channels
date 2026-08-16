@@ -1,0 +1,46 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "us"],
+      "build": {"name": "ArkansasArtBook_3163328", "token": "ef06af94-4cb9-4205-93e8-f1475d3a3057"},
+      "buildKey": "3a64c2196f8ca470ed198b3ba9b76dbb",
+      "cdnKey": "4bcd141c98626e172cb3de6de5c11d0b",
+      "definition": "4260ee4c99279eb4645a6aba516aa9c8",
+      "keyRing": "4ed811de51a4cd6d48178e8f42f20cfb",
+      "lastModified": "2026-08-13T16:11:52.000Z",
+      "path": "tpr/arkrc",
+      "pipelineId": 384,
+      "productConfig": {"hash": "96179cd3d8899f6888a47cd8c37cc0b1", "id": 13669},
+      "versionNumber": 2189902,
+      "versionString": "74"
+    }
+  ],
+  "infrastructure": false,
+  "product": "ark",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "87a06f78212104fe1a98f84f0157ff50",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "ark-artbook-rc"
+}

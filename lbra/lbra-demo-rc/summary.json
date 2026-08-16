@@ -1,0 +1,46 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {"name": "ChicagoDemo_BNet_Ship_65876", "token": "310de860-bcb0-4294-83b0-b543ed53545e"},
+      "buildKey": "b19e3da2e1bbc0d7288831bb7ea5cc0a",
+      "cdnKey": "83a064e02d69874114c596b59fff5a87",
+      "definition": "2d0613b299b737c0af26cbd6e4e48dbf",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:33.000Z",
+      "path": "tpr/lbrarc",
+      "pipelineId": 367,
+      "productConfig": {"hash": "051e8bb0c1c5c40489a16e958b911b2b", "id": 10834},
+      "versionNumber": 65876,
+      "versionString": "Chicago Demo 1.0.65876"
+    }
+  ],
+  "infrastructure": false,
+  "product": "lbra",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "287b8918c145665428c6f714cdc6e3bd",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    }
+  ],
+  "variant": "lbra-demo-rc"
+}

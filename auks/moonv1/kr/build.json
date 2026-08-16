@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "etu_16850993_cod23_tus1etu2_v1_ship", "token": "c2ff1d7a-fdf9-4dd6-b1fe-183ad20bfef6"},
+  "buildKey": "19f3f429f39165fb897b02ee8794127d",
+  "cdnKey": "c9bf883f00916ae947e5c47f27659a00",
+  "definition": "00fb27fe6fb703b621ef633d873066cb",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:33.000Z",
+  "path": "moon/moonv",
+  "pipelineId": 276,
+  "productConfig": {"hash": "4b98253a7e067a88b05de54679ddc4a4", "id": 7931},
+  "versionNumber": 16850993,
+  "versionString": "0.3.0.16850993d"
+}

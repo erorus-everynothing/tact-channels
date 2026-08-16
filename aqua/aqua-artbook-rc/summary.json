@@ -1,0 +1,46 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {"name": "AlabamaArtBook_2338184", "token": "921294f3-c9e3-4969-8b8d-d0d276c85ffd"},
+      "buildKey": "09778c8ea67dbf75feb7354c96cf121a",
+      "cdnKey": "13c5c9ea6b49f78e57c48ee8f4633842",
+      "definition": "d5cf5871563ae1f993d49aa7e7916864",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:11:50.000Z",
+      "path": "tpr/aquarc",
+      "pipelineId": 343,
+      "productConfig": {"hash": "b78c8279c606092a9d319579889787b6", "id": 10081},
+      "versionNumber": 1636040,
+      "versionString": "107"
+    }
+  ],
+  "infrastructure": false,
+  "product": "aqua",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "287b8918c145665428c6f714cdc6e3bd",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    }
+  ],
+  "variant": "aqua-artbook-rc"
+}

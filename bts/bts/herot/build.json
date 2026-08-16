@@ -1,0 +1,13 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "2988_herot", "token": ""},
+  "buildKey": "5921030b832e5f0cebaaf98fe155f125",
+  "cdnKey": "f42ddff9b7520181c22e09354344649a",
+  "definition": "047556f698537adaea0f9376519199ee",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:14.000Z",
+  "path": "tpr/bnt004",
+  "pipelineId": 135,
+  "versionNumber": 2988,
+  "versionString": "1.16.3.2988"
+}

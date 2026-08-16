@@ -1,0 +1,17 @@
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "release_driver_06_08_2026_28347379_valkyrie_valkyrie_ship_ship",
+    "token": "4da01307-fe59-4110-ad72-331bdff433cc"
+  },
+  "buildKey": "3cc3406e61456850a23eba2da86306b8",
+  "cdnKey": "2c974850fccc4cd79d6e9638a4cefaa0",
+  "definition": "a033342426fc5c9977042a6c12bc17d8",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:13:16.000Z",
+  "path": "tpr/sagevb",
+  "pipelineId": 357,
+  "productConfig": {"hash": "2811b1aeffd8f8ab879f168299a4537f", "id": 10448},
+  "versionNumber": 28347379,
+  "versionString": "0.0.1.28347379s"
+}

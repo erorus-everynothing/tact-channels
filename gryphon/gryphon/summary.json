@@ -1,0 +1,62 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {
+        "name": "16.0.0.119301.dp-april-fix.bd27a35544.Filtered",
+        "token": "0625a9e4-9f5b-ecc6-d619-1cd9a8b36c35"
+      },
+      "buildKey": "90fad5d92a51b52debf37d4833ba2143",
+      "cdnKey": "ca67dd5d41fa4da127b8b6a2530dd2d7",
+      "definition": "13dd1912734ca7b6892f3c6aaa541114",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:28.000Z",
+      "path": "tpr/gryphon",
+      "pipelineId": 298,
+      "productConfig": {"hash": "f6a454799d25791e5a37a7547d75ce49", "id": 9956},
+      "versionNumber": 119301,
+      "versionString": "16.0.0.119301"
+    }
+  ],
+  "infrastructure": false,
+  "product": "gryphon",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "287b8918c145665428c6f714cdc6e3bd",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["kr"],
+      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
+        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    }
+  ],
+  "variant": "gryphon"
+}

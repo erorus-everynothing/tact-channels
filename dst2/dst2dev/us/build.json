@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "6005768-Tiger", "token": ""},
+  "buildKey": "29c661ae76a29d737ab6962018e884d5",
+  "cdnKey": "4dd23b6973b5b93a43d9ee7b58ac6ffc",
+  "definition": "14ae3bcbf9043f5671d821bacf9472f6",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:19.000Z",
+  "path": "tpr/dst2dev",
+  "pipelineId": 136,
+  "productConfig": {"hash": "e5419b4ee1a0cace0339b2875ca915cb", "id": 569},
+  "versionNumber": 6005768,
+  "versionString": "6005768-Takehome"
+}

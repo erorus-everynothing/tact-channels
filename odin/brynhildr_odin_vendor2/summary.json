@@ -1,0 +1,46 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "magma_22330203_vk_valkyrie_brynhildr_v_ship", "token": "43145b2e-3d92-426f-84e8-8022f550f1e4"},
+      "buildKey": "5254b0c506b921107a465299985d3fbd",
+      "cdnKey": "ebd591c92c40c46aefdf3cefa52076ea",
+      "definition": "e5555d5cf77d6e0cb5dd45430be05120",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:04.000Z",
+      "path": "tpr/odinv",
+      "pipelineId": 192,
+      "productConfig": {"hash": "8dfafa97458f142f13428a1e13c46301", "id": 4231},
+      "versionNumber": 22330203,
+      "versionString": "1.0.0.22330203s"
+    }
+  ],
+  "infrastructure": false,
+  "product": "odin",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "96a32bfd4f71c803c165e14e74b47aa9",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=10"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=10"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=10&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "20549aa6a072ba2469e628653d82b20e",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=10"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=10"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=10&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "brynhildr_odin_vendor2"
+}

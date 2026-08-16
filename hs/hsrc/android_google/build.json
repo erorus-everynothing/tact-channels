@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "207856_30.4.3", "token": "cf6db301-b40c-28f7-a567-aa68f5e9e076"},
+  "buildKey": "c8c690f655513b037c0e8881075539c1",
+  "cdnKey": "9b0ed3003100561ded48ecf89ecb7337",
+  "definition": "cbca28becd820d21b300a77ae66d5681",
+  "keyRing": "",
+  "lastModified": "2026-08-13T16:12:31.000Z",
+  "path": "tpr/hslrc",
+  "pipelineId": 315,
+  "productConfig": {"hash": "c419af0eae899276a6bf19a1cefd5d6d", "id": 9263},
+  "versionNumber": 207856,
+  "versionString": "30.4.3.207856"
+}

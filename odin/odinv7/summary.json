@@ -1,0 +1,82 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu"],
+      "build": {
+        "name": "live_18290054_TU_WZSUNSET_1_8_C_v7_signed_dev",
+        "token": "14679c6b-b0e6-494e-84f2-ec808d6192ff"
+      },
+      "buildKey": "9474ca369786cd20c136d28c1ce0c52d",
+      "cdnKey": "bb1c6d80efb0640a9ad0f99a6203ec84",
+      "definition": "1eaecd1edd70977c2fea8a24fac80842",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:45.000Z",
+      "path": "tpr/odinv",
+      "pipelineId": 192,
+      "productConfig": {"hash": "79b6ae6f0e893841125e5d7a92d960bb", "id": 5585},
+      "versionNumber": 18290054,
+      "versionString": "1.67.3.18290054d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["kr"],
+      "build": {"name": "magmarel_13142214_tu_wz360_11_4_dwl_bv7_dev", "token": "1054a46a-7c38-4b8b-8918-d3c2914432bd"},
+      "buildKey": "b9ac920a12a8ea8595001835fe3fb45a",
+      "cdnKey": "5a7e9663ead2f2133b025dc507849e97",
+      "definition": "a48f54f1dbeec33b920467ee876bfc45",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:45.000Z",
+      "path": "tpr/odinv",
+      "pipelineId": 192,
+      "productConfig": {"hash": "14bf6174c7ff302b26b37c253177a54d", "id": 5551},
+      "versionNumber": 13142214,
+      "versionString": "1.72.0.13142214d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {
+        "name": "live_18290054_TU_WZSUNSET_1_8_C_v7_signed_ship",
+        "token": "619f3806-5874-4295-b40b-07fd4b2bce1c"
+      },
+      "buildKey": "69c4912d9fad2b84e096140c1639723c",
+      "cdnKey": "217a3a6489095265fbcbd0f31031b3a5",
+      "definition": "4726f3a49d7812a26c292b22128a5828",
+      "keyRing": "",
+      "lastModified": "2026-08-13T16:12:45.000Z",
+      "path": "tpr/odinv",
+      "pipelineId": 192,
+      "productConfig": {"hash": "a05788bef39c4ccf2aa80b94ccb0bf0d", "id": 5599},
+      "versionNumber": 18290054,
+      "versionString": "1.67.3.18290054rc"
+    }
+  ],
+  "infrastructure": false,
+  "product": "odin",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "96a32bfd4f71c803c165e14e74b47aa9",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=10"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=10"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=10&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "20549aa6a072ba2469e628653d82b20e",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=10"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=10"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=10&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "odinv7"
+}

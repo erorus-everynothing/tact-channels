@@ -3,11 +3,12 @@
   "build": {"name": "2988_owdev", "token": ""},
   "buildKey": "be5e7110f25d9245ab2c65e2cd6a6fe4",
   "cdnKey": "f42ddff9b7520181c22e09354344649a",
-  "definition": "78b61095de6fe40afc40e73e94631f28",
+  "definition": "db8855d40d7cf78c281283ec0a13a9b8",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:15.000Z",
+  "lastModified": "2026-08-13T22:44:54.000Z",
   "path": "tpr/bnt004",
   "pipelineId": 135,
+  "productConfig": {"hash": "e8a9e3b2b36cc844d7a26a18fce57792", "id": 974},
   "versionNumber": 2988,
   "versionString": "1.16.3.2988"
 }

@@ -35,7 +35,7 @@
     }
   ],
   "infrastructure": false,
-  "preloads": [{"branches": ["eu", "kr"], "definition": "145de6caaabede5bc2ef8ebaee5a5d6a"}],
+  "preloads": [{"branches": ["eu", "kr"], "definition": "5c211ce6b1fabaa13bf3ea5d225bd54c"}],
   "product": "odin",
   "regions": [
     {

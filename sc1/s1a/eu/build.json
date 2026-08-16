@@ -3,11 +3,12 @@
   "build": {"name": "1.19.0.2407-alpha", "token": ""},
   "buildKey": "e32f46c7245bfc154e43924555a5cf9f",
   "cdnKey": "99b9f94b0ca94fdf7dd67cc2c3a17efa",
-  "definition": "9d5d0ac0a3b558ea9d5fb47061b66a7e",
+  "definition": "0f48fe33772228ac28b2bf6cb5f40c17",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:13:25.000Z",
+  "lastModified": "2026-08-13T22:44:57.000Z",
   "path": "tpr/sc1a",
   "pipelineId": 117,
+  "productConfig": {"hash": "541a6a9cd64d0be35f98f5dabab9a6e3", "id": 1146},
   "versionNumber": 2407,
   "versionString": "1.19.0.2407"
 }

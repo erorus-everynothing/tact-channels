@@ -3,11 +3,12 @@
   "build": {"name": "2988_d3b", "token": ""},
   "buildKey": "271aad7b2e9ab9bd90470fa33eb19da0",
   "cdnKey": "5e560f6cc3cf9bbadea50c71db80ed71",
-  "definition": "e674910b57f42bcc5266124435f02a56",
+  "definition": "40b621e46636bac1a5915dea50b2f54c",
   "keyRing": "",
-  "lastModified": "2026-08-13T16:12:14.000Z",
+  "lastModified": "2026-08-13T22:44:53.000Z",
   "path": "tpr/bnt004",
   "pipelineId": 135,
+  "productConfig": {"hash": "e8a9e3b2b36cc844d7a26a18fce57792", "id": 974},
   "versionNumber": 2988,
   "versionString": "1.16.3.2988"
 }

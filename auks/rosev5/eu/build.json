@@ -1,17 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {
-    "name": "cert_28338667A_cod26_beta_tu1_signed_bnet_v5_dev",
-    "token": "04b91f45-0dae-4dd9-874a-dba0316a8331"
-  },
-  "buildKey": "92853e57f4a4befb2c58e12ac151f650",
-  "cdnKey": "fd526f8cd35dcf3c5d5aebac2238be3a",
-  "definition": "d37236a0d53c3551fdcc180c08e53be1",
+  "build": {"name": "sp_release_28465900_cod26_ur_ur_dmz_bnet_v5_dev", "token": "0ae09d57-20b4-4ad2-8019-669f91a3b49d"},
+  "buildKey": "9286753b14ff0f1abcff52fa9490c2e3",
+  "cdnKey": "f093b65df441f0fa8aa5f73e75f6b8a6",
+  "definition": "f22e80099abb53cfd10f4d512c132e35",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:12:23.000Z",
+  "lastModified": "2026-08-15T15:33:25.000Z",
   "path": "tpr/rosev",
   "pipelineId": 302,
   "productConfig": {"cdnPath": "", "hash": "39e0c0942d49444dd50ac2f6aed878c3"},
-  "versionNumber": 28338667,
-  "versionString": "0.0.0.28338667Ad"
+  "versionNumber": 28465900,
+  "versionString": "0.0.0.28465900Ad"
 }

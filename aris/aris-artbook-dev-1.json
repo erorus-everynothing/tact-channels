@@ -1,0 +1,46 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {"name": "styx-1.0.14.0-1", "token": "2cc2ec03-3c1f-494b-b46d-a7a6597fd892"},
+      "buildKey": "876f1c37d43dca52d5d0d9b50d802556",
+      "cdnKey": "9b6c4ac363064fa55cd79e47a8c1bb00",
+      "definition": "ea8812975313046ee1d5c74d690c5343",
+      "keyRing": "41ba576c076f47f24525715fbb125346",
+      "lastModified": "2026-08-14T22:11:05.000Z",
+      "path": "tpr/arisdev",
+      "pipelineId": 350,
+      "productConfig": {"cdnPath": "", "hash": "7873ff44588d83953a127b0a4ca33a3d"},
+      "versionNumber": 2,
+      "versionString": "1.0.14.0"
+    }
+  ],
+  "infrastructure": false,
+  "product": "aris",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "287b8918c145665428c6f714cdc6e3bd",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    }
+  ],
+  "variant": "aris-artbook-dev-1"
+}

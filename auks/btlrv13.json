@@ -1,0 +1,82 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu"],
+      "build": {"name": "main_23924616_cod24_tu22_bnet_v13_dev", "token": "77f25ef9-d028-4dc5-a54c-4be48179b112"},
+      "buildKey": "a6513da61e22b9eb825cdea0165f1d0d",
+      "cdnKey": "765182e40c181398674e0886a6268458",
+      "definition": "f6339ad6ed66c4754109406eb502bdc3",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:20.000Z",
+      "path": "tpr/btlrv",
+      "pipelineId": 292,
+      "productConfig": {"cdnPath": "", "hash": "4a637ded885cdef278ec6486e823c200"},
+      "versionNumber": 23924616,
+      "versionString": "0.0.0.23924616d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["kr"],
+      "build": {
+        "name": "main_23793271_cer_br_seasonal_600_bnet_v13_dev",
+        "token": "fa66c9a6-c5a7-4749-b50a-2ba696d49f61"
+      },
+      "buildKey": "03105561e64019303674270246599b55",
+      "cdnKey": "30008b61f43f68d14c7992d26cb654b6",
+      "definition": "40e70723e2e4b0df60581a83ad7f7c17",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:20.000Z",
+      "path": "tpr/btlrv",
+      "pipelineId": 292,
+      "productConfig": {"cdnPath": "", "hash": "4a637ded885cdef278ec6486e823c200"},
+      "versionNumber": 23793271,
+      "versionString": "0.0.0.23793271d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {
+        "name": "main_23942593_cer_br_seasonal_600_bnet_v13_dev",
+        "token": "f178ae98-93e1-43be-85a4-02e0efbe53d9"
+      },
+      "buildKey": "85433472e3cb720f108cd165a129eea3",
+      "cdnKey": "f47b41956682f9167e2d55efcc5ce505",
+      "definition": "d63b924d54b29073cebcc1061270bcd9",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:20.000Z",
+      "path": "tpr/btlrv",
+      "pipelineId": 292,
+      "productConfig": {"cdnPath": "", "hash": "4a637ded885cdef278ec6486e823c200"},
+      "versionNumber": 23942593,
+      "versionString": "0.0.0.23942593d"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "aa0fa3968e10940e193d53bcd24b53ef",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "7d77b999022b646a1daa9a56779f335e",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "btlrv13"
+}

@@ -1,0 +1,49 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {
+        "name": "driver_04_29_22309603_valkyrie_ship_ship_esport",
+        "token": "3389fd1d-4d6f-4461-bc95-7e49288b8db8"
+      },
+      "buildKey": "97868bcdff110fe9717c8db48b67a53b",
+      "cdnKey": "eb469eea571c88fbece3b0a1452cbb30",
+      "definition": "56b13a33ae1ee9cd9a985e82385033af",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:12:11.000Z",
+      "path": "tpr/btlrvb",
+      "pipelineId": 293,
+      "productConfig": {"cdnPath": "", "hash": "2fbd4c056a099445792c0652e7b885e9"},
+      "versionNumber": 22309603,
+      "versionString": "0.0.0.22309603se"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "aa0fa3968e10940e193d53bcd24b53ef",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "7d77b999022b646a1daa9a56779f335e",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "randgridbtlrbcdlv"
+}

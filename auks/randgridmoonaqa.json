@@ -1,0 +1,46 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "05_12_20860341_valkyrie_dev", "token": "903874cb-7138-454c-8555-ebdd62e2d461"},
+      "buildKey": "a503121e1cc532bff92046ee8d7b481a",
+      "cdnKey": "79ab13b6bd37e86d625a5d32f985813a",
+      "definition": "b1b6c01acb03fdd67e26f125a0fa1230",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:12:13.000Z",
+      "path": "moon/moonv",
+      "pipelineId": 276,
+      "productConfig": {"cdnPath": "", "hash": "878515c80965cf8513c702c8198b373c"},
+      "versionNumber": 20860341,
+      "versionString": "0.0.0.20860341d"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "aa0fa3968e10940e193d53bcd24b53ef",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "7d77b999022b646a1daa9a56779f335e",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "randgridmoonaqa"
+}

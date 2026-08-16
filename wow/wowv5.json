@@ -1,0 +1,57 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["cn", "eu", "kr", "tw", "us"],
+      "build": {"name": "WOW-68184patch2.5.6_Vendor5", "token": "62a051e3-ff52-4a52-a5e0-d9b8a9879a2a"},
+      "buildKey": "c7e0772214a96ae5d8af672c2199a98a",
+      "cdnKey": "44bceb4e875a47bff1d7ecd70c39398e",
+      "definition": "741406badd27d5e2c0a3c35268972aab",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:12:44.000Z",
+      "path": "tpr/wowv",
+      "pipelineId": 163,
+      "productConfig": {"cdnPath": "", "hash": "ee73aab1b8fc5185df76b504891a51c7"},
+      "versionNumber": 68184,
+      "versionString": "2.5.6.68184"
+    }
+  ],
+  "infrastructure": false,
+  "product": "wow",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "287b8918c145665428c6f714cdc6e3bd",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["kr"],
+      "cdns": "0e52e616adbad7a6a5fa0a41741bb101",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:33.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    }
+  ],
+  "variant": "wowv5"
+}

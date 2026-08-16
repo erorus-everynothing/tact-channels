@@ -1,0 +1,79 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu"],
+      "build": {
+        "name": "release_19293176_cod23_cer_beta_slim_bnet_v15_dev",
+        "token": "5ad7cff7-adc3-44da-9481-ab1ced75baf0"
+      },
+      "buildKey": "036e5bfe9807e74ab1ba4cb761a5695e",
+      "cdnKey": "8eecb2fb0440d2e5d70b321e95c5609c",
+      "definition": "d56e3a8dfcd5b67458f94b72eb2af02c",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:48.000Z",
+      "path": "moon/moonv",
+      "pipelineId": 276,
+      "productConfig": {"cdnPath": "", "hash": "794b7752524b66dc654ade0d430f156d"},
+      "versionNumber": 19293176,
+      "versionString": "0.0.0.19293176d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["kr"],
+      "build": {"name": "etu_19274610_cod23_tus5_5_1_bnet_v15_dev", "token": "93eaaa7e-0d1d-4540-8847-e26eeea6b2b4"},
+      "buildKey": "84f6c62b4bc67457fdb2921bf6599db5",
+      "cdnKey": "d5c13d82b6826f98f4555f8a456567af",
+      "definition": "ca921517522ddf4a3db513e97b03690f",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:48.000Z",
+      "path": "moon/moonv",
+      "pipelineId": 276,
+      "productConfig": {"cdnPath": "", "hash": "794b7752524b66dc654ade0d430f156d"},
+      "versionNumber": 19274610,
+      "versionString": "0.0.1.19274610d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "main_23403792_jup_ihv_bnet_v15_vendor", "token": "9d34fa84-2668-4c25-9471-a648e1d5a9ce"},
+      "buildKey": "e99865c27dd28928e80372026449cf7d",
+      "cdnKey": "757cb71239731f61f7f6f1a9cd58f1e8",
+      "definition": "35a0d4ccf84b5d32fdce8c486277968b",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:48.000Z",
+      "path": "moon/moonv",
+      "pipelineId": 276,
+      "productConfig": {"cdnPath": "", "hash": "794b7752524b66dc654ade0d430f156d"},
+      "versionNumber": 23403792,
+      "versionString": "0.0.4.23403792d"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "aa0fa3968e10940e193d53bcd24b53ef",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "7d77b999022b646a1daa9a56779f335e",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
+  "variant": "moonv15"
+}

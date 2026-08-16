@@ -1,0 +1,82 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu"],
+      "build": {
+        "name": "trunk_27582470B_cod22_sep_tu4_v2_signed_bnet_v1_dev_r2",
+        "token": "77ba30ec-b019-4453-938c-623b15741cc1"
+      },
+      "buildKey": "037768d25173d3d9eaa192bd878cb280",
+      "cdnKey": "64915117351ad8d47f60e39e55cb5253",
+      "definition": "81d0c363af1e31954ce899e41a2e838b",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:53.000Z",
+      "path": "tpr/ninav",
+      "pipelineId": 372,
+      "productConfig": {"cdnPath": "", "hash": "88904d719c4bc1d03e82ae9212b0765c"},
+      "versionNumber": 27582470,
+      "versionString": "1.0.0.27582470Bd"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["kr"],
+      "build": {"name": "trunk_22960696_cod22_sep_tu2_bnet_v1_dev", "token": "f62f4ad0-7c9e-471b-88f0-1ab58466c56a"},
+      "buildKey": "aef25d43d8e358f3023ab529a94337a2",
+      "cdnKey": "a986e46ded6807942b73eaf7777e641c",
+      "definition": "2cb9b0e7447da1a9cea4f4eef4cfea1d",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:53.000Z",
+      "path": "tpr/ninav",
+      "pipelineId": 372,
+      "productConfig": {"cdnPath": "", "hash": "88904d719c4bc1d03e82ae9212b0765c"},
+      "versionNumber": 22960696,
+      "versionString": "1.0.1.22960696d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {
+        "name": "trunk_27582470B_cod22_sep_tu4_v2_signed_bnet_v1_ship_r2",
+        "token": "9c1ffccf-39a6-481b-b6da-891202a2c9e3"
+      },
+      "buildKey": "b6391c495652b58ce9a0045ba0835a78",
+      "cdnKey": "f79ddffeb972814966c9c7f8b8b01552",
+      "definition": "803deda877504227d90979bc4a1f9ae9",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:54.000Z",
+      "path": "tpr/ninav",
+      "pipelineId": 372,
+      "productConfig": {"cdnPath": "", "hash": "49072b04dce2457bbba8161c5e37ffc9"},
+      "versionNumber": 27582470,
+      "versionString": "1.0.1.27582470Bs"
+    }
+  ],
+  "infrastructure": false,
+  "product": "auks",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "084aea14e8342085ace15de6e8a53b72",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:33.000Z"
+    }
+  ],
+  "variant": "ninav1"
+}

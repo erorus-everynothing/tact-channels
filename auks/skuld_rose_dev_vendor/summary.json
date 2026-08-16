@@ -4,14 +4,14 @@
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "cert_28338667A_cod26_beta_tu1_valkyrie_patch2_signed_bnet_r_ship",
-        "token": "b124be68-2478-4064-b098-4f78a98c5cdf"
+        "name": "cert_28338667A_cod26_beta_tu1_valkyrie_patch3_signed_bnet_r_ship",
+        "token": "de37e63d-da20-44a7-abe6-03869a33a051"
       },
-      "buildKey": "e102320cba3e49765e9c80726963895a",
-      "cdnKey": "488c180aaccd05d7cf84ef68f332d945",
-      "definition": "6eb46713d670619a7bb5e142137a8f81",
+      "buildKey": "d5366b6c3c64b44ec88f53415bf4bba4",
+      "cdnKey": "27ee323e5f2a5b1daa96b5637006e327",
+      "definition": "e12497364cd20f512c4f741b3d89c8e0",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:38:02.000Z",
+      "lastModified": "2026-08-14T22:56:43.000Z",
       "path": "tpr/auksdev/4",
       "pipelineId": 235,
       "productConfig": {"cdnPath": "", "hash": "0ef0eb3136d945eb9b91910a2b5cbed1"},

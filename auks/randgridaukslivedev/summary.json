@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "cert_28338667A_cod26_beta_tu1_valkyrie_patch2_signed_bnet_r_ship",
-        "token": "b124be68-2478-4064-b098-4f78a98c5cdf"
+        "name": "trunk_driver_06_08_2026_28347379_cod26_beta_valkyrie_valkyrie_skuld_ship2",
+        "token": "412332c3-5466-47e0-9adc-7fb540789abd"
       },
-      "buildKey": "e102320cba3e49765e9c80726963895a",
-      "cdnKey": "488c180aaccd05d7cf84ef68f332d945",
-      "definition": "6eb46713d670619a7bb5e142137a8f81",
+      "buildKey": "68f91993b3bd3b6d864024d5c8f1c4a8",
+      "cdnKey": "7bd43f46fa410203073f2ef71fe21a17",
+      "definition": "61aa493dbdd383af14c1d3b5604cc9d0",
       "keyRing": "",
       "lastModified": "2026-08-14T22:38:02.000Z",
       "path": "tpr/auksdev/4",
       "pipelineId": 235,
-      "productConfig": {"cdnPath": "", "hash": "0ef0eb3136d945eb9b91910a2b5cbed1"},
-      "versionNumber": 28338667,
-      "versionString": "1.0.0.28338667"
+      "productConfig": {"cdnPath": "", "hash": "7d1e26548a097d8c12714c4ac1e369fe"},
+      "versionNumber": 28347379,
+      "versionString": "1.0.0.28347379"
     }
   ],
   "infrastructure": false,
@@ -32,5 +32,5 @@
       "lastModified": "2026-08-14T22:10:34.000Z"
     }
   ],
-  "variant": "skuld_rose_dev_vendor"
+  "variant": "randgridaukslivedev"
 }

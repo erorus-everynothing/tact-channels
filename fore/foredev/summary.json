@@ -6,12 +6,12 @@
       "build": {"name": "s4main_10615797_s4_mp_foredev_ship", "token": "b08b228d-e3cb-4e24-aae1-38ae976e51f3"},
       "buildKey": "a0c0a76c71126f8ef880bd637e49bad0",
       "cdnKey": "a84cc21caa5a18446393aa18fc78df1c",
-      "definition": "0189842f750201657ee92fa386cf9c83",
+      "definition": "3c09e5f7338fb1fea1ea7bc9e849d255",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:04:13.000Z",
+      "lastModified": "2026-08-14T22:11:36.000Z",
       "path": "tpr/foredev",
       "pipelineId": 218,
-      "productConfig": {"hash": "6caf9cc1c1a62f60f796f62325eb0755"},
+      "productConfig": {"cdnPath": "", "hash": "6caf9cc1c1a62f60f796f62325eb0755"},
       "versionNumber": 10615797,
       "versionString": "1.6.4.10615797s"
     }

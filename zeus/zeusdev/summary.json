@@ -6,12 +6,12 @@
       "build": {"name": "target_raw_8143487D_zeusdev_ship", "token": "2b44e1c0-cf24-4008-b190-5ba3e6e1a500"},
       "buildKey": "9e1cd02990e7d65e2c2fa24003c3aca1",
       "cdnKey": "155b86a5ba4a1a19bdd091f53f2b2e31",
-      "definition": "bf9154451f51d3189098f5cdc791998b",
+      "definition": "ebb7ec18b1f18b2e99f3a49a66c7d6a4",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:05:32.000Z",
+      "lastModified": "2026-08-14T22:12:46.000Z",
       "path": "tpr/zeusdev",
       "pipelineId": 201,
-      "productConfig": {"hash": "5d625e01a403098c76469c94b1202bb9"},
+      "productConfig": {"cdnPath": "", "hash": "5d625e01a403098c76469c94b1202bb9"},
       "versionNumber": 8143487,
       "versionString": "target_8143487D_signed_ship"
     }

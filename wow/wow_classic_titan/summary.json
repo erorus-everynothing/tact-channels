@@ -6,12 +6,12 @@
       "build": {"name": "WOW-69137patch3.80.2_ClassicTitan", "token": "176209c0-63c5-4f95-9ebc-21d3d4fc600a"},
       "buildKey": "b7ccc184ffe73fafb5e6443778754ffe",
       "cdnKey": "481a61979f7082e323be3d2ec8bff1f9",
-      "definition": "5989e2baab9fc1e2847d379dcb7650a9",
+      "definition": "de1484d13eb700e75731b7aeec9fac3f",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:05:26.000Z",
+      "lastModified": "2026-08-14T22:12:41.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
-      "productConfig": {"hash": "11a7ea270082c4636d7c2edbcda7ae94"},
+      "productConfig": {"cdnPath": "", "hash": "11a7ea270082c4636d7c2edbcda7ae94"},
       "versionNumber": 69137,
       "versionString": "3.80.2.69137"
     }

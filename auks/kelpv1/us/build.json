@@ -3,12 +3,12 @@
   "build": {"name": "trunk_28406550_kra_clean_bnet_v1_dev", "token": "9273ed63-512f-4367-9a65-b0eda1c3937d"},
   "buildKey": "a037725dd84c4a3171dbfcc450cc418f",
   "cdnKey": "897dad5e5f90fc049c6b66b1cd639212",
-  "definition": "4652061fd8be1a26628ae2f0ece544e1",
+  "definition": "d3cd50986278f7f1ac8e6db4c9ad8b7a",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:24.000Z",
+  "lastModified": "2026-08-14T22:11:44.000Z",
   "path": "tpr/kelpv",
   "pipelineId": 416,
-  "productConfig": {"hash": "b175c78cba9294cbe1dd572dbc43d684"},
+  "productConfig": {"cdnPath": "", "hash": "b175c78cba9294cbe1dd572dbc43d684"},
   "versionNumber": 28406550,
   "versionString": "1.0.3.28406550d"
 }

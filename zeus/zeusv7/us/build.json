@@ -3,12 +3,12 @@
   "build": {"name": "bo5_raw_13810990_v7_vendor", "token": "6667b1d2-2bb4-44a8-88c6-95580b014ccd"},
   "buildKey": "e9ca835cb44b096c17936419140ccd10",
   "cdnKey": "a06ef202098d16a7865d86ac7d6d6397",
-  "definition": "e5a5979340326abc29851fa64b7bc2c3",
+  "definition": "da6cdc6653733a4016055e4202144388",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:05:34.000Z",
+  "lastModified": "2026-08-14T22:12:48.000Z",
   "path": "tpr/zeusv",
   "pipelineId": 208,
-  "productConfig": {"hash": "7a0dfd63881ecb3eaa4b02627b9f6453"},
+  "productConfig": {"cdnPath": "", "hash": "7a0dfd63881ecb3eaa4b02627b9f6453"},
   "versionNumber": 13810990,
   "versionString": "1.0.24.13810990v"
 }

@@ -6,12 +6,12 @@
       "build": {"name": "s4cert_10140263_TU2G_signed_fb_ship", "token": "bb176221-b0c2-45c4-a87a-ec1164133a62"},
       "buildKey": "792c6862a2570fdc024af502119e235e",
       "cdnKey": "e0f55130df205a03c8e69b1cf7aa8586",
-      "definition": "76842a70916e13fd728604de07125b86",
+      "definition": "b0e70646e2d3522e0407659557933447",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:04:12.000Z",
+      "lastModified": "2026-08-14T22:11:35.000Z",
       "path": "tpr/fore",
       "pipelineId": 217,
-      "productConfig": {"hash": "73f4ccc7dd3f543fd5f688da8cb5e420"},
+      "productConfig": {"cdnPath": "", "hash": "73f4ccc7dd3f543fd5f688da8cb5e420"},
       "versionNumber": 10140266,
       "versionString": "0.2.7.10140263"
     }

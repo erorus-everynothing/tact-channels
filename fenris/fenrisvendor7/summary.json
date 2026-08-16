@@ -6,12 +6,12 @@
       "build": {"name": "73123_Win64Client_3_2_0PTR_test", "token": "1d3b79c0-4c35-4e38-8466-9a077beaddcd"},
       "buildKey": "a7841c71da081f7bdc9459207ff75cc1",
       "cdnKey": "fdbeac7f14643d23fccb9eeaba7dffc8",
-      "definition": "4786fb31bf52dbc41ec2ad1a30bf2893",
+      "definition": "3ff721ebd29226b032b62e9aea6d175c",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:04:11.000Z",
+      "lastModified": "2026-08-14T22:11:35.000Z",
       "path": "tpr/fenrisvc",
       "pipelineId": 318,
-      "productConfig": {"hash": "9752ba0887cf1805be62043863e3f5e6"},
+      "productConfig": {"cdnPath": "", "hash": "9752ba0887cf1805be62043863e3f5e6"},
       "versionNumber": 73123,
       "versionString": "73123"
     }

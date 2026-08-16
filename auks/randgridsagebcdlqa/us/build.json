@@ -3,12 +3,12 @@
   "build": {"name": "driver_02_013_21476240_valkyrie_dev_dev_esports", "token": "64b41faa-a38e-4ed2-96e7-c3ba93fe1541"},
   "buildKey": "132bf57ba9eb16a778ba7430e3e04849",
   "cdnKey": "0f63ac3bfcb1266f90f82c5b133052bf",
-  "definition": "584b2f0c21f51ae5febcb4fc600b642d",
+  "definition": "56642051efe17c35344d9d296fc2fa36",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:21:24.000Z",
+  "lastModified": "2026-08-14T21:40:25.000Z",
   "path": "tpr/sagevb",
   "pipelineId": 357,
-  "productConfig": {"hash": null},
+  "productConfig": {"cdnPath": "", "hash": null},
   "versionNumber": 21476240,
   "versionString": "0.0.1.21476240d"
 }

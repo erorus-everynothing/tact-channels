@@ -6,12 +6,12 @@
       "build": {"name": "Cortez_Dev-rekey_test_dummy", "token": "0fe36769-50e9-4cbf-a794-536c9068a3b4"},
       "buildKey": "d2dd577fc9d1f5a245fda89b639314f4",
       "cdnKey": "29fb366bb69febe223bfa10a50366958",
-      "definition": "79d10f49b59ea09d986b54c1fee1aa32",
+      "definition": "aacd9a5012c3b9af496ebf76035184f4",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:03:32.000Z",
+      "lastModified": "2026-08-14T22:11:08.000Z",
       "path": "tpr/auksdev/4",
       "pipelineId": 235,
-      "productConfig": {"hash": "674a621d406fbc3df08c5e916d7d547d"},
+      "productConfig": {"cdnPath": "", "hash": "674a621d406fbc3df08c5e916d7d547d"},
       "versionNumber": 1,
       "versionString": "1"
     }

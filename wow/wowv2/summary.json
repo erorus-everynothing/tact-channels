@@ -6,12 +6,12 @@
       "build": {"name": "WOW-69323patch12.1.0_Vendor2", "token": "ea6f25a9-f4fa-4e20-8932-a32027dd481f"},
       "buildKey": "e82db2d74b16a13d31f56a8a0c77f3e2",
       "cdnKey": "df7877ac87a5bdc3e8179268d50456ea",
-      "definition": "449d0bef4dcf42c7811ebbc012cace25",
+      "definition": "691c43e523daab986b007993d6dd721a",
       "keyRing": "",
-      "lastModified": "2026-08-14T18:03:53.000Z",
+      "lastModified": "2026-08-14T22:12:44.000Z",
       "path": "tpr/wowv",
       "pipelineId": 163,
-      "productConfig": {"hash": "6a8f97104dd4d4c8a14599c289329656"},
+      "productConfig": {"cdnPath": "", "hash": "6a8f97104dd4d4c8a14599c289329656"},
       "versionNumber": 69323,
       "versionString": "12.1.0.69323"
     }

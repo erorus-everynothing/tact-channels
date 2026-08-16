@@ -3,12 +3,12 @@
   "build": {"name": "etu_16850993_cod23_tus1etu2_v1_ship", "token": "c2ff1d7a-fdf9-4dd6-b1fe-183ad20bfef6"},
   "buildKey": "19f3f429f39165fb897b02ee8794127d",
   "cdnKey": "c9bf883f00916ae947e5c47f27659a00",
-  "definition": "807c4777f1ebb7fd5a51f852e75c08f6",
+  "definition": "3edd67b20687a2cd006c6165792f3c1d",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:26.000Z",
+  "lastModified": "2026-08-14T22:11:46.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
-  "productConfig": {"hash": "4b98253a7e067a88b05de54679ddc4a4"},
+  "productConfig": {"cdnPath": "", "hash": "4b98253a7e067a88b05de54679ddc4a4"},
   "versionNumber": 16850993,
   "versionString": "0.3.0.16850993d"
 }

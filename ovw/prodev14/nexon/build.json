@@ -3,12 +3,12 @@
   "build": {"name": "prometheus-2_24_0_3-152661-GM-KR-NGSX-prodev14", "token": "df9482fb-4648-46a6-860d-6693bd3772ee"},
   "buildKey": "03c6911c80a8b35aa703b2ed31d5dbbe",
   "cdnKey": "42fe73b5a6a8db035e28c5ddb48467d3",
-  "definition": "988a924cf207bde2d3894f58784fc45a",
+  "definition": "710f604486ede8b4e32203a4b33433a4",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:45.000Z",
+  "lastModified": "2026-08-14T22:12:05.000Z",
   "path": "tpr/proa2",
   "pipelineId": 266,
-  "productConfig": {"hash": "0fa772552c345eed6354578e49e37f10"},
+  "productConfig": {"cdnPath": "", "hash": "0fa772552c345eed6354578e49e37f10"},
   "versionNumber": 152661,
   "versionString": "2.24.0.3.152661"
 }

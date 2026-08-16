@@ -3,12 +3,12 @@
   "build": {"name": "trunk_28445717_rex_autobuild_mp_bnet_v1_dev", "token": "63b08f65-5ee9-460a-868e-57a6acc36cae"},
   "buildKey": "547d688cc399aa2236a356e387e02076",
   "cdnKey": "aca7e2985b4b9918fa19e423a6d88ac5",
-  "definition": "ffcd737f90f74e7eb1a41a2ede5f97f3",
+  "definition": "c3684282a3ae16b50e5ab2d7ad657bd0",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:05:01.000Z",
+  "lastModified": "2026-08-14T22:12:17.000Z",
   "path": "tpr/rosev",
   "pipelineId": 302,
-  "productConfig": {"hash": "06203164d6f0407051d1bf4444414e56"},
+  "productConfig": {"cdnPath": "", "hash": "06203164d6f0407051d1bf4444414e56"},
   "versionNumber": 28445717,
   "versionString": "0.0.0.28445717d"
 }

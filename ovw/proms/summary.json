@@ -6,12 +6,12 @@
       "build": {"name": "prometheus-1_41_0_4_W-63521-PROMS", "token": ""},
       "buildKey": "6b357f84f1b0d5e0cb664041cb8b0133",
       "cdnKey": "5c73fc7958be2047f3967e7afb3f87c6",
-      "definition": "0eb5d5fb145f23b1662c1dd12618483c",
+      "definition": "44d89227142f9e0080b3afb6333f06e0",
       "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
-      "lastModified": "2026-08-14T17:04:47.000Z",
+      "lastModified": "2026-08-14T22:12:07.000Z",
       "path": "tpr/ovw",
       "pipelineId": 43,
-      "productConfig": {"hash": "cb1f0464f84cb01df824f6a3163fc9f2"},
+      "productConfig": {"cdnPath": "", "hash": "cb1f0464f84cb01df824f6a3163fc9f2"},
       "versionNumber": 63521,
       "versionString": "1.41.0.4.W.63521"
     }

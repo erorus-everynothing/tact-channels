@@ -6,12 +6,12 @@
       "build": {"name": "WOW-69110patch2.5.6_Anniversary", "token": "39e87456-31b3-480d-9349-3f451dc9fa8d"},
       "buildKey": "c5ade9dade89ac36fb4b2d9fd6c09a9a",
       "cdnKey": "87883aa966f98509181f68da8863627c",
-      "definition": "1da66dd1af8aee20d8597a2a15eeab8b",
+      "definition": "2a548875f3ca30ab1ec8b0134f5392de",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:05:26.000Z",
+      "lastModified": "2026-08-14T22:12:40.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
-      "productConfig": {"hash": "92cbb948f8b043dc019e4447149478d5"},
+      "productConfig": {"cdnPath": "", "hash": "92cbb948f8b043dc019e4447149478d5"},
       "versionNumber": 69110,
       "versionString": "2.5.6.69110"
     }

@@ -3,12 +3,12 @@
   "build": {"name": "bo5_tu27_11696023_signed_v15_dev", "token": "0eec491d-a58d-45a7-9ca7-bb727b3764fa"},
   "buildKey": "1554434fddb632d60d720dd8bc2f73cf",
   "cdnKey": "7d72079dc3cab87f23cd6443ebed263d",
-  "definition": "345485b0417f394779df062da14940bf",
+  "definition": "4615d32bdb8963f4546698708009d259",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:05:33.000Z",
+  "lastModified": "2026-08-14T22:12:47.000Z",
   "path": "tpr/zeusv",
   "pipelineId": 208,
-  "productConfig": {"hash": "286bab1fa1a18f45a583cb57b5e64946"},
+  "productConfig": {"cdnPath": "", "hash": "286bab1fa1a18f45a583cb57b5e64946"},
   "versionNumber": 11696023,
   "versionString": "1.27.0.11696023d"
 }

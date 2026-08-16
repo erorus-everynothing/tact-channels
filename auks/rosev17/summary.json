@@ -40,19 +40,19 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "release_28284850_cod26_beta_tu1__Rex_Beta_Tu1_8_3_blackhole_bnet_v17_dev",
-        "token": "69cb5f12-3fec-42ab-a229-04016b2a9175"
+        "name": "cert_28338667A_cod26_beta_tu1_valkyrie_patch2_signed_bnet_v17_ship",
+        "token": "a089129f-be0d-4288-96c3-cbf3edc42534"
       },
-      "buildKey": "7bf94331fc48849a48cc1b3ff8e0f38b",
-      "cdnKey": "81ef323b37d57112f6c2e877c1b1e717",
-      "definition": "5783cba3517e0a180f94a9e89f9b938e",
+      "buildKey": "f6a0212f4a9af4949927d0a1805469f3",
+      "cdnKey": "6b71c09aac3dc4ca2650640e6ae3e6d7",
+      "definition": "94b24353b74e3df2801299cde4385e56",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:05:04.000Z",
+      "lastModified": "2026-08-14T18:03:53.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
-      "productConfig": {"hash": "140712bb35a7c071436a906b56428aa3"},
-      "versionNumber": 28284850,
-      "versionString": "0.0.1.28284850d"
+      "productConfig": {"hash": "dc2c674a071691b95f10db510abcaffa"},
+      "versionNumber": 28338667,
+      "versionString": "0.0.1.28338667Ad"
     }
   ],
   "infrastructure": false,

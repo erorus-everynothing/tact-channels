@@ -3,12 +3,12 @@
   "build": {"name": "f762b69dd28c0edd94c00d79a15572cf-4979", "token": "7172e6f3-94c4-4df5-bb27-0324d1cec1e0"},
   "buildKey": "5fa99cba37562ce3068bf330799e2b9f",
   "cdnKey": "de3cc9f50a5623c3a07c8aa12f0ad862",
-  "definition": "e765685ba280b0dd3487d8c45b923a49",
+  "definition": "6c9996d2b94694182c139769bf9d4dbc",
   "keyRing": "",
-  "lastModified": "2026-08-14T21:39:28.000Z",
+  "lastModified": "2026-08-14T22:11:30.000Z",
   "path": "tpr/catalogs",
   "pipelineId": 107,
-  "productConfig": {"cdnPath": "", "hash": null},
+  "productConfig": {"cdnPath": "", "hash": ""},
   "versionNumber": 343,
   "versionString": "4979"
 }

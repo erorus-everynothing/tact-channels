@@ -21,12 +21,12 @@
       "build": {"name": "prometheus-2_22_0_1-149219-providcn1", "token": "8693b85c-2877-4d2b-942c-e8f8224fa670"},
       "buildKey": "2e461d62dbfac895738fdfdb337710f0",
       "cdnKey": "7088e4538cfd61d863cd8284970ad9ae",
-      "definition": "f1000ed16acd2ee2351cf98e56af975f",
+      "definition": "feb092de8bc58217826517007e276e15",
       "keyRing": "",
-      "lastModified": "2026-08-14T21:40:17.000Z",
+      "lastModified": "2026-08-14T22:12:08.000Z",
       "path": "tpr/prov3/2",
       "pipelineId": 299,
-      "productConfig": {"cdnPath": "", "hash": null},
+      "productConfig": {"cdnPath": "", "hash": ""},
       "versionNumber": 149219,
       "versionString": "2.22.0.1.149219"
     }

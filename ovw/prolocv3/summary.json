@@ -18,17 +18,17 @@
     {
       "armadilloKey": "",
       "branches": ["us"],
-      "build": {"name": "prometheus-2_24_1_0-152811-Loc-V3", "token": "875fcd4d-a67b-49aa-8fed-f97856f32d33"},
-      "buildKey": "4df4b7473718ef1e59177038b1b50e1a",
-      "cdnKey": "94e0044ca045f1fbfaf45de0a21e3075",
-      "definition": "3fc0fcbfd5baca035b26375713b40395",
+      "build": {"name": "prometheus-2_24_1_0-152903-Loc-V3", "token": "9d9f4c29-c280-42a1-a557-85b342771f64"},
+      "buildKey": "1d2e86984bfbe48b07b9bb6bff2c93e5",
+      "cdnKey": "0e8f063faa0c030d44268a4ede1a7e00",
+      "definition": "d7238d71dfebbcab4cd148c8f9370b46",
       "keyRing": "",
-      "lastModified": "2026-08-14T23:30:27.000Z",
+      "lastModified": "2026-08-18T22:30:23.000Z",
       "path": "tpr/prov2/2",
       "pipelineId": 225,
       "productConfig": {"cdnPath": "", "hash": "40c9b3700857eca2d6ea7fa53b3afe4a"},
-      "versionNumber": 152811,
-      "versionString": "2.24.1.0.152811"
+      "versionNumber": 152903,
+      "versionString": "2.24.1.0.152903"
     }
   ],
   "infrastructure": false,

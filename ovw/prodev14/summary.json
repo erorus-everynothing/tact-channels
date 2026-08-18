@@ -35,17 +35,6 @@
   "product": "ovw",
   "regions": [
     {
-      "branches": ["eu"],
-      "cdns": "3177ecdac411abd8be79a021e27535e9",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    },
-    {
       "branches": ["us"],
       "cdns": "13df1783652f5002b492505e39cf190c",
       "hosts": [
@@ -55,6 +44,17 @@
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
       "lastModified": "2026-08-14T22:10:35.000Z"
+    },
+    {
+      "branches": ["eu"],
+      "cdns": "3177ecdac411abd8be79a021e27535e9",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
     }
   ],
   "variant": "prodev14"

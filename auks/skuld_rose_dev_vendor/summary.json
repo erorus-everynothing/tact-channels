@@ -23,7 +23,7 @@
   "product": "auks",
   "regions": [
     {
-      "branches": ["eu", "us"],
+      "branches": ["us", "eu"],
       "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca",
       "hosts": [
         {"host": "http://level3.blizzard.com?maxhosts=6"},

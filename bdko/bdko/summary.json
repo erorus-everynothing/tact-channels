@@ -20,26 +20,6 @@
   "product": "bdko",
   "regions": [
     {
-      "branches": ["cn"],
-      "cdns": "bed07fc70258d67071c2ca1148e4b8c6",
-      "hosts": [
-        {"host": "http://blzdist-phx.necdn.leihuo.netease.com?maxhosts=6"},
-        {"host": "https://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:36.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    },
-    {
       "branches": ["kr"],
       "cdns": "0e52e616adbad7a6a5fa0a41741bb101",
       "hosts": [
@@ -57,6 +37,26 @@
         {"host": "http://level3.blizzard.com?maxhosts=4"},
         {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["cn"],
+      "cdns": "bed07fc70258d67071c2ca1148e4b8c6",
+      "hosts": [
+        {"host": "http://blzdist-phx.necdn.leihuo.netease.com?maxhosts=6"},
+        {"host": "https://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:36.000Z"
+    },
+    {
+      "branches": ["eu"],
+      "cdns": "287b8918c145665428c6f714cdc6e3bd",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
       "lastModified": "2026-08-14T22:10:32.000Z"

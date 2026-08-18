@@ -20,21 +20,12 @@
   "product": "diablo3",
   "regions": [
     {
-      "branches": ["cn"],
-      "cdns": "a513a2025c38cad3f83296583c1f5569",
-      "hosts": [
-        {"host": "http://blzdist-d3.necdn.leihuo.netease.com?maxhosts=4"},
-        {"host": "https://blzdist-d3.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:36.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
+      "branches": ["us", "tw"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
       "hosts": [
         {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
       "lastModified": "2026-08-14T22:10:32.000Z"
@@ -53,15 +44,24 @@
       "lastModified": "2026-08-14T22:10:32.000Z"
     },
     {
-      "branches": ["tw", "us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "branches": ["eu"],
+      "cdns": "287b8918c145665428c6f714cdc6e3bd",
       "hosts": [
         {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
       "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["cn"],
+      "cdns": "a513a2025c38cad3f83296583c1f5569",
+      "hosts": [
+        {"host": "http://blzdist-d3.necdn.leihuo.netease.com?maxhosts=4"},
+        {"host": "https://blzdist-d3.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:36.000Z"
     }
   ],
   "variant": "d3"

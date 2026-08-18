@@ -1,10 +1,10 @@
 {
   "path": "blue/",
   "public": {
-    "channel": "f51619c2668945ee1caa2573b8f5374b"
+    "channel": "790f005120d815ca0e1af8d2e8fe9b2d"
   },
-  "lastModified": "2026-08-18T21:24:04.000Z",
-  "pointerLastModified": "2026-08-18T21:24:04.000Z",
+  "lastModified": "2026-08-18T21:29:54.000Z",
+  "pointerLastModified": "2026-08-18T21:29:54.000Z",
   "products": {
     "agent": [
       "agent",
@@ -404,7 +404,6 @@
     "hs": [
       "hsb",
       "hsdev",
-      "hse1",
       "hsrc"
     ],
     "lazr": [

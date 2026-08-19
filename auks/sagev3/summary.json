@@ -3,20 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["eu"],
-      "build": {
-        "name": "release_28071000_cod25_season5_5_bnet_v3_dev",
-        "token": "2e30bc2c-82e2-4f37-8c1e-103525ab5b84"
-      },
-      "buildKey": "1ed410266dae47da31b4430a85d9f779",
-      "cdnKey": "e9c1a4aa239e3bef326716dfbd17d8ea",
-      "definition": "2a8925d72f5a99dc2821780c8f491182",
+      "build": {"name": "release_28482979_cod25_season6_bnet_v3_dev", "token": "687e4534-3816-4bd2-a32a-11a645471780"},
+      "buildKey": "8907e3315b5de83622bd54497d75dfde",
+      "cdnKey": "098fe53964afc15e914838ffd988862b",
+      "definition": "49e39320367e9d0671cee9336de2cec9",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:32.000Z",
+      "lastModified": "2026-08-19T17:55:33.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "7d6bef40dd03fbfba4c68023353dc906"},
-      "versionNumber": 28071000,
-      "versionString": "0.0.1.28071000d"
+      "versionNumber": 28482979,
+      "versionString": "0.0.1.28482979d"
     },
     {
       "armadilloKey": "",

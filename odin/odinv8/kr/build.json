@@ -3,12 +3,12 @@
   "build": {"name": "live_15119212_TU_LAZE_2_21_O_v8_signed_dev", "token": "36e542bc-3da9-46d5-ae80-95dd1959c2f1"},
   "buildKey": "41235dc515f9599dcb860e8d2d993c03",
   "cdnKey": "cb3b8277401fe34dde2424202d7b9dc2",
-  "definition": "2c5b817dc8ff0fe8d2939b41559af3ea",
+  "definition": "f26d73a51b9879d1f74db299b7049520",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:39.000Z",
+  "lastModified": "2026-08-14T22:11:59.000Z",
   "path": "tpr/odinv",
   "pipelineId": 192,
-  "productConfig": {"hash": "76eb59f7b54ca9eca20ada77ad7f454b"},
+  "productConfig": {"cdnPath": "", "hash": "76eb59f7b54ca9eca20ada77ad7f454b"},
   "versionNumber": 15119212,
   "versionString": "1.66.14.15119212d"
 }

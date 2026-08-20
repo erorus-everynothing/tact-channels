@@ -9,12 +9,12 @@
       },
       "buildKey": "f01531f73eb023705a53684cc6f6c613",
       "cdnKey": "ae9d33f1ee5fda18143012f93984dcc7",
-      "definition": "0b67f437b3df2e9484b8917f139c6b2e",
+      "definition": "5bbfed1acb2b97c2262651dea0773641",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:03:31.000Z",
+      "lastModified": "2026-08-14T22:11:08.000Z",
       "path": "tpr/auks",
       "pipelineId": 234,
-      "productConfig": {"hash": "12a095864a7c99bed26ee16845077021"},
+      "productConfig": {"cdnPath": "", "hash": "12a095864a7c99bed26ee16845077021"},
       "versionNumber": 27898774,
       "versionString": "3.12.7.27898773"
     }
@@ -30,12 +30,12 @@
       },
       "buildKey": "08aead052ffcb472bf11f101860f1e5a",
       "cdnKey": "32771a33f6436a5c774c454d9f6b2c84",
-      "definition": "786e4c9760cfe95f07ebfce077b0489f",
+      "definition": "8fc689669a5ff9d48d1b29fe5747e366",
       "keyRing": "",
-      "lastModified": "2026-08-20T06:00:26.000Z",
+      "lastModified": "2026-08-17T16:01:02.000Z",
       "path": "tpr/auks",
       "pipelineId": 234,
-      "productConfig": {"hash": "12a095864a7c99bed26ee16845077021"},
+      "productConfig": {"cdnPath": "", "hash": "12a095864a7c99bed26ee16845077021"},
       "versionNumber": 28354448,
       "versionString": "3.13.0.28354448e"
     }

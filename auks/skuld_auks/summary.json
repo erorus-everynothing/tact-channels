@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "release_28354448A_cod25_season5_5_signed_bnet_r_ship_rel",
-        "token": "28560484-7395-4caa-aeff-e3d9f41eea9a"
+        "name": "trunk_driver_06_08_2026_28347379_cod26_beta_valkyrie_valkyrie_skuld_ship2",
+        "token": "0c7ae30a-04d7-49e1-afb4-1a8a814dcad3"
       },
-      "buildKey": "65cbba823e68b78ed4b53d8218295fc3",
-      "cdnKey": "48a5110210fed61ed703bf7c11a211f6",
-      "definition": "97f9fdadd0fffd29e9e75007d67188cf",
-      "keyRing": "cdbadddd986a061acac0a72ecbe72c83",
-      "lastModified": "2026-08-20T16:20:24.000Z",
+      "buildKey": "2ceaf1dd3e70487b6e44d59eafcf4bca",
+      "cdnKey": "5d21121465f7ee3d09de75ceb3955ce7",
+      "definition": "1467c9274bbe30f26908802b9265fbfc",
+      "keyRing": "",
+      "lastModified": "2026-08-20T16:20:25.000Z",
       "path": "tpr/auks",
       "pipelineId": 234,
-      "productConfig": {"hash": "12a095864a7c99bed26ee16845077021"},
-      "versionNumber": 28354448,
-      "versionString": "3.13.1.28354448"
+      "productConfig": {"hash": "94baf52f677051943c68f8ccdf22f526"},
+      "versionNumber": 28347379,
+      "versionString": "1.0.1.28347379"
     }
   ],
   "infrastructure": false,
@@ -58,5 +58,5 @@
       "lastModified": "2026-08-14T22:10:32.000Z"
     }
   ],
-  "variant": "auks"
+  "variant": "skuld_auks"
 }

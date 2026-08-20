@@ -1,25 +1,25 @@
 {
-  "builds": [
+  "infrastructure": false,
+  "preloads": [
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "release_28354448A_cod25_season5_5_signed_bnet_r_ship_rel",
-        "token": "28560484-7395-4caa-aeff-e3d9f41eea9a"
+        "name": "cert_28338667A_cod26_beta_tu1_signed_bnet_r_ship_ebgdl",
+        "token": "af666885-35d8-4a4d-89bb-c0eda8195be5"
       },
-      "buildKey": "65cbba823e68b78ed4b53d8218295fc3",
-      "cdnKey": "48a5110210fed61ed703bf7c11a211f6",
-      "definition": "97f9fdadd0fffd29e9e75007d67188cf",
-      "keyRing": "cdbadddd986a061acac0a72ecbe72c83",
+      "buildKey": "5c65fd3dc68f192210398addb95ab2df",
+      "cdnKey": "d26ab0891829d77ae1d14042f45a76f5",
+      "definition": "b2dbb86f13f7476cb532bb0d28238e5b",
+      "keyRing": "",
       "lastModified": "2026-08-20T16:20:24.000Z",
       "path": "tpr/auks",
       "pipelineId": 234,
-      "productConfig": {"hash": "12a095864a7c99bed26ee16845077021"},
-      "versionNumber": 28354448,
-      "versionString": "3.13.1.28354448"
+      "productConfig": {"hash": "3a1146e543efe0a16ede2f9334f642aa"},
+      "versionNumber": 28338667,
+      "versionString": "1.0.1.28338667e"
     }
   ],
-  "infrastructure": false,
   "product": "auks",
   "regions": [
     {
@@ -58,5 +58,5 @@
       "lastModified": "2026-08-14T22:10:32.000Z"
     }
   ],
-  "variant": "auks"
+  "variant": "auksb"
 }

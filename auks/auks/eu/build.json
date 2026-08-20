@@ -1,14 +1,17 @@
 {
   "armadilloKey": "",
-  "build": {"name": "etu_27898773G_cod25_season5_signed_bnet_r_ship", "token": "622a5ddc-5252-4eca-a3a1-4a2b539cf27c"},
-  "buildKey": "f01531f73eb023705a53684cc6f6c613",
-  "cdnKey": "ae9d33f1ee5fda18143012f93984dcc7",
-  "definition": "0b67f437b3df2e9484b8917f139c6b2e",
-  "keyRing": "",
-  "lastModified": "2026-08-14T17:03:31.000Z",
+  "build": {
+    "name": "release_28354448A_cod25_season5_5_signed_bnet_r_ship_rel",
+    "token": "28560484-7395-4caa-aeff-e3d9f41eea9a"
+  },
+  "buildKey": "65cbba823e68b78ed4b53d8218295fc3",
+  "cdnKey": "48a5110210fed61ed703bf7c11a211f6",
+  "definition": "97f9fdadd0fffd29e9e75007d67188cf",
+  "keyRing": "cdbadddd986a061acac0a72ecbe72c83",
+  "lastModified": "2026-08-20T16:20:24.000Z",
   "path": "tpr/auks",
   "pipelineId": 234,
   "productConfig": {"hash": "12a095864a7c99bed26ee16845077021"},
-  "versionNumber": 27898774,
-  "versionString": "3.12.7.27898773"
+  "versionNumber": 28354448,
+  "versionString": "3.13.1.28354448"
 }

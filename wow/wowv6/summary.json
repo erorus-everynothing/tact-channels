@@ -6,12 +6,12 @@
       "build": {"name": "WOW-64858patch1.15.8_Vendor6", "token": "3c60b120-b5bb-4aaf-a390-7cf4501f6ce0"},
       "buildKey": "6fe76fa4a6ddf9c956ed09b1418e2c2a",
       "cdnKey": "ea339aa7b69180c4864755d29a408186",
-      "definition": "a73fec93397a980c9154628d64f3650e",
+      "definition": "4a2a1253618426cbd49f6633083cde0b",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:44.000Z",
+      "lastModified": "2026-08-14T17:05:30.000Z",
       "path": "tpr/wowv",
       "pipelineId": 163,
-      "productConfig": {"cdnPath": "", "hash": "d96a06faa2135e3a48b32ac6fd9f7269"},
+      "productConfig": {"hash": "d96a06faa2135e3a48b32ac6fd9f7269"},
       "versionNumber": 64858,
       "versionString": "1.15.8.64858"
     }

@@ -3,12 +3,12 @@
   "build": {"name": "spmain_20125172_cer_rvn_bnet_v8_dev", "token": "64c806f0-8d11-4d0b-bed4-4e91af4ac9ae"},
   "buildKey": "d4ee3bcf407a9e82cd58419c66348f27",
   "cdnKey": "104e789176bfef2301bf8fc542167f89",
-  "definition": "293030d841e890f7af364a0d0cb20247",
+  "definition": "23a54428ca32287fa649f8ec7e00b1d4",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:11:27.000Z",
+  "lastModified": "2026-08-14T17:03:59.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
-  "productConfig": {"cdnPath": "", "hash": "10f748797d6fdf61bd65c94b7159d7f8"},
+  "productConfig": {"hash": "10f748797d6fdf61bd65c94b7159d7f8"},
   "versionNumber": 20125172,
   "versionString": "0.0.0.20125172d"
 }

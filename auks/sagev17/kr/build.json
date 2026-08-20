@@ -3,12 +3,12 @@
   "build": {"name": "release_27202940_cod25_season4_bnet_v17_dev", "token": "177999b9-44a0-4827-bd4e-d33ba9bcbde4"},
   "buildKey": "32fe4896d1e8aadf60020367ebe81c97",
   "cdnKey": "682525394b4c2e95b952b5c3e4c17557",
-  "definition": "b775ab6f4a4a0a2ef2c56083e559b322",
+  "definition": "81a9b756c115b5c8038b0f6e2e47c64d",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:12:28.000Z",
+  "lastModified": "2026-08-14T17:05:13.000Z",
   "path": "tpr/sagev",
   "pipelineId": 304,
-  "productConfig": {"cdnPath": "", "hash": "76f13b4874285b4cc18560fe657b30e5"},
+  "productConfig": {"hash": "76f13b4874285b4cc18560fe657b30e5"},
   "versionNumber": 27202940,
   "versionString": "0.0.0.27202940d"
 }

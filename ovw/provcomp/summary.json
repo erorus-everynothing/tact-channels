@@ -6,12 +6,12 @@
       "build": {"name": "prometheus-2_24_0_0-152308-GM-provcomp", "token": "a7502569-893d-437c-8e7b-8689d31db772"},
       "buildKey": "20e09eb128f67ee03b81de16f17da605",
       "cdnKey": "ca5a89ec211f6fbaf83938d32a514af8",
-      "definition": "08c1e7d223eb8831e24da50249aaa7ff",
+      "definition": "5ea4a203e4f37d642c477303d9df8a01",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:08.000Z",
+      "lastModified": "2026-08-14T17:04:48.000Z",
       "path": "tpr/prov",
       "pipelineId": 162,
-      "productConfig": {"cdnPath": "", "hash": "37df2e65c717849b65b05705cde8b68b"},
+      "productConfig": {"hash": "37df2e65c717849b65b05705cde8b68b"},
       "versionNumber": 152308,
       "versionString": "2.24.0.0.152308"
     }

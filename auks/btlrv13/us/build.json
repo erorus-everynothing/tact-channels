@@ -3,12 +3,12 @@
   "build": {"name": "main_23942593_cer_br_seasonal_600_bnet_v13_dev", "token": "f178ae98-93e1-43be-85a4-02e0efbe53d9"},
   "buildKey": "85433472e3cb720f108cd165a129eea3",
   "cdnKey": "f47b41956682f9167e2d55efcc5ce505",
-  "definition": "d63b924d54b29073cebcc1061270bcd9",
+  "definition": "523c61a99d3be459ffc36ceb39bcabb6",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:11:20.000Z",
+  "lastModified": "2026-08-14T17:03:50.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
-  "productConfig": {"cdnPath": "", "hash": "4a637ded885cdef278ec6486e823c200"},
+  "productConfig": {"hash": "4a637ded885cdef278ec6486e823c200"},
   "versionNumber": 23942593,
   "versionString": "0.0.0.23942593d"
 }

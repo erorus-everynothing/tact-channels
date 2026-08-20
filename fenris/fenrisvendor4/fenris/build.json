@@ -3,12 +3,12 @@
   "build": {"name": "73406_Win64Client_3_2_1_fenrisvendor4", "token": "457cfb81-f034-4836-a202-2652b0b1d730"},
   "buildKey": "621e9783e2d1724869e3e1c0d6313903",
   "cdnKey": "e4d0f7285a14835e195623f860a2d1a3",
-  "definition": "587f1abc0a3c4a57f9f4f337128084ba",
+  "definition": "05149565fceb79ba3664a0ff40774685",
   "keyRing": "",
-  "lastModified": "2026-08-18T18:20:24.000Z",
+  "lastModified": "2026-08-20T06:00:39.000Z",
   "path": "tpr/fenrisv",
   "pipelineId": 206,
-  "productConfig": {"cdnPath": "", "hash": "c9104615596e57c338ff17540dc2be96"},
+  "productConfig": {"hash": "c9104615596e57c338ff17540dc2be96"},
   "versionNumber": 73406,
   "versionString": "3.2.1.73406"
 }

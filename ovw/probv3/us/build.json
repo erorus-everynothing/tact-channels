@@ -3,12 +3,12 @@
   "build": {"name": "prometheus-2_24_1_0-152903-probv3", "token": "a495e555-4e3a-4a19-8557-629523952676"},
   "buildKey": "c400f9814cb045f67923dae0b0fa9a2d",
   "cdnKey": "abde51b46f22eef8b3fcb0018d8ac104",
-  "definition": "dd36bf7e1559d9c58c8658adc4034a85",
+  "definition": "a525b2114fc6ff0a050aecae36fc1be9",
   "keyRing": "",
-  "lastModified": "2026-08-19T11:58:12.000Z",
+  "lastModified": "2026-08-20T06:00:51.000Z",
   "path": "tpr/prov3/2",
   "pipelineId": 299,
-  "productConfig": {"cdnPath": "", "hash": "d15e5a07bee5d25317cc8685a890cf76"},
+  "productConfig": {"hash": "d15e5a07bee5d25317cc8685a890cf76"},
   "versionNumber": 152903,
   "versionString": "2.24.1.0.152903"
 }

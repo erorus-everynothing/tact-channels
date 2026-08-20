@@ -3,12 +3,12 @@
   "build": {"name": "Arkansas_3924202", "token": "6357349b-2d45-44a0-9011-7cedf8f89286"},
   "buildKey": "8ee66453e30d2b3f762c87ae7e9fb2cd",
   "cdnKey": "d6ad511dcb688bc8a5d0a40d6b573f89",
-  "definition": "9102d9777d7fe2ad89708e481846e5ac",
+  "definition": "32ae72ce14df636ecdf2f9af383583e7",
   "keyRing": "d742d0c12282c626c958c0f83675f769",
-  "lastModified": "2026-08-14T22:11:06.000Z",
+  "lastModified": "2026-08-14T17:03:29.000Z",
   "path": "tpr/ark",
   "pipelineId": 385,
-  "productConfig": {"cdnPath": "", "hash": "03297ffc04ebce804d8b3c707e167642"},
+  "productConfig": {"hash": "03297ffc04ebce804d8b3c707e167642"},
   "versionNumber": 2994920,
   "versionString": "1.2.0.1"
 }

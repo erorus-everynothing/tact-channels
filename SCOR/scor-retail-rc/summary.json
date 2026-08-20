@@ -6,12 +6,12 @@
       "build": {"name": "SeaOfThieves_2.151.6146.0", "token": "d45d8bfb-b6f0-468b-8556-ec1686f064fd"},
       "buildKey": "b8840682f50a4a46d1925f9a16bd7032",
       "cdnKey": "6725bd69c06b53b664178c7f72401878",
-      "definition": "c8b9bf6f60b5072397e96881bb353d5b",
+      "definition": "099e9e74515797fe9e530df94eb6e758",
       "keyRing": "",
-      "lastModified": "2026-08-18T11:40:25.000Z",
+      "lastModified": "2026-08-20T06:01:05.000Z",
       "path": "tpr/scorrc",
       "pipelineId": 335,
-      "productConfig": {"cdnPath": "", "hash": "a87c633877eaa354107ac1fd3d8a9096"},
+      "productConfig": {"hash": "a87c633877eaa354107ac1fd3d8a9096"},
       "versionNumber": 1516146,
       "versionString": "2.151.6146.0"
     }

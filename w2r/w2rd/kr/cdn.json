@@ -1,1 +1,11 @@
-{"cdns": "7d2738eb21c4f9988e16484abd3f6ea2"}
+{
+  "cdns": "7d2738eb21c4f9988e16484abd3f6ea2",
+  "hosts": [
+    {"host": "http://level3.blizzard.com?maxhosts=3"},
+    {"host": "http://kr.cdn.blizzard.com?maxhosts=3"},
+    {"host": "https://kr.cdn.blizzard.com?maxhosts=3&fallback=1"},
+    {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=3"},
+    {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=3&fallback=1"}
+  ],
+  "lastModified": "2026-08-14T22:10:36.000Z"
+}

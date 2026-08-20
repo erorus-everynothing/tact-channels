@@ -1,1 +1,14 @@
-{"definition": "bde0aec89fa7633f835ec7d8f26f71c9"}
+{
+  "armadilloKey": "",
+  "build": {"name": "release_28557761_cod25_season6_bnet_v6_dev", "token": "4b57a031-40cd-4a2c-9693-fa2949a0463e"},
+  "buildKey": "57d57373dc4bb4d1ac59a2af9d46be1d",
+  "cdnKey": "0231adeef61e21a28057bd72dcd72b50",
+  "definition": "31d95e84be60ba04c03413a632b6f723",
+  "keyRing": "",
+  "lastModified": "2026-08-20T13:53:23.000Z",
+  "path": "tpr/sagev",
+  "pipelineId": 304,
+  "productConfig": {"cdnPath": "", "hash": "f329d8aba2d656ae0b73045ef7ef8f4a"},
+  "versionNumber": 28557761,
+  "versionString": "0.0.0.28557761d"
+}

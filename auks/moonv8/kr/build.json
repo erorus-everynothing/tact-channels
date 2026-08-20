@@ -1,1 +1,14 @@
-{"definition": "35b5fe0f70e3b058c1105169da5cb4f7"}
+{
+  "armadilloKey": "",
+  "build": {"name": "trunk_23796243_zul_full_bnet_v8_dev", "token": "20ce74e2-6e98-4675-9781-5bc7726531c1"},
+  "buildKey": "b8fec6db7e9dec59d8e067cd42ea7277",
+  "cdnKey": "d7577609b90b3eb9bc9e8e1294dcffa9",
+  "definition": "1a0bbc6e13e225d632270e036495c8be",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:53.000Z",
+  "path": "moon/moonv",
+  "pipelineId": 276,
+  "productConfig": {"cdnPath": "", "hash": "697fec7ce7a4cfe3385df2edcbf82ad1"},
+  "versionNumber": 23796243,
+  "versionString": "0.0.0.23796243d"
+}

@@ -1,1 +1,14 @@
-{"definition": "088c7ac91a229ac0926bae021f75860d"}
+{
+  "armadilloKey": "",
+  "build": {"name": "spmain_20091410_cer_locs_bnet_v8_dev", "token": "578d15d7-4ccf-4d82-8b01-7be6ebb63673"},
+  "buildKey": "387d7d27d5b72329353dfbcf80cbeac9",
+  "cdnKey": "20eebfa318a2346b785d6b28ba3252cd",
+  "definition": "f7eb3d5cedfd4801c807389eb8e1c0a6",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:27.000Z",
+  "path": "tpr/btlrv",
+  "pipelineId": 292,
+  "productConfig": {"cdnPath": "", "hash": "10f748797d6fdf61bd65c94b7159d7f8"},
+  "versionNumber": 20091410,
+  "versionString": "0.0.0.20091410d"
+}

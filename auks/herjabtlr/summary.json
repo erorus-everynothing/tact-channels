@@ -1,11 +1,62 @@
 {
-  "builds": [{"branches": ["eu", "kr", "us"], "definition": "2052505f0b3ed53040913877b5dd79de"}],
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {
+        "name": "driver_03_25_2026_26405199_cod24_valkyrie_ship_ship",
+        "token": "677a3127-9837-4512-9327-38d4ace68d53"
+      },
+      "buildKey": "5f5934bb462406304106a6f36a3f9210",
+      "cdnKey": "1987f851f8f37de42bdeb73f8fc8f8a0",
+      "definition": "d61751aa6dc46111e2aea0b243bdcdd6",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:42.000Z",
+      "path": "cortez/Cerberus-B-Live",
+      "pipelineId": 405,
+      "productConfig": {"cdnPath": "", "hash": "899ce187836ed3b2a7a7250b8f34455c"},
+      "versionNumber": 26405199,
+      "versionString": "2.0.0.26405199"
+    }
+  ],
   "infrastructure": false,
   "product": "auks",
   "regions": [
-    {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
-    {"branches": ["eu"], "cdns": "0cc361e1da6f2a076547361ead9c4837"},
-    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
+    {
+      "branches": ["kr"],
+      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
+        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["eu"],
+      "cdns": "0cc361e1da6f2a076547361ead9c4837",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:36.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    }
   ],
   "variant": "herjabtlr"
 }

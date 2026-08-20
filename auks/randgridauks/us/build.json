@@ -1,1 +1,17 @@
-{"definition": "710fa3d5c40035bf7f97149ba5e4db3c"}
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "release_driver_06_08_2026_28347379_valkyrie_valkyrie_ship_ship",
+    "token": "92f7ec2a-c146-44f9-86a8-982d498a33a3"
+  },
+  "buildKey": "fdd4bfda99279557964aa11504c59328",
+  "cdnKey": "ae9d33f1ee5fda18143012f93984dcc7",
+  "definition": "0601f6b6a53a8e61f014f4f75b0a67a8",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:12:09.000Z",
+  "path": "tpr/auks",
+  "pipelineId": 234,
+  "productConfig": {"cdnPath": "", "hash": "5e5f3ef37942617dd2f9d19023a0d5d4"},
+  "versionNumber": 28347379,
+  "versionString": "3.9.0.28347379"
+}

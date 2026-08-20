@@ -1,1 +1,14 @@
-{"definition": "e791f565275becb06efec0798299d7af"}
+{
+  "armadilloKey": "",
+  "build": {"name": "trunk_22860532_cod24_tu100_bnet_v23_dev", "token": "9c29a94d-bf65-46e2-a0a1-ce407873fe53"},
+  "buildKey": "f4aae10dc7bbbe471cad82fbc80b382d",
+  "cdnKey": "b7a6cc721d285777539df05bca69b35a",
+  "definition": "a953d9eb051bc14bda59e595434d1477",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:14.000Z",
+  "path": "tpr/auksv",
+  "pipelineId": 236,
+  "productConfig": {"cdnPath": "", "hash": "dfdcd5c44c4aa36cdd4d21ec59eaf394"},
+  "versionNumber": 22860532,
+  "versionString": "0.0.0.22860532d"
+}

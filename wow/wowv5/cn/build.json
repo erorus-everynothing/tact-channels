@@ -1,1 +1,14 @@
-{"definition": "285672cf332ce67aaa7285bd5ac66d8c"}
+{
+  "armadilloKey": "",
+  "build": {"name": "WOW-68184patch2.5.6_Vendor5", "token": "62a051e3-ff52-4a52-a5e0-d9b8a9879a2a"},
+  "buildKey": "c7e0772214a96ae5d8af672c2199a98a",
+  "cdnKey": "44bceb4e875a47bff1d7ecd70c39398e",
+  "definition": "741406badd27d5e2c0a3c35268972aab",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:12:44.000Z",
+  "path": "tpr/wowv",
+  "pipelineId": 163,
+  "productConfig": {"cdnPath": "", "hash": "ee73aab1b8fc5185df76b504891a51c7"},
+  "versionNumber": 68184,
+  "versionString": "2.5.6.68184"
+}

@@ -1,1 +1,14 @@
-{"definition": "cb8394909abf09140e40d0fbfecb08b3"}
+{
+  "armadilloKey": "",
+  "build": {"name": "release_20106044_cod24_tu1_bnet_v23_dev_esports", "token": "8d4c7457-de60-4d22-abb9-847696fe2259"},
+  "buildKey": "09cc5ed6d0216de79b5eb91a7dfa5b95",
+  "cdnKey": "7296efc8917c5c6d188f3bd374e86b5e",
+  "definition": "b14bc76e262b28198ebe0f856e4ea89d",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:23.000Z",
+  "path": "tpr/btlrvb",
+  "pipelineId": 293,
+  "productConfig": {"cdnPath": "", "hash": "dcd80857fc23763d11ba499245d6d2e7"},
+  "versionNumber": 20106044,
+  "versionString": "0.0.0.20106044d"
+}

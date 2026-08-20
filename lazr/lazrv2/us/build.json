@@ -1,1 +1,14 @@
-{"definition": "c1f32fe1d24fbbf6bff04c95b45f83e1"}
+{
+  "armadilloKey": "",
+  "build": {"name": "CRC_1279292A_V2_signed_ship", "token": "91908b9a-9f32-43cc-8f4b-f080e3f2e56d"},
+  "buildKey": "99172ae8807ad936bfb440f7c96b30c1",
+  "cdnKey": "1834c94297f9ab34296297ce35134810",
+  "definition": "bb319824263f41c30c02b904dc7e6897",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:45.000Z",
+  "path": "tpr/lazrv",
+  "pipelineId": 209,
+  "productConfig": {"cdnPath": "", "hash": "24739b4edc11d7b04ac82ada30c1454a"},
+  "versionNumber": 1279292,
+  "versionString": "CRC_1279292A_V2_signed_ship"
+}

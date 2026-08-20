@@ -1,1 +1,17 @@
-{"definition": "a4728ca198fde3be1b2e1d1f1195f40a"}
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "trunk_27582470B_cod22_sep_tu4_v2_signed_bnet_r_ship_r2",
+    "token": "e777a683-1ecd-4f81-95e0-c123bd987fdb"
+  },
+  "buildKey": "2129d73b1f2cdd7c2bcd569455a739fa",
+  "cdnKey": "7c0c36a1b9c0a6b3eacb868bdc2e19c9",
+  "definition": "a5aa081647743d59fe45a53929dd94bf",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:53.000Z",
+  "path": "tpr/nina",
+  "pipelineId": 387,
+  "productConfig": {"cdnPath": "", "hash": "c1319ac3beab3aacb76a91dfa2315217"},
+  "versionNumber": 27582470,
+  "versionString": "2.2.0.27582470"
+}

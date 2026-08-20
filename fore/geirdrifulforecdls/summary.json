@@ -1,7 +1,35 @@
 {
-  "builds": [{"branches": ["eu", "kr", "us"], "definition": "4abc6148e735f0d9c4507a467e6f0097"}],
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {"name": "s4release_11429386_vk_geirdriful_fs_ship", "token": "10220b79-8be6-453b-8f51-64290a36410c"},
+      "buildKey": "b753da7400133f15bf3277b1a770947e",
+      "cdnKey": "f1e27c059987a5d05ae23b3f9c3dcaf2",
+      "definition": "021fc8e2f349e70f8b58cf754fe070ce",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:41.000Z",
+      "path": "tpr/foree",
+      "pipelineId": 264,
+      "productConfig": {"cdnPath": "", "hash": "d311d711f2cc25d073c9e7229ead79ca"},
+      "versionNumber": 11429386,
+      "versionString": "1.17.0.11429386"
+    }
+  ],
   "infrastructure": false,
   "product": "fore",
-  "regions": [{"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
+  "regions": [
+    {
+      "branches": ["us"],
+      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
   "variant": "geirdrifulforecdls"
 }

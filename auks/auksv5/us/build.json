@@ -1,1 +1,17 @@
-{"definition": "30372d38068d8e896cad96e77a8425ce"}
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "release_28354448_cod25_season5_5_signed_bnet_v5_ship",
+    "token": "dc3ab604-502d-462b-b38b-979273287169"
+  },
+  "buildKey": "dea7ee4fd114dc4d1917be3ed8329207",
+  "cdnKey": "8d6ffa7d4c700c83504746c1da266a33",
+  "definition": "f0c3a1c057a04a92de5c75a1007c4526",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:15.000Z",
+  "path": "tpr/auksv",
+  "pipelineId": 236,
+  "productConfig": {"cdnPath": "", "hash": "745a64bfa55848323e75135e4fd13bcd"},
+  "versionNumber": 28354448,
+  "versionString": "2.17.3.28354448s"
+}

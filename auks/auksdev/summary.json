@@ -1,7 +1,36 @@
 {
-  "builds": [{"branches": ["eu", "kr", "us"], "definition": "dcc2d6dae952449993649e4730a7e7e2"}],
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {
+        "name": "cert_28338667A_cod26_beta_tu1_valkyrie_patch3_signed_bnet_r_ship",
+        "token": "ad6fa6d3-017c-464d-879b-9e5a9bb0ac07"
+      },
+      "buildKey": "c3870707a37ed1056a11903585d0ba5e",
+      "cdnKey": "158fcec90adaf4024a4e25c0d20b0c96",
+      "definition": "4410b90f7a166c4de961dd1823b88c7a",
+      "keyRing": "",
+      "lastModified": "2026-08-15T00:30:52.000Z",
+      "path": "tpr/auksdev/4",
+      "pipelineId": 235,
+      "productConfig": {"cdnPath": "", "hash": "fb3484e5ec94712e71c40c05848ecb19"},
+      "versionNumber": 28338667,
+      "versionString": "1.0.0.28338667"
+    }
+  ],
   "infrastructure": false,
   "product": "auks",
-  "regions": [{"branches": ["us", "eu"], "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca"}],
+  "regions": [
+    {
+      "branches": ["us", "eu"],
+      "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=6"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
+  ],
   "variant": "auksdev"
 }

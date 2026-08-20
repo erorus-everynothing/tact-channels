@@ -1,1 +1,17 @@
-{"definition": "ab0238e86ea9dd3c0dddfc614bb3b7ae"}
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "etu_21243859_cod24_tu12_signed_valkyrie_update_v24_ship_esports",
+    "token": "5afce5eb-1d70-48ca-b9bd-962427b334eb"
+  },
+  "buildKey": "06814d0cd3d0b05709ced00dd008713e",
+  "cdnKey": "edc5809564d2a51b73178e735e31f06b",
+  "definition": "0bfa358a8b259247b88f9eec17f88c6f",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:23.000Z",
+  "path": "tpr/btlrvb",
+  "pipelineId": 293,
+  "productConfig": {"cdnPath": "", "hash": "8c721b44478fd85888f516eb696d9cff"},
+  "versionNumber": 21243860,
+  "versionString": "0.0.0.21243859se"
+}

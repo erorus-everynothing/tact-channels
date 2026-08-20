@@ -1,1 +1,17 @@
-{"definition": "993584c12e23879f7ec93e5662c3153e"}
+{
+  "armadilloKey": "",
+  "build": {
+    "name": "trunk_23130977A_cod22_sep_tu2_bnet_version1_signed_v4_ship",
+    "token": "9f012b2b-4ce8-4f0d-8445-25e2f778fbd8"
+  },
+  "buildKey": "a06fc75dfac2331a028c2c575490e7a1",
+  "cdnKey": "9883a1c40861036bbb73c5519848b481",
+  "definition": "159a260586910b3d070b57cadd0fd330",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:54.000Z",
+  "path": "tpr/ninav",
+  "pipelineId": 372,
+  "productConfig": {"cdnPath": "", "hash": "20c0a933072feea86e61e675334e00df"},
+  "versionNumber": 23137178,
+  "versionString": "0.0.1.23137177s"
+}

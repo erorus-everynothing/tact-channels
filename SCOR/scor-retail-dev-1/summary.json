@@ -1,11 +1,59 @@
 {
-  "builds": [{"branches": ["eu", "kr", "us"], "definition": "88e1a7ddd6b03e3a76742afb52f34faa"}],
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {"name": "SeaOfThieves_2.151.6146.0", "token": "d45d8bfb-b6f0-468b-8556-ec1686f064fd"},
+      "buildKey": "dceca2aa14f084cbd56f9cfe89a6c891",
+      "cdnKey": "1c4ee386b8f1ed3bc081adb8f2e87692",
+      "definition": "e753b77cc5f733c33314e553edf60391",
+      "keyRing": "",
+      "lastModified": "2026-08-17T15:59:04.000Z",
+      "path": "tpr/scordev",
+      "pipelineId": 334,
+      "productConfig": {"cdnPath": "", "hash": "303005c4a30e508161f1f7d26fc72b96"},
+      "versionNumber": 1516146,
+      "versionString": "2.151.6146.0"
+    }
+  ],
   "infrastructure": false,
   "product": "SCOR",
   "regions": [
-    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
-    {"branches": ["eu"], "cdns": "74238f23349cb93a0d7460c4f998a726"},
-    {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
+    {
+      "branches": ["us"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["eu"],
+      "cdns": "74238f23349cb93a0d7460c4f998a726",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4"}
+      ],
+      "lastModified": "2026-08-14T22:10:36.000Z"
+    },
+    {
+      "branches": ["kr"],
+      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
+        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    }
   ],
   "variant": "scor-retail-dev-1"
 }

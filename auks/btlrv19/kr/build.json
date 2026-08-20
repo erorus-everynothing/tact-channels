@@ -1,1 +1,14 @@
-{"definition": "d56a1673e0b0563ab947ce9e06e1dce5"}
+{
+  "armadilloKey": "",
+  "build": {"name": "cert_21400079_cod24_tu13_bnet_v19_dev", "token": "4119f5b8-d3cc-4459-8e61-2c8443c436da"},
+  "buildKey": "9deef9196b527fd15ce2e2ab76581a2d",
+  "cdnKey": "e6e53550cba8ac49769a71b91a37705c",
+  "definition": "24a201d61073e3615f3ea8a62de7a3c0",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:21.000Z",
+  "path": "tpr/btlrv",
+  "pipelineId": 292,
+  "productConfig": {"cdnPath": "", "hash": "a8930b91cc3182ff61f5919401e21e75"},
+  "versionNumber": 21400079,
+  "versionString": "0.0.0.21400079d"
+}

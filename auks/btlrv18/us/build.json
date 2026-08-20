@@ -1,1 +1,14 @@
-{"definition": "0bbb9810958d7039a6b084af1ddbbf55"}
+{
+  "armadilloKey": "",
+  "build": {"name": "release_27953690_cod24_sep_tu2_bnet_v18_dev", "token": "c728d9f2-3130-4e4a-938f-c9736aabb006"},
+  "buildKey": "1a064badfff2d7b9171dd9afd2275eb6",
+  "cdnKey": "d8ee62fe6e83296020f8180bbb2d5164",
+  "definition": "c544456c6d3e6f32c4422b550d2b065a",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:21.000Z",
+  "path": "tpr/btlrv",
+  "pipelineId": 292,
+  "productConfig": {"cdnPath": "", "hash": "2613b202bbe1608bf16af62b1b4d970d"},
+  "versionNumber": 27953690,
+  "versionString": "0.0.0.27953690d"
+}

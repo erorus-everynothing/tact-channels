@@ -1,11 +1,59 @@
 {
-  "builds": [{"branches": ["us"], "definition": "d5c829c5dedb87dc7343a94f8d5952b4"}],
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "prometheus-2_24_1_0-152935-probv3", "token": "45a4c854-f23f-48c4-97e2-bc51e7fbaad7"},
+      "buildKey": "d2da80911fe7b78b6c72bc6b9fbdde97",
+      "cdnKey": "06349250b368940d6be4840245500729",
+      "definition": "d53d48bdfc35ad2b5407d522b45d7853",
+      "keyRing": "",
+      "lastModified": "2026-08-20T12:26:23.000Z",
+      "path": "tpr/prov3/2",
+      "pipelineId": 299,
+      "productConfig": {"cdnPath": "", "hash": "d15e5a07bee5d25317cc8685a890cf76"},
+      "versionNumber": 152935,
+      "versionString": "2.24.1.0.152935"
+    }
+  ],
   "infrastructure": false,
   "product": "ovw",
   "regions": [
-    {"branches": ["us", "tw"], "cdns": "919646d723f2fff72418101b1223ddb0"},
-    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
-    {"branches": ["kr"], "cdns": "f2f702bf5f33ea42ec912e967665ef6b"}
+    {
+      "branches": ["us", "tw"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["eu"],
+      "cdns": "287b8918c145665428c6f714cdc6e3bd",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:32.000Z"
+    },
+    {
+      "branches": ["kr"],
+      "cdns": "f2f702bf5f33ea42ec912e967665ef6b",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=2"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"},
+        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:35.000Z"
+    }
   ],
   "variant": "probv3"
 }

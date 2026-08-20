@@ -1,1 +1,14 @@
-{"definition": "c5235f977baaeb7bf28844cd10b5ba76"}
+{
+  "armadilloKey": "",
+  "build": {"name": "magma_13739813_vk_valkyrie_brynhildr_dev2_dev", "token": "53537c9a-80b5-49a6-80e7-9ef7d635b58b"},
+  "buildKey": "95752802ebbac4282b9f963ab9dad65e",
+  "cdnKey": "474957c51580d5f644dcbaa0030ea173",
+  "definition": "1f6d1b9618d0e20ccc57f7b8ed8787a8",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:18.000Z",
+  "path": "tpr/odinv",
+  "pipelineId": 192,
+  "productConfig": {"cdnPath": "", "hash": "68ce819f5a059eeae3134827e1f1f73f"},
+  "versionNumber": 13739813,
+  "versionString": "1.0.0.13739813d"
+}

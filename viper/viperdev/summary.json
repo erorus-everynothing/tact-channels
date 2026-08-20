@@ -1,10 +1,42 @@
 {
-  "builds": [{"branches": ["eu", "kr", "us"], "definition": "6f45baf527018b1de3e7ee08c6f24345"}],
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "kr", "us"],
+      "build": {"name": "live_9060482_tu23_exe_patch_signed_d_ship4", "token": "022bdbfe-ec02-477f-a09d-0c3e3f3d150f"},
+      "buildKey": "2afae92477c357e5ee41b15d3e081ad0",
+      "cdnKey": "bcdccc14722a381d414ccd9993f36a18",
+      "definition": "3863d4b0ca7c5e5117e389e45b3cd204",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:12:37.000Z",
+      "path": "tpr/viperd",
+      "pipelineId": 185,
+      "productConfig": {"cdnPath": "", "hash": "2c895602355535c720cd53e27c4daa3f"},
+      "versionNumber": 9060482,
+      "versionString": "1.23.0.9060482f"
+    }
+  ],
   "infrastructure": false,
   "product": "viper",
   "regions": [
-    {"branches": ["us", "eu"], "cdns": "919f74f3f8ec87636755cdb61ad68bab"},
-    {"branches": ["kr"], "cdns": "f17a5124d59dbe250640562a6c96e7d3"}
+    {
+      "branches": ["us", "eu"],
+      "cdns": "919f74f3f8ec87636755cdb61ad68bab",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=10"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:33.000Z"
+    },
+    {
+      "branches": ["kr"],
+      "cdns": "f17a5124d59dbe250640562a6c96e7d3",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:33.000Z"
+    }
   ],
   "variant": "viperdev"
 }

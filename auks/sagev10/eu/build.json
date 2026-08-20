@@ -1,1 +1,14 @@
-{"definition": "5b38f564742c85f6ce7e07d4c749737e"}
+{
+  "armadilloKey": "",
+  "build": {"name": "trunk_25614714_sat_clean_launch_bnet_v10_dev", "token": "63308a69-36b0-46a3-b3de-c85033d558ef"},
+  "buildKey": "81c2b0399099867d1d235ae0fd3e99d8",
+  "cdnKey": "3abb577e5ec6c6262612d807ef562676",
+  "definition": "a04a0d1a9bb8273ab196a5256fd6d4f4",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:12:26.000Z",
+  "path": "tpr/sagev",
+  "pipelineId": 304,
+  "productConfig": {"cdnPath": "", "hash": "82207308b3879062aacfcea4e1b03032"},
+  "versionNumber": 25614714,
+  "versionString": "0.0.0.25614714d"
+}

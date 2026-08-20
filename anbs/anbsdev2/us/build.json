@@ -1,1 +1,14 @@
-{"definition": "496ea4379a2e1d36b5bd3670f92795f9"}
+{
+  "armadilloKey": "",
+  "build": {"name": "3487566_430_staging_tact_row", "token": "63a8b4dd-7022-4f57-9b7b-a46b06f3285c"},
+  "buildKey": "23537bb647bd8b56e6bf5be76bc86409",
+  "cdnKey": "fdae2297956fa9099b4af20c6602b8b5",
+  "definition": "470e0f0c88a81003fcefd07d1c8036e5",
+  "keyRing": "",
+  "lastModified": "2026-08-14T22:11:04.000Z",
+  "path": "tpr/anbsdev",
+  "pipelineId": 262,
+  "productConfig": {"cdnPath": "", "hash": "02733796cf0f10f5475975b830a8528c"},
+  "versionNumber": 3487566,
+  "versionString": "4.3.0.3487566"
+}

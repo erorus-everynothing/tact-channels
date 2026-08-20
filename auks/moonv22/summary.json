@@ -1,13 +1,64 @@
 {
   "builds": [
-    {"branches": ["eu"], "definition": "b6e9e622a38e41baaa949f0429220cf7"},
-    {"branches": ["us"], "definition": "213c617c696befc0d0b2bab5ac70d3bf"}
+    {
+      "armadilloKey": "",
+      "branches": ["eu"],
+      "build": {
+        "name": "release_16349152_cod23_tu3_fileid_v22_ship_sa",
+        "token": "2735c556-f10f-45bc-aaaf-4ac85ebb0ddd"
+      },
+      "buildKey": "d4c6d6287851d27f94a7b03c4a60e858",
+      "cdnKey": "e6a33cf2c5d116b08707cd459ced378c",
+      "definition": "ea61ffb7a2a19a5150a3bc872d8ba17c",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:50.000Z",
+      "path": "moon/moonvb",
+      "pipelineId": 290,
+      "productConfig": {"cdnPath": "", "hash": "66cc20215c7070041325229f286a35c1"},
+      "versionNumber": 16349152,
+      "versionString": "0.0.0.16349152d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "release_17186171_cod23_tus2_v22_dev_esports", "token": "22c006e4-4556-4096-9b8d-43cc5f5a47a7"},
+      "buildKey": "adc419e6441301fa936310f9468c969d",
+      "cdnKey": "2ad44ce33310671413a79fb015cbeaea",
+      "definition": "e7d559aeb73d1b3774105ac23fce8089",
+      "keyRing": "",
+      "lastModified": "2026-08-14T22:11:50.000Z",
+      "path": "moon/moonvb",
+      "pipelineId": 290,
+      "productConfig": {"cdnPath": "", "hash": "aca25d7617ab8a4c7920db43d71d5231"},
+      "versionNumber": 17186172,
+      "versionString": "0.0.2.17186171d"
+    }
   ],
   "infrastructure": false,
   "product": "auks",
   "regions": [
-    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"},
-    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"}
+    {
+      "branches": ["us"],
+      "cdns": "7d77b999022b646a1daa9a56779f335e",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    },
+    {
+      "branches": ["eu"],
+      "cdns": "aa0fa3968e10940e193d53bcd24b53ef",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-14T22:10:34.000Z"
+    }
   ],
   "variant": "moonv22"
 }

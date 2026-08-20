@@ -6,12 +6,12 @@
       "build": {"name": "64954", "token": "c51a9d8f-af95-4c0f-895d-cf85aede7b57"},
       "buildKey": "4cc1f666e80cf3ed331ad02b85280545",
       "cdnKey": "3f46e577358b6bc5da21b6030d718071",
-      "definition": "eaf1fec6a0bd65740e5812153d66c22e",
+      "definition": "dcc5b7dc33c7160313e7449df2e72283",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:59.000Z",
+      "lastModified": "2026-08-14T17:04:40.000Z",
       "path": "tpr/osi",
       "pipelineId": 99,
-      "productConfig": {"cdnPath": "", "hash": "9f07c023dbbdd1fdbdbbe57740c8ecad"},
+      "productConfig": {"hash": "9f07c023dbbdd1fdbdbbe57740c8ecad"},
       "versionNumber": 64954,
       "versionString": "0.2.64954"
     }

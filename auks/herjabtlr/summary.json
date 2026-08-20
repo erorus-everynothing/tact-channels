@@ -9,12 +9,12 @@
       },
       "buildKey": "5f5934bb462406304106a6f36a3f9210",
       "cdnKey": "1987f851f8f37de42bdeb73f8fc8f8a0",
-      "definition": "d61751aa6dc46111e2aea0b243bdcdd6",
+      "definition": "2052505f0b3ed53040913877b5dd79de",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:42.000Z",
+      "lastModified": "2026-08-14T17:04:22.000Z",
       "path": "cortez/Cerberus-B-Live",
       "pipelineId": 405,
-      "productConfig": {"cdnPath": "", "hash": "899ce187836ed3b2a7a7250b8f34455c"},
+      "productConfig": {"hash": "899ce187836ed3b2a7a7250b8f34455c"},
       "versionNumber": 26405199,
       "versionString": "2.0.0.26405199"
     }

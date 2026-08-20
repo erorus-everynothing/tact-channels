@@ -6,12 +6,12 @@
       "build": {"name": "1.0.1.2343-live-dev", "token": "521c8149-da68-40f4-97b3-2eaddffe1f31"},
       "buildKey": "5125497df859e45eb0125f5544854898",
       "cdnKey": "85d334a4133da0b0684992d9a5a06888",
-      "definition": "040c1f704a8838ecb857947db4e9ba92",
+      "definition": "b1495313261dba5efdf3e574540ab7bd",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:38.000Z",
+      "lastModified": "2026-08-14T17:05:23.000Z",
       "path": "tpr/w2r-live-dev",
       "pipelineId": 323,
-      "productConfig": {"cdnPath": "", "hash": "25a63b003070197f83bf54d2c82a9429"},
+      "productConfig": {"hash": "25a63b003070197f83bf54d2c82a9429"},
       "versionNumber": 2343,
       "versionString": "1.0.1.2343"
     }

@@ -6,12 +6,12 @@
       "build": {"name": "prometheus-2_25_0_0-152905-GM-prodev10", "token": "4532b1c9-1b88-40cd-ba25-b6c8789287f8"},
       "buildKey": "ca3f4d133b9dd02790196dfed2140c9a",
       "cdnKey": "019d13724e53e0b4dc4f3192b22f2511",
-      "definition": "9af0ff9c137a4df224566d6d6235d5f1",
+      "definition": "59cc3bd93329bb288cb68a368bd3c9b9",
       "keyRing": "",
-      "lastModified": "2026-08-18T22:30:23.000Z",
+      "lastModified": "2026-08-20T06:00:52.000Z",
       "path": "tpr/proa2",
       "pipelineId": 266,
-      "productConfig": {"cdnPath": "", "hash": "c22ad3a2c561513ddf7af9fab5c3d230"},
+      "productConfig": {"hash": "c22ad3a2c561513ddf7af9fab5c3d230"},
       "versionNumber": 152905,
       "versionString": "2.25.0.0.152905"
     }

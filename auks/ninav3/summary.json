@@ -6,12 +6,12 @@
       "build": {"name": "release_22816335_cod22_sep_bnet_v3_dev", "token": "7fd0a2db-1d85-4c83-bc9a-6a25dcd1a205"},
       "buildKey": "fa650d59d7141cbf77f977302c784779",
       "cdnKey": "525e46c8f5019ce1bee1f7cdb797dd57",
-      "definition": "19059b8ca0e41cd9e1504dc35eb0b503",
+      "definition": "92482ccaabf5a4bd05e4c136c5b8c7f6",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:54.000Z",
+      "lastModified": "2026-08-14T17:04:34.000Z",
       "path": "tpr/ninav",
       "pipelineId": 372,
-      "productConfig": {"cdnPath": "", "hash": "df6240bbcc460045c38a84fd4e8de4a2"},
+      "productConfig": {"hash": "df6240bbcc460045c38a84fd4e8de4a2"},
       "versionNumber": 22816335,
       "versionString": "0.0.0.22816335d"
     }

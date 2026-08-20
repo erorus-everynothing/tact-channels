@@ -3,12 +3,12 @@
   "build": {"name": "s4release_12401045_tu23_juliet_s4_v4_dev", "token": "e68bb0aa-f651-4d05-9e34-12613cbb449a"},
   "buildKey": "4c3b02566d0b73dc0fe843fd650323c8",
   "cdnKey": "1abd159e5c09a3eccad71369bbf24eb1",
-  "definition": "887c109daf6a77158c66e3e0c2403cee",
+  "definition": "6579298cf7b976eda6239ec6a90af9cf",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:11:38.000Z",
+  "lastModified": "2026-08-14T17:04:17.000Z",
   "path": "tpr/forev",
   "pipelineId": 219,
-  "productConfig": {"cdnPath": "", "hash": "c90904f3fa7ff4d336ba5f6be0db7381"},
+  "productConfig": {"hash": "c90904f3fa7ff4d336ba5f6be0db7381"},
   "versionNumber": 12401045,
   "versionString": "1.17.0.12401045d"
 }

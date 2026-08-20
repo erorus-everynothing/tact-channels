@@ -3,12 +3,12 @@
   "build": {"name": "s4release_11944489_tu20_hotel_s4_v2_dev", "token": "b1b8c668-40cf-4ab9-9e82-c3557d5380c2"},
   "buildKey": "962c8609f4de153905d2846cadf60298",
   "cdnKey": "76e4c6d331225b015799dee826133d77",
-  "definition": "e0941996a98f7de1208fbcf866a630be",
+  "definition": "4d0ebe80fa02f3efef77a03abc3675f1",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:11:37.000Z",
+  "lastModified": "2026-08-14T17:04:15.000Z",
   "path": "tpr/forev",
   "pipelineId": 219,
-  "productConfig": {"cdnPath": "", "hash": "ff988a5d9d6ed5c4d1db880e3fdf9981"},
+  "productConfig": {"hash": "ff988a5d9d6ed5c4d1db880e3fdf9981"},
   "versionNumber": 11944489,
   "versionString": "1.22.0.11944489d"
 }

@@ -3,12 +3,12 @@
   "build": {"name": "bo5_tu7_8408002L_signed_zl_ship", "token": "001cc72c-aea7-4db0-ba14-ce84dc7ff7ba"},
   "buildKey": "0a14a10d4100d1cb3fd459d43750e023",
   "cdnKey": "2dda49d769e6bb5c10aad21b8f4b511d",
-  "definition": "4711a6222660160ec5091345d4c79266",
+  "definition": "900d254a276d36036e6d23f50af6085e",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:12:46.000Z",
+  "lastModified": "2026-08-14T17:05:32.000Z",
   "path": "tpr/zeuse",
   "pipelineId": 223,
-  "productConfig": {"cdnPath": "", "hash": "6bec255568ce5b4afdf434f48d543ade"},
+  "productConfig": {"hash": "6bec255568ce5b4afdf434f48d543ade"},
   "versionNumber": 8408002,
   "versionString": "1.7.7.8408002"
 }

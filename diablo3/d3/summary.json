@@ -6,12 +6,12 @@
       "build": {"name": "99920_Win32_2_8_0_RC", "token": "4bca2240-1155-4f88-b966-a5eb8a06d2e2"},
       "buildKey": "e34fc3fb7831a77e0ad7def0bb399ac7",
       "cdnKey": "6e7da029be22189538fe7076bddbdf6d",
-      "definition": "918f097a8ead29d821edd3f6bc78cc88",
+      "definition": "8e3d66cee27f27408bca75d1c964eddb",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:04:05.000Z",
+      "lastModified": "2026-08-14T22:11:31.000Z",
       "path": "tpr/diablo3",
       "pipelineId": 45,
-      "productConfig": {"hash": "5f66c90e467bd8e8fb5f9b625db233dd"},
+      "productConfig": {"cdnPath": "", "hash": "5f66c90e467bd8e8fb5f9b625db233dd"},
       "versionNumber": 99920,
       "versionString": "2.8.0.99920"
     }

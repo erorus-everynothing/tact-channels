@@ -3,12 +3,12 @@
   "build": {"name": "3141_s1", "token": "c76c1ebf-ec3a-4928-a188-fbf8ffb3b2cd"},
   "buildKey": "20d520bf6c114f8b17a0eaf6cd043449",
   "cdnKey": "5b78f1061b5a933a9178fd8ec0fc279e",
-  "definition": "04f4822050eee0edb5b454f567826b63",
+  "definition": "eb4aa927fe340bfff49b6481b343a27b",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:01.000Z",
+  "lastModified": "2026-08-14T22:11:29.000Z",
   "path": "tpr/bnt004",
   "pipelineId": 135,
-  "productConfig": {"hash": "e8a9e3b2b36cc844d7a26a18fce57792"},
+  "productConfig": {"cdnPath": "", "hash": "e8a9e3b2b36cc844d7a26a18fce57792"},
   "versionNumber": 3141,
   "versionString": "1.18.10.3141"
 }

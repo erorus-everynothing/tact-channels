@@ -6,12 +6,12 @@
       "build": {"name": "92778", "token": "c1d8dea9-b713-4fac-bad4-a5cc36135134"},
       "buildKey": "4b484215f5e76e71443b33edfa95fe74",
       "cdnKey": "68ffefcce9175faac284daab4f0b725f",
-      "definition": "f144e1482e4f9a958a5e760a69740e6d",
+      "definition": "4902ea56812f022308a38252fb106126",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:04:40.000Z",
+      "lastModified": "2026-08-14T22:12:00.000Z",
       "path": "tpr/osi",
       "pipelineId": 99,
-      "productConfig": {"hash": "b72a45f58b652c8236221748fc5201a4"},
+      "productConfig": {"cdnPath": "", "hash": "b72a45f58b652c8236221748fc5201a4"},
       "versionNumber": 92778,
       "versionString": "3.2.92778"
     }

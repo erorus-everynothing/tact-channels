@@ -3,12 +3,12 @@
   "build": {"name": "release_19733549_cod23_tus6_bnet_v16_dev", "token": "51628c82-3975-460c-b7af-f323b2dac1fe"},
   "buildKey": "d3ed8c56e6382bf350aa22584cdc0281",
   "cdnKey": "2371c80936db7ee942c7dfe8ed40ca1e",
-  "definition": "e5cb3bb5816a30d8a9c20b55b2faea8f",
+  "definition": "12c6057c267d884a8790f857e5147a62",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:28.000Z",
+  "lastModified": "2026-08-14T22:11:48.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
-  "productConfig": {"hash": "ad4db2b98ccc97d3c6e794404a4c437a"},
+  "productConfig": {"cdnPath": "", "hash": "ad4db2b98ccc97d3c6e794404a4c437a"},
   "versionNumber": 19733549,
   "versionString": "1.0.0.19733549d"
 }

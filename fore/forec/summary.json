@@ -9,12 +9,12 @@
       },
       "buildKey": "58b56efe1e9fee650054b8175b046326",
       "cdnKey": "25691d79d8239ff85968cb30f9c4ff0d",
-      "definition": "bb19eef7590a5930574fabf53794c62a",
+      "definition": "82a839ff8903cf9c010f010d9e2afeec",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:04:12.000Z",
+      "lastModified": "2026-08-14T22:11:35.000Z",
       "path": "tpr/fore",
       "pipelineId": 217,
-      "productConfig": {"hash": "5dd2755d80e0097a95bbf48c04f7221a"},
+      "productConfig": {"cdnPath": "", "hash": "5dd2755d80e0097a95bbf48c04f7221a"},
       "versionNumber": 12510470,
       "versionString": "1.24.1.12510470"
     }

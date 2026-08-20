@@ -6,12 +6,12 @@
       "build": {"name": "WOW-69404patch12.1.0_NEVendor1", "token": "802f00c9-d805-491d-828b-7af7ee4fd44f"},
       "buildKey": "e1a962667607fcbf3b61377ab0bdf4e0",
       "cdnKey": "2881f5e773f72dab0a0aa20a3dfa8001",
-      "definition": "db08685dff0da447a3700322f55fd96e",
+      "definition": "0459986e2f505ad2e3a5ea1d8ef47f7f",
       "keyRing": "",
-      "lastModified": "2026-08-20T12:10:25.000Z",
+      "lastModified": "2026-08-20T08:41:02.000Z",
       "path": "tpr/wowvcn",
       "pipelineId": 403,
-      "productConfig": {"hash": "9e2f1e9974a90cdfe16c95f38043c6c6"},
+      "productConfig": {"cdnPath": "", "hash": "9e2f1e9974a90cdfe16c95f38043c6c6"},
       "versionNumber": 69404,
       "versionString": "12.1.0.69404"
     }

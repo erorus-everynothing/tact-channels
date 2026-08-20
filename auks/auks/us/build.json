@@ -6,12 +6,12 @@
   },
   "buildKey": "65cbba823e68b78ed4b53d8218295fc3",
   "cdnKey": "48a5110210fed61ed703bf7c11a211f6",
-  "definition": "97f9fdadd0fffd29e9e75007d67188cf",
+  "definition": "d47d78496af2eb939bca01589864a5c8",
   "keyRing": "cdbadddd986a061acac0a72ecbe72c83",
-  "lastModified": "2026-08-20T16:20:24.000Z",
+  "lastModified": "2026-08-20T21:08:23.000Z",
   "path": "tpr/auks",
   "pipelineId": 234,
-  "productConfig": {"hash": "12a095864a7c99bed26ee16845077021"},
+  "productConfig": {"cdnPath": "", "hash": "12a095864a7c99bed26ee16845077021"},
   "versionNumber": 28354448,
   "versionString": "3.13.1.28354448"
 }

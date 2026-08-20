@@ -6,12 +6,12 @@
       "build": {"name": "beta_7089334_9_15_exec_patch_etu2_signed_ship", "token": ""},
       "buildKey": "7fb3b588c3fe3e0134bf3353278369f9",
       "cdnKey": "69596d8a5c32bd6f5862b9d4acb88a88",
-      "definition": "7227f889ba87b764a6623aa84915a177",
+      "definition": "9d8c0d0dc4354eedc26129051a050b69",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:04:35.000Z",
+      "lastModified": "2026-08-14T22:11:55.000Z",
       "path": "tpr/odin",
       "pipelineId": 193,
-      "productConfig": {"hash": "27f941036aed8a8a2fd24125b79534a2"},
+      "productConfig": {"cdnPath": "", "hash": "27f941036aed8a8a2fd24125b79534a2"},
       "versionNumber": 7089335,
       "versionString": "0.01.2.7089334"
     }

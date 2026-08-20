@@ -6,12 +6,12 @@
       "build": {"name": "73428_Win64Client_3_2_1_fenrisvendor4", "token": "90c3edbe-ff1b-49fb-bfa3-0a4e0fb0c153"},
       "buildKey": "527272cd58267490c5e19046a44a561f",
       "cdnKey": "611c9af54a5287c544ac31700735402f",
-      "definition": "531e4f7a10b7b0300da140e08f0d418d",
+      "definition": "50a4a56eb60782cb2d0481067b546389",
       "keyRing": "",
-      "lastModified": "2026-08-20T15:40:25.000Z",
+      "lastModified": "2026-08-20T21:09:09.000Z",
       "path": "tpr/fenrisv",
       "pipelineId": 206,
-      "productConfig": {"hash": "c9104615596e57c338ff17540dc2be96"},
+      "productConfig": {"cdnPath": "", "hash": "c9104615596e57c338ff17540dc2be96"},
       "versionNumber": 73428,
       "versionString": "3.2.1.73428"
     }

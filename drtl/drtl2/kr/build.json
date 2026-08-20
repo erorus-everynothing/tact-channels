@@ -3,12 +3,12 @@
   "build": {"name": "diablo1_hellfire_1.0.2", "token": "a426ee6f-dcee-4b00-a7e4-42fa51ab53fe"},
   "buildKey": "80542473eb70fc407104ee9868766acd",
   "cdnKey": "d4811794a6ffe7f1a7ea5e11a0596e8b",
-  "definition": "106d418be0a33c2f9d3826ddbca94f0f",
+  "definition": "d15c39798f068e1d138deeec9a1771f1",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:06.000Z",
+  "lastModified": "2026-08-14T22:11:32.000Z",
   "path": "tpr/drtl",
   "pipelineId": 314,
-  "productConfig": {"hash": "077b09e87198602e7bbaa0c7ce6a54e9"},
+  "productConfig": {"cdnPath": "", "hash": "077b09e87198602e7bbaa0c7ce6a54e9"},
   "versionNumber": 102,
   "versionString": "1.0.2"
 }

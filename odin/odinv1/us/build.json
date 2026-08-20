@@ -3,12 +3,12 @@
   "build": {"name": "magmarel_13858333_tu_laze_2_21_dwl_bv1_dev", "token": "a79f8fa9-6d58-4525-9f08-a005177b189b"},
   "buildKey": "496c9c2cbb169c8da4e72005faf8ab1d",
   "cdnKey": "2c91bf39fdf797b3d43404fe3d38e60f",
-  "definition": "e22fb14a7ef614db7a5d7a7ea827ec99",
+  "definition": "e01fe6d32aa111a3265248b954c33de6",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:36.000Z",
+  "lastModified": "2026-08-14T22:11:56.000Z",
   "path": "tpr/odinv",
   "pipelineId": 192,
-  "productConfig": {"hash": "80087cd105b755fdbfc346aeed4c6e45"},
+  "productConfig": {"cdnPath": "", "hash": "80087cd105b755fdbfc346aeed4c6e45"},
   "versionNumber": 13858333,
   "versionString": "1.48.0.13858333d"
 }

@@ -3,12 +3,12 @@
   "build": {"name": "WOW-35078patch9.0.1_Event1", "token": "024308df-4d22-43ef-9e69-a1433bf1b3b1"},
   "buildKey": "43a001a23efd4193a96266be43fe67d8",
   "cdnKey": "7d2383bf1afc14d766aa763da75051d1",
-  "definition": "569eaa4499de213292a79d0498b8e7ef",
+  "definition": "5f9e0ff549f42b1e8201b9773eeac0a3",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:05:27.000Z",
+  "lastModified": "2026-08-14T22:12:41.000Z",
   "path": "tpr/wow",
   "pipelineId": 19,
-  "productConfig": {"hash": "daab8468d91c6c4664b42103bd0ede38"},
+  "productConfig": {"cdnPath": "", "hash": "daab8468d91c6c4664b42103bd0ede38"},
   "versionNumber": 35078,
   "versionString": "9.0.1.35078"
 }

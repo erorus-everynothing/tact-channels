@@ -3,12 +3,12 @@
   "build": {"name": "5414-agent-2.9.5", "token": ""},
   "buildKey": "d756ed92717bd6c1ceca7c3ba66a9c12",
   "cdnKey": "14d88c9e06c06a46edbe39922f2f1f7d",
-  "definition": "21f63a49a33d5825a8233e06e44f2be7",
+  "definition": "4203a01cfb2c8ae4da84dc7d19bb9afc",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:05:22.000Z",
+  "lastModified": "2026-08-14T22:12:37.000Z",
   "path": "bnet/LABS-AGENT-TEST",
   "pipelineId": 80,
-  "productConfig": {"hash": null},
+  "productConfig": {"cdnPath": "", "hash": ""},
   "versionNumber": 514,
   "versionString": "514-2.9.5"
 }

@@ -3,12 +3,12 @@
   "build": {"name": "release_22480360_cer_ihv_bnet_v15_vendor", "token": "a29df580-4197-4732-9e44-d1bfef2e41bf"},
   "buildKey": "c2eb3e75902e7dc660b45d731cfa5724",
   "cdnKey": "47a9205261be6136928e014b961190bb",
-  "definition": "772fa783b3d0df778088b4033afb3198",
+  "definition": "3ada4d7e2a64b680c5e342d061fb71d3",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:03:51.000Z",
+  "lastModified": "2026-08-14T22:11:20.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
-  "productConfig": {"hash": "9d95356c962996dfd8dfeff073254668"},
+  "productConfig": {"cdnPath": "", "hash": "9d95356c962996dfd8dfeff073254668"},
   "versionNumber": 22480360,
   "versionString": "0.0.0.22480360v"
 }

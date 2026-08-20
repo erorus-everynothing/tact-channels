@@ -3,12 +3,12 @@
   "build": {"name": "ChicagoDemo_BNet_Ship_65876", "token": "310de860-bcb0-4294-83b0-b543ed53545e"},
   "buildKey": "b19e3da2e1bbc0d7288831bb7ea5cc0a",
   "cdnKey": "83a064e02d69874114c596b59fff5a87",
-  "definition": "22d836a31f461928151411eee3ce77b1",
+  "definition": "a08b26abb56bc110110136d4f75f5a6d",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:25.000Z",
+  "lastModified": "2026-08-14T22:11:45.000Z",
   "path": "tpr/lbrarc",
   "pipelineId": 367,
-  "productConfig": {"hash": "051e8bb0c1c5c40489a16e958b911b2b"},
+  "productConfig": {"cdnPath": "", "hash": "051e8bb0c1c5c40489a16e958b911b2b"},
   "versionNumber": 65876,
   "versionString": "Chicago Demo 1.0.65876"
 }

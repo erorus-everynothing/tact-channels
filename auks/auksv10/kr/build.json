@@ -3,12 +3,12 @@
   "build": {"name": "pre_sub_16427308_cod_tus6_5_1_signed_v10_ship", "token": "f3f87236-4f7c-4425-95da-2356fce55f29"},
   "buildKey": "d5d00eed50a9472dfb125e99d1bcdb16",
   "cdnKey": "4b9913087195c6f717f4d69fbea35298",
-  "definition": "1220d7df4a2cf6f025fad8496eeaafe9",
+  "definition": "f6ec8ebb26c255ad87faed555414d289",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:03:35.000Z",
+  "lastModified": "2026-08-14T22:11:10.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
-  "productConfig": {"hash": "ce77022d28e63b6d6756f7072035a383"},
+  "productConfig": {"cdnPath": "", "hash": "ce77022d28e63b6d6756f7072035a383"},
   "versionNumber": 16427308,
   "versionString": "1.2.0.16427308s"
 }

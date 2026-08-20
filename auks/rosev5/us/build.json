@@ -3,12 +3,12 @@
   "build": {"name": "sp_release_28499470_cod26_ur_ur_dmz_bnet_v5_dev", "token": "a3a9b887-1c8e-4aa0-99d0-a2aa050c8a4b"},
   "buildKey": "a0d6d1f649e790828f881921c6d30d61",
   "cdnKey": "1cb30b88f1d56a230a4fea4eb952a3d5",
-  "definition": "63e4b9a0acae21884fbd5db9f1d54ad4",
+  "definition": "1aa41cb9bb7b28fa81279280bee66972",
   "keyRing": "",
-  "lastModified": "2026-08-20T06:01:00.000Z",
+  "lastModified": "2026-08-17T12:08:23.000Z",
   "path": "tpr/rosev",
   "pipelineId": 302,
-  "productConfig": {"hash": "7d2a0d1e6f418187bda98805dc1a50f8"},
+  "productConfig": {"cdnPath": "", "hash": "7d2a0d1e6f418187bda98805dc1a50f8"},
   "versionNumber": 28499470,
   "versionString": "0.0.0.28499470d"
 }

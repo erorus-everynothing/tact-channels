@@ -6,12 +6,12 @@
   },
   "buildKey": "7656179b403a4d026504d79a69baa411",
   "cdnKey": "55847fddf8a95a6ef2b5e715c2cd500f",
-  "definition": "a04c90fd37154ba347b45771b93b1ea7",
+  "definition": "45526c4b2d95c9419839862629fce183",
   "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
-  "lastModified": "2026-08-20T06:00:51.000Z",
+  "lastModified": "2026-08-19T23:33:23.000Z",
   "path": "tpr/ovw",
   "pipelineId": 43,
-  "productConfig": {"hash": "46035974354aca0e79028f98fe0a6ae4"},
+  "productConfig": {"cdnPath": "", "hash": "46035974354aca0e79028f98fe0a6ae4"},
   "versionNumber": 152850,
   "versionString": "2.24.0.3.152850KB"
 }

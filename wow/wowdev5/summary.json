@@ -6,12 +6,12 @@
       "build": {"name": "WOW-69322patch1.60.0_Test", "token": "a058d48d-36c4-46ee-b6c4-b3c6a0ad9dc5"},
       "buildKey": "d92a5c5f5d01ac940f9916c7b30d0fad",
       "cdnKey": "a69125accdc90f7bdfb66206f92721f9",
-      "definition": "7b90207a93705354a7f9a2c0df58b470",
+      "definition": "4465bf009dd7791c679057e37ab7f654",
       "keyRing": "",
-      "lastModified": "2026-08-14T18:58:03.000Z",
+      "lastModified": "2026-08-14T22:12:41.000Z",
       "path": "tpr/wowdev/1",
       "pipelineId": 56,
-      "productConfig": {"hash": "c91c9b31b01687baed3cfd50e4749cfc"},
+      "productConfig": {"cdnPath": "", "hash": "c91c9b31b01687baed3cfd50e4749cfc"},
       "versionNumber": 69322,
       "versionString": "1.60.0.69322"
     }

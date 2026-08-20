@@ -6,12 +6,12 @@
       "build": {"name": "WOW-68887patch12.0.7_XPTR", "token": "7ddd64dd-925d-4af7-b297-cbc2313470f2"},
       "buildKey": "ab664ca617a9c3d37aad9cea9d7b0aff",
       "cdnKey": "f9b73f368d180a6a24594d2604d07905",
-      "definition": "9557699dead9f056f1fb3417a51bd8bb",
+      "definition": "6b7bb5939a17a258c170833873d49035",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:05:31.000Z",
+      "lastModified": "2026-08-14T22:12:45.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
-      "productConfig": {"hash": "c5983bded94d708c1958dde1fa6dbf22"},
+      "productConfig": {"cdnPath": "", "hash": "c5983bded94d708c1958dde1fa6dbf22"},
       "versionNumber": 68887,
       "versionString": "12.0.7.68887"
     }

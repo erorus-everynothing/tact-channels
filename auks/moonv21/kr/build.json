@@ -3,12 +3,12 @@
   "build": {"name": "trunk_23100191_cod23_sep_tu1_bnet_v21_dev", "token": "8761464a-622a-4562-889a-fdaa33328d9d"},
   "buildKey": "2294067e6957d6c7ead50067aa26d87c",
   "cdnKey": "bc2ef08e72bb8e7006a4ab4331304edb",
-  "definition": "0c365a19e8f70cdc84c279256b9d748c",
+  "definition": "91efd04d4ec6442bed96cf2091e4fbe6",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:30.000Z",
+  "lastModified": "2026-08-14T22:11:50.000Z",
   "path": "moon/moonvb",
   "pipelineId": 290,
-  "productConfig": {"hash": "f290fd757a7eb23809039171fc824358"},
+  "productConfig": {"cdnPath": "", "hash": "f290fd757a7eb23809039171fc824358"},
   "versionNumber": 23100191,
   "versionString": "0.0.0.23100191d"
 }

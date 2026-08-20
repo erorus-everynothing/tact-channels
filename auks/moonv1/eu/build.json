@@ -6,12 +6,12 @@
   },
   "buildKey": "5d145e25c06b4082ba9f9f78d9e34ca7",
   "cdnKey": "648bd7fa9327524ed916cb09fe337f36",
-  "definition": "b87ec17d2d56128f46eae382d8275824",
+  "definition": "834a225f92ad94d93e265db4701f5165",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:26.000Z",
+  "lastModified": "2026-08-14T22:11:46.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
-  "productConfig": {"hash": "595cd90af6ff227545e8c6acfade6853"},
+  "productConfig": {"cdnPath": "", "hash": "595cd90af6ff227545e8c6acfade6853"},
   "versionNumber": 19373551,
   "versionString": "1.0.0.19373551d"
 }

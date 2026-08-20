@@ -3,12 +3,12 @@
   "build": {"name": "WOW-64889patch12.0.1_Vendor8", "token": "0c4379e9-1baa-4916-af1d-7bc0197cec1d"},
   "buildKey": "c3bbbd594ea1c8671527194bff0cb8ee",
   "cdnKey": "f6e2152a6ba981a661f6c9ffea4c8eac",
-  "definition": "2d9725e2273f484ef370bc7442add0ff",
+  "definition": "6982a984a4b18520bd996cc9496dabfd",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:05:30.000Z",
+  "lastModified": "2026-08-14T22:12:44.000Z",
   "path": "tpr/wowv",
   "pipelineId": 163,
-  "productConfig": {"hash": "0aa371b52e77fa92b15ef37e39fbb3b8"},
+  "productConfig": {"cdnPath": "", "hash": "0aa371b52e77fa92b15ef37e39fbb3b8"},
   "versionNumber": 64889,
   "versionString": "12.0.1.64889"
 }

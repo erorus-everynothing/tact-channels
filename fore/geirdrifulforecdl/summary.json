@@ -6,12 +6,12 @@
       "build": {"name": "s4release_11429386_vk_geirdriful_fc_ship", "token": "04bf10a7-9513-46aa-848d-50fc48150130"},
       "buildKey": "954f69d1bcfd95d8b3c54a30d24659d6",
       "cdnKey": "89843b697d9425dd190d1a425748092c",
-      "definition": "fbcd4a3d927413ca2128ab7a3ea67245",
+      "definition": "50208601d38f951f3e8e95c3b6f174da",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:04:20.000Z",
+      "lastModified": "2026-08-14T22:11:41.000Z",
       "path": "tpr/fore",
       "pipelineId": 217,
-      "productConfig": {"hash": "8d7534e07396d7c76cec4418533ad257"},
+      "productConfig": {"cdnPath": "", "hash": "8d7534e07396d7c76cec4418533ad257"},
       "versionNumber": 11429386,
       "versionString": "1.17.0.11429386"
     }

@@ -9,12 +9,12 @@
       },
       "buildKey": "5e1b1d8fd411349008c4d5af6a35bc6c",
       "cdnKey": "d96a863f2945a6a588f5ea7abd5c948f",
-      "definition": "ee19f2381d4c68a15c38176c9b84e41f",
+      "definition": "78d2dccf298eadb1f86c55f7250ccb72",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:05:20.000Z",
+      "lastModified": "2026-08-14T22:12:35.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
-      "productConfig": {"hash": "38b404fdfa954bcbdc096448fa068238"},
+      "productConfig": {"cdnPath": "", "hash": "38b404fdfa954bcbdc096448fa068238"},
       "versionNumber": 23137177,
       "versionString": "0.0.0.23137177s"
     }

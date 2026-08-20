@@ -3,12 +3,12 @@
   "build": {"name": "SeaOfThievesInsider_1.151.7016.0", "token": "8f616d40-7483-4b6d-b452-8dd02fe4080e"},
   "buildKey": "e36688dfb3dab0e10473a116b6a69749",
   "cdnKey": "7aab8f774f025fe0329fb35fb8f550e8",
-  "definition": "b99369a1834390aded405ae93a001c96",
+  "definition": "f9c2c5d87c76b719d4ea2b3719aa19f7",
   "keyRing": "",
-  "lastModified": "2026-08-20T06:01:05.000Z",
+  "lastModified": "2026-08-20T00:42:03.000Z",
   "path": "tpr/scordev",
   "pipelineId": 334,
-  "productConfig": {"hash": "1b82239e0c12dd4e180e4f89c5d499db"},
+  "productConfig": {"cdnPath": "", "hash": "1b82239e0c12dd4e180e4f89c5d499db"},
   "versionNumber": 1517016,
   "versionString": "1.151.7016.0"
 }

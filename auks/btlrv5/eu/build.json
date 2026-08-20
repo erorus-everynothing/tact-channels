@@ -3,12 +3,12 @@
   "build": {"name": "release_24070017_cod24_tu22_bnet_v5_dev", "token": "ad619889-ec0c-4b3f-a870-02a99f2d86f0"},
   "buildKey": "1de7e146489b99abb4eac5edbd4d65d9",
   "cdnKey": "43deccb1023951f4973e82d46bee5e00",
-  "definition": "2259c64085e5294ebd06db6c23e420dd",
+  "definition": "cbbf40b54caf5228337023fe1cf3eb65",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:03:58.000Z",
+  "lastModified": "2026-08-14T22:11:26.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
-  "productConfig": {"hash": "dbfb427047ab613b6e2e0cb0cc79f6e5"},
+  "productConfig": {"cdnPath": "", "hash": "dbfb427047ab613b6e2e0cb0cc79f6e5"},
   "versionNumber": 24070017,
   "versionString": "0.0.0.24070017d"
 }

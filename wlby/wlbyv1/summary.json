@@ -6,12 +6,12 @@
       "build": {"name": "P1e_04_06_2021_v1", "token": "a74b4640-b23f-4edc-8e4a-ccd13ff436cf"},
       "buildKey": "a7b28713fcbb723e266216ff2894f62d",
       "cdnKey": "9cd399c5a611488f16c80ade750efafa",
-      "definition": "9d84a34110c2747f39c25cc7f824c509",
+      "definition": "072997444afae915e4d00155edd314f6",
       "keyRing": "",
-      "lastModified": "2026-08-14T17:05:25.000Z",
+      "lastModified": "2026-08-14T22:12:39.000Z",
       "path": "tpr/wallabyv",
       "pipelineId": 248,
-      "productConfig": {"hash": "d99e9b1e8afd797206399845ac859c82"},
+      "productConfig": {"cdnPath": "", "hash": "d99e9b1e8afd797206399845ac859c82"},
       "versionNumber": 4062021,
       "versionString": "1.1.04062021"
     }

@@ -6,12 +6,12 @@
   },
   "buildKey": "a782ed5ae8596b6729bfc819e6ee0a7b",
   "cdnKey": "46ec2ab043a549e98ad46de59763d9dc",
-  "definition": "553439a53dbc024009db7e20ae898ab7",
+  "definition": "b442f7a02b8bada5eb7409ef880dd004",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:12:37.000Z",
+  "lastModified": "2026-08-14T17:05:23.000Z",
   "path": "tpr/viperv",
   "pipelineId": 187,
-  "productConfig": {"cdnPath": "", "hash": "aca3bf18d3055d5945ea42b4d2231edc"},
+  "productConfig": {"hash": "aca3bf18d3055d5945ea42b4d2231edc"},
   "versionNumber": 27458377,
   "versionString": "1.23.1.27458377d"
 }

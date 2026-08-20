@@ -3,12 +3,12 @@
   "build": {"name": "release_17338715_cod23_tus2_5_v16_dev", "token": "1c2cc241-dccb-4297-80aa-c142b461dd56"},
   "buildKey": "ce46221b76628a976773db7930ad7f4f",
   "cdnKey": "cda1d95db791d5269ea2249358cd5f29",
-  "definition": "78a6f3e9f4147e941eb73d75fa410a87",
+  "definition": "282f698fa03c86ab0fcad33c2d9908c2",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:11:11.000Z",
+  "lastModified": "2026-08-14T17:03:38.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
-  "productConfig": {"cdnPath": "", "hash": "966fa56dafa25968b6f499fc351442af"},
+  "productConfig": {"hash": "966fa56dafa25968b6f499fc351442af"},
   "versionNumber": 17338715,
   "versionString": "0.0.0.17338715d"
 }

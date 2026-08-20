@@ -6,12 +6,12 @@
       "build": {"name": "small_build_with_auto_encryption_05", "token": "85a1fc41-43a1-42f4-9577-138c9490d413"},
       "buildKey": "0f2c28eecd555079012b202ddfee0471",
       "cdnKey": "b23a013555d07e51373f547152a4c7c3",
-      "definition": "913de801c13c22c723d2e69ff187370f",
+      "definition": "f4ff50699f5ba527df420d25831a4a97",
       "keyRing": "e4ea25d0a7a5e9d50b42058439158bac",
-      "lastModified": "2026-08-14T22:11:40.000Z",
+      "lastModified": "2026-08-14T17:04:19.000Z",
       "path": "tpr/gdtdev",
       "pipelineId": 364,
-      "productConfig": {"cdnPath": "", "hash": "11b262171e26e285db91074d57972eba"},
+      "productConfig": {"hash": "11b262171e26e285db91074d57972eba"},
       "versionNumber": 1,
       "versionString": "0.0.0001"
     }

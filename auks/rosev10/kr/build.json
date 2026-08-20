@@ -3,12 +3,12 @@
   "build": {"name": "cert_28300813_cod26_beta_tu1_bnet_v10_dev", "token": "95096293-ce27-4f71-ba70-0bd85ecf8745"},
   "buildKey": "e90b614d0d6f825657276b63894dce15",
   "cdnKey": "0464845e1cdad66e814aa4ea4bc8b257",
-  "definition": "1ae16fdeefdde0eb911f1b930e23d8a1",
+  "definition": "2a73c8a37a0de99c0ef957daea560b1f",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:12:17.000Z",
+  "lastModified": "2026-08-14T17:05:02.000Z",
   "path": "tpr/rosev",
   "pipelineId": 302,
-  "productConfig": {"cdnPath": "", "hash": "a3359a40b7073719c423d0e13ddcf208"},
+  "productConfig": {"hash": "a3359a40b7073719c423d0e13ddcf208"},
   "versionNumber": 28300813,
   "versionString": "0.0.0.28300813d"
 }

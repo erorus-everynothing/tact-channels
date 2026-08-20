@@ -6,12 +6,12 @@
       "build": {"name": "styx-1.0.14.0-1", "token": "a763f072-7e98-4329-a245-2c0e03d1d3f0"},
       "buildKey": "ea7e08059b48bf11ca76a927643fa553",
       "cdnKey": "a20509562978b3f0350d9661712f466b",
-      "definition": "76bedcd2e235bcce3f9fb3df9dc89afa",
+      "definition": "7cebf606ec029c577bf74d09286c5da0",
       "keyRing": "32145a4791a49be3d1fe5403e785c7db",
-      "lastModified": "2026-08-14T22:11:06.000Z",
+      "lastModified": "2026-08-14T17:03:28.000Z",
       "path": "tpr/arisrc",
       "pipelineId": 351,
-      "productConfig": {"cdnPath": "", "hash": "154ee4ea57dcd4fd2fd5b0e48e6d7303"},
+      "productConfig": {"hash": "154ee4ea57dcd4fd2fd5b0e48e6d7303"},
       "versionNumber": 2,
       "versionString": "1.0.14.0"
     }

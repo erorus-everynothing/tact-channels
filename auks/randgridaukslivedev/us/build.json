@@ -3,12 +3,12 @@
   "build": {"name": "randgrid_auks_live_dev-rekey_test_dummy", "token": "44c42864-4a7a-46be-a738-0b2e1bcee57d"},
   "buildKey": "5014600cd837c0a58d1a3c51575fb026",
   "cdnKey": "feccfd0c78a8867586657ce024f65394",
-  "definition": "fd80b18829bf59825126617f2fcf7605",
+  "definition": "b878889354b3993350d36b73a7bddbf6",
   "keyRing": "",
-  "lastModified": "2026-08-14T23:10:25.000Z",
+  "lastModified": "2026-08-20T06:00:54.000Z",
   "path": "tpr/auksdev/4",
   "pipelineId": 235,
-  "productConfig": {"cdnPath": "", "hash": "7d1e26548a097d8c12714c4ac1e369fe"},
+  "productConfig": {"hash": "7d1e26548a097d8c12714c4ac1e369fe"},
   "versionNumber": 1,
   "versionString": "1"
 }

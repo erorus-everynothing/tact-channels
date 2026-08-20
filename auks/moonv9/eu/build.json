@@ -3,12 +3,12 @@
   "build": {"name": "release_22781699_zul_gl_bnet_v9_dev", "token": "7d475fdb-fbf2-4095-b42c-b30d4df17032"},
   "buildKey": "a79199deefaffb217fd2342c2cf60989",
   "cdnKey": "ad1324944cee41115898f608ea86de50",
-  "definition": "d2371b7e67bd80360b193f9bebd7b1a4",
+  "definition": "8f42211ddfa89cec0983b76e8303c279",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:33.000Z",
+  "lastModified": "2026-08-14T22:11:53.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
-  "productConfig": {"hash": "f87b246df245641a2e11204e63456695"},
+  "productConfig": {"cdnPath": "", "hash": "f87b246df245641a2e11204e63456695"},
   "versionNumber": 22781699,
   "versionString": "0.0.0.22781699d"
 }

@@ -3,12 +3,12 @@
   "build": {"name": "1.23.8.9571-ptr", "token": "b0a4793c-b9ab-4cd6-8cf8-eb7ac27408db"},
   "buildKey": "457e003ff1a891059d6a5115a4ae934a",
   "cdnKey": "bdfaeab646449eff637f7c6e66755a30",
-  "definition": "aee606eaa0ceb0756fc7f3aaaf12e57f",
+  "definition": "51d9eca57cd9b02b2e0957211fc0129b",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:05:10.000Z",
+  "lastModified": "2026-08-14T22:12:25.000Z",
   "path": "tpr/sc1live",
   "pipelineId": 110,
-  "productConfig": {"hash": "65daee031c1a962bbe1b6baf29a751a9"},
+  "productConfig": {"cdnPath": "", "hash": "65daee031c1a962bbe1b6baf29a751a9"},
   "versionNumber": 9571,
   "versionString": "1.23.8.9571-ptr"
 }

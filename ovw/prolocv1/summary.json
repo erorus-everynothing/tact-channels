@@ -1,7 +1,21 @@
 {
   "builds": [
     {"branches": ["cn", "eu", "kr", "sg", "tw"], "definition": "2307cb0e549506e884ced4babfe522d4"},
-    {"branches": ["us"], "definition": "971d543d0217804c2353d53df2ac4e8a"}
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "prometheus-2_24_1_0-152979-Loc-V1", "token": "d9804cf3-daee-422f-adf4-9f882e45b195"},
+      "buildKey": "622903c1674f5f773ac3855ee2b79dfb",
+      "cdnKey": "e3c2b2ef3545f909c84512d4eb54f98c",
+      "definition": "16b8493d2cd957e5561167118df661b1",
+      "keyRing": "",
+      "lastModified": "2026-08-20T22:30:25.000Z",
+      "path": "tpr/prov2/2",
+      "pipelineId": 225,
+      "productConfig": {"hash": "81c0f111deaf3b20341a7b449958a11c"},
+      "versionNumber": 152979,
+      "versionString": "2.24.1.0.152979"
+    }
   ],
   "infrastructure": false,
   "product": "ovw",

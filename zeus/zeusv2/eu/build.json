@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "bo5_raw_15931218_v2_dev", "token": "16fa0e37-3364-4cd8-92dd-e37b9a024c4c"},
-  "buildKey": "a84937a00a0b1542993ac5ada0e2d232",
-  "cdnKey": "b4fb6a0697df7f61741fae7aa4ead304",
-  "definition": "cca4716a96d4f65751866602b4212624",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:12:47.000Z",
-  "path": "tpr/zeusv",
-  "pipelineId": 208,
-  "productConfig": {"cdnPath": "", "hash": "eb4e56e10d6b7fb31bf1959485fe140f"},
-  "versionNumber": 15931218,
-  "versionString": "1.39.0.15931218d"
-}
+{"definition": "69fdd69ae6cdce28f14e882f6d44797b"}

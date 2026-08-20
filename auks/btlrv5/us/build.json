@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "release_24145903_cod24_tu22_bnet_v5_dev", "token": "242b4576-7241-4de0-89c1-141e458be04a"},
-  "buildKey": "6f4f12e0be6a4526dc0bfa4c3dbb8db6",
-  "cdnKey": "ea5eac80af7283e0bd20d6de0f3688df",
-  "definition": "a13852e67db1f44686c5356ef1e8ac09",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:11:26.000Z",
-  "path": "tpr/btlrv",
-  "pipelineId": 292,
-  "productConfig": {"cdnPath": "", "hash": "dbfb427047ab613b6e2e0cb0cc79f6e5"},
-  "versionNumber": 24145903,
-  "versionString": "0.0.0.24145903d"
-}
+{"definition": "a282328c89b62ed96c6ce0d402800788"}

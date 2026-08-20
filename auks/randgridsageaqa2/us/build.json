@@ -1,17 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {
-    "name": "release_driver_06_08_2026_28347379_valkyrie_valkyrie_dev_dev2",
-    "token": "c76f9dac-6800-4bb4-b843-f1056dd1bfd9"
-  },
-  "buildKey": "5502a364cea6940e05a348dbaa6f44a2",
-  "cdnKey": "1d0a841999b95fa11435e2b2d0116136",
-  "definition": "a71b1861cfeedabb9ced1c5eded95831",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:12:15.000Z",
-  "path": "tpr/sagev",
-  "pipelineId": 304,
-  "productConfig": {"cdnPath": "", "hash": "0397f95d7910e2bc85649269c6f0baa5"},
-  "versionNumber": 28347379,
-  "versionString": "0.0.2.28347379d"
-}
+{"definition": "3e2d7bb08fb2e65cb3668f2381e72b88"}

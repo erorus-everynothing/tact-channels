@@ -1,38 +1,7 @@
 {
-  "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["eu", "kr", "us"],
-      "build": {
-        "name": "etu_27898773A_cod25_season5_signed_bnet_r_cdl_pipeline_ship",
-        "token": "48369c88-586a-4fc5-8add-8b74c473154f"
-      },
-      "buildKey": "b735090ce963b073037ea16e9713450d",
-      "cdnKey": "3009d47ac5e88a9558679577a0ae82f8",
-      "definition": "374d754c8bd22f2ad5a9f5874a6fafeb",
-      "keyRing": "",
-      "lastModified": "2026-08-14T22:11:08.000Z",
-      "path": "tpr/aukse",
-      "pipelineId": 273,
-      "productConfig": {"cdnPath": "", "hash": "351bca7724fd4dd06f7def1f5005af0b"},
-      "versionNumber": 27898773,
-      "versionString": "3.12.1.27898773cp"
-    }
-  ],
+  "builds": [{"branches": ["eu", "kr", "us"], "definition": "509c8fb4b1f75d7fc12204c9e3d4852a"}],
   "infrastructure": false,
   "product": "auks",
-  "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
-  ],
+  "regions": [{"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
   "variant": "auksese"
 }

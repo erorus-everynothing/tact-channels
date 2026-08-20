@@ -1,21 +1,5 @@
 {
-  "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["eu", "kr", "us"],
-      "build": {"name": "6179424-Tiger", "token": ""},
-      "buildKey": "d394431b607b2d18d8da44159de947ff",
-      "cdnKey": "4e41b672588a7d37dd0727d891bd2745",
-      "definition": "8adbceed1f7d375216ac7553e776444f",
-      "keyRing": "",
-      "lastModified": "2026-08-14T22:11:32.000Z",
-      "path": "tpr/dst2",
-      "pipelineId": 129,
-      "productConfig": {"cdnPath": "", "hash": "8fda748b29f5e588511133efdc8cf04d"},
-      "versionNumber": 6179424,
-      "versionString": "2.5.2.3 (6179424)"
-    }
-  ],
+  "builds": [{"branches": ["eu", "kr", "us"], "definition": "c05d5586c470f8a93b3ec8b3a6b066ef"}],
   "infrastructure": false,
   "product": "dst2",
   "regions": [],

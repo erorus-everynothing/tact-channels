@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "3fe316878e599c59492034119bf117d7-1029", "token": ""},
-  "buildKey": "2ac5c0b01a7b7b04e627c54ad1352dbd",
-  "cdnKey": "96dca87d76fa843cea1bfcd5a7e14098",
-  "definition": "fcf28d0cc7880e10cd065c3c523a5318",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:11:29.000Z",
-  "path": "tpr/catalogs",
-  "pipelineId": 107,
-  "productConfig": {"cdnPath": "", "hash": ""},
-  "versionNumber": 25,
-  "versionString": "1029"
-}
+{"definition": "21a54939d53a81a165a097044bca6ab7"}

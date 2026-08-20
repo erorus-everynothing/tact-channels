@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "WOW-69382patch12.1.0_PTR", "token": "7468958e-79b6-4703-9f81-d3def8048780"},
-  "buildKey": "89c400913b67270e5b523ff9cbef69d2",
-  "cdnKey": "184daec398d8629d577b93dbb53d0166",
-  "definition": "d4b13bcb3a5489e28fba695b515249f0",
-  "keyRing": "",
-  "lastModified": "2026-08-18T00:58:23.000Z",
-  "path": "tpr/wow",
-  "pipelineId": 19,
-  "productConfig": {"cdnPath": "", "hash": "8e1095475b945aa02fd3f2a2d22993b7"},
-  "versionNumber": 69382,
-  "versionString": "12.1.0.69382"
-}
+{"definition": "96fa76e3890212c940ed6c9a1112d67f"}

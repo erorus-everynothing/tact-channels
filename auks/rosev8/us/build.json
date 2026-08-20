@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "trunk_23145407_rex_bom_bnet_v8_dev", "token": "2e2343a8-49db-4e8f-80f7-5cce04769d00"},
-  "buildKey": "fb4a54dd987f0730e67b9b2f3ddece03",
-  "cdnKey": "6596bae38532bbc74a789940334fe9da",
-  "definition": "66dae813f7b0d400fcc34d44fcb79bc0",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:12:24.000Z",
-  "path": "tpr/rosev",
-  "pipelineId": 302,
-  "productConfig": {"cdnPath": "", "hash": "2afe0c7d149e8baecf4e7f68f70f6cde"},
-  "versionNumber": 23145407,
-  "versionString": "0.0.0.23145407d"
-}
+{"definition": "9cccd684ee63d78c121c474a10c26b7c"}

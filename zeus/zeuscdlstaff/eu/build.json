@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "bo5_tu16_9838526A_signed_zs_staff_esports", "token": "91049e66-2574-4656-ba57-898e73806be2"},
-  "buildKey": "40acea584066efcea4d4230607bccbce",
-  "cdnKey": "eb1e17974de12f50b247968e870ad301",
-  "definition": "7b67fc1077c787dc29bd2c4f67f64d8b",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:12:46.000Z",
-  "path": "tpr/zeuse",
-  "pipelineId": 223,
-  "productConfig": {"cdnPath": "", "hash": "3474c64720b8538e0be17a39ab6ce5ee"},
-  "versionNumber": 9838526,
-  "versionString": "1.16.0.9838526"
-}
+{"definition": "9e36368e9f0deda14ec787c40d3242fe"}

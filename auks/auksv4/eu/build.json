@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "cert_20309444D_cod24_tu2_v4_dev_sp24", "token": "7f14c6ee-1d77-4077-8373-2440a1c8afa1"},
-  "buildKey": "537d229bd5ec75a1552e3b26197819c8",
-  "cdnKey": "ebe9a605117e960fb0b4e3225fde7d63",
-  "definition": "2b3539e99f6c1c2d9ad793055aecf0b1",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:11:15.000Z",
-  "path": "tpr/auksv",
-  "pipelineId": 236,
-  "productConfig": {"cdnPath": "", "hash": "2e3e047b45223de956c26af2a9ccb5d6"},
-  "versionNumber": 20309444,
-  "versionString": "2.2.1.20309444d"
-}
+{"definition": "31879a94646c0565bc9b0fa63d6184f4"}

@@ -1,59 +1,11 @@
 {
-  "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["eu", "kr", "us"],
-      "build": {"name": "diablo1_hellfire_1.0.2", "token": "a426ee6f-dcee-4b00-a7e4-42fa51ab53fe"},
-      "buildKey": "80542473eb70fc407104ee9868766acd",
-      "cdnKey": "d4811794a6ffe7f1a7ea5e11a0596e8b",
-      "definition": "d15c39798f068e1d138deeec9a1771f1",
-      "keyRing": "",
-      "lastModified": "2026-08-14T22:11:32.000Z",
-      "path": "tpr/drtl",
-      "pipelineId": 314,
-      "productConfig": {"cdnPath": "", "hash": "077b09e87198602e7bbaa0c7ce6a54e9"},
-      "versionNumber": 102,
-      "versionString": "1.0.2"
-    }
-  ],
+  "builds": [{"branches": ["eu", "kr", "us"], "definition": "106d418be0a33c2f9d3826ddbca94f0f"}],
   "infrastructure": false,
   "product": "drtl",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "935e71ab8ad5742d217fa6bad6525e4f",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=3"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=3&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:35.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "5df668e69943abffe1cb7348d03856a4",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=3"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=3&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:35.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "52fce0e800d47b8995114e33b742e63c",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=3"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=3&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=3&fallback=1"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=3&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:35.000Z"
-    }
+    {"branches": ["us"], "cdns": "935e71ab8ad5742d217fa6bad6525e4f"},
+    {"branches": ["eu"], "cdns": "5df668e69943abffe1cb7348d03856a4"},
+    {"branches": ["kr"], "cdns": "52fce0e800d47b8995114e33b742e63c"}
   ],
   "variant": "drtl2"
 }

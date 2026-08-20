@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "3141_osi", "token": "366dd7b6-516c-40b9-abd0-abbd25b4d827"},
-  "buildKey": "5785779bdfce63540e4031550f462a09",
-  "cdnKey": "042300d38bb4281987f53322663764eb",
-  "definition": "90a3c6d85b29a9b8630a307943d721ad",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:11:28.000Z",
-  "path": "tpr/bnt004",
-  "pipelineId": 135,
-  "productConfig": {"cdnPath": "", "hash": "e8a9e3b2b36cc844d7a26a18fce57792"},
-  "versionNumber": 3141,
-  "versionString": "1.18.10.3141"
-}
+{"definition": "ff2bfb2b067d1c14f19d4f4a8d88c74d"}

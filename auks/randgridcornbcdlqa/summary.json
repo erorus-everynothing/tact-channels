@@ -1,49 +1,10 @@
 {
-  "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["us"],
-      "build": {
-        "name": "driver_24_06_22966757_valkyrie_dev_dev_esports",
-        "token": "734a3e8f-1ed7-4294-b11e-4432cc0ef0e7"
-      },
-      "buildKey": "daca4d04929c8737279b4ebb7c75570f",
-      "cdnKey": "794f77863c177a02854966ec05219cff",
-      "definition": "66189aa33b43112d87a5a54c96ebb5bb",
-      "keyRing": "",
-      "lastModified": "2026-08-14T22:12:12.000Z",
-      "path": "tpr/cornvb",
-      "pipelineId": 377,
-      "productConfig": {"cdnPath": "", "hash": "296ef63abd26f64cc1896dcfefa56082"},
-      "versionNumber": 22966757,
-      "versionString": "0.0.1.22966757de"
-    }
-  ],
+  "builds": [{"branches": ["us"], "definition": "a4e4bc06d9d7c5f4b5a2ab8732aaceb5"}],
   "infrastructure": false,
   "product": "auks",
   "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "084aea14e8342085ace15de6e8a53b72",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:35.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    }
+    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
+    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
   ],
   "variant": "randgridcornbcdlqa"
 }

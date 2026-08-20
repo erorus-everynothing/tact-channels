@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "cert_24536827_cod25_tu1_bnet_v30_dev", "token": "9a9494cc-87cf-4457-b814-373dbe2c3bbb"},
-  "buildKey": "7a3c92519f297a37d3f422d672b6d544",
-  "cdnKey": "de2623a9b2835efd4c6a87ec2dc2fb3b",
-  "definition": "5d6b1f60bda211d482ff28ea77a00477",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:12:32.000Z",
-  "path": "tpr/sagevb",
-  "pipelineId": 357,
-  "productConfig": {"cdnPath": "", "hash": "2fb8234e7a621acd532d30996e860299"},
-  "versionNumber": 24536827,
-  "versionString": "0.0.0.24536827d"
-}
+{"definition": "413c48394f2e32fd6c3cd0f3c66606f7"}

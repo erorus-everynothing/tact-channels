@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "bo5_tu16_9838526A_signed_zc_ship_cln", "token": "4eda3a2d-5157-4abc-a512-4610ed1abe90"},
-  "buildKey": "d3e9b28a7e955ca67b420ecea5209e54",
-  "cdnKey": "67a7a989191655887bdc614495ad7648",
-  "definition": "2f7f43550b4f3ffa89176b6a371aa71a",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:12:45.000Z",
-  "path": "tpr/zeus",
-  "pipelineId": 200,
-  "productConfig": {"cdnPath": "", "hash": "aa153e6227d26e84992121ec72b87a79"},
-  "versionNumber": 9838526,
-  "versionString": "1.16.0.9838526"
-}
+{"definition": "0394e545a55e156b4a027778e18e6989"}

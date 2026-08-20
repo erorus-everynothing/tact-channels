@@ -6,56 +6,22 @@
       "build": {"name": "prometheus-2_24_1_0-152935-KR-NGSX-prodev14", "token": "72779881-d5f4-4081-ae89-846ac2291367"},
       "buildKey": "da9e4b2d6633545d45ff1760335859cf",
       "cdnKey": "9298b7bc6f247afa7081c3e29a9618c2",
-      "definition": "829a05592b24ba741b52ea9c26089f83",
+      "definition": "bafb4f49632b89fe935231122a5e0912",
       "keyRing": "",
-      "lastModified": "2026-08-20T21:09:58.000Z",
+      "lastModified": "2026-08-20T22:10:24.000Z",
       "path": "tpr/proa2",
       "pipelineId": 266,
-      "productConfig": {"cdnPath": "", "hash": "0fa772552c345eed6354578e49e37f10"},
+      "productConfig": {"hash": "0fa772552c345eed6354578e49e37f10"},
       "versionNumber": 152935,
       "versionString": "2.24.1.0.152935"
     },
-    {
-      "armadilloKey": "",
-      "branches": ["us"],
-      "build": {"name": "prometheus-2_24_1_0-152903-KR-Dev-prodev14", "token": "bc969989-2ee3-472e-8f7a-19e588b172cc"},
-      "buildKey": "a6444cc65ce6f82b92ff97713d9b646d",
-      "cdnKey": "7fb855f67f84a1dfd1dbe7a9a1c45b6e",
-      "definition": "8e86c728d9de94e88f061b5d560caa0e",
-      "keyRing": "",
-      "lastModified": "2026-08-20T21:09:59.000Z",
-      "path": "tpr/proa2",
-      "pipelineId": 266,
-      "productConfig": {"cdnPath": "", "hash": "2fdb88c456578a7467b01483f70b9eef"},
-      "versionNumber": 152903,
-      "versionString": "2.24.1.0.152903"
-    }
+    {"branches": ["us"], "definition": "25d9ca08729d15ed1ad82d7e2c589af9"}
   ],
   "infrastructure": false,
   "product": "ovw",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "13df1783652f5002b492505e39cf190c",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:35.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "3177ecdac411abd8be79a021e27535e9",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
+    {"branches": ["us"], "cdns": "13df1783652f5002b492505e39cf190c"},
+    {"branches": ["eu"], "cdns": "3177ecdac411abd8be79a021e27535e9"}
   ],
   "variant": "prodev14"
 }

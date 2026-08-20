@@ -1,66 +1,12 @@
 {
-  "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["cn"],
-      "build": {"name": "WOW-69415patch12.1.5_NEVendor10", "token": "2d44346b-fa11-424d-996b-02eba0fa6e0c"},
-      "buildKey": "6cec6c3c523536363fee28cce3ee0b18",
-      "cdnKey": "724ad7e4bacf7a3ce26bf1d3a716b14e",
-      "definition": "3e50d59bd1b50239e4e2314a39a89f1b",
-      "keyRing": "",
-      "lastModified": "2026-08-20T21:10:48.000Z",
-      "path": "tpr/wowvcn",
-      "pipelineId": 403,
-      "productConfig": {"cdnPath": "", "hash": "687cc2b5734e1c66de2310e24e23ed59"},
-      "versionNumber": 69415,
-      "versionString": "12.1.5.69415"
-    }
-  ],
+  "builds": [{"branches": ["cn"], "definition": "ff0e66b838e21c30b986c995ab4458bd"}],
   "infrastructure": false,
   "product": "wow",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "0e52e616adbad7a6a5fa0a41741bb101",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    },
-    {
-      "branches": ["cn"],
-      "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94",
-      "hosts": [
-        {"host": "http://blzdist-wow.necdn.leihuo.netease.com?maxhosts=6"},
-        {"host": "https://blzdist-wow.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    }
+    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+    {"branches": ["kr"], "cdns": "0e52e616adbad7a6a5fa0a41741bb101"},
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
+    {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"}
   ],
   "variant": "wownev10"
 }

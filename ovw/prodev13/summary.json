@@ -1,46 +1,10 @@
 {
-  "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["us"],
-      "build": {"name": "prometheus-2_24_1_0-152968-CN-Dev-prodev13", "token": "2ae49b21-de0e-4ecd-86a2-0327d656df2d"},
-      "buildKey": "7f018129791f69d2b7e87fec4bda31db",
-      "cdnKey": "9c0a18960e967c69ac4bc06e1946493c",
-      "definition": "b98c18528f573846bb3dad0fc8a8839c",
-      "keyRing": "",
-      "lastModified": "2026-08-20T21:09:58.000Z",
-      "path": "tpr/proa2",
-      "pipelineId": 266,
-      "productConfig": {"cdnPath": "", "hash": "09c8ec16b096007863994c8d3eb7c1be"},
-      "versionNumber": 152968,
-      "versionString": "2.24.1.0.152968"
-    }
-  ],
+  "builds": [{"branches": ["us"], "definition": "83f0e914db936879d7b4b0832127ed0b"}],
   "infrastructure": false,
   "product": "ovw",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "13df1783652f5002b492505e39cf190c",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:35.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "3177ecdac411abd8be79a021e27535e9",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
+    {"branches": ["us"], "cdns": "13df1783652f5002b492505e39cf190c"},
+    {"branches": ["eu"], "cdns": "3177ecdac411abd8be79a021e27535e9"}
   ],
   "variant": "prodev13"
 }

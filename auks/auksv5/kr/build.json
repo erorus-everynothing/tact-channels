@@ -1,17 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {
-    "name": "release_16466410A_cod23_tu3_4_signed_v5_ship_repack_dll",
-    "token": "cda9c2b3-e256-4876-b4cb-b3f0a2fdd86b"
-  },
-  "buildKey": "ead3bb209f0333176723d9e53b926e54",
-  "cdnKey": "1ba14233862949b0b5b13f1629179ada",
-  "definition": "aa632d90db7fd6a08a1e21a445b227a5",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:11:15.000Z",
-  "path": "tpr/auksv",
-  "pipelineId": 236,
-  "productConfig": {"cdnPath": "", "hash": "f50c5b03cf556291a76367bbe455eca0"},
-  "versionNumber": 16466410,
-  "versionString": "1.24.2.16466410s"
-}
+{"definition": "163ea8c73e54d83ec72048326779ffbe"}

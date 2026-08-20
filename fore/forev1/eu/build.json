@@ -1,17 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {
-    "name": "s4rel_11379781_tu17_echo_s4_TU_vk2_signed_v1_dev",
-    "token": "418bd990-1e16-4f1c-81b8-2d3743e15d92"
-  },
-  "buildKey": "a0f1574578b82fd6c71b33a07680735f",
-  "cdnKey": "c98887660fc83e7b7016da8abb1818e5",
-  "definition": "515b0897d8b9fe1d17f7f096da39ed21",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:11:36.000Z",
-  "path": "tpr/forev",
-  "pipelineId": 219,
-  "productConfig": {"cdnPath": "", "hash": "28316d7070e3976c26521bd9443354fa"},
-  "versionNumber": 11379782,
-  "versionString": "1.17.1.11379781dv"
-}
+{"definition": "81553d5c47af547f4b64c2ac676c828e"}

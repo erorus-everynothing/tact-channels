@@ -1,46 +1,10 @@
 {
-  "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["eu", "kr", "us"],
-      "build": {"name": "SeaOfThieves_2.151.6146.0", "token": "d45d8bfb-b6f0-468b-8556-ec1686f064fd"},
-      "buildKey": "b8840682f50a4a46d1925f9a16bd7032",
-      "cdnKey": "6725bd69c06b53b664178c7f72401878",
-      "definition": "c8b9bf6f60b5072397e96881bb353d5b",
-      "keyRing": "",
-      "lastModified": "2026-08-18T11:40:25.000Z",
-      "path": "tpr/scorrc",
-      "pipelineId": 335,
-      "productConfig": {"cdnPath": "", "hash": "a87c633877eaa354107ac1fd3d8a9096"},
-      "versionNumber": 1516146,
-      "versionString": "2.151.6146.0"
-    }
-  ],
+  "builds": [{"branches": ["eu", "kr", "us"], "definition": "099e9e74515797fe9e530df94eb6e758"}],
   "infrastructure": false,
   "product": "SCOR",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    }
+    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
   ],
   "variant": "scor-retail-rc"
 }

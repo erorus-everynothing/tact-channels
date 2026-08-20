@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "driver_24_06_22966757_valkyrie_ship_ship", "token": "5453616d-e792-4fbf-8f96-7314da09b9ff"},
-  "buildKey": "88e482e5841de31f6e42d87ed4dd1680",
-  "cdnKey": "5843a81739d474de881f3fb8c1d7baa4",
-  "definition": "e09ef924eb3f607c660023e8b77ed056",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:12:12.000Z",
-  "path": "tpr/cornv",
-  "pipelineId": 376,
-  "productConfig": {"cdnPath": "", "hash": "dc049eac705e2c3e537ff92702f01c97"},
-  "versionNumber": 22966757,
-  "versionString": "0.0.1.22966757s"
-}
+{"definition": "1f64fe7c488ad9e73e2cf2599aeab1a9"}

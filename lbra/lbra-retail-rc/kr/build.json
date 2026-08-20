@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "Milestone_Shipping_67856", "token": "792a444b-ee71-4e10-91d5-c715dac05978"},
-  "buildKey": "9a613ef3296bdf719918a5c874797312",
-  "cdnKey": "174e31f91c24fca5c207bd2222ecf49e",
-  "definition": "03e8e30d800455b6ba7b554acf46e4f9",
-  "keyRing": "fec7a2b71b69b3524a140479435d1642",
-  "lastModified": "2026-08-14T22:11:46.000Z",
-  "path": "tpr/lbrarc",
-  "pipelineId": 367,
-  "productConfig": {"cdnPath": "", "hash": "628465d6ac54530bbc376cb5f833cf77"},
-  "versionNumber": 67856,
-  "versionString": "Chicago 1.0.67856"
-}
+{"definition": "673ce0500723a3e8804c6e66c0ab747f"}

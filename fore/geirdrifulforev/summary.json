@@ -1,46 +1,10 @@
 {
-  "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["us"],
-      "build": {"name": "s4main_25216507_vk_geirdriful_v_ship", "token": "0238cb54-fafc-4077-8f28-f6e40fc0caf7"},
-      "buildKey": "cdd55f291f1f1353ca20f0533025d8ce",
-      "cdnKey": "89f84f3df140ae4dde836dc74b327c50",
-      "definition": "fbb28e701a368a6a09f73ddf7381512b",
-      "keyRing": "",
-      "lastModified": "2026-08-14T22:11:41.000Z",
-      "path": "tpr/forev",
-      "pipelineId": 219,
-      "productConfig": {"cdnPath": "", "hash": "7b66b68f67e445aed588763144d377b6"},
-      "versionNumber": 25216507,
-      "versionString": "1.0.0.25216507s"
-    }
-  ],
+  "builds": [{"branches": ["us"], "definition": "eaeee85c77658d322d5c006ed6d5bcd8"}],
   "infrastructure": false,
   "product": "fore",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "87a06f78212104fe1a98f84f0157ff50",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
+    {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
+    {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"}
   ],
   "variant": "geirdrifulforev"
 }

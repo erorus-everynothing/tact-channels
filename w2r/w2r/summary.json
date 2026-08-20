@@ -1,59 +1,11 @@
 {
-  "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["eu", "kr", "us"],
-      "build": {"name": "1.0.2.2818-retail", "token": "1a302a4a-00c9-4211-814f-7c165c4e248d"},
-      "buildKey": "8c048a36ce9cea83936080ab97816f03",
-      "cdnKey": "17526242aaa2c789f827e43b8aea9f70",
-      "definition": "37ed3e18b336ffe5ba9c3d0ed7f7b698",
-      "keyRing": "",
-      "lastModified": "2026-08-14T22:12:37.000Z",
-      "path": "tpr/w2r-live",
-      "pipelineId": 324,
-      "productConfig": {"cdnPath": "", "hash": "92c79e0f6ab9b69c7d3b6d512006ae1c"},
-      "versionNumber": 2818,
-      "versionString": "1.0.2.2818"
-    }
-  ],
+  "builds": [{"branches": ["eu", "kr", "us"], "definition": "ef6c5e0e49f1836c87c33f7618b067e4"}],
   "infrastructure": false,
   "product": "w2r",
   "regions": [
-    {
-      "branches": ["us", "tw"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    }
+    {"branches": ["us", "tw"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
+    {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
   ],
   "variant": "w2r"
 }

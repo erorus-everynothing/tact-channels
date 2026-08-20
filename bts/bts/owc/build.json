@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "2988_owc", "token": ""},
-  "buildKey": "5ff76031c9cba5c730a0f8d63d7fdff2",
-  "cdnKey": "c5182a9d80de14f14ea4c799663b61c6",
-  "definition": "83940b49a81fa7a73752de09bbccc7a6",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:11:28.000Z",
-  "path": "tpr/bnt004",
-  "pipelineId": 135,
-  "productConfig": {"cdnPath": "", "hash": "e8a9e3b2b36cc844d7a26a18fce57792"},
-  "versionNumber": 2988,
-  "versionString": "1.16.3.2988"
-}
+{"definition": "76f700de39b02a100157dceae1657c83"}

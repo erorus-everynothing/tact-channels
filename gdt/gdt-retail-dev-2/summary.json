@@ -1,98 +1,14 @@
 {
   "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["beta"],
-      "build": {"name": "gdt_client-1.0.9.0", "token": "fd836ae3-43e4-4e31-8a5d-b3130714a3b5"},
-      "buildKey": "28e897d3715f88c024332ae9aaaf044f",
-      "cdnKey": "795bbf3ce9c1fb595c9a000f2d2736f1",
-      "definition": "725116e679289e3d1e7565c0e66c497f",
-      "keyRing": "",
-      "lastModified": "2026-08-14T22:11:40.000Z",
-      "path": "tpr/gdtdev",
-      "pipelineId": 364,
-      "productConfig": {"cdnPath": "", "hash": "f4df6609d533f7f4552c80461e733df1"},
-      "versionNumber": 1090,
-      "versionString": "1.0.9.0"
-    },
-    {
-      "armadilloKey": "",
-      "branches": ["eu", "kr", "us"],
-      "build": {"name": "gdt_client-1.0.10.0", "token": "ea2c762f-902b-48c0-a6ad-12391837825c"},
-      "buildKey": "9f1639acd1e431342108b37848fe8a16",
-      "cdnKey": "edcf3d4def29db709df80b1172423066",
-      "definition": "e3b7c1e8a1d3fdc592314b6360140a76",
-      "keyRing": "",
-      "lastModified": "2026-08-14T22:11:40.000Z",
-      "path": "tpr/gdtdev",
-      "pipelineId": 364,
-      "productConfig": {"cdnPath": "", "hash": "f4df6609d533f7f4552c80461e733df1"},
-      "versionNumber": 10100,
-      "versionString": "1.0.10.0"
-    }
+    {"branches": ["beta"], "definition": "5f70f97beae7d8743f1c82197a711054"},
+    {"branches": ["eu", "kr", "us"], "definition": "e15192e747bc066c339b2df939d78b77"}
   ],
   "infrastructure": false,
   "product": "gdt",
   "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "b5b6b074429bd7c0f186ed3436777141",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "http://cloudfront-us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://cloudfront-us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "http://llnw.us.blizzard.com?maxhosts=3"},
-        {"host": "https://llnw.us.blizzard.com?maxhosts=3"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=3"},
-        {"host": "http://gcp.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://gcp.cdn.blizzard.com?maxhosts=3"}
-      ],
-      "lastModified": "2026-08-14T22:10:37.000Z"
-    },
-    {
-      "branches": ["kr", "tw"],
-      "cdns": "cda76f5ecc5649ca56ec4c4e1771b000",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=3"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "http://cloudfront-us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://cloudfront-us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "http://llnw.us.blizzard.com?maxhosts=3"},
-        {"host": "https://llnw.us.blizzard.com?maxhosts=3"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=3"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=3"},
-        {"host": "http://gcp.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://gcp.cdn.blizzard.com?maxhosts=3"}
-      ],
-      "lastModified": "2026-08-14T22:10:37.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "542a2ca9a487e08186706864a69feaa5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://cloudfront-us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://cloudfront-us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "http://llnw.us.blizzard.com?maxhosts=3"},
-        {"host": "https://llnw.us.blizzard.com?maxhosts=3"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=3"},
-        {"host": "http://gcp.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://gcp.cdn.blizzard.com?maxhosts=3"}
-      ],
-      "lastModified": "2026-08-14T22:10:37.000Z"
-    }
+    {"branches": ["eu"], "cdns": "b5b6b074429bd7c0f186ed3436777141"},
+    {"branches": ["kr", "tw"], "cdns": "cda76f5ecc5649ca56ec4c4e1771b000"},
+    {"branches": ["us"], "cdns": "542a2ca9a487e08186706864a69feaa5"}
   ],
   "variant": "gdt-retail-dev-2"
 }

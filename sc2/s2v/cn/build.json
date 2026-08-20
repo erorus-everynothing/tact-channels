@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "B96999-WIN", "token": "a7ea64fb-9f6b-4c58-8c91-dc16c1414ad1"},
-  "buildKey": "718b627485324c3a47e905e0acf14a52",
-  "cdnKey": "14592e3e0019ec2fe9ae3361844a52b2",
-  "definition": "a1e5dcda75f21971674d559e33b8810b",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:12:25.000Z",
-  "path": "tpr/sc2cv",
-  "pipelineId": 391,
-  "productConfig": {"cdnPath": "", "hash": "eac788180f4db0832614505be3f0bff6"},
-  "versionNumber": 96999,
-  "versionString": "SC2.5.0.15.96999"
-}
+{"definition": "c0c2584d5f5a7491b3a5d6e37ea525b9"}

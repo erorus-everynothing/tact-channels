@@ -1,14 +1,1 @@
-{
-  "armadilloKey": "",
-  "build": {"name": "release_17140975_cod23_tus2_v5_dev", "token": "2b159839-2726-406e-8818-932ea42cf195"},
-  "buildKey": "0e563d7059595c6f492ac488dce8314f",
-  "cdnKey": "fba6fec9b31c7b0eeee57d78aae90783",
-  "definition": "1aafd27ec8ae6017679ba9ff81a4b1dd",
-  "keyRing": "",
-  "lastModified": "2026-08-14T22:11:52.000Z",
-  "path": "moon/moonv",
-  "pipelineId": 276,
-  "productConfig": {"cdnPath": "", "hash": "1c8d83997ef5d7668150dd260eeabd91"},
-  "versionNumber": 17140975,
-  "versionString": "1.0.0.17140975d"
-}
+{"definition": "47e29898685d57832ab09cae076b3f43"}

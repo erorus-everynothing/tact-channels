@@ -1,49 +1,10 @@
 {
-  "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["us"],
-      "build": {
-        "name": "release_driver_22_07_2026_28100502_cod26_beta_valkyrie_valkyrie_skuld_ship",
-        "token": "8bb6d5e2-bcce-446a-aafd-922584b916ac"
-      },
-      "buildKey": "fd2a053b74a2610f46f83ec632bed217",
-      "cdnKey": "7cf8f99c1f932aa688208120be30c243",
-      "definition": "4aaee586934dd92e37159f76e795c279",
-      "keyRing": "",
-      "lastModified": "2026-08-14T22:12:36.000Z",
-      "path": "tpr/rosev",
-      "pipelineId": 302,
-      "productConfig": {"cdnPath": "", "hash": "e54cacd6a78c5fa372858faaa4322bef"},
-      "versionNumber": 28100502,
-      "versionString": "0.0.0.28100502s"
-    }
-  ],
+  "builds": [{"branches": ["us"], "definition": "fe324e22d9c76f1be2c24dd75b9b3ec6"}],
   "infrastructure": false,
   "product": "auks",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "084aea14e8342085ace15de6e8a53b72",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:35.000Z"
-    }
+    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
   ],
   "variant": "skuld_rose_a_vendor"
 }

@@ -1,55 +1,11 @@
 {
-  "builds": [
-    {
-      "armadilloKey": "",
-      "branches": ["us"],
-      "build": {"name": "prometheus-2_24_0_3-152850-GM-prodevops2", "token": "c419bb6c-fe63-444b-a1b8-8db4d056055d"},
-      "buildKey": "78db99decbe4999defeb36b6f3d09502",
-      "cdnKey": "c4382306023f4cf7c36a10c268d17041",
-      "definition": "a798c19d3ee63d4cfceb35b357f87eb2",
-      "keyRing": "",
-      "lastModified": "2026-08-17T22:11:24.000Z",
-      "path": "tpr/proc3",
-      "pipelineId": 165,
-      "productConfig": {"cdnPath": "", "hash": "d3f784b439287ded2142cebb05437daa"},
-      "versionNumber": 152850,
-      "versionString": "2.24.0.3.152850"
-    }
-  ],
+  "builds": [{"branches": ["us"], "definition": "524e4ed064045d18a1e5f1f76a2a6241"}],
   "infrastructure": false,
   "product": "ovw",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "ac3285f7bed04bf859b9072a2c68b69b",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    },
-    {
-      "branches": ["cn"],
-      "cdns": "3c4839a08949ae9f4862f94635508d83",
-      "hosts": [
-        {"host": "http://blzdist-ow.necdn.leihuo.netease.com?maxhosts=4"},
-        {"host": "https://blzdist-ow.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    }
+    {"branches": ["us"], "cdns": "ac3285f7bed04bf859b9072a2c68b69b"},
+    {"branches": ["cn"], "cdns": "3c4839a08949ae9f4862f94635508d83"},
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
   ],
   "variant": "prodevops2"
 }

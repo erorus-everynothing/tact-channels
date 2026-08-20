@@ -3,12 +3,12 @@
   "build": {"name": "trunk_19426462_cer_rvn_bnet_v4_dev", "token": "d18d4a20-3dff-4a83-adfe-45c694c13f96"},
   "buildKey": "825457907e062ef105346868a29a2aa6",
   "cdnKey": "af0d8f1202f9fe9a61606cb06c5ed52b",
-  "definition": "42f62256310d7b3749c00bac73421d06",
+  "definition": "6dc92eb3ea34abb55bfba27cdfa93c5b",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:11:25.000Z",
+  "lastModified": "2026-08-14T17:03:58.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
-  "productConfig": {"cdnPath": "", "hash": "70da68afa117acc612210c20538c3d42"},
+  "productConfig": {"hash": "70da68afa117acc612210c20538c3d42"},
   "versionNumber": 19426462,
   "versionString": "0.0.0.19426462d"
 }

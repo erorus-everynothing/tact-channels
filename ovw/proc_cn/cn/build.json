@@ -3,12 +3,12 @@
   "build": {"name": "prometheus-1_46_1_0-67834-PROC-CN", "token": "b62d5c2d-c86e-463e-86dc-ef69838c7fbc"},
   "buildKey": "ed5fe6cd026efc5d30204487fd600c76",
   "cdnKey": "46b830e2a907115766a23e089ffc4e4f",
-  "definition": "70b054d6c7d92f44127d4f08ef08f23b",
+  "definition": "4a7a744893c3b19dff46037ade9bae8e",
   "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
-  "lastModified": "2026-08-14T22:12:02.000Z",
+  "lastModified": "2026-08-14T17:04:43.000Z",
   "path": "tpr/ovw",
   "pipelineId": 43,
-  "productConfig": {"cdnPath": "", "hash": "239e25850fed8523606f835310277c16"},
+  "productConfig": {"hash": "239e25850fed8523606f835310277c16"},
   "versionNumber": 67834,
   "versionString": "1.46.1.0.67834"
 }

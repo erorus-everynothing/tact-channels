@@ -3,12 +3,12 @@
   "build": {"name": "release_24127095_cod24_tu22_bnet_v9_dev", "token": "4f75b9ce-e0fc-45da-a66e-8da7bd4330c5"},
   "buildKey": "f78d57506965c46921ef30e95b749fcd",
   "cdnKey": "67e01cd635d3ad6ca345741325be4ddf",
-  "definition": "23ac9fe1236e494281eb6f986cb48e3c",
+  "definition": "9726f400274bb71889306ac36b95484a",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:11:27.000Z",
+  "lastModified": "2026-08-14T17:04:00.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
-  "productConfig": {"cdnPath": "", "hash": "e20e67acc2070f73091cc81056e4a000"},
+  "productConfig": {"hash": "e20e67acc2070f73091cc81056e4a000"},
   "versionNumber": 24127095,
   "versionString": "0.0.0.24127095d"
 }

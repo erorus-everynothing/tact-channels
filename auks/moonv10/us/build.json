@@ -3,12 +3,12 @@
   "build": {"name": "release_18005883_cod23_tus3_5_v10_dev", "token": "6050ef2b-5987-4718-9e4d-aa72eddddb34"},
   "buildKey": "c09164698a73e8613f2dbf9229398296",
   "cdnKey": "7a86e52da3ead21ed6a69c1013b13195",
-  "definition": "8a818d875c30ef5c5fa35dd817bfade4",
+  "definition": "f5475a37e82c7b5cb41e80ca5b4ddec3",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:11:46.000Z",
+  "lastModified": "2026-08-14T17:04:27.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
-  "productConfig": {"cdnPath": "", "hash": "926c4aaf5d7cc85bbf1b91e4e698b940"},
+  "productConfig": {"hash": "926c4aaf5d7cc85bbf1b91e4e698b940"},
   "versionNumber": 18005883,
   "versionString": "0.0.0.18005883d"
 }

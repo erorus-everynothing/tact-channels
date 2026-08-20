@@ -3,12 +3,12 @@
   "build": {"name": "cert_24536827_cod25_tu1_bnet_signed_v29_ship_r2", "token": "d7df023f-63d7-4be9-92dd-1bee2c1e648d"},
   "buildKey": "a1b7a82347204ac22cc0a0d0bebb2a63",
   "cdnKey": "bd3e74b9376cdcf6dfeb476bce65e3b8",
-  "definition": "113cbe3eb1575fd221ba5d36814a98c5",
+  "definition": "b71da8aaa60fddd952a6e6b34f2f86e2",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:12:32.000Z",
+  "lastModified": "2026-08-14T17:05:17.000Z",
   "path": "tpr/sagevb",
   "pipelineId": 357,
-  "productConfig": {"cdnPath": "", "hash": "a6946cb37618debf10c6efd978eac7ec"},
+  "productConfig": {"hash": "a6946cb37618debf10c6efd978eac7ec"},
   "versionNumber": 24536827,
   "versionString": "0.0.0.24536827d"
 }

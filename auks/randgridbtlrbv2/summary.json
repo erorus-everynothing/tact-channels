@@ -6,12 +6,12 @@
       "build": {"name": "driver_09_07_23120651_valkyrie_ship_ship2", "token": "b8e4c4fa-9dfa-4625-be4a-0f0d5da56a60"},
       "buildKey": "2e2b29065dac1946b7cf0b7faaf3ba2c",
       "cdnKey": "b13f7b12327d4cd2d581a454d31ccbc2",
-      "definition": "c91b5d8f306231fa4d65a2d6cd8a2ee2",
+      "definition": "3cfd083256bd2a3a929639c24845c644",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:12.000Z",
+      "lastModified": "2026-08-14T17:04:53.000Z",
       "path": "tpr/btlrvb",
       "pipelineId": 293,
-      "productConfig": {"cdnPath": "", "hash": "3fb80ec198bfa5919f4d469f65b55481"},
+      "productConfig": {"hash": "3fb80ec198bfa5919f4d469f65b55481"},
       "versionNumber": 23120651,
       "versionString": "0.0.0.23120651s"
     }

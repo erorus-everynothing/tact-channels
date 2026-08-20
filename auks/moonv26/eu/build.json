@@ -3,12 +3,12 @@
   "build": {"name": "main_21190416_jup_ihv_v26_vendor", "token": "7c03e191-5358-4513-a18b-3d894dfd8841"},
   "buildKey": "35ff3579b75cffa526de121ad29de107",
   "cdnKey": "09e510c24423b79fdb633d0f88398ac1",
-  "definition": "7096f3fdcf1bef382ac35d132c061c53",
+  "definition": "d5284eea91e4935847573f8bc9a469bf",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:11:51.000Z",
+  "lastModified": "2026-08-14T17:04:31.000Z",
   "path": "moon/moonvb",
   "pipelineId": 290,
-  "productConfig": {"cdnPath": "", "hash": "6c2fcdfb0ae28c9cc3fbab5c802bc50f"},
+  "productConfig": {"hash": "6c2fcdfb0ae28c9cc3fbab5c802bc50f"},
   "versionNumber": 21190416,
   "versionString": "0.0.1.21190416d"
 }

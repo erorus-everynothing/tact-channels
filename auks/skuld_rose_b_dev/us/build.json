@@ -6,12 +6,12 @@
   },
   "buildKey": "4453406ea379b8045b0b198b5f99c9f3",
   "cdnKey": "5248487fe109e264151a15cda0de869a",
-  "definition": "8d360633568d5077291578e233d395c6",
+  "definition": "8d05c695fe6bd34dc58a93cd1f88993c",
   "keyRing": "",
-  "lastModified": "2026-08-14T22:12:36.000Z",
+  "lastModified": "2026-08-14T17:05:22.000Z",
   "path": "tpr/rosevb",
   "pipelineId": 356,
-  "productConfig": {"cdnPath": "", "hash": "5c883877367e3573c7aeb75bccf63aa5"},
+  "productConfig": {"hash": "5c883877367e3573c7aeb75bccf63aa5"},
   "versionNumber": 28100502,
   "versionString": "0.0.0.28100502d"
 }

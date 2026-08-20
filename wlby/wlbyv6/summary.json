@@ -6,12 +6,12 @@
       "build": {"name": "Beta_4b_Shipping_3_05_2021_v6", "token": "cebfc336-1b96-473b-9d48-c7ffaa1bd6ae"},
       "buildKey": "3b95a0b5e4aaa771eebbeffef20c8346",
       "cdnKey": "de5460422a3bd2ddf219930ececd96ba",
-      "definition": "e5144fb0851b015b616b664367026914",
+      "definition": "baa001384f63dfdcc3641b63ad4ab52f",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:39.000Z",
+      "lastModified": "2026-08-14T17:05:25.000Z",
       "path": "tpr/wallabyv",
       "pipelineId": 248,
-      "productConfig": {"cdnPath": "", "hash": "621a88e35ddaf2b3ba9f77fac046267a"},
+      "productConfig": {"hash": "621a88e35ddaf2b3ba9f77fac046267a"},
       "versionNumber": 3052021,
       "versionString": "0.4.03052021"
     }

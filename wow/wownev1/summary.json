@@ -6,12 +6,12 @@
       "build": {"name": "WOW-68887patch12.0.7_NEVendor1", "token": "79626b5c-5f02-43b1-b681-a030f567aa3a"},
       "buildKey": "cf3097ec4cd205d73f00c2d5ed73a486",
       "cdnKey": "5b5b76e13b724b70441297e2cf7fe42b",
-      "definition": "8e5519a3ca4db3c08657e3d8adce0902",
+      "definition": "434d78f9de86993b08c9778452f4d4a9",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:42.000Z",
+      "lastModified": "2026-08-14T17:05:28.000Z",
       "path": "tpr/wowvcn",
       "pipelineId": 403,
-      "productConfig": {"cdnPath": "", "hash": "9e2f1e9974a90cdfe16c95f38043c6c6"},
+      "productConfig": {"hash": "9e2f1e9974a90cdfe16c95f38043c6c6"},
       "versionNumber": 68887,
       "versionString": "12.0.7.68887"
     }

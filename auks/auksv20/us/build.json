@@ -3,12 +3,12 @@
   "build": {"name": "main_24224748_cer_ihv_bnet_v20_vendor", "token": "e718149e-691c-4ee0-a332-acb36a78381b"},
   "buildKey": "a603e0f06ad8aa9c7dc7ba7caecc35b4",
   "cdnKey": "ecd26dcdb8f52be4b24585661f968261",
-  "definition": "9ab6556fd44f044031b6866b3bc41d58",
+  "definition": "62da8b2e877b95de61ead0183e70a50b",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:03:41.000Z",
+  "lastModified": "2026-08-14T22:11:14.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
-  "productConfig": {"hash": "89292c65ce192160a6f2b5c8e530f73c"},
+  "productConfig": {"cdnPath": "", "hash": "89292c65ce192160a6f2b5c8e530f73c"},
   "versionNumber": 24224748,
   "versionString": "0.0.0.24224748d"
 }

@@ -3,12 +3,12 @@
   "build": {"name": "ArkansasArtBook_3173464", "token": "8fcaf8a1-e544-4b1a-82b5-bc97b273564f"},
   "buildKey": "38b07f50c92d35565e23831efdd58130",
   "cdnKey": "4cd8bd03f7e9e9469f31bb2c63616edc",
-  "definition": "9aaa1e3f865ceb422f0eed92269f2a99",
+  "definition": "cbc3e5bae943ea208ce5df6102fb1fab",
   "keyRing": "402187f6f69a0bb940516b110137adf0",
-  "lastModified": "2026-08-14T17:03:30.000Z",
+  "lastModified": "2026-08-14T22:11:06.000Z",
   "path": "tpr/ark",
   "pipelineId": 385,
-  "productConfig": {"hash": "cf5ca365b5cc74bb201a849286989d26"},
+  "productConfig": {"cdnPath": "", "hash": "cf5ca365b5cc74bb201a849286989d26"},
   "versionNumber": 2189902,
   "versionString": "74"
 }

@@ -3,12 +3,12 @@
   "build": {"name": "trunk_23884765_sat_clean_launch_bnet_v1_dev", "token": "591a47d5-fc53-4ad4-aaec-0cd335a61dbd"},
   "buildKey": "e057c046ffdc34ef64b20c90bf7faaeb",
   "cdnKey": "0e6f9bc267440b578e03d76b6d2b5a95",
-  "definition": "6027171a7a10cdafb4c21253f8d4e1fa",
+  "definition": "5ee8884f2f57ffc60cc60f361116f2d9",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:05:11.000Z",
+  "lastModified": "2026-08-14T22:12:25.000Z",
   "path": "tpr/sagev",
   "pipelineId": 304,
-  "productConfig": {"hash": "c1e4dd3842f65835c42c65523247fa2e"},
+  "productConfig": {"cdnPath": "", "hash": "c1e4dd3842f65835c42c65523247fa2e"},
   "versionNumber": 23884765,
   "versionString": "0.0.0.23884765d"
 }

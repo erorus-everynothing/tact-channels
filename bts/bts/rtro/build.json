@@ -3,12 +3,12 @@
   "build": {"name": "3141_rtro", "token": "8bd4b452-9ace-4221-a62a-b2efbcd6bc29"},
   "buildKey": "249ab12171d61c428be8709c177ad12c",
   "cdnKey": "78335f264d6f067530756af475145456",
-  "definition": "0b927b390f80d207a1f64ae92323f691",
+  "definition": "79dadbec91d1da5b9743570d0dfbcec5",
   "keyRing": "",
-  "lastModified": "2026-08-14T17:04:01.000Z",
+  "lastModified": "2026-08-14T22:11:29.000Z",
   "path": "tpr/bnt004",
   "pipelineId": 135,
-  "productConfig": {"hash": "e8a9e3b2b36cc844d7a26a18fce57792"},
+  "productConfig": {"cdnPath": "", "hash": "e8a9e3b2b36cc844d7a26a18fce57792"},
   "versionNumber": 3141,
   "versionString": "1.18.10.3141"
 }

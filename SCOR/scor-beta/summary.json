@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "SeaOfThievesInsider_1.151.5424.0", "token": "f843f987-d89b-4d4c-8c8f-f574fe6ad95d"},
-      "buildKey": "48d3aa6ed54c2238cd514db2fe0fe1d7",
-      "cdnKey": "80db9b18de26ac460cd559c10e63e6e4",
-      "definition": "6c00e0ac2550aa714037cef195b0bb87",
+      "build": {"name": "SeaOfThievesInsider_1.151.7016.0", "token": "8f616d40-7483-4b6d-b452-8dd02fe4080e"},
+      "buildKey": "65291ce256f4b56e7dde04071938cb8c",
+      "cdnKey": "baeae2030f783f5243bb932928b3ab4f",
+      "definition": "69d909c5307b5350b5a2a67cfe783b9d",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:33.000Z",
+      "lastModified": "2026-08-21T09:20:25.000Z",
       "path": "tpr/scor",
       "pipelineId": 336,
       "productConfig": {"cdnPath": "", "hash": "f5fbe84c6b975d34bdc93e3ccdff63c4"},
-      "versionNumber": 1515424,
-      "versionString": "1.151.5424.0"
+      "versionNumber": 1517016,
+      "versionString": "1.151.7016.0"
     }
   ],
   "infrastructure": false,

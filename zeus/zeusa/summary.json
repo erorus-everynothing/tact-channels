@@ -19,8 +19,28 @@
   "infrastructure": false,
   "product": "zeus",
   "regions": [
-    {"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"},
-    {"branches": ["eu"], "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"}
+    {
+      "branches": ["us"],
+      "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-21T00:25:31.000Z"
+    },
+    {
+      "branches": ["eu"],
+      "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-21T00:25:31.000Z"
+    }
   ],
   "variant": "zeusa"
 }

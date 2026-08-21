@@ -34,8 +34,28 @@
   "infrastructure": false,
   "product": "odin",
   "regions": [
-    {"branches": ["eu"], "cdns": "96a32bfd4f71c803c165e14e74b47aa9"},
-    {"branches": ["us"], "cdns": "20549aa6a072ba2469e628653d82b20e"}
+    {
+      "branches": ["eu"],
+      "cdns": "96a32bfd4f71c803c165e14e74b47aa9",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=10"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=10"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=10&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
+      ],
+      "lastModified": "2026-08-21T00:25:32.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "20549aa6a072ba2469e628653d82b20e",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=10"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=10"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=10&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
+      ],
+      "lastModified": "2026-08-21T00:25:32.000Z"
+    }
   ],
   "variant": "odinv1"
 }

@@ -1,1 +1,8 @@
-{"cdns": "bed07fc70258d67071c2ca1148e4b8c6"}
+{
+  "cdns": "bed07fc70258d67071c2ca1148e4b8c6",
+  "hosts": [
+    {"host": "http://blzdist-phx.necdn.leihuo.netease.com?maxhosts=6"},
+    {"host": "https://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
+  ],
+  "lastModified": "2026-08-21T00:25:34.000Z"
+}

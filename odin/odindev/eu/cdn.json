@@ -1,1 +1,9 @@
-{"cdns": "c782c27da917dfab34881294ce6f682e"}
+{
+  "cdns": "c782c27da917dfab34881294ce6f682e",
+  "hosts": [
+    {"host": "http://level3.blizzard.com?maxhosts=3&fallback=1"},
+    {"host": "https://us.cdn.blizzard.com?maxhosts=10"},
+    {"host": "https://level3.ssl.blizzard.com?maxhosts=10"}
+  ],
+  "lastModified": "2026-08-21T00:25:32.000Z"
+}

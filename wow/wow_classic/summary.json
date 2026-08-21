@@ -19,10 +19,48 @@
   "infrastructure": false,
   "product": "wow",
   "regions": [
-    {"branches": ["tw", "us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
-    {"branches": ["kr"], "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"},
-    {"branches": ["eu"], "cdns": "04458a4f0d38210a778428f7bc1c41c5"},
-    {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"}
+    {
+      "branches": ["tw", "us"],
+      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-21T00:25:32.000Z"
+    },
+    {
+      "branches": ["kr"],
+      "cdns": "8967c799fa1e344e1b8dfe8d95e517fe",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=2"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=3&fallback=1"},
+        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-21T00:25:32.000Z"
+    },
+    {
+      "branches": ["eu"],
+      "cdns": "04458a4f0d38210a778428f7bc1c41c5",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=8"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=8&fallback=1"}
+      ],
+      "lastModified": "2026-08-21T00:25:32.000Z"
+    },
+    {
+      "branches": ["cn"],
+      "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94",
+      "hosts": [
+        {"host": "http://blzdist-wow.necdn.leihuo.netease.com?maxhosts=6"},
+        {"host": "https://blzdist-wow.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-21T00:25:31.000Z"
+    }
   ],
   "variant": "wow_classic"
 }

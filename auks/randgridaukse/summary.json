@@ -11,7 +11,7 @@
       "cdnKey": "806c3e0a2d3e6a346eb237ce73d6af8f",
       "definition": "1875d97be7ccbd3029d534889f7e96e1",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:09.000Z",
+      "lastModified": "2026-08-20T23:11:55.000Z",
       "path": "tpr/aukse",
       "pipelineId": 273,
       "productConfig": {"cdnPath": "", "hash": "9c020a0857bde942ff9024dfbae3e2ea"},
@@ -21,18 +21,6 @@
   ],
   "infrastructure": false,
   "product": "auks",
-  "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
-  ],
+  "regions": [{"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
   "variant": "randgridaukse"
 }

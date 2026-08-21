@@ -8,7 +8,7 @@
       "cdnKey": "b4fb6a0697df7f61741fae7aa4ead304",
       "definition": "cca4716a96d4f65751866602b4212624",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:47.000Z",
+      "lastModified": "2026-08-20T23:12:52.000Z",
       "path": "tpr/zeusv",
       "pipelineId": 208,
       "productConfig": {"cdnPath": "", "hash": "eb4e56e10d6b7fb31bf1959485fe140f"},
@@ -23,7 +23,7 @@
       "cdnKey": "b7434c9edfad818982870e9b39a136a0",
       "definition": "8540427576d424b38be509a006b8531d",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:47.000Z",
+      "lastModified": "2026-08-20T23:12:52.000Z",
       "path": "tpr/zeusv",
       "pipelineId": 208,
       "productConfig": {"cdnPath": "", "hash": "eb4e56e10d6b7fb31bf1959485fe140f"},
@@ -41,7 +41,7 @@
       "cdnKey": "7fa8e53126e6e1049159603fa3ac9b89",
       "definition": "62c0badd41b277eabf80faf32e01b805",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:47.000Z",
+      "lastModified": "2026-08-20T23:12:52.000Z",
       "path": "tpr/zeusv",
       "pipelineId": 208,
       "productConfig": {"cdnPath": "", "hash": "eb4e56e10d6b7fb31bf1959485fe140f"},
@@ -52,28 +52,8 @@
   "infrastructure": false,
   "product": "zeus",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    }
+    {"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"},
+    {"branches": ["eu"], "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"}
   ],
   "variant": "zeusv2"
 }

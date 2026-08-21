@@ -11,7 +11,7 @@
       "cdnKey": "a7b9c44d2b956569747d6d0a7666e56e",
       "definition": "da8c12c4abc7bcf7024aa1147b37550c",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:36.000Z",
+      "lastModified": "2026-08-20T23:11:10.000Z",
       "path": "tpr/foree",
       "pipelineId": 264,
       "productConfig": {"cdnPath": "", "hash": "3e76bcb3d627f9484372a877f9e7d91b"},
@@ -21,18 +21,6 @@
   ],
   "infrastructure": false,
   "product": "fore",
-  "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
-  ],
+  "regions": [{"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
   "variant": "forecdlstaff"
 }

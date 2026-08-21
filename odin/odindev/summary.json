@@ -8,7 +8,7 @@
       "cdnKey": "50db9407cfa5c0fb8b01d195c85927ba",
       "definition": "b59ae68e8d3f6b208081ae52833a87f8",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:55.000Z",
+      "lastModified": "2026-08-20T23:11:38.000Z",
       "path": "tpr/odind",
       "pipelineId": 190,
       "productConfig": {"cdnPath": "", "hash": "8076a48479c7e59a1df2fd5ee1c1f75c"},
@@ -18,17 +18,6 @@
   ],
   "infrastructure": false,
   "product": "odin",
-  "regions": [
-    {
-      "branches": ["eu", "us"],
-      "cdns": "c782c27da917dfab34881294ce6f682e",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=3&fallback=1"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=10"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=10"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
-  ],
+  "regions": [{"branches": ["eu", "us"], "cdns": "c782c27da917dfab34881294ce6f682e"}],
   "variant": "odindev"
 }

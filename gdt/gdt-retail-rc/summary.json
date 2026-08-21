@@ -8,7 +8,7 @@
       "cdnKey": "eeb82829a7076311ebdc35c200c4bd7a",
       "definition": "b943c8ef88eced51bb26037dcf17c6a4",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:40.000Z",
+      "lastModified": "2026-08-20T23:11:15.000Z",
       "path": "tpr/gdtrc",
       "pipelineId": 363,
       "productConfig": {"cdnPath": "", "hash": "d42bc966bfa6fd24d9f413bea6a7f003"},
@@ -19,28 +19,8 @@
   "infrastructure": false,
   "product": "gdt",
   "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    }
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
+    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
   ],
   "variant": "gdt-retail-rc"
 }

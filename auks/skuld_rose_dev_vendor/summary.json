@@ -11,7 +11,7 @@
       "cdnKey": "03fa04206b372c80718bfc2191c05406",
       "definition": "1f749fd3c12df47fcc735301b5d943fe",
       "keyRing": "",
-      "lastModified": "2026-08-14T23:12:14.000Z",
+      "lastModified": "2026-08-20T23:12:37.000Z",
       "path": "tpr/auksdev/4",
       "pipelineId": 235,
       "productConfig": {"cdnPath": "", "hash": "0980d80983ed4bac5a38baa0fcbf6f95"},
@@ -21,16 +21,6 @@
   ],
   "infrastructure": false,
   "product": "auks",
-  "regions": [
-    {
-      "branches": ["us", "eu"],
-      "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=6"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
-  ],
+  "regions": [{"branches": ["us", "eu"], "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca"}],
   "variant": "skuld_rose_dev_vendor"
 }

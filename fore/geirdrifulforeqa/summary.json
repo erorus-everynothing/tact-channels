@@ -8,7 +8,7 @@
       "cdnKey": "a86dbe42c2ba28a14ecea2b3aa6d7853",
       "definition": "37971ad2cecae19587765630a288136f",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:41.000Z",
+      "lastModified": "2026-08-20T23:11:17.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "6160972f65e72031e4a6e1ce8e52853a"},
@@ -19,28 +19,8 @@
   "infrastructure": false,
   "product": "fore",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "87a06f78212104fe1a98f84f0157ff50",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
+    {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
+    {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"}
   ],
   "variant": "geirdrifulforeqa"
 }

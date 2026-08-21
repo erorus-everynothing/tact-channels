@@ -11,7 +11,7 @@
       "cdnKey": "64915117351ad8d47f60e39e55cb5253",
       "definition": "81d0c363af1e31954ce899e41a2e838b",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:53.000Z",
+      "lastModified": "2026-08-20T23:11:36.000Z",
       "path": "tpr/ninav",
       "pipelineId": 372,
       "productConfig": {"cdnPath": "", "hash": "88904d719c4bc1d03e82ae9212b0765c"},
@@ -26,7 +26,7 @@
       "cdnKey": "a986e46ded6807942b73eaf7777e641c",
       "definition": "2cb9b0e7447da1a9cea4f4eef4cfea1d",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:53.000Z",
+      "lastModified": "2026-08-20T23:11:36.000Z",
       "path": "tpr/ninav",
       "pipelineId": 372,
       "productConfig": {"cdnPath": "", "hash": "88904d719c4bc1d03e82ae9212b0765c"},
@@ -44,7 +44,7 @@
       "cdnKey": "f79ddffeb972814966c9c7f8b8b01552",
       "definition": "803deda877504227d90979bc4a1f9ae9",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:54.000Z",
+      "lastModified": "2026-08-20T23:11:36.000Z",
       "path": "tpr/ninav",
       "pipelineId": 372,
       "productConfig": {"cdnPath": "", "hash": "49072b04dce2457bbba8161c5e37ffc9"},
@@ -55,28 +55,8 @@
   "infrastructure": false,
   "product": "auks",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "084aea14e8342085ace15de6e8a53b72",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:35.000Z"
-    }
+    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
   ],
   "variant": "ninav1"
 }

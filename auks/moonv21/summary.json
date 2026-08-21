@@ -11,7 +11,7 @@
       "cdnKey": "8631605a34a4f9eedcf2186d387cbb49",
       "definition": "2b3611f71b4467c71d021d090173c181",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:50.000Z",
+      "lastModified": "2026-08-20T23:11:31.000Z",
       "path": "moon/moonvb",
       "pipelineId": 290,
       "productConfig": {"cdnPath": "", "hash": "48ffe57cb5dcc917e42cec1df51d9d25"},
@@ -26,7 +26,7 @@
       "cdnKey": "bc2ef08e72bb8e7006a4ab4331304edb",
       "definition": "91efd04d4ec6442bed96cf2091e4fbe6",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:50.000Z",
+      "lastModified": "2026-08-20T23:11:31.000Z",
       "path": "moon/moonvb",
       "pipelineId": 290,
       "productConfig": {"cdnPath": "", "hash": "f290fd757a7eb23809039171fc824358"},
@@ -44,7 +44,7 @@
       "cdnKey": "ea48df40f26b5df3cce8b8bfc204e7b7",
       "definition": "7fa44ba2b37488612c04cb773cf27523",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:50.000Z",
+      "lastModified": "2026-08-20T23:11:31.000Z",
       "path": "moon/moonvb",
       "pipelineId": 290,
       "productConfig": {"cdnPath": "", "hash": "3549d7a3337d61be5277978e3b077c00"},
@@ -55,28 +55,8 @@
   "infrastructure": false,
   "product": "auks",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "7d77b999022b646a1daa9a56779f335e",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "aa0fa3968e10940e193d53bcd24b53ef",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"},
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"}
   ],
   "variant": "moonv21"
 }

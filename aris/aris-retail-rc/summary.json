@@ -8,7 +8,7 @@
       "cdnKey": "c92eae7a7f71ae403eebb9c877fffa7b",
       "definition": "7b9315fea55a2ec2ee017cabf7f8a03c",
       "keyRing": "c97d84fb48912bca458ed915fd9c677b",
-      "lastModified": "2026-08-14T22:11:06.000Z",
+      "lastModified": "2026-08-20T23:10:34.000Z",
       "path": "tpr/arisrc",
       "pipelineId": 351,
       "productConfig": {"cdnPath": "", "hash": "5bff35d0e36b3bb1664bd27bcc7e6e47"},
@@ -19,28 +19,8 @@
   "infrastructure": false,
   "product": "aris",
   "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    }
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
+    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
   ],
   "variant": "aris-retail-rc"
 }

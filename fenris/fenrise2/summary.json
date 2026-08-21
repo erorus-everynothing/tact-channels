@@ -8,7 +8,7 @@
       "cdnKey": "cbc408ffa279f39eefa7b5a965b08285",
       "definition": "e03672c9835c0a12221acdd75724d614",
       "keyRing": "",
-      "lastModified": "2026-08-19T16:52:15.000Z",
+      "lastModified": "2026-08-20T23:11:07.000Z",
       "path": "tpr/fenrisevent2/4",
       "pipelineId": 393,
       "productConfig": {"cdnPath": "", "hash": "fe6c9c8fd975b78e01c308e87340cc6c"},
@@ -19,28 +19,8 @@
   "infrastructure": false,
   "product": "fenris",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "76da754e497b62f050afcf67d9067082",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=3&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:36.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "e5b42b20b4783163029cfc2b77023420",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=3&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:36.000Z"
-    }
+    {"branches": ["us"], "cdns": "76da754e497b62f050afcf67d9067082"},
+    {"branches": ["eu"], "cdns": "e5b42b20b4783163029cfc2b77023420"}
   ],
   "variant": "fenrise2"
 }

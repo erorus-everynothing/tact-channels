@@ -11,7 +11,7 @@
       "cdnKey": "11f1d736ac87aba1eb1613d5a36337f3",
       "definition": "b93e72fdaa81820704bbbb5c706a43e6",
       "keyRing": "",
-      "lastModified": "2026-08-18T22:22:38.000Z",
+      "lastModified": "2026-08-20T23:12:12.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "7b93749486b07a8b7fb1712246f1327e"},
@@ -29,7 +29,7 @@
       "cdnKey": "48af423dfda3743a77f33d68f2b18722",
       "definition": "47b2cf88df06ed67e95a36c1bd0d7cb3",
       "keyRing": "",
-      "lastModified": "2026-08-17T16:02:01.000Z",
+      "lastModified": "2026-08-20T23:12:12.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "7b93749486b07a8b7fb1712246f1327e"},
@@ -47,7 +47,7 @@
       "cdnKey": "1bc09a236267b1d10bdb6eccdb349511",
       "definition": "67a1cf0192a3b7638411e44b4d094ddb",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:21.000Z",
+      "lastModified": "2026-08-20T23:12:12.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "7b93749486b07a8b7fb1712246f1327e"},
@@ -58,28 +58,8 @@
   "infrastructure": false,
   "product": "auks",
   "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "084aea14e8342085ace15de6e8a53b72",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:35.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    }
+    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
+    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
   ],
   "variant": "rosev23"
 }

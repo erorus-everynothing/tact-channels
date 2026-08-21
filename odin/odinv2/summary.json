@@ -8,7 +8,7 @@
       "cdnKey": "b8d6a0b4d13de61a4117161550650fcf",
       "definition": "534573fc8b3648ee9d1dde7674bc03e6",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:57.000Z",
+      "lastModified": "2026-08-20T23:11:40.000Z",
       "path": "tpr/odinv",
       "pipelineId": 192,
       "productConfig": {"cdnPath": "", "hash": "31d35de2a5a105426fccde47267718b1"},
@@ -23,7 +23,7 @@
       "cdnKey": "074ab484409b3f0a55885de9b1724008",
       "definition": "2d0f325504b5bb9b2f9f8414e81b61f9",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:57.000Z",
+      "lastModified": "2026-08-20T23:11:40.000Z",
       "path": "tpr/odinv",
       "pipelineId": 192,
       "productConfig": {"cdnPath": "", "hash": "3f4929ea6a49e78bca71c0c3f54e57ed"},
@@ -38,7 +38,7 @@
       "cdnKey": "d03739536471703206312474643c5503",
       "definition": "d8f0b793add4bd638dd8d56828857abc",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:57.000Z",
+      "lastModified": "2026-08-20T23:11:40.000Z",
       "path": "tpr/odinv",
       "pipelineId": 192,
       "productConfig": {"cdnPath": "", "hash": "31d35de2a5a105426fccde47267718b1"},
@@ -49,28 +49,8 @@
   "infrastructure": false,
   "product": "odin",
   "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "96a32bfd4f71c803c165e14e74b47aa9",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=10"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=10"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=10&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "20549aa6a072ba2469e628653d82b20e",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=10"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=10"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=10&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
+    {"branches": ["eu"], "cdns": "96a32bfd4f71c803c165e14e74b47aa9"},
+    {"branches": ["us"], "cdns": "20549aa6a072ba2469e628653d82b20e"}
   ],
   "variant": "odinv2"
 }

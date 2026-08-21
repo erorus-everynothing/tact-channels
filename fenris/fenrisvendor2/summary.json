@@ -8,7 +8,7 @@
       "cdnKey": "7efa3f25f5521c10c53696f37a066be9",
       "definition": "5b25a47720b0adac45543905ef1fc32b",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:34.000Z",
+      "lastModified": "2026-08-20T23:11:08.000Z",
       "path": "tpr/fenrisv",
       "pipelineId": 206,
       "productConfig": {"cdnPath": "", "hash": "1134ad3c4977dd6125695f4923aa4bcd"},
@@ -18,18 +18,6 @@
   ],
   "infrastructure": false,
   "product": "fenris",
-  "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    }
-  ],
+  "regions": [{"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"}],
   "variant": "fenrisvendor2"
 }

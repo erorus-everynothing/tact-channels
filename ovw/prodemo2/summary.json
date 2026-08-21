@@ -8,7 +8,7 @@
       "cdnKey": "8e3ecf85c5b9129732a498335bda735a",
       "definition": "00fb507736f005eeab662835d421d8ce",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:03.000Z",
+      "lastModified": "2026-08-20T23:11:47.000Z",
       "path": "tpr/proa",
       "pipelineId": 54,
       "productConfig": {"cdnPath": "", "hash": "1c2f27626936e52da460b08b3d958725"},
@@ -19,28 +19,8 @@
   "infrastructure": false,
   "product": "ovw",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    }
+    {"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"},
+    {"branches": ["eu"], "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"}
   ],
   "variant": "prodemo2"
 }

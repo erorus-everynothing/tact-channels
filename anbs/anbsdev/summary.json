@@ -8,7 +8,7 @@
       "cdnKey": "89366f58513584eac84b921a6c58e144",
       "definition": "65075733cf6bc295dda127e9bacfc03f",
       "keyRing": "",
-      "lastModified": "2026-08-20T11:10:23.000Z",
+      "lastModified": "2026-08-20T23:10:30.000Z",
       "path": "tpr/anbsdev",
       "pipelineId": 262,
       "productConfig": {"cdnPath": "", "hash": "a27720069328eaf95569fe3f4c5a02fa"},
@@ -18,18 +18,6 @@
   ],
   "infrastructure": false,
   "product": "anbs",
-  "regions": [
-    {
-      "branches": ["eu", "us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
-  ],
+  "regions": [{"branches": ["eu", "us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
   "variant": "anbsdev"
 }

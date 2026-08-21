@@ -11,7 +11,7 @@
       "cdnKey": "46ec2ab043a549e98ad46de59763d9dc",
       "definition": "553439a53dbc024009db7e20ae898ab7",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:37.000Z",
+      "lastModified": "2026-08-20T23:12:37.000Z",
       "path": "tpr/viperv",
       "pipelineId": 187,
       "productConfig": {"cdnPath": "", "hash": "aca3bf18d3055d5945ea42b4d2231edc"},
@@ -26,7 +26,7 @@
       "cdnKey": "40f01875402bb3b87cf05e7a9b08f001",
       "definition": "98ea74d8b9eb20a1b4aeba718ed3e534",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:37.000Z",
+      "lastModified": "2026-08-20T23:12:38.000Z",
       "path": "tpr/viperv",
       "pipelineId": 187,
       "productConfig": {"cdnPath": "", "hash": "aca3bf18d3055d5945ea42b4d2231edc"},
@@ -36,16 +36,6 @@
   ],
   "infrastructure": false,
   "product": "viper",
-  "regions": [
-    {
-      "branches": ["us", "eu"],
-      "cdns": "e3e189f887f0d9913e39df671295e08f",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    }
-  ],
+  "regions": [{"branches": ["us", "eu"], "cdns": "e3e189f887f0d9913e39df671295e08f"}],
   "variant": "viperv1"
 }

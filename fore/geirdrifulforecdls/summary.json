@@ -8,7 +8,7 @@
       "cdnKey": "f1e27c059987a5d05ae23b3f9c3dcaf2",
       "definition": "021fc8e2f349e70f8b58cf754fe070ce",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:41.000Z",
+      "lastModified": "2026-08-20T23:11:16.000Z",
       "path": "tpr/foree",
       "pipelineId": 264,
       "productConfig": {"cdnPath": "", "hash": "d311d711f2cc25d073c9e7229ead79ca"},
@@ -18,18 +18,6 @@
   ],
   "infrastructure": false,
   "product": "fore",
-  "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
-  ],
+  "regions": [{"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
   "variant": "geirdrifulforecdls"
 }

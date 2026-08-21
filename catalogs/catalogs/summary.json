@@ -8,7 +8,7 @@
       "cdnKey": "96dca87d76fa843cea1bfcd5a7e14098",
       "definition": "6003f65edda68c6b31bf80d32e479f93",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:29.000Z",
+      "lastModified": "2026-08-20T23:11:02.000Z",
       "path": "tpr/catalogs",
       "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
@@ -23,7 +23,7 @@
       "cdnKey": "96dca87d76fa843cea1bfcd5a7e14098",
       "definition": "09ad22f36f17bd4f5ed55f2b13ebaf11",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:29.000Z",
+      "lastModified": "2026-08-20T23:11:02.000Z",
       "path": "tpr/catalogs",
       "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
@@ -38,7 +38,7 @@
       "cdnKey": "96dca87d76fa843cea1bfcd5a7e14098",
       "definition": "fcf28d0cc7880e10cd065c3c523a5318",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:29.000Z",
+      "lastModified": "2026-08-20T23:11:02.000Z",
       "path": "tpr/catalogs",
       "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
@@ -53,7 +53,7 @@
       "cdnKey": "96dca87d76fa843cea1bfcd5a7e14098",
       "definition": "9dbc9be01ed0320596771fdd36dc6520",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:29.000Z",
+      "lastModified": "2026-08-20T23:11:02.000Z",
       "path": "tpr/catalogs",
       "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
@@ -68,7 +68,7 @@
       "cdnKey": "e8b36d34e817bb50c1e4826c9dbcf42b",
       "definition": "6c6c024bd894f691e2a8f6ee7059852b",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:29.000Z",
+      "lastModified": "2026-08-20T23:11:02.000Z",
       "path": "tpr/catalogs",
       "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
@@ -83,7 +83,7 @@
       "cdnKey": "71ae85e3b72b6d498c8b13dfc9d6f14f",
       "definition": "893817e0cf4acbb2501221d87663d8fa",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:29.000Z",
+      "lastModified": "2026-08-20T23:11:02.000Z",
       "path": "tpr/catalogs",
       "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
@@ -98,7 +98,7 @@
       "cdnKey": "7ec075057a1c76d08b2dfefc5f3bbb6e",
       "definition": "769eb3a079bb1542f06a68a816706be0",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:29.000Z",
+      "lastModified": "2026-08-20T23:11:02.000Z",
       "path": "tpr/catalogs",
       "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
@@ -113,7 +113,7 @@
       "cdnKey": "07b3c7658c5824e568298973eafe3b47",
       "definition": "43178c710bce96f645d7a15ad2d23ed3",
       "keyRing": "",
-      "lastModified": "2026-08-20T21:09:01.000Z",
+      "lastModified": "2026-08-20T23:11:02.000Z",
       "path": "tpr/catalogs",
       "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
@@ -124,50 +124,10 @@
   "infrastructure": false,
   "product": "catalogs",
   "regions": [
-    {
-      "branches": ["kr"],
-      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    },
-    {
-      "branches": ["cn"],
-      "cdns": "ffec4c7f724b685aff96c8e97d715c21",
-      "hosts": [
-        {"host": "http://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4"},
-        {"host": "https://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:32.000Z"
-    }
+    {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
+    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
+    {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"}
   ],
   "variant": "catalogs"
 }

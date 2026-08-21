@@ -11,7 +11,7 @@
       "cdnKey": "c98887660fc83e7b7016da8abb1818e5",
       "definition": "515b0897d8b9fe1d17f7f096da39ed21",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:36.000Z",
+      "lastModified": "2026-08-20T23:11:10.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "28316d7070e3976c26521bd9443354fa"},
@@ -26,7 +26,7 @@
       "cdnKey": "ec3ed2c7c0b0c8655f4d42b2114f8a7c",
       "definition": "dd18de68bc0fba8380fc9de670b9f319",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:36.000Z",
+      "lastModified": "2026-08-20T23:11:10.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "28316d7070e3976c26521bd9443354fa"},
@@ -41,7 +41,7 @@
       "cdnKey": "c03c2cdb9ab579b2345ebd064557e2d9",
       "definition": "2dcae8c1183bfaa6ffe5636994d67b01",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:11:36.000Z",
+      "lastModified": "2026-08-20T23:11:10.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "28316d7070e3976c26521bd9443354fa"},
@@ -52,28 +52,8 @@
   "infrastructure": false,
   "product": "fore",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "87a06f78212104fe1a98f84f0157ff50",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:34.000Z"
-    }
+    {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
+    {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"}
   ],
   "variant": "forev1"
 }

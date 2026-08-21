@@ -8,7 +8,7 @@
       "cdnKey": "ec009d5ed740ecd69a4a802e06a2bd47",
       "definition": "fb3abd3eb671fccaf34eff69c3abb2de",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:29.000Z",
+      "lastModified": "2026-08-20T23:12:26.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "1f03098b60e57479306d4d667d77d78c"},
@@ -23,7 +23,7 @@
       "cdnKey": "ec268cbf1332a858f14ae9281b4a1ca8",
       "definition": "6dfa6772a1838086b11a5277d1aafd3e",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:29.000Z",
+      "lastModified": "2026-08-20T23:12:26.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "1f03098b60e57479306d4d667d77d78c"},
@@ -38,7 +38,7 @@
       "cdnKey": "88101025cc0a6f96cf391bcbe63f8f95",
       "definition": "ccf37beac2fd4e034356cf20e195e051",
       "keyRing": "",
-      "lastModified": "2026-08-14T22:12:29.000Z",
+      "lastModified": "2026-08-20T23:12:26.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "fa580d61cb617ca8562a65be4961c10a"},
@@ -49,28 +49,8 @@
   "infrastructure": false,
   "product": "auks",
   "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:33.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "084aea14e8342085ace15de6e8a53b72",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-14T22:10:35.000Z"
-    }
+    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
   ],
   "variant": "sagev2"
 }

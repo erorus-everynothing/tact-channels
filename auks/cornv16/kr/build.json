@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "trunk_27879616_zul_full_bnet_v16_dev", "token": "54757b4a-1d4c-43f2-ab98-abb2860d9fcf"},
-  "buildKey": "7232abebc62c742fab8927a232bdcd62",
-  "cdnKey": "664b03817d55256b553b2732f203952a",
-  "definition": "0acb025d9b6cfae693cd85370f109868",
+  "build": {"name": "trunk_28520130_zul_full_bnet_v16_dev", "token": "c9724733-a9d7-470d-a06d-511ee953cf96"},
+  "buildKey": "d44f4c42e5399b41b03b2d566a0689ee",
+  "cdnKey": "d5820b062e9e53a4c3ec6703ab1db497",
+  "definition": "e31e58dcece969631971885ea7390fbb",
   "keyRing": "",
-  "lastModified": "2026-08-20T23:11:04.000Z",
+  "lastModified": "2026-08-24T20:24:45.000Z",
   "path": "tpr/cornv",
   "pipelineId": 376,
   "productConfig": {"cdnPath": "", "hash": "ccddf092ae0c59ddcab3977536b9ca3d"},
-  "versionNumber": 27879616,
-  "versionString": "0.0.0.27879616d"
+  "versionNumber": 28520130,
+  "versionString": "0.0.0.28520130d"
 }

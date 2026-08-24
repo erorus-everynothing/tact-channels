@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "17709_release_2.52.9", "token": "f81d2c4b-b3c5-4f69-8c45-211c6ec5bce5"},
-  "buildKey": "a09e9d96a3a246feb0e513fcab1b63a6",
-  "cdnKey": "21e03ae388ef70093aedaa2bf5ecb739",
-  "definition": "8160a0f781148f1ee0e849aefed4620f",
+  "build": {"name": "17731_release_2.52.10", "token": "2384fc9b-f31e-4bf8-b46e-3d56064e185f"},
+  "buildKey": "ccd6ebf6e0928683192c05a43fe2f89b",
+  "cdnKey": "d9c6f73b4c44eb2c44e480610e73c420",
+  "definition": "901ce2d7908e804f27bcfd8d853bf31b",
   "keyRing": "",
-  "lastModified": "2026-08-20T23:10:49.000Z",
+  "lastModified": "2026-08-24T19:20:29.000Z",
   "path": "tpr/bnt002",
   "pipelineId": 53,
   "productConfig": {"cdnPath": "", "hash": "c9dc6de3a629d80327fc6e96256dd19e"},
-  "versionNumber": 17709,
-  "versionString": "2.52.9.17709"
+  "versionNumber": 17731,
+  "versionString": "2.52.10.17731"
 }

@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "WOW-69137patch3.80.2_ClassicTitan", "token": "176209c0-63c5-4f95-9ebc-21d3d4fc600a"},
-  "buildKey": "b7ccc184ffe73fafb5e6443778754ffe",
-  "cdnKey": "481a61979f7082e323be3d2ec8bff1f9",
-  "definition": "de1484d13eb700e75731b7aeec9fac3f",
+  "build": {"name": "WOW-69496patch3.80.2_ClassicTitan", "token": "b4498dfc-f77a-4b8c-be6d-e5f58d4d31c9"},
+  "buildKey": "eb583f143feb7b23ea9ea052c8ea2928",
+  "cdnKey": "ef5632326410b59d728b391f26ca52db",
+  "definition": "7b36f4bf9962a8510a39042b34412df3",
   "keyRing": "",
-  "lastModified": "2026-08-20T23:12:43.000Z",
+  "lastModified": "2026-08-25T23:40:33.000Z",
   "path": "tpr/wow",
   "pipelineId": 19,
   "productConfig": {"cdnPath": "", "hash": "11a7ea270082c4636d7c2edbcda7ae94"},
-  "versionNumber": 69137,
-  "versionString": "3.80.2.69137"
+  "versionNumber": 69496,
+  "versionString": "3.80.2.69496"
 }

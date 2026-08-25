@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "release_driver_17_06_2026_27589122_valkyrie_valkyrie_ship_ship",
-        "token": "45e2f767-28e3-4852-a8b3-4aefc92e1ad3"
+        "name": "trunk_driver_19_08_2026_28546760_valkyrie_valkyrie_ship_ship",
+        "token": "59dfed46-e771-4287-855a-7cb71a28233b"
       },
-      "buildKey": "0355f2aff4ff72caf732f83ee2717d9e",
-      "cdnKey": "759e870070b2b3bcf62c9a9ff4094c91",
-      "definition": "59e267f0fe7193068843d4143a5c9fba",
+      "buildKey": "78da7d469544cb457ca70c6c687a3306",
+      "cdnKey": "83ae1bb82c686a73de50cb96aeb10fa5",
+      "definition": "e1e6753cb4a477dd9772bc9024ec524c",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:02.000Z",
+      "lastModified": "2026-08-25T18:30:07.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "3435b8f6438e147eb6d144b342a92b54"},
-      "versionNumber": 27589122,
-      "versionString": "0.0.1.27589122s"
+      "versionNumber": 28546760,
+      "versionString": "0.0.1.28546760s"
     }
   ],
   "infrastructure": false,

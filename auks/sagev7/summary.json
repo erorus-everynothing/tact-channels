@@ -18,17 +18,17 @@
     {
       "armadilloKey": "",
       "branches": ["kr", "us"],
-      "build": {"name": "main_28638285_sat_clean_future_bnet_v7_dev", "token": "5c264a66-b595-464c-8bae-e14216f16c42"},
-      "buildKey": "91119082cbefaf70ed380eb0bfa8e32c",
-      "cdnKey": "94c797236b053e7c64d3e3eeac0233e3",
-      "definition": "765be67375521c1ab57220ed641ce517",
+      "build": {"name": "main_28660733_sat_clean_future_bnet_v7_dev", "token": "91bace4f-dc4a-420a-aec3-92ab4da4b9b9"},
+      "buildKey": "0a4b7932d48ba4ef15811349c006c629",
+      "cdnKey": "3bdde068dd24cb3eeb14dd2108734740",
+      "definition": "672ce190e925f77cfa24d74a95c1e063",
       "keyRing": "",
-      "lastModified": "2026-08-25T21:56:23.000Z",
+      "lastModified": "2026-08-26T21:47:23.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "7a9e34b568e04dce3167f795752a7adb"},
-      "versionNumber": 28638285,
-      "versionString": "0.0.0.28638285d"
+      "versionNumber": 28660733,
+      "versionString": "0.0.0.28660733d"
     }
   ],
   "infrastructure": false,

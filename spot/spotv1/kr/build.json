@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "test_build", "token": "e076eb44-82f2-48bf-9529-f8a3b3fed22f"},
+  "buildKey": "13db3566eee08a280b75613cd1b5abc9",
+  "cdnKey": "96823cca01c039a514e4764a822bb7c0",
+  "definition": "2c8ba40e73359410ea9749d72dac01e9",
+  "keyRing": "552fbc6925947ddefc2ccd02fccfd0d2",
+  "lastModified": "2026-08-27T16:11:23.000Z",
+  "path": "tpr/spotdev",
+  "pipelineId": 257,
+  "productConfig": {"cdnPath": "", "hash": "26cc723f041c63f85b08e2530ae1f971"},
+  "versionNumber": 1,
+  "versionString": "0.0.0001"
+}

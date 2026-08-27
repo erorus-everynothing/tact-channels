@@ -1,0 +1,8 @@
+{
+  "cdns": "a82da8e8cbff09cee2eb46d7bc99cacb",
+  "hosts": [
+    {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
+    {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"}
+  ],
+  "lastModified": "2026-08-25T16:26:54.000Z"
+}

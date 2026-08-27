@@ -1,17 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {
-    "name": "20260602__S4_TU27__v27062314__BNET_signed_v7_ship",
-    "token": "ca759779-6498-49f3-9396-57e2a7bcd3c8"
-  },
-  "buildKey": "bb634f58d4130b4d6ce939eff1298489",
-  "cdnKey": "627bc7bd079e7f15693528f591713959",
-  "definition": "2ee288c9ccaecc17f7f48a3cf08b66a0",
+  "build": {"name": "s4_tu28_08_18_signed__v7_ship", "token": "b6000c1b-94d1-4827-9265-2d7c674eb885"},
+  "buildKey": "3ce0c9308067dea342372ab72ff022f7",
+  "cdnKey": "97d947c1adb205fb97ea38eb1fd3486e",
+  "definition": "48b80147edf11468389bc3dcb61872c6",
   "keyRing": "",
-  "lastModified": "2026-08-20T23:11:14.000Z",
+  "lastModified": "2026-08-27T20:18:53.000Z",
   "path": "tpr/forev",
   "pipelineId": 219,
   "productConfig": {"cdnPath": "", "hash": "b05fb72dae74dc24e7dcc1f82a49c301"},
-  "versionNumber": 27062314,
-  "versionString": "0.0.0.27062314s"
+  "versionNumber": 28520525,
+  "versionString": "0.0.0.28520525s"
 }

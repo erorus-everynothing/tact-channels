@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["cn"],
-      "build": {"name": "prometheus-2_23_1_0-152018-providcn2", "token": "14b80aab-54ce-44ff-bea7-250e63b490f7"},
-      "buildKey": "2b91afc2085f0789cb49b1c094535b70",
-      "cdnKey": "a1d54eec0c5fe0f8be870ce93a95188d",
-      "definition": "e825e0615f23955889176879a532ccb5",
+      "build": {"name": "prometheus-2_25_0_0-153129-providcn2", "token": "bab6c995-5263-4ea0-8b21-a86393380a23"},
+      "buildKey": "4cc9360a71d78c8c0cf361d142fc8896",
+      "cdnKey": "18110f9537de46fbcbc84b773e1bdee4",
+      "definition": "c034c3bb4983c8fec3c0d9127abcb8a9",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:53.000Z",
+      "lastModified": "2026-08-27T19:07:52.000Z",
       "path": "tpr/prov3/2",
       "pipelineId": 299,
       "productConfig": {"cdnPath": "", "hash": "9d79429f0510a8b51a523cdc913b90dc"},
-      "versionNumber": 152018,
-      "versionString": "2.23.1.0.152018"
+      "versionNumber": 153129,
+      "versionString": "2.25.0.0.153129"
     },
     {
       "armadilloKey": "",

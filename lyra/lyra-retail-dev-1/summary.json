@@ -1,0 +1,46 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["eu", "us"],
+      "build": {"name": "Build_1010149Change_13009116", "token": "a3f8df12-4560-41bc-9962-0f207836899e"},
+      "buildKey": "82cab1455537d161524ae292a5065350",
+      "cdnKey": "054073d75331bdc1dfd3960f2c36b01a",
+      "definition": "06f6069be7c80a6c3121db92eda27443",
+      "keyRing": "cdc5bc65c602ffa0a7a045389d4a1f87",
+      "lastModified": "2026-08-27T22:48:32.000Z",
+      "path": "tpr/lyradev",
+      "pipelineId": 410,
+      "productConfig": {"cdnPath": "", "hash": "e09c8adf52f000d4de5cbd458c79d79f"},
+      "versionNumber": 1010149,
+      "versionString": "5.00"
+    }
+  ],
+  "infrastructure": false,
+  "product": "lyra",
+  "regions": [
+    {
+      "branches": ["us"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-20T22:45:35.000Z"
+    },
+    {
+      "branches": ["eu"],
+      "cdns": "287b8918c145665428c6f714cdc6e3bd",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-20T22:45:35.000Z"
+    }
+  ],
+  "variant": "lyra-retail-dev-1"
+}

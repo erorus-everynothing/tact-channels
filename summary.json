@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "f427eeb187d557483bb1fb2d7e2dc65c"
+    "channel": "f6e2b1a506896fe3c2619c01deae50b1"
   },
-  "lastModified": "2026-08-27T19:40:33.000Z",
-  "pointerLastModified": "2026-08-27T19:40:34.000Z",
+  "lastModified": "2026-08-27T19:44:03.000Z",
+  "pointerLastModified": "2026-08-27T19:44:03.000Z",
   "products": {
     "agent": [
       "agent",
@@ -55,6 +55,7 @@
     "auks": [
       "auks",
       "auksb",
+      "auksdev",
       "aukse",
       "aukse2",
       "auksese",

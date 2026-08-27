@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "trunk_28662965_kra_clean_bnet_v1_dev", "token": "f83ddefe-ede2-4ab2-b65e-8f3553e9f356"},
-  "buildKey": "ebde0aacc9b9167e55629856db73449a",
-  "cdnKey": "3ef76e09a872599292be513724b36fa3",
-  "definition": "16d831e61ef8c73c67bc316ff4ae1f63",
+  "build": {"name": "trunk_28685956_kra_clean_bnet_v1_dev", "token": "da1c07e1-228f-405b-86fe-5a8af46153d4"},
+  "buildKey": "1ccf1f9ff9b58d5f866138b0ba367562",
+  "cdnKey": "73bec4d127ddd05232c2e7920d429eb4",
+  "definition": "630264ada9e65a3da83624a2daf491ad",
   "keyRing": "",
-  "lastModified": "2026-08-26T23:40:30.000Z",
+  "lastModified": "2026-08-27T16:46:22.000Z",
   "path": "tpr/kelpv",
   "pipelineId": 416,
   "productConfig": {"cdnPath": "", "hash": "b175c78cba9294cbe1dd572dbc43d684"},
-  "versionNumber": 28662965,
-  "versionString": "1.0.3.28662965d"
+  "versionNumber": 28685956,
+  "versionString": "1.0.3.28685956d"
 }

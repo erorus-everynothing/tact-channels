@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["fenris"],
-      "build": {"name": "73522_Win64Client_3_2_1_fenrisvendor4", "token": "aba344bc-4f47-42de-ab5d-5f72893db1c2"},
-      "buildKey": "2d07b82b04d5963547f577e23a22d9a8",
-      "cdnKey": "f7a849b0641943ce18082d68466a3803",
-      "definition": "3012b27fe34ec2d7d6b3c6370514beca",
+      "build": {"name": "73550_Win64Client_3_2_1_fenrisvendor4", "token": "69b70ee3-18ef-4454-8452-6db282f9b34d"},
+      "buildKey": "1d91eee4299d7f4bed0ccf24dcdd8a55",
+      "cdnKey": "889d5e7fc4d36800847236d8f499de18",
+      "definition": "11dbc01c54ea2df54817bb583500bdf6",
       "keyRing": "",
-      "lastModified": "2026-08-27T16:35:14.000Z",
+      "lastModified": "2026-08-28T18:49:34.000Z",
       "path": "tpr/fenrisv",
       "pipelineId": 206,
       "productConfig": {"cdnPath": "", "hash": "c9104615596e57c338ff17540dc2be96"},
-      "versionNumber": 73522,
-      "versionString": "3.2.1.73522"
+      "versionNumber": 73550,
+      "versionString": "3.2.1.73550"
     }
   ],
   "infrastructure": false,

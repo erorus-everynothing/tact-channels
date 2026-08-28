@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "310635e27c53c4dc6bd1254885f093c5"
+    "channel": "5818d21f6b156deadb2992d861f0ddb6"
   },
-  "lastModified": "2026-08-28T13:39:24.000Z",
-  "pointerLastModified": "2026-08-28T13:39:24.000Z",
+  "lastModified": "2026-08-28T13:42:13.000Z",
+  "pointerLastModified": "2026-08-28T13:42:13.000Z",
   "products": {
     "agent": [
       "agent",

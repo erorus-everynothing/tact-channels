@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "Arkansas_3988036", "token": "f0854417-72b2-45a8-a21a-9a4b1d06f5d3"},
-  "buildKey": "02506e350383725ed41efe4e15252579",
-  "cdnKey": "c216da936752b15da5b65a5ad0065d6f",
-  "definition": "9c150adbd9171cea51cba972e302c884",
-  "keyRing": "ab0e017de8b532ac83e4e3f52b6e278f",
-  "lastModified": "2026-08-20T23:10:35.000Z",
+  "build": {"name": "Arkansas_4017171", "token": "c2c4be60-95fc-4f37-920c-5546e05105ab"},
+  "buildKey": "e5eaf765e4850ef6002d81a731f4db0a",
+  "cdnKey": "66153e3b61855cb57e950af831bbed18",
+  "definition": "b41f0e19d0cdb4c41c8c9b9289d91940",
+  "keyRing": "240635d0857435529f4f0e283f8fe32c",
+  "lastModified": "2026-08-28T18:57:22.000Z",
   "path": "tpr/arkdev",
   "pipelineId": 383,
   "productConfig": {"cdnPath": "", "hash": "a9a7e0d1608bd5ce9bc967fd680e9167"},
-  "versionNumber": 3052906,
-  "versionString": "0.0.4235.0"
+  "versionNumber": 3091822,
+  "versionString": "0.0.4252.0"
 }

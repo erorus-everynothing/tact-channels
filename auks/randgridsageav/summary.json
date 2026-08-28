@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "release_driver_17_06_2026_27589122_valkyrie_valkyrie_ship_ship",
-        "token": "8cb97504-cc60-4ec5-8673-3e12ad5e25f4"
+        "name": "release_driver_27_08_2026_28696816_valkyrie_valkyrie_ship_ship",
+        "token": "2144c8a4-fd0d-4875-b9e2-d943ba32dfd8"
       },
-      "buildKey": "6809903e44a049639f6a8e3b9ac112fd",
-      "cdnKey": "5cc4f246a5e358f82baa49b062477365",
-      "definition": "bd52c58ef95dc0f31c2ca5ee85713643",
+      "buildKey": "cf94832fb068f8d2918878cdf46d2c0d",
+      "cdnKey": "2501f0fc431ac19215a6251d37a08460",
+      "definition": "0d6ac84dd10b6e71744e1e6c599cbe46",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:03.000Z",
+      "lastModified": "2026-08-28T20:58:44.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "c0b0e55d2c5466d6d9bfd0f94ff7e831"},
-      "versionNumber": 27589122,
-      "versionString": "0.0.1.27589122s"
+      "versionNumber": 28696816,
+      "versionString": "0.0.1.28696816s"
     }
   ],
   "infrastructure": false,

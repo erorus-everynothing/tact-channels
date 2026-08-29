@@ -1,17 +1,17 @@
 {
   "armadilloKey": "",
   "build": {
-    "name": "release_driver_17_06_2026_27589122_valkyrie_valkyrie_dev_dev",
-    "token": "e8b2979c-0563-46a8-8e27-6c558f8811c2"
+    "name": "release_driver_27_08_2026_28696816_valkyrie_valkyrie_dev_dev",
+    "token": "45d9128f-8211-4dcc-825f-3c37db6019e8"
   },
-  "buildKey": "7d1f6d8620badec4ccc5aa2ac612c357",
-  "cdnKey": "0a8f47dfb4aeaf5b7d58f950f389cbc2",
-  "definition": "faa7fd49060e599c79921dd4cdc43a24",
+  "buildKey": "5e7650fa1223e94743e2be67c5ca79ce",
+  "cdnKey": "77a5fa809288027d03dff03f911dfae9",
+  "definition": "0e48765461610e47b6be19bf222c12b7",
   "keyRing": "",
-  "lastModified": "2026-08-20T23:11:55.000Z",
+  "lastModified": "2026-08-29T00:19:13.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
   "productConfig": {"cdnPath": "", "hash": "636764a676298e1f1c619ae7cf8a5303"},
-  "versionNumber": 27589122,
-  "versionString": "1.0.3.27589122d"
+  "versionNumber": 28696816,
+  "versionString": "1.0.3.28696816d"
 }

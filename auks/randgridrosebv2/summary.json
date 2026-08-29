@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "release_driver_06_08_2026_28347379_valkyrie_valkyrie_ship_ship2",
-        "token": "d32520d5-4701-4fc0-a0e8-1282faae4bcd"
+        "name": "release_driver_27_08_2026_28696816_valkyrie_valkyrie_ship_ship2",
+        "token": "96a5719a-4d0d-4551-a0ec-4d61db5651ea"
       },
-      "buildKey": "0d0b756f6d50cb18d5942145d8d8ec19",
-      "cdnKey": "2d694a375c2207ecfc9da06c2d16be8b",
-      "definition": "e5b6b6f80547ef6a98aed3c3966d5f6a",
+      "buildKey": "643aa0e1d2d5b58d21c630b64ae8547f",
+      "cdnKey": "fc055c4ae67e58f72aa11b61f49b4460",
+      "definition": "9275e790b2f5044939451c7ac19ea494",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:03.000Z",
+      "lastModified": "2026-08-29T00:22:04.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "6faf0ab219a60e6dbc96a746f527a265"},
-      "versionNumber": 28347379,
-      "versionString": "1.0.0.28347379d"
+      "versionNumber": 28696816,
+      "versionString": "1.0.0.28696816d"
     }
   ],
   "infrastructure": false,

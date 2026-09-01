@@ -8,7 +8,7 @@
       "cdnKey": "eeb82829a7076311ebdc35c200c4bd7a",
       "definition": "b943c8ef88eced51bb26037dcf17c6a4",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:15.000Z",
+      "lastModified": "2026-08-25T16:29:04.000Z",
       "path": "tpr/gdtrc",
       "pipelineId": 363,
       "productConfig": {"cdnPath": "", "hash": "d42bc966bfa6fd24d9f413bea6a7f003"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "gdt-retail-rc"

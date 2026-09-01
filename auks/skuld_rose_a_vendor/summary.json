@@ -11,7 +11,7 @@
       "cdnKey": "7cf8f99c1f932aa688208120be30c243",
       "definition": "4aaee586934dd92e37159f76e795c279",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:36.000Z",
+      "lastModified": "2026-08-25T16:30:07.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "e54cacd6a78c5fa372858faaa4322bef"},
@@ -31,7 +31,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["eu"],
@@ -42,7 +42,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     }
   ],
   "variant": "skuld_rose_a_vendor"

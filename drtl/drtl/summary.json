@@ -8,7 +8,7 @@
       "cdnKey": "96bba410323d7a55b7760a0dfb894e5f",
       "definition": "0324de71bbd175ffa260edb5580270ee",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:05.000Z",
+      "lastModified": "2026-08-25T16:28:53.000Z",
       "path": "tpr/drtl",
       "pipelineId": 314,
       "productConfig": {"cdnPath": "", "hash": "03c89f30cbe8106e242ee0f44978c8a8"},
@@ -28,7 +28,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=3&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["eu"],
@@ -39,7 +39,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=3&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["kr"],
@@ -52,7 +52,7 @@
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=3&fallback=1"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=3&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:34.000Z"
+      "lastModified": "2026-08-25T16:26:53.000Z"
     }
   ],
   "variant": "drtl"

@@ -8,7 +8,7 @@
       "cdnKey": "baefdede2c436bedda91ac2ff69073e0",
       "definition": "04d38ebf3ff0c55b4e8e26c32e074bab",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:20.000Z",
+      "lastModified": "2026-08-25T16:29:08.000Z",
       "path": "tpr/nina",
       "pipelineId": 387,
       "productConfig": {"cdnPath": "", "hash": "1e66ed3be532801d1e9c2a9496a26a5b"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["kr"],
@@ -41,7 +41,7 @@
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-25T16:26:49.000Z"
     },
     {
       "branches": ["us"],
@@ -52,7 +52,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "hristnina"

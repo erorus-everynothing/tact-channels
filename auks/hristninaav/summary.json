@@ -11,7 +11,7 @@
       "cdnKey": "b46352e798cf00bd70b5a98bbad0ab2d",
       "definition": "97a8ca353555c0aa8868170f75b669e4",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:20.000Z",
+      "lastModified": "2026-08-25T16:29:08.000Z",
       "path": "tpr/ninav",
       "pipelineId": 372,
       "productConfig": {"cdnPath": "", "hash": "c52e472ef6ee5f9d24776878111964e9"},
@@ -31,7 +31,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["eu"],
@@ -42,7 +42,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     }
   ],
   "variant": "hristninaav"

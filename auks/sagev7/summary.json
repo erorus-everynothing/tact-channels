@@ -8,7 +8,7 @@
       "cdnKey": "efc065af185893689354ecaa338a9dab",
       "definition": "e36a4b69217ffc4a3cf067a926cf2a8b",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:32.000Z",
+      "lastModified": "2026-08-25T16:30:04.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "7a9e34b568e04dce3167f795752a7adb"},
@@ -43,7 +43,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["eu"],
@@ -54,7 +54,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     }
   ],
   "variant": "sagev7"

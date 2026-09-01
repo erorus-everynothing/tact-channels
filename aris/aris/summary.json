@@ -8,7 +8,7 @@
       "cdnKey": "e9e696e6fbe6dff6f4e7a297b47cb110",
       "definition": "3728a7f895ce03e19b2ce7ed64371697",
       "keyRing": "c97d84fb48912bca458ed915fd9c677b",
-      "lastModified": "2026-08-20T23:10:32.000Z",
+      "lastModified": "2026-08-25T16:28:25.000Z",
       "path": "tpr/aris",
       "pipelineId": 352,
       "productConfig": {"cdnPath": "", "hash": "eba4fd2c96bc4fbedac3e04d92650f7d"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["kr"],
@@ -41,7 +41,7 @@
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-25T16:26:49.000Z"
     },
     {
       "branches": ["us"],
@@ -52,7 +52,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "aris"

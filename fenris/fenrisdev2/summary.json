@@ -8,7 +8,7 @@
       "cdnKey": "31e8350931d5dd03e5a911284e7d75d8",
       "definition": "403c1647152eaeb942b3b74141bea446",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:07.000Z",
+      "lastModified": "2026-08-25T16:28:55.000Z",
       "path": "tpr/fenrisdev2",
       "pipelineId": 268,
       "productConfig": {"cdnPath": "", "hash": "a2b114993de9f91830eaafe8eba51ad8"},
@@ -28,7 +28,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["eu"],
@@ -39,7 +39,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "fenrisdev2"

@@ -11,7 +11,7 @@
       "cdnKey": "cc88476f1fbb54a9af0047e0d340652b",
       "definition": "68c3f747d3cdf189b844995c98facb86",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:09.000Z",
+      "lastModified": "2026-08-25T16:28:57.000Z",
       "path": "tpr/fore",
       "pipelineId": 217,
       "productConfig": {"cdnPath": "", "hash": "8ebb9a61cdfd6673b73507851cecaa17"},
@@ -31,7 +31,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     },
     {
       "branches": ["kr"],
@@ -44,7 +44,7 @@
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-25T16:26:49.000Z"
     },
     {
       "branches": ["us"],
@@ -55,7 +55,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     }
   ],
   "variant": "fore"

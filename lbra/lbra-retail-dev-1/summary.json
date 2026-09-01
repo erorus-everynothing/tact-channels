@@ -8,7 +8,7 @@
       "cdnKey": "50a715ddda8f77af09cb43c2f645888d",
       "definition": "2fdd4a3bf6951a0e9b85aa9ce481f938",
       "keyRing": "2992e5497146612b4099dc40509aeb7a",
-      "lastModified": "2026-08-20T23:11:25.000Z",
+      "lastModified": "2026-08-25T16:29:11.000Z",
       "path": "tpr/lbradev",
       "pipelineId": 366,
       "productConfig": {"cdnPath": "", "hash": "4b58d7d61adff6428e766864cb6b0baa"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "lbra-retail-dev-1"

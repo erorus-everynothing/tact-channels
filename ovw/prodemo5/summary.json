@@ -8,7 +8,7 @@
       "cdnKey": "e290a6fef323f0b0ec30adc4755d7135",
       "definition": "7ac91fa911fec2c9cf140796831244db",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:48.000Z",
+      "lastModified": "2026-08-25T16:29:29.000Z",
       "path": "tpr/proe/2",
       "pipelineId": 300,
       "productConfig": {"cdnPath": "", "hash": "fde1892c1b9bea4b6cb38f067c43c70a"},
@@ -23,7 +23,7 @@
       "cdnKey": "ad8dad7186e4565af2de30a5f05b7a21",
       "definition": "b864ca70e8f990120ec43226b052e944",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:48.000Z",
+      "lastModified": "2026-08-25T16:29:29.000Z",
       "path": "tpr/proe/2",
       "pipelineId": 300,
       "productConfig": {"cdnPath": "", "hash": "077bd112fee5aaf7b8f23e5c6dbc002e"},
@@ -38,7 +38,7 @@
       "cdnKey": "0263715481a5952fbce2f89938f7e0d9",
       "definition": "485906ea46ded2a763170b4b497dbdcf",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:48.000Z",
+      "lastModified": "2026-08-25T16:29:29.000Z",
       "path": "tpr/proe/2",
       "pipelineId": 300,
       "productConfig": {"cdnPath": "", "hash": "077bd112fee5aaf7b8f23e5c6dbc002e"},
@@ -53,7 +53,7 @@
       "cdnKey": "ad8dad7186e4565af2de30a5f05b7a21",
       "definition": "9bb182aa5eaa29fb0b5c00f53c4da310",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:48.000Z",
+      "lastModified": "2026-08-25T16:29:30.000Z",
       "path": "tpr/proe/2",
       "pipelineId": 300,
       "productConfig": {"cdnPath": "", "hash": "dbbabf30fe6e8f64f2bf6a3e9cc03693"},
@@ -73,7 +73,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["cn"],
@@ -82,7 +82,7 @@
         {"host": "http://blzdist-ow.necdn.leihuo.netease.com?maxhosts=4"},
         {"host": "https://blzdist-ow.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     },
     {
       "branches": ["eu"],
@@ -93,7 +93,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["kr"],
@@ -106,7 +106,7 @@
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     }
   ],
   "variant": "prodemo5"

@@ -11,7 +11,7 @@
       "cdnKey": "7cb3fdbf76083c3862c2a4860a21a0d3",
       "definition": "6f74f6cd2bd25bb014e72d49d6ea1f81",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:19.000Z",
+      "lastModified": "2026-08-25T16:29:06.000Z",
       "path": "tpr/btlrv",
       "pipelineId": 292,
       "productConfig": {"cdnPath": "", "hash": "e51d1b4a56571e60b29d8fc64edcf039"},
@@ -31,7 +31,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["eu"],
@@ -42,7 +42,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "herjabtlrv"

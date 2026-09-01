@@ -8,7 +8,7 @@
       "cdnKey": "bcdccc14722a381d414ccd9993f36a18",
       "definition": "3863d4b0ca7c5e5117e389e45b3cd204",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:37.000Z",
+      "lastModified": "2026-08-25T16:30:08.000Z",
       "path": "tpr/viperd",
       "pipelineId": 185,
       "productConfig": {"cdnPath": "", "hash": "2c895602355535c720cd53e27c4daa3f"},
@@ -26,7 +26,7 @@
         {"host": "http://level3.blizzard.com?maxhosts=10"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     },
     {
       "branches": ["kr"],
@@ -35,7 +35,7 @@
         {"host": "http://level3.blizzard.com?maxhosts=5"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     }
   ],
   "variant": "viperdev"

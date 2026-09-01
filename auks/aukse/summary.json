@@ -11,7 +11,7 @@
       "cdnKey": "ca4065ed1641024b0881e97624b16faa",
       "definition": "f01e4e1b94111d5c53d0637158558359",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:10:37.000Z",
+      "lastModified": "2026-08-25T16:28:28.000Z",
       "path": "tpr/aukse",
       "pipelineId": 273,
       "productConfig": {"cdnPath": "", "hash": "cd894a3e4bdbbc5217225145778e372f"},
@@ -31,7 +31,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "aukse"

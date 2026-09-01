@@ -8,7 +8,7 @@
       "cdnKey": "5cbb570aac8bc34abca4ad5e61b5c655",
       "definition": "bce2edadfdfccd3fdc93c19b56b0ed0b",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:04.000Z",
+      "lastModified": "2026-08-25T16:28:52.000Z",
       "path": "tpr/cornv",
       "pipelineId": 376,
       "productConfig": {"cdnPath": "", "hash": "90cd2d3c8ea6bae96f732b2d207294b0"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "cornv8"

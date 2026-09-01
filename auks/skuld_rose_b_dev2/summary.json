@@ -11,7 +11,7 @@
       "cdnKey": "1a99cb7f66c65eb77a6d69a87591f2fe",
       "definition": "9fb0cda66766fce7d2cb58cd61e653ce",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:36.000Z",
+      "lastModified": "2026-08-25T16:30:08.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "3c55fa45f5b3be1c9cd3ffe2c3fbe9fb"},
@@ -31,7 +31,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["us"],
@@ -42,7 +42,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "skuld_rose_b_dev2"

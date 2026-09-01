@@ -8,7 +8,7 @@
       "cdnKey": "ca13e33e3b64782dfe6b17642384aa88",
       "definition": "f8db447256318a769387cff40b9c355d",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:46.000Z",
+      "lastModified": "2026-08-25T16:30:16.000Z",
       "path": "tpr/wowv",
       "pipelineId": 163,
       "productConfig": {"cdnPath": "", "hash": "92e48995f09afabae94ad5c06994a9bb"},
@@ -28,7 +28,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["eu"],
@@ -39,7 +39,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["kr"],
@@ -50,7 +50,7 @@
         {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
         {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     }
   ],
   "variant": "wowv"

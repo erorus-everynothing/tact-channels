@@ -8,7 +8,7 @@
       "cdnKey": "794f77863c177a02854966ec05219cff",
       "definition": "eabc8ded3c4bfd65854b29fd790c66f8",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:59.000Z",
+      "lastModified": "2026-08-25T16:29:39.000Z",
       "path": "tpr/cornvb",
       "pipelineId": 377,
       "productConfig": {"cdnPath": "", "hash": "dfe0023680dcb0baccad2ac2f96bed45"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "randgridcornbv2"

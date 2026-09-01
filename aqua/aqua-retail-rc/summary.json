@@ -8,7 +8,7 @@
       "cdnKey": "b087e667b41d634cda109e9b57b99690",
       "definition": "6f4ae1ecb0ba7c6c080e458e25ec7edd",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:10:32.000Z",
+      "lastModified": "2026-08-25T16:28:25.000Z",
       "path": "tpr/aquarc",
       "pipelineId": 343,
       "productConfig": {"cdnPath": "", "hash": "7f93c7f89b83cba43609d3fb026cc6d8"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "aqua-retail-rc"

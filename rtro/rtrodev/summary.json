@@ -8,7 +8,7 @@
       "cdnKey": "8340dbd278d105fb19d7e8214a0692e8",
       "definition": "da2337936e56a6fffcbb0db6511aaaff",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:17.000Z",
+      "lastModified": "2026-08-25T16:29:54.000Z",
       "path": "tpr/rtrodev",
       "pipelineId": 229,
       "productConfig": {"cdnPath": "", "hash": "ece7e6154d260f0c66fcbc02c6db2374"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "rtrodev"

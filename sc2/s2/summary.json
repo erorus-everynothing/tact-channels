@@ -8,7 +8,7 @@
       "cdnKey": "124b1d8953c97fc96ff446ccb641a89c",
       "definition": "54e540873cb7c7d4208c12022f3b3988",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:18.000Z",
+      "lastModified": "2026-08-25T16:29:55.000Z",
       "path": "tpr/sc2",
       "pipelineId": 52,
       "productConfig": {"cdnPath": "", "hash": "0c241b7c4662aa04df68134b5ecdd181"},
@@ -23,7 +23,7 @@
       "cdnKey": "d8aae9fce802373d9da50a2bec7b6040",
       "definition": "f93cf3663793261e3c9a42765a6786db",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:19.000Z",
+      "lastModified": "2026-08-25T16:29:55.000Z",
       "path": "tpr/sc2",
       "pipelineId": 52,
       "productConfig": {"cdnPath": "", "hash": "0c241b7c4662aa04df68134b5ecdd181"},
@@ -43,7 +43,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["cn"],
@@ -52,7 +52,7 @@
         {"host": "http://blzdist-s2.necdn.leihuo.netease.com?maxhosts=5"},
         {"host": "https://blzdist-s2.necdn.leihuo.netease.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:34.000Z"
+      "lastModified": "2026-08-25T16:26:53.000Z"
     },
     {
       "branches": ["tw", "us"],
@@ -63,7 +63,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["kr"],
@@ -76,7 +76,7 @@
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-25T16:26:49.000Z"
     }
   ],
   "variant": "s2"

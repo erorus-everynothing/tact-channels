@@ -8,7 +8,7 @@
       "cdnKey": "ca5a89ec211f6fbaf83938d32a514af8",
       "definition": "08c1e7d223eb8831e24da50249aaa7ff",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:53.000Z",
+      "lastModified": "2026-08-25T16:29:33.000Z",
       "path": "tpr/prov",
       "pipelineId": 162,
       "productConfig": {"cdnPath": "", "hash": "37df2e65c717849b65b05705cde8b68b"},
@@ -28,7 +28,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["kr"],
@@ -37,7 +37,7 @@
         {"host": "http://level3.blizzard.com?maxhosts=4"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     },
     {
       "branches": ["eu"],
@@ -48,7 +48,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "provcomp"

@@ -8,7 +8,7 @@
       "cdnKey": "768d7f5a30c06cdf4a154f76e8ac8fbd",
       "definition": "11bf210137785fbed2c3808a1f71a231",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:00.000Z",
+      "lastModified": "2026-08-25T16:29:40.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
       "productConfig": {"cdnPath": "", "hash": "d33f6d21ed8b1c93da821dfc06f60f5a"},
@@ -28,7 +28,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["eu"],
@@ -39,7 +39,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "randgridmoonav2"

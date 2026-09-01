@@ -32,7 +32,7 @@
       "cdnKey": "da47e557c3afa702d4fdb98d755829af",
       "definition": "e0ee5bb5c1687a9c776a7febf97f6b45",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:10:38.000Z",
+      "lastModified": "2026-08-25T16:28:29.000Z",
       "path": "tpr/aukslrc",
       "pipelineId": 392,
       "productConfig": {"cdnPath": "", "hash": "b43823a3929fdd62500b56346f2010a1"},
@@ -51,7 +51,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["eu"],
@@ -62,7 +62,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "auksrc"

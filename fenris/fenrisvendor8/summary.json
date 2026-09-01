@@ -8,7 +8,7 @@
       "cdnKey": "d1e9f1f284703a5f00d0bc1748d8ced7",
       "definition": "b6ce9f55efdc6bb7684eb6741886a9d8",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:09.000Z",
+      "lastModified": "2026-08-25T16:28:57.000Z",
       "path": "tpr/fenrisvc",
       "pipelineId": 318,
       "productConfig": {"cdnPath": "", "hash": "ab8574ae444e658705fd180dfa18ef6c"},
@@ -26,7 +26,7 @@
         {"host": "http://blzdist-d4.necdn.leihuo.netease.com?maxhosts=6"},
         {"host": "https://blzdist-d4.necdn.leihuo.netease.com?maxhosts=6&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["eu"],
@@ -37,7 +37,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["us"],
@@ -48,7 +48,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "fenrisvendor8"

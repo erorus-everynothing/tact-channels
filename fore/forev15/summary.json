@@ -11,7 +11,7 @@
       "cdnKey": "b0dcfff32946c30c95e000f61aec18f1",
       "definition": "dbe27d3a11ba002613fbc547a8648ce5",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:11.000Z",
+      "lastModified": "2026-08-25T16:28:59.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "e625c64cd48f48e75b4a5258b5e4cbec"},
@@ -26,7 +26,7 @@
       "cdnKey": "a3d4f996b0bb1c9558c769e54d8f25da",
       "definition": "7c7e33e51c5cc030d0029c411781d347",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:11.000Z",
+      "lastModified": "2026-08-25T16:28:59.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "75fa4144b2eef13e94c9b5eaa47afad1"},
@@ -44,7 +44,7 @@
       "cdnKey": "61a51b7a339805a7fccb752613a47e41",
       "definition": "2936b833f8ea1710776d192e56d6d2cb",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:11.000Z",
+      "lastModified": "2026-08-25T16:28:59.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "394ac665e2b9270142ee51814237d456"},
@@ -64,7 +64,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["eu"],
@@ -75,7 +75,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "forev15"

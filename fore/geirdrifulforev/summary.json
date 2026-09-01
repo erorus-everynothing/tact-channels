@@ -8,7 +8,7 @@
       "cdnKey": "89f84f3df140ae4dde836dc74b327c50",
       "definition": "fbb28e701a368a6a09f73ddf7381512b",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:17.000Z",
+      "lastModified": "2026-08-25T16:29:05.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "7b66b68f67e445aed588763144d377b6"},
@@ -28,7 +28,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["eu"],
@@ -39,7 +39,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "geirdrifulforev"

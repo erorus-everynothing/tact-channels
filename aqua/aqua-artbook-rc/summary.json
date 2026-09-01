@@ -8,7 +8,7 @@
       "cdnKey": "13c5c9ea6b49f78e57c48ee8f4633842",
       "definition": "bdbac6e2a1657e01ecf02df441e669df",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:10:32.000Z",
+      "lastModified": "2026-08-25T16:28:24.000Z",
       "path": "tpr/aquarc",
       "pipelineId": 343,
       "productConfig": {"cdnPath": "", "hash": "b78c8279c606092a9d319579889787b6"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "aqua-artbook-rc"

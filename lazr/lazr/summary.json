@@ -8,7 +8,7 @@
       "cdnKey": "979741c2ab80935b28455cc6f3963245",
       "definition": "1711a11e80297b23d5a545799e3fba6d",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:23.000Z",
+      "lastModified": "2026-08-25T16:29:10.000Z",
       "path": "tpr/lazr",
       "pipelineId": 204,
       "productConfig": {"cdnPath": "", "hash": "ccd6442568d0947402f75ab067051d07"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     },
     {
       "branches": ["kr"],
@@ -39,7 +39,7 @@
         {"host": "http://kr.cdn.blizzard.com?maxhosts=5"},
         {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["us"],
@@ -50,7 +50,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     }
   ],
   "variant": "lazr"

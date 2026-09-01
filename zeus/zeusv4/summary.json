@@ -8,7 +8,7 @@
       "cdnKey": "bbe0b9f322bcc24e37f049f1e773662a",
       "definition": "6be8bfef01f9df226dea63312eba3a8d",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:53.000Z",
+      "lastModified": "2026-08-25T16:30:20.000Z",
       "path": "tpr/zeusv",
       "pipelineId": 208,
       "productConfig": {"cdnPath": "", "hash": "59a11ba455acc616b5901b7b5e4d2afd"},
@@ -23,7 +23,7 @@
       "cdnKey": "ac2f4b064d161e4a4fb857fb90076681",
       "definition": "58747c0819fe6846524b8424cf7d01eb",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:53.000Z",
+      "lastModified": "2026-08-25T16:30:20.000Z",
       "path": "tpr/zeusv",
       "pipelineId": 208,
       "productConfig": {"cdnPath": "", "hash": "59a11ba455acc616b5901b7b5e4d2afd"},
@@ -43,7 +43,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     },
     {
       "branches": ["eu"],
@@ -54,7 +54,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     }
   ],
   "variant": "zeusv4"

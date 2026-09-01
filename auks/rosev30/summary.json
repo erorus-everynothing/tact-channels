@@ -11,7 +11,7 @@
       "cdnKey": "aa5f7d04c2245c6e670e180dd78d78a1",
       "definition": "a31f766add34ee1ae816158b89c04d2a",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:14.000Z",
+      "lastModified": "2026-08-25T16:29:52.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "26307918a0b969f2a344456b15c3f905"},
@@ -29,7 +29,7 @@
       "cdnKey": "85ebf5b4bb1495ef16a616d38e8aaa16",
       "definition": "1d4cad702e3160b888762b97f829d45f",
       "keyRing": "",
-      "lastModified": "2026-08-21T23:49:24.000Z",
+      "lastModified": "2026-08-25T16:29:52.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "26307918a0b969f2a344456b15c3f905"},
@@ -47,7 +47,7 @@
       "cdnKey": "d32658a54b4faaeb7a84323429da79fc",
       "definition": "a15cf45f047448a45fe05deb303590d6",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:14.000Z",
+      "lastModified": "2026-08-25T16:29:52.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "6ab90d9234378e8e425025cc0d3bdcf9"},
@@ -67,7 +67,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["us"],
@@ -78,7 +78,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "rosev30"

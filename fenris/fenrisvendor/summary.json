@@ -8,7 +8,7 @@
       "cdnKey": "66e3e1a076d40031fff3db4d21509e27",
       "definition": "9407abdd3b4cfe3b2c50242afd2d517b",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:08.000Z",
+      "lastModified": "2026-08-25T16:28:55.000Z",
       "path": "tpr/fenrisv",
       "pipelineId": 206,
       "productConfig": {"cdnPath": "", "hash": "920155e7ce0fe91616d69e44d0fc1a87"},
@@ -28,7 +28,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     }
   ],
   "variant": "fenrisvendor"

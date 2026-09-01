@@ -8,7 +8,7 @@
       "cdnKey": "bdfaeab646449eff637f7c6e66755a30",
       "definition": "51d9eca57cd9b02b2e0957211fc0129b",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:18.000Z",
+      "lastModified": "2026-08-25T16:29:54.000Z",
       "path": "tpr/sc1live",
       "pipelineId": 110,
       "productConfig": {"cdnPath": "", "hash": "65daee031c1a962bbe1b6baf29a751a9"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["kr"],
@@ -41,7 +41,7 @@
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-25T16:26:49.000Z"
     },
     {
       "branches": ["tw", "us"],
@@ -52,7 +52,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "s1t"

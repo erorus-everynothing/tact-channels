@@ -8,7 +8,7 @@
       "cdnKey": "765182e40c181398674e0886a6268458",
       "definition": "f6339ad6ed66c4754109406eb502bdc3",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:10:52.000Z",
+      "lastModified": "2026-08-25T16:28:41.000Z",
       "path": "tpr/btlrv",
       "pipelineId": 292,
       "productConfig": {"cdnPath": "", "hash": "4a637ded885cdef278ec6486e823c200"},
@@ -26,7 +26,7 @@
       "cdnKey": "30008b61f43f68d14c7992d26cb654b6",
       "definition": "40e70723e2e4b0df60581a83ad7f7c17",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:10:52.000Z",
+      "lastModified": "2026-08-25T16:28:41.000Z",
       "path": "tpr/btlrv",
       "pipelineId": 292,
       "productConfig": {"cdnPath": "", "hash": "4a637ded885cdef278ec6486e823c200"},
@@ -44,7 +44,7 @@
       "cdnKey": "f47b41956682f9167e2d55efcc5ce505",
       "definition": "d63b924d54b29073cebcc1061270bcd9",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:10:52.000Z",
+      "lastModified": "2026-08-25T16:28:41.000Z",
       "path": "tpr/btlrv",
       "pipelineId": 292,
       "productConfig": {"cdnPath": "", "hash": "4a637ded885cdef278ec6486e823c200"},
@@ -64,7 +64,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["eu"],
@@ -75,7 +75,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "btlrv13"

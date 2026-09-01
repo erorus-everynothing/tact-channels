@@ -8,7 +8,7 @@
       "cdnKey": "d6ad511dcb688bc8a5d0a40d6b573f89",
       "definition": "9102d9777d7fe2ad89708e481846e5ac",
       "keyRing": "d742d0c12282c626c958c0f83675f769",
-      "lastModified": "2026-08-20T23:10:34.000Z",
+      "lastModified": "2026-08-25T16:28:26.000Z",
       "path": "tpr/ark",
       "pipelineId": 385,
       "productConfig": {"cdnPath": "", "hash": "03297ffc04ebce804d8b3c707e167642"},
@@ -30,7 +30,7 @@
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=5"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["eu"],
@@ -41,7 +41,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["us"],
@@ -52,7 +52,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "ark"

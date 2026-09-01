@@ -11,7 +11,7 @@
       "cdnKey": "4c7ca4506295cedc49765541a55e3190",
       "definition": "3448ae2e3420824334d9cf8cee23f802",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:39.000Z",
+      "lastModified": "2026-08-25T16:29:22.000Z",
       "path": "tpr/odinv",
       "pipelineId": 192,
       "productConfig": {"cdnPath": "", "hash": "4d030f2ec5574338a1efb175bbcf2aab"},
@@ -31,7 +31,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=10&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["us"],
@@ -42,7 +42,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=10&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "odinv12"

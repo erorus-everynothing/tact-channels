@@ -8,7 +8,7 @@
       "cdnKey": "7eebde1c57799d623214cc9c8158942f",
       "definition": "6ed73dc017809168051861f214588868",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:49.000Z",
+      "lastModified": "2026-08-25T16:30:18.000Z",
       "path": "tpr/zeusdev",
       "pipelineId": 201,
       "productConfig": {"cdnPath": "", "hash": "118432f721724baf9c4892dbf17edad3"},
@@ -28,7 +28,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     },
     {
       "branches": ["eu"],
@@ -39,7 +39,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     }
   ],
   "variant": "zeusa"

@@ -8,7 +8,7 @@
       "cdnKey": "174e31f91c24fca5c207bd2222ecf49e",
       "definition": "03e8e30d800455b6ba7b554acf46e4f9",
       "keyRing": "fec7a2b71b69b3524a140479435d1642",
-      "lastModified": "2026-08-20T23:11:25.000Z",
+      "lastModified": "2026-08-25T16:29:11.000Z",
       "path": "tpr/lbrarc",
       "pipelineId": 367,
       "productConfig": {"cdnPath": "", "hash": "628465d6ac54530bbc376cb5f833cf77"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "lbra-retail-rc"

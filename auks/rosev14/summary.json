@@ -11,7 +11,7 @@
       "cdnKey": "3c93854e0bf4c88e4b8e6e34d93272a4",
       "definition": "ed760ffba6f34b9746ed714cc158b5ab",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:07.000Z",
+      "lastModified": "2026-08-25T16:29:46.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "dfa56027608fd6b70b443e3365f23920"},
@@ -31,7 +31,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["eu"],
@@ -42,7 +42,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     }
   ],
   "variant": "rosev14"

@@ -8,7 +8,7 @@
       "cdnKey": "ab57855b46e6e228e4e80f93d8b129f6",
       "definition": "c980a2cd66a03bd9dbf99b2ed067cbce",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:10:30.000Z",
+      "lastModified": "2026-08-25T16:28:23.000Z",
       "path": "tpr/anbsdevbm",
       "pipelineId": 373,
       "productConfig": {"cdnPath": "", "hash": "8bf41028fb40ce056835369336a7c677"},
@@ -28,7 +28,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["eu"],
@@ -39,7 +39,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "anbs-retail-dev-1"

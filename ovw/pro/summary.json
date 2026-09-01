@@ -11,7 +11,7 @@
       "cdnKey": "48210b6a012941d75bcb061eb9457e6f",
       "definition": "ef8d80ae30a579e4c914b9999fe3d36c",
       "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
-      "lastModified": "2026-08-21T00:40:28.000Z",
+      "lastModified": "2026-08-25T16:29:26.000Z",
       "path": "tpr/ovw",
       "pipelineId": 43,
       "productConfig": {"cdnPath": "", "hash": "14d469785b47c23da0592db533b757ec"},
@@ -26,7 +26,7 @@
       "cdnKey": "cff40b30c5269a55e63e36bd7babfaf8",
       "definition": "a4ed080a9de53da4404deab6d3409b22",
       "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
-      "lastModified": "2026-08-20T23:11:44.000Z",
+      "lastModified": "2026-08-25T16:29:26.000Z",
       "path": "tpr/ovw",
       "pipelineId": 43,
       "productConfig": {"cdnPath": "", "hash": "3ac04cec5bcdf18c4a37e0bdc3c2a6a3"},
@@ -44,7 +44,7 @@
       "cdnKey": "55847fddf8a95a6ef2b5e715c2cd500f",
       "definition": "45526c4b2d95c9419839862629fce183",
       "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
-      "lastModified": "2026-08-20T23:11:44.000Z",
+      "lastModified": "2026-08-25T16:29:26.000Z",
       "path": "tpr/ovw",
       "pipelineId": 43,
       "productConfig": {"cdnPath": "", "hash": "46035974354aca0e79028f98fe0a6ae4"},
@@ -64,7 +64,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["kr"],
@@ -77,7 +77,7 @@
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-25T16:26:49.000Z"
     },
     {
       "branches": ["cn"],
@@ -86,7 +86,7 @@
         {"host": "http://blzdist-ow.necdn.leihuo.netease.com?maxhosts=4"},
         {"host": "https://blzdist-ow.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:31.000Z"
+      "lastModified": "2026-08-25T16:26:50.000Z"
     },
     {
       "branches": ["eu"],
@@ -97,7 +97,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "pro"

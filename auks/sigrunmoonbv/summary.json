@@ -11,7 +11,7 @@
       "cdnKey": "eb565d7918ab7ae2e1c93f0b78819f80",
       "definition": "6c0721036cddacd313ab67aa26f0c5b8",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:35.000Z",
+      "lastModified": "2026-08-25T16:30:06.000Z",
       "path": "moon/moonvb",
       "pipelineId": 290,
       "productConfig": {"cdnPath": "", "hash": "706285410effc3332e43e51ee2a3e380"},
@@ -31,7 +31,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["eu"],
@@ -42,7 +42,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "sigrunmoonbv"

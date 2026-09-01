@@ -8,7 +8,7 @@
       "cdnKey": "4cd8bd03f7e9e9469f31bb2c63616edc",
       "definition": "cbc3e5bae943ea208ce5df6102fb1fab",
       "keyRing": "402187f6f69a0bb940516b110137adf0",
-      "lastModified": "2026-08-20T23:10:35.000Z",
+      "lastModified": "2026-08-25T16:28:26.000Z",
       "path": "tpr/ark",
       "pipelineId": 385,
       "productConfig": {"cdnPath": "", "hash": "cf5ca365b5cc74bb201a849286989d26"},
@@ -30,7 +30,7 @@
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=5"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["eu"],
@@ -41,7 +41,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["us"],
@@ -52,7 +52,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "ark-artbook"

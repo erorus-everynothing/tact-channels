@@ -8,7 +8,7 @@
       "cdnKey": "bb3f81ddad61401a209e8ac54c393e3e",
       "definition": "c7187f1ab27056b75b4adc85830eecf4",
       "keyRing": "f5a5ee3970473c4b1511c9b35e9c5674",
-      "lastModified": "2026-08-20T23:10:28.000Z",
+      "lastModified": "2026-08-25T16:28:21.000Z",
       "path": "anbs/Immortal-External-Event",
       "pipelineId": 415,
       "productConfig": {"cdnPath": "", "hash": "b0b24ffd4957d7ed665676639b54c6a1"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "anbs-extevent"

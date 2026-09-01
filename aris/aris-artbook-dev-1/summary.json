@@ -8,7 +8,7 @@
       "cdnKey": "9b6c4ac363064fa55cd79e47a8c1bb00",
       "definition": "ea8812975313046ee1d5c74d690c5343",
       "keyRing": "41ba576c076f47f24525715fbb125346",
-      "lastModified": "2026-08-20T23:10:33.000Z",
+      "lastModified": "2026-08-25T16:28:25.000Z",
       "path": "tpr/arisdev",
       "pipelineId": 350,
       "productConfig": {"cdnPath": "", "hash": "7873ff44588d83953a127b0a4ca33a3d"},
@@ -28,7 +28,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["eu"],
@@ -39,7 +39,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "aris-artbook-dev-1"

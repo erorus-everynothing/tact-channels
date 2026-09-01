@@ -8,7 +8,7 @@
       "cdnKey": "cfe69da9f9e4f893045da9f4aa8e7d25",
       "definition": "4f32402a7f6df566022b4d8e622b644e",
       "keyRing": "f5a5ee3970473c4b1511c9b35e9c5674",
-      "lastModified": "2026-08-20T23:10:29.000Z",
+      "lastModified": "2026-08-25T16:28:22.000Z",
       "path": "tpr/anbsrcbm",
       "pipelineId": 374,
       "productConfig": {"cdnPath": "", "hash": "89657472027f423435da2e09d72c4002"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "anbs-extevent-rc"

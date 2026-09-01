@@ -8,7 +8,7 @@
       "cdnKey": "3aa0d9a556122fa9639aba1c730f325e",
       "definition": "0bb933b42a3de3f691cb69cc788d157c",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:41.000Z",
+      "lastModified": "2026-08-25T16:30:11.000Z",
       "path": "tpr/wallabyv",
       "pipelineId": 248,
       "productConfig": {"cdnPath": "", "hash": "4704db60b15eda750784855520d65933"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "wlbyv4"

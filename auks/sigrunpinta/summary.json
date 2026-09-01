@@ -8,7 +8,7 @@
       "cdnKey": "b814f68d30029baa1a6c5fbb5c1dc365",
       "definition": "2f2a71daa4a4f908f83c56fc634ee9b3",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:35.000Z",
+      "lastModified": "2026-08-25T16:30:06.000Z",
       "path": "tpr/pinta",
       "pipelineId": 388,
       "productConfig": {"cdnPath": "", "hash": "f4975cb16cbf2b785b8db17ceff8f484"},
@@ -30,7 +30,7 @@
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-25T16:26:49.000Z"
     },
     {
       "branches": ["eu"],
@@ -41,7 +41,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["us"],
@@ -52,7 +52,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "sigrunpinta"

@@ -11,7 +11,7 @@
       "cdnKey": "ae296b5bf75a24e532706f8fc33672be",
       "definition": "ba0001128a9b62b9ab765ead23a251be",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:56.000Z",
+      "lastModified": "2026-08-25T16:29:36.000Z",
       "path": "tpr/aukslrc",
       "pipelineId": 392,
       "productConfig": {"cdnPath": "", "hash": "c7e0bd7ad0dadfcbfb5f85e44ddfd651"},
@@ -31,7 +31,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
       "branches": ["eu"],
@@ -42,7 +42,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-20T22:45:35.000Z"
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "randgridauksrc2"

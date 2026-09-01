@@ -11,7 +11,7 @@
       "cdnKey": "7dc1d7e90cde4241d83c65636bbfc566",
       "definition": "2e4493ed009d2d84dbdf067cf3f4dd78",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:04.000Z",
+      "lastModified": "2026-08-25T16:29:43.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "86e090be71c0852a3a770319c5c01b54"},
@@ -31,7 +31,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["eu"],
@@ -42,7 +42,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:33.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     }
   ],
   "variant": "randgridsageav2"

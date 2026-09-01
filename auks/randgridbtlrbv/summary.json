@@ -8,7 +8,7 @@
       "cdnKey": "07ced921e0fdce7fcc7bedd22556434a",
       "definition": "6c68444a29c585ae4cc89afb8c8a415f",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:58.000Z",
+      "lastModified": "2026-08-25T16:29:38.000Z",
       "path": "tpr/btlrvb",
       "pipelineId": 293,
       "productConfig": {"cdnPath": "", "hash": "01fcd4bc09aca76ffe0852a219016bd6"},
@@ -28,7 +28,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     },
     {
       "branches": ["us"],
@@ -39,7 +39,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     }
   ],
   "variant": "randgridbtlrbv"

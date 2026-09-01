@@ -8,7 +8,7 @@
       "cdnKey": "67bcbed732eb7a26ed0c6df49bff1e94",
       "definition": "686b7fd05c703056e419a7d722bdda71",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:27.000Z",
+      "lastModified": "2026-08-25T16:29:12.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
       "productConfig": {"cdnPath": "", "hash": "69f4a3cc1d31fb1c64b9617579c9cf36"},
@@ -23,7 +23,7 @@
       "cdnKey": "67175aaaee0a5d833089045aba9d2f30",
       "definition": "96834dd763108ad63cfdc1c7f1cf38ce",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:27.000Z",
+      "lastModified": "2026-08-25T16:29:12.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
       "productConfig": {"cdnPath": "", "hash": "69f4a3cc1d31fb1c64b9617579c9cf36"},
@@ -38,7 +38,7 @@
       "cdnKey": "36ec55cdbe720b0db3f3a00dc4cb0b0a",
       "definition": "0c2f71baeaec72bd04ba75c303f90517",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:11:27.000Z",
+      "lastModified": "2026-08-25T16:29:12.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
       "productConfig": {"cdnPath": "", "hash": "69f4a3cc1d31fb1c64b9617579c9cf36"},
@@ -58,7 +58,7 @@
         {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
       "branches": ["eu"],
@@ -69,7 +69,7 @@
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
       ],
-      "lastModified": "2026-08-21T00:25:32.000Z"
+      "lastModified": "2026-08-25T16:26:51.000Z"
     }
   ],
   "variant": "moonv13"

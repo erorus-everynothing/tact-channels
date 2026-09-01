@@ -18,21 +18,6 @@
     {
       "armadilloKey": "",
       "branches": ["kr"],
-      "build": {"name": "release_28703956_cod25_season6_bnet_v6_dev", "token": "9e429624-330d-4bd8-b9ae-82bc0ac5afb9"},
-      "buildKey": "5c97cdea9f38dcc787220657367d68b2",
-      "cdnKey": "c6b77c02b8c4c8716f7f4526721bf6b8",
-      "definition": "229b210e69d75ae05342a397336cd148",
-      "keyRing": "",
-      "lastModified": "2026-08-28T21:00:25.000Z",
-      "path": "tpr/sagev",
-      "pipelineId": 304,
-      "productConfig": {"cdnPath": "", "hash": "3a7f2effa828b5b27c34d7890cf6567d"},
-      "versionNumber": 28703956,
-      "versionString": "0.0.0.28703956d"
-    },
-    {
-      "armadilloKey": "",
-      "branches": ["us"],
       "build": {"name": "release_28735102_cod25_season6_bnet_v6_dev", "token": "03367e98-c115-4d84-81b9-bfd5c8240a5b"},
       "buildKey": "9c551d8fbce3b2b34b103e799df7b948",
       "cdnKey": "387f9a5fe0ca4e02e3c5f29a4cfe416b",
@@ -44,6 +29,21 @@
       "productConfig": {"cdnPath": "", "hash": "3a7f2effa828b5b27c34d7890cf6567d"},
       "versionNumber": 28735102,
       "versionString": "0.0.0.28735102d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "release_28764116_cod25_season6_bnet_v6_dev", "token": "b857cb9c-615b-416a-b51e-ca2c3adfc92b"},
+      "buildKey": "87948e832c1cd27bf66af20404371a80",
+      "cdnKey": "bcf763de4c8e3cfb103b4006bc691e9a",
+      "definition": "75458e3be0b312b225a000befe793e78",
+      "keyRing": "",
+      "lastModified": "2026-09-01T14:13:13.000Z",
+      "path": "tpr/sagev",
+      "pipelineId": 304,
+      "productConfig": {"cdnPath": "", "hash": "3a7f2effa828b5b27c34d7890cf6567d"},
+      "versionNumber": 28764116,
+      "versionString": "0.0.0.28764116d"
     }
   ],
   "infrastructure": false,

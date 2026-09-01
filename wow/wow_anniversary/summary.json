@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["cn", "eu", "kr", "tw", "us"],
-      "build": {"name": "WOW-69110patch2.5.6_Anniversary", "token": "39e87456-31b3-480d-9349-3f451dc9fa8d"},
-      "buildKey": "c5ade9dade89ac36fb4b2d9fd6c09a9a",
-      "cdnKey": "87883aa966f98509181f68da8863627c",
-      "definition": "2a548875f3ca30ab1ec8b0134f5392de",
+      "build": {"name": "WOW-69546patch2.5.6_Anniversary", "token": "f105320f-7dc0-45e0-8184-d52c72cfcc06"},
+      "buildKey": "aebdb6473bd703b04c87f601d27566e2",
+      "cdnKey": "a63303483eadbdca028b9a0d791d1342",
+      "definition": "db3abd7c14c345f5886eb7ce15dfaed9",
       "keyRing": "",
-      "lastModified": "2026-08-20T23:12:41.000Z",
+      "lastModified": "2026-09-01T01:13:23.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
       "productConfig": {"cdnPath": "", "hash": "92cbb948f8b043dc019e4447149478d5"},
-      "versionNumber": 69110,
-      "versionString": "2.5.6.69110"
+      "versionNumber": 69546,
+      "versionString": "2.5.6.69546"
     }
   ],
   "infrastructure": false,

@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "16.1.1.119615.cp-m16.1.1.3b3f419862.Filtered", "token": "bf0f09bd-f0b2-15a2-12e3-0da6bfe48826"},
-  "buildKey": "8e048bc836634df9d5fb02cda6de081e",
-  "cdnKey": "a60886f083088360ef9f08874d244e27",
-  "definition": "e1cb9b4dd730fdbb50d84995156b1d9c",
+  "build": {"name": "16.1.1.119629.dp-skin-coins.da1e255823.Filtered", "token": "2764f581-3275-6b59-2efc-c4c284ef0896"},
+  "buildKey": "2facad97911317008ae36d565243d31c",
+  "cdnKey": "1b08c894f3645999a02d1ffa28cfc785",
+  "definition": "b83f6ae25de8840a487b60163fb42aca",
   "keyRing": "",
-  "lastModified": "2026-08-26T19:30:28.000Z",
+  "lastModified": "2026-09-02T20:43:34.000Z",
   "path": "tpr/gryphon",
   "pipelineId": 298,
   "productConfig": {"cdnPath": "", "hash": "f6a454799d25791e5a37a7547d75ce49"},
-  "versionNumber": 119615,
-  "versionString": "16.1.1.119615"
+  "versionNumber": 119629,
+  "versionString": "16.1.1.119629"
 }

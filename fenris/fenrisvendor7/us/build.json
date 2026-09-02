@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "73522_Win64Client_3_2_1", "token": "b9ed4ff1-8a3f-4791-aef7-223c8d81c305"},
-  "buildKey": "53853c251bbce14813f64e56006c1bce",
-  "cdnKey": "72468f468d355e7e2cd16ec0ccce46fd",
-  "definition": "ff98a945e118db6c315bf58d0c766ea8",
+  "build": {"name": "73552_Win64Client_3_2_1", "token": "6e67074b-c043-49be-8d4e-e815f0d50a57"},
+  "buildKey": "fdb5661f09453af802a92ea853409790",
+  "cdnKey": "657cd1c5d3727ee5bf59a36439702c1f",
+  "definition": "235341acb96678ed9338efba0d1a3a96",
   "keyRing": "",
-  "lastModified": "2026-08-27T23:54:23.000Z",
+  "lastModified": "2026-09-02T22:02:23.000Z",
   "path": "tpr/fenrisvc",
   "pipelineId": 318,
   "productConfig": {"cdnPath": "", "hash": "9752ba0887cf1805be62043863e3f5e6"},
-  "versionNumber": 73522,
-  "versionString": "73522"
+  "versionNumber": 73552,
+  "versionString": "73552"
 }

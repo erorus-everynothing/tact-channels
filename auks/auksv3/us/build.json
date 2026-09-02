@@ -1,14 +1,17 @@
 {
   "armadilloKey": "",
-  "build": {"name": "etu_27898773G_cod25_season5_signed_bnet_v3_ship", "token": "73df6b0f-fe48-4453-baa9-2497c642a410"},
-  "buildKey": "336abb86dc2d1ef8772cb83c47ef23aa",
-  "cdnKey": "8603d458b918603a6c69760c1dec73e6",
-  "definition": "6831741270aac9c0536926d452981b83",
+  "build": {
+    "name": "release_28787707_cod25_season6_signed_bnet_v3_ship",
+    "token": "74d4db69-ae2b-4e66-8c99-f2f54e9c873a"
+  },
+  "buildKey": "1a70d45e105b50f9f5250b1217c190bc",
+  "cdnKey": "57e02136a10276e02b6fbd3f1d397033",
+  "definition": "a6c95c7f5b48b6fcaae12bedae3c6fab",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:35.000Z",
+  "lastModified": "2026-09-02T16:08:13.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
   "productConfig": {"cdnPath": "", "hash": "4051df6284aca11cfbd25c2be817bf03"},
-  "versionNumber": 27898773,
-  "versionString": "1.5.0.27898773s"
+  "versionNumber": 28787707,
+  "versionString": "1.5.0.28787707s"
 }

@@ -2,7 +2,7 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["us"],
+      "branches": ["eu"],
       "build": {
         "name": "trunk_28746673_cod26_daily_cod26_daily_bnet_v3_dev",
         "token": "47c65a77-960c-4187-b4ec-31f790347229"

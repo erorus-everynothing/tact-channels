@@ -17,7 +17,7 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["us"],
+      "branches": ["kr", "us"],
       "build": {"name": "main_28766932_sat_clean_future_bnet_v7_dev", "token": "bf107015-edc8-406f-986c-f7a093f98eed"},
       "buildKey": "e239037694387509fe73eb87f1a9c40a",
       "cdnKey": "4afc13f96834ab60239b583243c65381",

@@ -2,7 +2,7 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["cn", "kr", "sg", "tw", "xx"],
+      "branches": ["cn", "sg", "xx"],
       "build": {"name": "WOW-69497patch12.1.0_Retail", "token": "2ea36c17-7265-4fa2-a095-77f81acc24ce"},
       "buildKey": "f5e9c4b067c202305fdb932fc0fb2182",
       "cdnKey": "70ba8410722e8d508fecb21b90809dc3",
@@ -17,7 +17,7 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["eu", "us"],
+      "branches": ["eu", "kr", "tw", "us"],
       "build": {"name": "WOW-69587patch12.1.0_Retail", "token": "17f1a8fb-8b51-49b8-a5bd-08d52f5584c6"},
       "buildKey": "c9fa1a64b0170829cc5c5c98c71025c3",
       "cdnKey": "f321c713e2545259b44497c7628cef15",

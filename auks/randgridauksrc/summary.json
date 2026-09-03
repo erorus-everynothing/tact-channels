@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "release_driver_28_07_2026_28195476_valkyrie_valkyrie_ship_ship_RC",
-        "token": "22072eda-03f9-46ef-8574-23af64d56061"
+        "name": "release_driver_27_08_2026_28696816_valkyrie_valkyrie_ship_ship",
+        "token": "e77cbff4-111b-4bae-9d72-f4d44f52bc48"
       },
-      "buildKey": "04263f4d71e341cf3b0aeea7627c83b2",
-      "cdnKey": "138323554536d0973ee95e7751569e70",
-      "definition": "90a0030cf883646f6e540afeeb8d645f",
+      "buildKey": "766640ef54bb502a2d7f22652f1d869a",
+      "cdnKey": "97516cf86bc85b1fdeb981cc0fde1598",
+      "definition": "3f6dabca0f5649e56d6c53a3d24d1e83",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:36.000Z",
+      "lastModified": "2026-09-03T22:29:03.000Z",
       "path": "tpr/aukslrc",
       "pipelineId": 392,
       "productConfig": {"cdnPath": "", "hash": "291ad59e173875e80c85c7c7794db31d"},
-      "versionNumber": 28195476,
-      "versionString": "1.0.0.28195476s"
+      "versionNumber": 28696816,
+      "versionString": "1.0.0.28696816s"
     }
   ],
   "infrastructure": false,

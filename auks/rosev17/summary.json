@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["eu"],
       "build": {
-        "name": "trunk_28766756_cod26_daily_cod26_daily_bnet_v17_dev",
-        "token": "4b2dd9f6-eac8-4dc2-bc3e-ec89e91bf0ed"
+        "name": "trunk_28811173_cod26_daily_cod26_daily_bnet_v17_dev",
+        "token": "5c719657-4d5d-4d75-9226-73851e40041c"
       },
-      "buildKey": "f1e7e682b3ad1c00fa2dc069e7b799d1",
-      "cdnKey": "1e4793cc19f8168a3cf6eb811420d032",
-      "definition": "4eae9fb3fdf0150aed9d8f762d4fbd01",
+      "buildKey": "802529be88ed9db2178cc5a0475e1b3f",
+      "cdnKey": "ddb8c5c398428d66036a623e5e820d9c",
+      "definition": "274dbbf623b231c0779d7a2be6d7c423",
       "keyRing": "",
-      "lastModified": "2026-09-01T17:31:22.000Z",
+      "lastModified": "2026-09-03T14:28:34.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "dc2c674a071691b95f10db510abcaffa"},
-      "versionNumber": 28766756,
-      "versionString": "0.0.1.28766756d"
+      "versionNumber": 28811173,
+      "versionString": "0.0.1.28811173d"
     },
     {
       "armadilloKey": "",
@@ -39,17 +39,17 @@
     {
       "armadilloKey": "",
       "branches": ["us"],
-      "build": {"name": "release_28788527_cod26_tu0_bnet_v17_dev", "token": "ab35d908-9777-44c7-baba-5a582db0e0d5"},
-      "buildKey": "7cd6ca95d576668e4748bf9b6e1e9423",
-      "cdnKey": "bee2d37d80e4485686f391c511434f5e",
-      "definition": "503bc732e75bdea737f565d204a0c35c",
+      "build": {"name": "release_28810418_cod26_tu0_bnet_v17_dev", "token": "33700cf7-99b4-40a2-a8d8-ba1d9ebb9901"},
+      "buildKey": "c63594743241f53be2982499d85a2791",
+      "cdnKey": "ddb8c5c398428d66036a623e5e820d9c",
+      "definition": "84b51bf986646f9caa29ec06b8560b8c",
       "keyRing": "",
-      "lastModified": "2026-09-02T15:35:24.000Z",
+      "lastModified": "2026-09-03T14:28:34.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "143122c90c4081a05552649db061d18b"},
-      "versionNumber": 28788527,
-      "versionString": "0.0.1.28788527d"
+      "versionNumber": 28810418,
+      "versionString": "0.0.1.28810418d"
     }
   ],
   "infrastructure": false,

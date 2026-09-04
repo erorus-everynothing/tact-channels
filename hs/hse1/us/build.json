@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "Hearthstone-Live-Event-rekey-dummy", "token": "36055b70-3fce-4ba2-9b07-1d040c0fbc3a"},
-  "buildKey": "f662227daf7b612407bc270740f18729",
-  "cdnKey": "9539e038e205d5b9a270fa828872cd6d",
-  "definition": "4b4ea7cf777f9882aa09219ad7bf32e6",
+  "build": {"name": "250339_36.4.0-hse1", "token": "ab150f94-221e-68f5-5032-f9b7e13d1855"},
+  "buildKey": "42060f8c0261ba4ca5bbeff99d43e8d6",
+  "cdnKey": "18530b82f3c5b595be278b0d95f28072",
+  "definition": "3d6157847c0ad2c706803a5e2fa44861",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:09.000Z",
+  "lastModified": "2026-09-04T19:49:12.000Z",
   "path": "tpr/hse/1",
   "pipelineId": 265,
   "productConfig": {"cdnPath": "", "hash": "de5269e2b1d61b35a17f6a4fa2cb1040"},
-  "versionNumber": 1,
-  "versionString": "1"
+  "versionNumber": 250339,
+  "versionString": "36.4.0.250339"
 }

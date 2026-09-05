@@ -1,17 +1,17 @@
 {
   "armadilloKey": "",
   "build": {
-    "name": "trunk_27531944D_cod23_sep_tu3_signed_bnet_v2_dev",
-    "token": "dce91201-41d2-43ff-9676-9f2369e1fb46"
+    "name": "cod23_sep_tu4_exe_patch_01_09_v2_signed_bnet_v2_dev",
+    "token": "5f62e98e-c92d-4270-90a1-c39453c9e389"
   },
-  "buildKey": "6b9c463bb9373cdf444cc3f8a7e6ea88",
-  "cdnKey": "a830afe74865dfd09bf11db2a39e7e07",
-  "definition": "65d393b8bfb952809653a8bfc0b96ca2",
+  "buildKey": "ada31d75c0efd04254333373399dcc8e",
+  "cdnKey": "edbbcb7903cf72a8d7315bdcbf38044e",
+  "definition": "c6d504632be665e4029fe80f53986d3b",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:14.000Z",
+  "lastModified": "2026-09-05T00:50:32.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
   "productConfig": {"cdnPath": "", "hash": "3b30e3f72dea8ad29df85b0c84179063"},
-  "versionNumber": 27531944,
-  "versionString": "0.0.1.27531944d"
+  "versionNumber": 109,
+  "versionString": "0.0.1.0109d"
 }

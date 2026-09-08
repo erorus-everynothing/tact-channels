@@ -1,17 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {
-    "name": "prometheus-2_24_0_3-152850-CN-NEAC-BrowserUpdate2",
-    "token": "05d18579-4143-443f-a029-ec1e9dcfebf5"
-  },
-  "buildKey": "a8ff03cb44b4dbdc2c477f536ba072be",
-  "cdnKey": "48210b6a012941d75bcb061eb9457e6f",
-  "definition": "ef8d80ae30a579e4c914b9999fe3d36c",
+  "build": {"name": "prometheus-2_24_1_0-153264-CN-NEAC", "token": "86c90ff4-830d-4061-8f31-eebf1860ad9c"},
+  "buildKey": "ae622d6ae0e1a85207a48eeee86d3123",
+  "cdnKey": "f3a11fe1f59993bb450770d1e68b9af3",
+  "definition": "866db2a434bc27c19175d9b18c29d8da",
   "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
-  "lastModified": "2026-08-25T16:29:26.000Z",
+  "lastModified": "2026-09-08T18:01:14.000Z",
   "path": "tpr/ovw",
   "pipelineId": 43,
   "productConfig": {"cdnPath": "", "hash": "14d469785b47c23da0592db533b757ec"},
-  "versionNumber": 152850,
-  "versionString": "2.24.0.3.152850NB2"
+  "versionNumber": 153264,
+  "versionString": "2.24.1.0.153264N"
 }

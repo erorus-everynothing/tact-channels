@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "cert_24679191A_cod25_tu2_enforced_dev_valk_bnet_signed_e1_ship",
-        "token": "7c84ce1a-07b6-408b-a8d0-786b8b500fef"
+        "name": "release_28484794C_cod26_beta_tu2_signed_bnet_e1_ship",
+        "token": "bbe59691-1bfe-49c1-afdb-c26838a9efaf"
       },
-      "buildKey": "3ce8ec9e9588263ec2a39ae9987357b7",
-      "cdnKey": "ca4065ed1641024b0881e97624b16faa",
-      "definition": "f01e4e1b94111d5c53d0637158558359",
+      "buildKey": "a49b91ebbbaaef9da59c8888088cfa9a",
+      "cdnKey": "f7b67fd69723edf13ff57bcae1f9900c",
+      "definition": "117c452ba64e8c9ce1b9250f0d4804ea",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:28:28.000Z",
+      "lastModified": "2026-09-09T17:15:32.000Z",
       "path": "tpr/aukse",
       "pipelineId": 273,
       "productConfig": {"cdnPath": "", "hash": "cd894a3e4bdbbc5217225145778e372f"},
-      "versionNumber": 24679193,
-      "versionString": "2.16.0.24679191e"
+      "versionNumber": 28484794,
+      "versionString": "2.16.0.28484794e"
     }
   ],
   "infrastructure": false,

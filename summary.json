@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "30efc17c2c706392b48d671a994eb4ba"
+    "channel": "79890aaaeba10f763a03808294af25fb"
   },
-  "lastModified": "2026-09-09T14:00:53.000Z",
-  "pointerLastModified": "2026-09-09T14:00:53.000Z",
+  "lastModified": "2026-09-09T14:40:33.000Z",
+  "pointerLastModified": "2026-09-09T14:40:33.000Z",
   "products": {
     "agent": [
       "agent",
@@ -420,6 +420,9 @@
       "lbra-demo-rc",
       "lbra-retail-dev-1",
       "lbra-retail-rc"
+    ],
+    "lyra": [
+      "lyra-retail-dev-1"
     ],
     "odin": [
       "brynhildr_odin",

@@ -17,22 +17,7 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["kr"],
-      "build": {"name": "main_28879969_sat_clean_future_bnet_v7_dev", "token": "af31d418-4ef8-45fe-825e-cdbcbcd02d9f"},
-      "buildKey": "dc490f0100929cb44378993c4f99f264",
-      "cdnKey": "e87dbf0710d8856f76204a25476753e0",
-      "definition": "d824faa0ed98fa9480a79e582411ba69",
-      "keyRing": "",
-      "lastModified": "2026-09-08T16:11:33.000Z",
-      "path": "tpr/sagev",
-      "pipelineId": 304,
-      "productConfig": {"cdnPath": "", "hash": "4d25cba4a69d6923a4c6531acdf9f8e8"},
-      "versionNumber": 28879969,
-      "versionString": "0.0.0.28879969d"
-    },
-    {
-      "armadilloKey": "",
-      "branches": ["us"],
+      "branches": ["kr", "us"],
       "build": {"name": "main_28939737_sat_clean_future_bnet_v7_dev", "token": "6b72866e-7e71-4273-a654-125b89bcaec1"},
       "buildKey": "7d5c06742f5574678feced0fd676d7e8",
       "cdnKey": "dcf607a404ca9c216b9fc31def9a7ff0",

@@ -108,17 +108,17 @@
     {
       "armadilloKey": "",
       "branches": ["PUB-30"],
-      "build": {"name": "447033cec0d2ac842ca3a51b5cccc8ae-5067", "token": "3a65f3aa-f8b8-4f95-937e-9f58cb7e79ee"},
-      "buildKey": "14829e5e3651e4e0a835096147b9d0d6",
-      "cdnKey": "58ce9ec181ad72cdccee55b5f7a52ce3",
-      "definition": "f11b540ec1a78857c31bb63ff2e5f06a",
+      "build": {"name": "c2e774173faad35e401ac16868844c61-5068", "token": "0ab9c6ea-23e6-4172-b229-fdf50cad1dc8"},
+      "buildKey": "863b82a2f969b5322fc157ae24573e02",
+      "cdnKey": "fbfce4865fdcc8c83bcddf34ceb6291d",
+      "definition": "86f2db06bcf38c830e7d853f66379464",
       "keyRing": "",
-      "lastModified": "2026-09-12T21:15:13.000Z",
+      "lastModified": "2026-09-12T22:00:31.000Z",
       "path": "tpr/catalogs",
       "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
-      "versionNumber": 361,
-      "versionString": "5067"
+      "versionNumber": 362,
+      "versionString": "5068"
     }
   ],
   "infrastructure": false,

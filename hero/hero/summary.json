@@ -17,7 +17,7 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["eu", "kr", "tw"],
+      "branches": ["eu"],
       "build": {"name": "B97771", "token": "a07927ca-0112-4da5-84d2-b2d8f9484292"},
       "buildKey": "8c9b7d1cb91b046aa4efb91db5364710",
       "cdnKey": "649138484b857978ae5c73772091d880",
@@ -32,7 +32,7 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["sg", "us"],
+      "branches": ["kr", "sg", "tw", "us"],
       "build": {"name": "B98025", "token": "0613238f-f714-46ae-ad20-0dfcc9246e3c"},
       "buildKey": "85b6b7f4853fc597e4754e9e96b8f4fd",
       "cdnKey": "ebab45d856706166350e5a4f343fad3e",

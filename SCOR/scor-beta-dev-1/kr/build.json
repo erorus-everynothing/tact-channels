@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "SeaOfThievesInsider_1.152.2100.0", "token": "269b0061-47e7-4f40-aa25-9ab607559f7f"},
-  "buildKey": "bcd08b840d313f2ddbdb3f09fb4f4d2e",
-  "cdnKey": "29598a55c608063ad63209a8c8b62307",
-  "definition": "82ba3693df4c0d52476e0bebff33fb06",
+  "build": {"name": "SeaOfThievesInsider_1.152.2292.0", "token": "02c43a27-9782-4a70-a818-0bf5e363a7f4"},
+  "buildKey": "2b2ca984355d7baf0788451f6ac31344",
+  "cdnKey": "6451a18507d9eed32494f5c778cfcf64",
+  "definition": "9c8bd63d37ef168693f6abad59ccf2a1",
   "keyRing": "",
-  "lastModified": "2026-09-14T17:35:04.000Z",
+  "lastModified": "2026-09-14T23:56:33.000Z",
   "path": "tpr/scordev",
   "pipelineId": 334,
   "productConfig": {"cdnPath": "", "hash": "1b82239e0c12dd4e180e4f89c5d499db"},
-  "versionNumber": 1522100,
-  "versionString": "1.152.2100.0"
+  "versionNumber": 1522292,
+  "versionString": "1.152.2292.0"
 }

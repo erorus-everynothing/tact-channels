@@ -21,20 +21,17 @@
     {
       "armadilloKey": "",
       "branches": ["kr"],
-      "build": {
-        "name": "trunk_28635394_rex_br_br_season1_bnet_v24_dev",
-        "token": "84fa4676-8bd7-4d6b-aa32-680659d1b202"
-      },
-      "buildKey": "63e47c150aa944008ca711b28388dd1a",
-      "cdnKey": "00e088fec73e8de73c500ae3b46bc10f",
-      "definition": "590dcfc0db026273f023744f2de99324",
+      "build": {"name": "release_28852002_cod26_tu0_bnet_v24_dev", "token": "94e8769c-f613-4d40-9110-66e00cca1426"},
+      "buildKey": "6dd7b2cdf5bc90750a34a9cc70b53a97",
+      "cdnKey": "c1bcfef6ed7cbfa6ce55c98ccf1a857b",
+      "definition": "7d0e9d82ad2f51b212f26e03a1a4bf3f",
       "keyRing": "",
-      "lastModified": "2026-08-26T20:47:34.000Z",
+      "lastModified": "2026-09-14T20:42:02.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "43bad0c0f1f37cfc8a8f1080fd969e7a"},
-      "versionNumber": 28635394,
-      "versionString": "0.0.0.28635394d"
+      "versionNumber": 28852002,
+      "versionString": "0.0.0.28852002d"
     },
     {
       "armadilloKey": "",

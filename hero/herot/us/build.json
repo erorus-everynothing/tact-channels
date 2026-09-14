@@ -3,12 +3,12 @@
   "build": {"name": "B98126", "token": "3f1eaa13-d9a1-4712-a143-1ef081fd2924"},
   "buildKey": "3468f36214919a8810dff9c647245e17",
   "cdnKey": "84cf6babe6bd3a1669e1aa9b8f2037af",
-  "definition": "35ede2f05d1af35276a29fca440f948f",
+  "definition": "4d6e55b557a0133c47b33405492bf28b",
   "keyRing": "",
-  "lastModified": "2026-09-14T17:43:12.000Z",
+  "lastModified": "2026-09-14T18:11:02.000Z",
   "path": "tpr/Hero-Live-a",
   "pipelineId": 10,
   "productConfig": {"cdnPath": "", "hash": "65dcefe76985bd0bd87a1f112bf1a74d"},
   "versionNumber": 98126,
-  "versionString": "2.57.0"
+  "versionString": "2.57.0.98126"
 }

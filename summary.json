@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "a276729f084f68179a16e77e0aa686aa"
+    "channel": "a601e15ca66eebe38d636e1d43045262"
   },
-  "lastModified": "2026-09-15T16:09:15.000Z",
-  "pointerLastModified": "2026-09-15T16:09:15.000Z",
+  "lastModified": "2026-09-15T16:10:54.000Z",
+  "pointerLastModified": "2026-09-15T16:10:55.000Z",
   "products": {
     "agent": [
       "agent",
@@ -469,7 +469,6 @@
       "procr2",
       "prodemo",
       "prodemo2",
-      "prodemo5",
       "prodev",
       "prodev6",
       "prodev7",

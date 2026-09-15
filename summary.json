@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "a7579ff760ffe62432261cf914661179"
+    "channel": "7d28c383a4cbe5b7c69eebc534bd1d0f"
   },
-  "lastModified": "2026-09-15T20:26:54.000Z",
-  "pointerLastModified": "2026-09-15T20:26:54.000Z",
+  "lastModified": "2026-09-15T20:44:03.000Z",
+  "pointerLastModified": "2026-09-15T20:44:03.000Z",
   "products": {
     "agent": [
       "agent",
@@ -568,6 +568,7 @@
       "wow_anniversary",
       "wow_beta",
       "wow_classic",
+      "wow_classic_beta",
       "wow_classic_era",
       "wow_classic_era_ptr",
       "wow_classic_ptr",

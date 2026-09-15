@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "WOW-62071patch5.5.0_ClassicBeta", "token": "feea8bf3-74f1-435a-94d5-d150341d8724"},
-  "buildKey": "46b7ef7f2fb545ada00b5c74ba499482",
-  "cdnKey": "32a8612f8c864c40fff51638cfe209a6",
-  "definition": "9d921f53a5057b1e20de9deb898ce09d",
+  "build": {"name": "dummy_build_wow_live_classic_beta", "token": "796a96e5-56a2-496e-9913-ef04b2a079eb"},
+  "buildKey": "0f5c9d8c8845a02a76a4b8d41025e5a8",
+  "cdnKey": "8c44a7a4d353413d63a1cecd55b14a4a",
+  "definition": "275d82d6c031f8ec1203d60f8d187d77",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:30:12.000Z",
+  "lastModified": "2026-09-15T20:44:03.000Z",
   "path": "tpr/wow",
   "pipelineId": 19,
-  "productConfig": {"cdnPath": "", "hash": "bfc9661c74dbe4a615b62447d8c2baf9"},
-  "versionNumber": 62071,
-  "versionString": "5.5.0.62071"
+  "productConfig": {"cdnPath": "", "hash": "d59bb0850ec907a254e81bc9b75b4e6e"},
+  "versionNumber": 1,
+  "versionString": "1.0"
 }

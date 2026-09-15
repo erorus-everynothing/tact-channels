@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "16.1.1.119615.cp-m16.1.1.3b3f419862.Filtered", "token": "3645ee51-2f04-ebb4-a2cc-a231a40e0e1c"},
-  "buildKey": "e02df1450cd49848ae1886f86b726cda",
-  "cdnKey": "f105c9516348ca59dc3c1aa451fcacbd",
-  "definition": "577e0cf1bf896a1bb8714a786646052f",
+  "build": {"name": "16.1.2.119698.cp-m16.1.2.71a694aa57.Filtered", "token": "479a0030-7765-29db-412e-64da0b9d425d"},
+  "buildKey": "d82db154ec55317bc85679953ceb5a84",
+  "cdnKey": "9d9650e0841c5294ebb80f883d1df260",
+  "definition": "d2f5a65b775cb9fd56edc30726e749b6",
   "keyRing": "",
-  "lastModified": "2026-08-25T18:40:43.000Z",
+  "lastModified": "2026-09-15T20:26:53.000Z",
   "path": "tpr/gryphonv",
   "pipelineId": 337,
   "productConfig": {"cdnPath": "", "hash": "5468b09a2a13dac08ed0b26208b178e9"},
-  "versionNumber": 119615,
-  "versionString": "16.1.1.119615"
+  "versionNumber": 119698,
+  "versionString": "16.1.2.119698"
 }

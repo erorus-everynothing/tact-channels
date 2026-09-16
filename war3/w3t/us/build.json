@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "3.0.0.24273-ptr", "token": "b9211af0-8475-46ed-82fe-4efd3437ba47"},
-  "buildKey": "aea158284bb2b32eeca95ad11dba23fd",
-  "cdnKey": "d2ddc67d8ce89f1e57d0268de4d763dc",
-  "definition": "ff8859808fbd100d06ca0e4cb3e984b6",
+  "build": {"name": "3.0.0.24277-ptr", "token": "fdd916f0-fd8f-4d04-ae52-ba38ceedfb60"},
+  "buildKey": "e38e03b7b07fba46505fef8bed988a97",
+  "cdnKey": "49cd4a7ba76e3940933ae9b11a1a7a36",
+  "definition": "1a30d538d919909dd1c1e084d3a305f1",
   "keyRing": "",
-  "lastModified": "2026-09-14T08:47:03.000Z",
+  "lastModified": "2026-09-16T04:19:22.000Z",
   "path": "tpr/war3",
   "pipelineId": 100,
   "productConfig": {"cdnPath": "", "hash": "0dab0e85b60f33f78a784b84cbc0a67f"},
-  "versionNumber": 24273,
-  "versionString": "3.0.0.24273"
+  "versionNumber": 24277,
+  "versionString": "3.0.0.24277"
 }

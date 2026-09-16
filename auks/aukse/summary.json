@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "release_28484794C_cod26_beta_tu2_signed__esport_bnet_e1_ship_r3",
-        "token": "dcf4cb4d-f34e-4680-ae33-dce346c83795"
+        "name": "release_28484794C_cod26_beta_tu2_signed__esport_event_bnet_e1_ship_renamed",
+        "token": "22236964-7009-4d47-b887-95d53c0e03f2"
       },
-      "buildKey": "e8a076fa814e1cf8675f99e329f38755",
-      "cdnKey": "82c4d9d79b1fbeb795b72b08da8a1d32",
-      "definition": "b6b85e3ab7525a47545759cd6c2a3ae0",
+      "buildKey": "73273885684a7ea87c87b98939e6b0d1",
+      "cdnKey": "2b72f0d3875f730d91e08a41af91df8f",
+      "definition": "2d4d7418daffe1a8e284ca0891a92be2",
       "keyRing": "",
-      "lastModified": "2026-09-16T18:27:32.000Z",
+      "lastModified": "2026-09-16T20:40:11.000Z",
       "path": "tpr/aukse",
       "pipelineId": 273,
       "productConfig": {"cdnPath": "", "hash": "cd894a3e4bdbbc5217225145778e372f"},
-      "versionNumber": 28484795,
-      "versionString": "2.16.1.28484794e"
+      "versionNumber": 28484796,
+      "versionString": "2.16.2.28484794e"
     }
   ],
   "infrastructure": false,

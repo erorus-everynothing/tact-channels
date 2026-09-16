@@ -2,18 +2,18 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["us"],
-      "build": {"name": "dummy_build_wow_live_classic_beta", "token": "796a96e5-56a2-496e-9913-ef04b2a079eb"},
-      "buildKey": "0f5c9d8c8845a02a76a4b8d41025e5a8",
-      "cdnKey": "8c44a7a4d353413d63a1cecd55b14a4a",
-      "definition": "275d82d6c031f8ec1203d60f8d187d77",
+      "branches": ["eu", "kr", "tw", "us"],
+      "build": {"name": "WOW-69876patch1.60.1_ClassicBeta", "token": "d3b75698-fb07-440d-a92a-6c1e983930c3"},
+      "buildKey": "e7fab7248766e9e7daddb3b6083c9c3c",
+      "cdnKey": "272d201d5b2d6fec8fdb4aa59b2a9eea",
+      "definition": "b74fab471f73305856b0cc2aea82e3ca",
       "keyRing": "",
-      "lastModified": "2026-09-15T20:44:03.000Z",
+      "lastModified": "2026-09-16T18:21:53.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
-      "productConfig": {"cdnPath": "", "hash": "d59bb0850ec907a254e81bc9b75b4e6e"},
-      "versionNumber": 1,
-      "versionString": "1.0"
+      "productConfig": {"cdnPath": "", "hash": "fcfd1bc39031f5921d00aee2d869adb5"},
+      "versionNumber": 69876,
+      "versionString": "1.60.1.69876"
     }
   ],
   "infrastructure": false,

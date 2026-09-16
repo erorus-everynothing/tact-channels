@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["nexon"],
-      "build": {"name": "prometheus-2_25_0_0-153635-KR-NGSX-prodev14", "token": "371cc08d-e3dc-4ca5-a601-befa14ed985d"},
-      "buildKey": "b0f69085b2ef55e7920a3a3a4b0bf97f",
-      "cdnKey": "d5862992b66cfc0fb737bfdb6b56acea",
-      "definition": "8a88e3c20ec53cd450cc014e50f59810",
+      "build": {"name": "prometheus-2_25_0_0-153744-KR-NGSX-prodev14", "token": "8801b49f-f37e-4e71-9684-bec59616c6da"},
+      "buildKey": "1db1612416ecc16a1c5851f08b204039",
+      "cdnKey": "78912de04638120e5d9b7d8d46c7c3a6",
+      "definition": "e2359f1d0699b598dc0e0f98390c9e7e",
       "keyRing": "",
-      "lastModified": "2026-09-11T18:47:05.000Z",
+      "lastModified": "2026-09-16T16:33:13.000Z",
       "path": "tpr/proa2",
       "pipelineId": 266,
       "productConfig": {"cdnPath": "", "hash": "0fa772552c345eed6354578e49e37f10"},
-      "versionNumber": 153635,
-      "versionString": "2.25.0.0.153635"
+      "versionNumber": 153744,
+      "versionString": "2.25.0.0.153744"
     },
     {
       "armadilloKey": "",

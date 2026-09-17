@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "us"],
-      "build": {"name": "3859809_430_dev_tact_row", "token": "bea659dc-e2cf-4e7a-9d57-d2b8efca2f7a"},
-      "buildKey": "0bdf0346cf6b5f44aea745b31fe47126",
-      "cdnKey": "908db0923a0cac7beb744eff7a917175",
-      "definition": "2abdbc77a71c115e873c82c725865481",
+      "build": {"name": "3876337_510_dev_tact_row", "token": "031c730a-1a72-4f71-9459-3003cba38ad3"},
+      "buildKey": "aaba0cb716805047616398ed6c8d6bea",
+      "cdnKey": "b0ef87717dd3dd0e60a4d7860ea13c4c",
+      "definition": "9bf8e7819b0c0110a95cbea6f55b3496",
       "keyRing": "",
-      "lastModified": "2026-09-10T06:15:31.000Z",
+      "lastModified": "2026-09-17T07:50:29.000Z",
       "path": "tpr/anbsdev",
       "pipelineId": 262,
       "productConfig": {"cdnPath": "", "hash": "a27720069328eaf95569fe3f4c5a02fa"},
-      "versionNumber": 3859809,
-      "versionString": "5.1.0.3859809"
+      "versionNumber": 3876337,
+      "versionString": "5.1.0.3876337"
     }
   ],
   "infrastructure": false,

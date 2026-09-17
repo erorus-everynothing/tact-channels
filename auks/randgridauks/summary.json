@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "release_driver_06_08_2026_28347379_valkyrie_valkyrie_ship_ship",
-        "token": "92f7ec2a-c146-44f9-86a8-982d498a33a3"
+        "name": "release_driver_27_08_2026_28696816_valkyrie_valkyrie_ship_ship",
+        "token": "fb8d4910-15f2-482c-a744-5a7f00b1e4c2"
       },
-      "buildKey": "fdd4bfda99279557964aa11504c59328",
-      "cdnKey": "ae9d33f1ee5fda18143012f93984dcc7",
-      "definition": "0601f6b6a53a8e61f014f4f75b0a67a8",
+      "buildKey": "bbfcd100472c116c112c16a3fede0d46",
+      "cdnKey": "2cb8cf91e37f8e8ffaa4af3f26d175eb",
+      "definition": "1051a70ccf8c38131febe25ac890994b",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:35.000Z",
+      "lastModified": "2026-09-17T16:01:53.000Z",
       "path": "tpr/auks",
       "pipelineId": 234,
       "productConfig": {"cdnPath": "", "hash": "5e5f3ef37942617dd2f9d19023a0d5d4"},
-      "versionNumber": 28347379,
-      "versionString": "3.9.0.28347379"
+      "versionNumber": 28696816,
+      "versionString": "3.10.0.28696816"
     }
   ],
   "infrastructure": false,

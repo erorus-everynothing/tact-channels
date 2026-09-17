@@ -4,42 +4,22 @@
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "release_28354448A_cod25_season5_5_signed_bnet_r_ship_rel",
-        "token": "28560484-7395-4caa-aeff-e3d9f41eea9a"
+        "name": "release_28787707_cod25_season6_signed_bnet_r_ship_rel",
+        "token": "c536b351-e756-43ca-a8d8-952ee2a4cd16"
       },
-      "buildKey": "65cbba823e68b78ed4b53d8218295fc3",
-      "cdnKey": "48a5110210fed61ed703bf7c11a211f6",
-      "definition": "d47d78496af2eb939bca01589864a5c8",
-      "keyRing": "cdbadddd986a061acac0a72ecbe72c83",
-      "lastModified": "2026-08-25T16:28:28.000Z",
+      "buildKey": "8d53fb727daeee5ce2274d264149ebb0",
+      "cdnKey": "e27aca4cdadbe01894b3ff60728a8c72",
+      "definition": "d6b088c4313aca9734f3f1c09ab6b860",
+      "keyRing": "cb4554d73e88cb66018b1b7f75d53ab3",
+      "lastModified": "2026-09-17T16:01:51.000Z",
       "path": "tpr/auks",
       "pipelineId": 234,
-      "productConfig": {"cdnPath": "", "hash": "12a095864a7c99bed26ee16845077021"},
-      "versionNumber": 28354448,
-      "versionString": "3.13.1.28354448"
+      "productConfig": {"cdnPath": "", "hash": "2416bdddc602c9c236dfba27137f6a68"},
+      "versionNumber": 28787707,
+      "versionString": "3.14.0.28787707"
     }
   ],
   "infrastructure": false,
-  "preloads": [
-    {
-      "armadilloKey": "",
-      "branches": ["eu", "kr", "us"],
-      "build": {
-        "name": "release_28787707_cod25_season6_signed_bnet_r_ship_ebgdl",
-        "token": "b30d87ef-f4b9-48be-b207-8e5d8fa9a498"
-      },
-      "buildKey": "1a5dc44bf3bdf47e58dce93a17c9ec59",
-      "cdnKey": "d109bd6959502d87d62dcea8147fbc24",
-      "definition": "0ee24e8c86e8acc6eeff2f7d45966bec",
-      "keyRing": "",
-      "lastModified": "2026-09-14T16:27:42.000Z",
-      "path": "tpr/auks",
-      "pipelineId": 234,
-      "productConfig": {"cdnPath": "", "hash": "12a095864a7c99bed26ee16845077021"},
-      "versionNumber": 28787707,
-      "versionString": "3.14.0.28787707e"
-    }
-  ],
   "product": "auks",
   "regions": [
     {

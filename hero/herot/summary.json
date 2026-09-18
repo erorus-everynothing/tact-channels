@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "sg", "tw", "us"],
-      "build": {"name": "B98126", "token": "3f1eaa13-d9a1-4712-a143-1ef081fd2924"},
-      "buildKey": "3468f36214919a8810dff9c647245e17",
-      "cdnKey": "84cf6babe6bd3a1669e1aa9b8f2037af",
-      "definition": "4d6e55b557a0133c47b33405492bf28b",
+      "build": {"name": "B98181", "token": "1816a6a4-bca1-4a5a-8103-12fb1b1fc58d"},
+      "buildKey": "8ffe093c9c4d9876d38045c29f7ade3c",
+      "cdnKey": "cbd7166a7980f47140a619442e81a722",
+      "definition": "b1b8c757e320677e556fffb4725eeec6",
       "keyRing": "",
-      "lastModified": "2026-09-14T18:11:02.000Z",
+      "lastModified": "2026-09-18T02:49:22.000Z",
       "path": "tpr/Hero-Live-a",
       "pipelineId": 10,
       "productConfig": {"cdnPath": "", "hash": "65dcefe76985bd0bd87a1f112bf1a74d"},
-      "versionNumber": 98126,
-      "versionString": "2.57.0.98126"
+      "versionNumber": 98181,
+      "versionString": "2.57.0.98181"
     }
   ],
   "infrastructure": false,

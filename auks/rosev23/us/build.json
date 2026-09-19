@@ -1,17 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {
-    "name": "trunk_28746673_cod26_daily_cod26_daily_bnet_v23_dev",
-    "token": "a3aa353d-bcd7-448e-956a-e6be5f3d0471"
-  },
-  "buildKey": "bf0866953f95fbcac7bf77b8af81cfb7",
-  "cdnKey": "253c709e91265d72089e8b8449c296ad",
-  "definition": "dfc1c59e8f58187a3bbce3f2adedcd6f",
+  "build": {"name": "trunk_29035223_rex_autobuild_mp_bnet_v23_dev", "token": "6e27ed50-79f1-490a-b687-79b2676dd044"},
+  "buildKey": "c079694f391ea27b75b4e4fda02bfd26",
+  "cdnKey": "ca202434896c8531c9529221a51ee339",
+  "definition": "5d882f079f1c8b326dd929316790725e",
   "keyRing": "",
-  "lastModified": "2026-09-02T00:46:23.000Z",
+  "lastModified": "2026-09-19T02:51:53.000Z",
   "path": "tpr/rosevb",
   "pipelineId": 356,
   "productConfig": {"cdnPath": "", "hash": "ac187770cc16b3923bedfaf45d064f8a"},
-  "versionNumber": 28746673,
-  "versionString": "0.0.0.28746673d"
+  "versionNumber": 29035223,
+  "versionString": "0.0.0.29035223d"
 }

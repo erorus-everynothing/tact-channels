@@ -1,17 +1,17 @@
 {
   "armadilloKey": "",
   "build": {
-    "name": "etu_28964918_cod26_cip_cib2_valkyrie_patched_signed_bnet_ld_ship",
-    "token": "be18b3fb-d2d9-443e-a0d5-38cec85b7b90"
+    "name": "etu_29049384_cod26_cip_cib3_valkyrie_patched_signed_bnet_ld_ship",
+    "token": "8df63d17-6b75-4d15-8ad4-41c258dfa573"
   },
-  "buildKey": "0423ce7c0396548f9bdbc075dc90a856",
-  "cdnKey": "96bc230d9ff8faf0bb28564a0ebef4b3",
-  "definition": "46e79871bf3145d45000f9c2a186b547",
+  "buildKey": "9aadacebdf7880e6357c345ec376e636",
+  "cdnKey": "74816955fb78dafd6850da24d14879d0",
+  "definition": "9b440bf7af3f9064e6e4c7c9de2af9a8",
   "keyRing": "",
-  "lastModified": "2026-09-16T22:21:21.000Z",
+  "lastModified": "2026-09-19T17:02:12.000Z",
   "path": "tpr/auksdev/5",
   "pipelineId": 235,
   "productConfig": {"cdnPath": "", "hash": "d7db34015e82d5260477b58fcf337db7"},
-  "versionNumber": 28964919,
-  "versionString": "1.2.0.28964918"
+  "versionNumber": 29049384,
+  "versionString": "1.2.1.29049384"
 }

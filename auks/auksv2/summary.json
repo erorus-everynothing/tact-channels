@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["eu"],
       "build": {
-        "name": "release_28335615_cod25_season5_5_signed_bnet_v2_dev",
-        "token": "601c0c04-cb66-41b6-ba07-aa87e1ee0a48"
+        "name": "release_28787707B_cod25_season6_signed_bnet_v2_dev",
+        "token": "32339ee6-b218-42a7-80be-629bdc5d01b6"
       },
-      "buildKey": "ca06b663ec11b7c6791f6b8c604dfa51",
-      "cdnKey": "0dbab4381c4ae80827e898484312abc2",
-      "definition": "a037ecbb41ce226964a4886b47dacb56",
+      "buildKey": "ba88b27fb759c1f7eb3fe36a0659ab5d",
+      "cdnKey": "402740a6b6c5bbe7eb0defdfd520535c",
+      "definition": "aa6dc3dcb7b4c9f732a73eee7f9e615c",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:28:33.000Z",
+      "lastModified": "2026-09-21T20:53:32.000Z",
       "path": "tpr/auksv",
       "pipelineId": 236,
       "productConfig": {"cdnPath": "", "hash": "29482e791cd281f18d23c1a1707e6b30"},
-      "versionNumber": 28335615,
-      "versionString": "2.14.2.28335615d"
+      "versionNumber": 28787707,
+      "versionString": "2.14.2.28787707d"
     },
     {
       "armadilloKey": "",
@@ -37,19 +37,19 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "release_28335615_cod25_season5_5_signed_bnet_v2_ship",
-        "token": "52f7722e-eafd-4ddf-b914-a88061e24686"
+        "name": "release_28787707B_cod25_season6_signed_bnet_v2_ship",
+        "token": "08fca3a1-aef4-4319-8299-dd762dc2bab7"
       },
-      "buildKey": "3f0629d23c4e9bea79fe04e66d8afaa8",
-      "cdnKey": "3f59a48b63511549bd6ec75b0a3c9b0f",
-      "definition": "f83b17f0a1d62317b567d21d1560ce5e",
+      "buildKey": "5e45315d12514521dbf040ca9cb67c17",
+      "cdnKey": "bd67ab1281af76b8c0ccaf29f8e6bf88",
+      "definition": "d3d0695db17ede51cc8cc7fc98cd08f5",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:28:34.000Z",
+      "lastModified": "2026-09-21T20:53:32.000Z",
       "path": "tpr/auksv",
       "pipelineId": 236,
       "productConfig": {"cdnPath": "", "hash": "7c324042868aeb4a55cd3e3f03b85dba"},
-      "versionNumber": 28335615,
-      "versionString": "2.14.2.28335615s"
+      "versionNumber": 28787707,
+      "versionString": "2.14.2.28787707s"
     }
   ],
   "infrastructure": false,

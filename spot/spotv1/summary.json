@@ -20,15 +20,6 @@
   "product": "spot",
   "regions": [
     {
-      "branches": ["kr"],
-      "cdns": "aaa0e588f2a53291e1e59496940494da",
-      "hosts": [
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:54.000Z"
-    },
-    {
       "branches": ["us"],
       "cdns": "a82da8e8cbff09cee2eb46d7bc99cacb",
       "hosts": [
@@ -43,6 +34,15 @@
       "hosts": [
         {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
         {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-08-25T16:26:54.000Z"
+    },
+    {
+      "branches": ["kr"],
+      "cdns": "aaa0e588f2a53291e1e59496940494da",
+      "hosts": [
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=5&fallback=1"}
       ],
       "lastModified": "2026-08-25T16:26:54.000Z"
     }

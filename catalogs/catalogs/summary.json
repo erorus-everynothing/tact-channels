@@ -125,19 +125,6 @@
   "product": "catalogs",
   "regions": [
     {
-      "branches": ["kr"],
-      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:49.000Z"
-    },
-    {
       "branches": ["us"],
       "cdns": "919646d723f2fff72418101b1223ddb0",
       "hosts": [
@@ -147,6 +134,15 @@
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
       "lastModified": "2026-08-27T22:48:54.000Z"
+    },
+    {
+      "branches": ["cn"],
+      "cdns": "ffec4c7f724b685aff96c8e97d715c21",
+      "hosts": [
+        {"host": "http://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4"},
+        {"host": "https://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-25T16:26:50.000Z"
     },
     {
       "branches": ["eu"],
@@ -160,13 +156,17 @@
       "lastModified": "2026-08-27T22:48:54.000Z"
     },
     {
-      "branches": ["cn"],
-      "cdns": "ffec4c7f724b685aff96c8e97d715c21",
+      "branches": ["kr"],
+      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
       "hosts": [
-        {"host": "http://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4"},
-        {"host": "https://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
+        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
+      "lastModified": "2026-08-25T16:26:49.000Z"
     }
   ],
   "variant": "catalogs"

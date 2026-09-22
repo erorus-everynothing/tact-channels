@@ -18,17 +18,17 @@
     {
       "armadilloKey": "",
       "branches": ["kr"],
-      "build": {"name": "trunk_29018739_zul_3m_bnet_v14_dev", "token": "1e7e4c4b-91fc-49a3-ae03-969df71d1b1d"},
-      "buildKey": "11903e9b85285554d98c4de0ab8f64e8",
-      "cdnKey": "1ef55abc7cdac900bd8a635e57712385",
-      "definition": "b2fa9bbaa23c83628ff5f7bcd511231c",
+      "build": {"name": "trunk_29145433_zul_3m_bnet_v14_dev", "token": "dde91544-5297-4846-b50a-d21819ea9ef4"},
+      "buildKey": "f0a81ea3b6a6f21d0018433dcbfc2e04",
+      "cdnKey": "9ae3853cbdd545d63d94eedeeaaca27c",
+      "definition": "f04be5307528b0802a929d5533fa6b8e",
       "keyRing": "",
-      "lastModified": "2026-09-16T13:50:13.000Z",
+      "lastModified": "2026-09-22T13:50:13.000Z",
       "path": "tpr/cornv",
       "pipelineId": 376,
       "productConfig": {"cdnPath": "", "hash": "157859ad60cca2f9650a39291c1d6bfb"},
-      "versionNumber": 29018739,
-      "versionString": "0.0.0.29018739d"
+      "versionNumber": 29145433,
+      "versionString": "0.0.0.29145433d"
     },
     {
       "armadilloKey": "",

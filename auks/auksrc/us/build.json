@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
   "build": {
-    "name": "release_28787707_cod25_season6_signed_bnet_RC_ship",
-    "token": "b1ee26ba-705f-4668-8622-a4b4fc78ab4c"
+    "name": "release_28787707B_cod25_season6_signed_bnet_rc_ship",
+    "token": "42c47f58-4008-4946-a2ed-7ec04dc3c7ea"
   },
-  "buildKey": "ad0e96990133b82247720ab17ce792e5",
-  "cdnKey": "41e7160c36d30914530862630616e080",
-  "definition": "32be5f807d4c8c514e90e78d1129b68d",
+  "buildKey": "7267babb6994b832d6fadea5bb629dd5",
+  "cdnKey": "cab37140b38346b4e744e14119521c88",
+  "definition": "581344a667524cdb5097af23d881ae3a",
   "keyRing": "",
-  "lastModified": "2026-09-03T21:52:11.000Z",
+  "lastModified": "2026-09-22T21:50:53.000Z",
   "path": "tpr/aukslrc",
   "pipelineId": 392,
   "productConfig": {"cdnPath": "", "hash": "b43823a3929fdd62500b56346f2010a1"},

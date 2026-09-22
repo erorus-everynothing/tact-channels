@@ -20,21 +20,21 @@
   "product": "odin",
   "regions": [
     {
+      "branches": ["us", "eu"],
+      "cdns": "a7b639ca760b00105fdc8ae1ca28ffec",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=10"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
+      ],
+      "lastModified": "2026-08-25T16:26:51.000Z"
+    },
+    {
       "branches": ["kr"],
       "cdns": "602533be5140ed4240b30bf135ac0cfb",
       "hosts": [
         {"host": "http://level3.blizzard.com?maxhosts=4"},
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["eu", "us"],
-      "cdns": "a7b639ca760b00105fdc8ae1ca28ffec",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=10"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
       ],
       "lastModified": "2026-08-25T16:26:51.000Z"
     }

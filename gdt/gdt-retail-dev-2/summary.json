@@ -18,17 +18,17 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "gdt_client-1.0.10.0", "token": "ea2c762f-902b-48c0-a6ad-12391837825c"},
-      "buildKey": "9f1639acd1e431342108b37848fe8a16",
-      "cdnKey": "edcf3d4def29db709df80b1172423066",
-      "definition": "e3b7c1e8a1d3fdc592314b6360140a76",
-      "keyRing": "",
-      "lastModified": "2026-08-25T16:29:03.000Z",
+      "build": {"name": "test_build5", "token": "dece8f23-b237-4dfd-892b-72a1ef38f60d"},
+      "buildKey": "a7722183f307bcabace806db47241826",
+      "cdnKey": "b588b78246bf53136e0b984cdcf08879",
+      "definition": "96a1a9d50182a837984a114ca1946a5f",
+      "keyRing": "3361e83c08d51dc27eda65d61a4600f1",
+      "lastModified": "2026-09-23T15:17:02.000Z",
       "path": "tpr/gdtdev",
       "pipelineId": 364,
-      "productConfig": {"cdnPath": "", "hash": "f4df6609d533f7f4552c80461e733df1"},
-      "versionNumber": 10100,
-      "versionString": "1.0.10.0"
+      "productConfig": {"cdnPath": "", "hash": "c7585b1177c1b3e423367b729e064fe8"},
+      "versionNumber": 1,
+      "versionString": "0.0.0001"
     }
   ],
   "infrastructure": false,

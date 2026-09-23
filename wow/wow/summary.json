@@ -2,22 +2,7 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["cn", "sg", "xx"],
-      "build": {"name": "WOW-69875patch12.1.0_Retail", "token": "5dff5416-6b8c-439f-93ab-60688c0975d0"},
-      "buildKey": "9258fbe8b88a178e130b0318b6b86217",
-      "cdnKey": "5525ea1ce6668e895569c89c2d6a154c",
-      "definition": "d3a10a23c1eae02abfa16fa01021ab1c",
-      "keyRing": "3ca57fe7319a297346440e4d2a03a0cd",
-      "lastModified": "2026-09-18T19:51:19.000Z",
-      "path": "tpr/wow",
-      "pipelineId": 19,
-      "productConfig": {"cdnPath": "", "hash": "53020d32e1a25648c8e1eafd5771935f"},
-      "versionNumber": 69875,
-      "versionString": "12.1.0.69875"
-    },
-    {
-      "armadilloKey": "",
-      "branches": ["eu", "kr", "tw", "us"],
+      "branches": ["cn", "eu", "kr", "sg", "tw", "us", "xx"],
       "build": {"name": "WOW-69933patch12.1.0_Retail", "token": "95daec79-126f-4e72-bcbc-07a86c84bf41"},
       "buildKey": "dcfc90fffd79ba00406ae46f5f657592",
       "cdnKey": "918599254eee98503ef3072935479940",

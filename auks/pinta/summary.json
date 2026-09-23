@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "trunk_27531944D_cod23_sep_tu3_signed_bnet_r_ship",
-        "token": "57f665c7-8c26-42d5-9b31-c046a4be5776"
+        "name": "cod23_sep_tu4_exe_patch_01_09_v2_signed_bnet_r_ship",
+        "token": "fc7146e8-64a6-4cd2-8b2e-60e39db3fbd5"
       },
-      "buildKey": "bc0470962118bc986f9ead8d88803183",
-      "cdnKey": "9f445f05b38b5d35393d2d1669a7585d",
-      "definition": "eb902ec1fc9ceec68f953b10366a7381",
+      "buildKey": "01c3ff5bc41e26a14f3935fe2be5b057",
+      "cdnKey": "5462fb80d4e0ebc86598c90db1791e1e",
+      "definition": "3a07e7fc81aad1fca95a73851423ac80",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:26.000Z",
+      "lastModified": "2026-09-23T16:01:14.000Z",
       "path": "tpr/pinta",
       "pipelineId": 388,
       "productConfig": {"cdnPath": "", "hash": "d4c3a7626146ea92fa2a56f4f32d02a3"},
-      "versionNumber": 27531944,
-      "versionString": "2.2.0.27531944"
+      "versionNumber": 28213044,
+      "versionString": "2.2.0.28213044"
     }
   ],
   "infrastructure": false,

@@ -2,7 +2,7 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["cn", "eu", "kr", "tw"],
+      "branches": ["cn", "kr", "tw"],
       "build": {"name": "WOW-69585patch5.5.4_ClassicRetail", "token": "3c12ea9d-9223-4f59-8328-f43a55b8cc47"},
       "buildKey": "a918d337491e3ffe961373f1a48df50c",
       "cdnKey": "01b318815973b7796aa58bf6e5c9711b",
@@ -17,7 +17,7 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["us"],
+      "branches": ["eu", "us"],
       "build": {"name": "WOW-69934patch5.5.4_ClassicRetail", "token": "5a2b6a0c-289b-4590-8a26-f4d827de37b3"},
       "buildKey": "ad6184fe0582294d2e5faaf3598a3688",
       "cdnKey": "a9035bfebbe53afc0f656dd89f22df69",

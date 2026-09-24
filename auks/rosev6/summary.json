@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["eu"],
       "build": {
-        "name": "release_29121516_cod26_tu1_signed_bnet_v6_dev",
-        "token": "192f2da0-e204-4554-ba7f-fb12187087a7"
+        "name": "release_29161186_cod26_tu1_signed_bnet_v6_dev",
+        "token": "c47e0555-c092-4f1f-ab42-3a1f6a1b382e"
       },
-      "buildKey": "1a87f0f367e168fb5e2eecf92eb10a26",
-      "cdnKey": "9d9b4a601e7785a1f4ae9c05b56cc617",
-      "definition": "28adcbaeb3f050e2293f8bbc27c6bad4",
+      "buildKey": "a81038c93c2bc44bbcfdb27a9b8860bd",
+      "cdnKey": "d9dc633baa41565306dd5f7313402885",
+      "definition": "3bcb513e42823cc8d80f7697b4d4d310",
       "keyRing": "",
-      "lastModified": "2026-09-21T18:21:17.000Z",
+      "lastModified": "2026-09-24T13:13:35.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
-      "productConfig": {"cdnPath": "", "hash": "0c3b1af2587bcd51a2ff583feed875f5"},
-      "versionNumber": 29121516,
-      "versionString": "0.0.1.29121516d"
+      "productConfig": {"cdnPath": "", "hash": "2c2146d1c5340b34dc953bf8b1ba0e8b"},
+      "versionNumber": 29161186,
+      "versionString": "0.0.1.29161186d"
     },
     {
       "armadilloKey": "",
@@ -37,19 +37,19 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "release_29121516_cod26_tu1_signed_bnet_v6_ship",
-        "token": "508c47f8-9a2a-42f5-a848-95c1b7a1ee03"
+        "name": "release_29161186_cod26_tu1_signed_bnet_v6_ship",
+        "token": "c7449a86-fbed-4de3-9933-d2f644125fab"
       },
-      "buildKey": "9cb35a93ce263ec9f8948eb3b9c3076c",
-      "cdnKey": "8a3b17d527979ab9b9112c210dede92d",
-      "definition": "191d7c801595c69c88af6d4b9fa10cba",
+      "buildKey": "f9c13a6c4cb3005bab6bf810c2402007",
+      "cdnKey": "d9dc633baa41565306dd5f7313402885",
+      "definition": "b3de502ab6e04d894d6e9fc5c3235a1a",
       "keyRing": "",
-      "lastModified": "2026-09-21T18:21:17.000Z",
+      "lastModified": "2026-09-24T13:13:35.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
-      "productConfig": {"cdnPath": "", "hash": "69f885583c5ae801d2a62bd7e48257d0"},
-      "versionNumber": 29121516,
-      "versionString": "0.0.1.29121516d"
+      "productConfig": {"cdnPath": "", "hash": "1fe1ce09641417617e492154d2cf4d65"},
+      "versionNumber": 29161186,
+      "versionString": "0.0.1.29161186d"
     }
   ],
   "infrastructure": false,

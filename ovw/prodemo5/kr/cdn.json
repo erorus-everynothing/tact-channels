@@ -1,12 +1,14 @@
 {
-  "cdns": "f2f702bf5f33ea42ec912e967665ef6b",
+  "cdns": "30688aadb39751365a4b22cbfd74959b",
   "hosts": [
     {"host": "http://level3.blizzard.com?maxhosts=4"},
+    {"host": "http://blzddistkr1-a.akamaihd.net?maxhosts=4&fallback=1"},
+    {"host": "https://blzddistkr1-a.akamaihd.net?maxhosts=4&fallback=1"},
     {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
     {"host": "http://kr.cdn.blizzard.com?maxhosts=2"},
     {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
     {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"},
     {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
   ],
-  "lastModified": "2026-08-25T16:26:52.000Z"
+  "lastModified": "2026-09-22T21:01:40.000Z"
 }

@@ -33,19 +33,6 @@
       "lastModified": "2026-09-22T21:01:40.000Z"
     },
     {
-      "branches": ["tw", "us"],
-      "cdns": "757e7b7e95a90045be37e99daf9f9421",
-      "hosts": [
-        {"host": "http://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"},
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-09-22T21:01:40.000Z"
-    },
-    {
       "branches": ["kr"],
       "cdns": "30688aadb39751365a4b22cbfd74959b",
       "hosts": [
@@ -57,6 +44,19 @@
         {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-09-22T21:01:40.000Z"
+    },
+    {
+      "branches": ["tw", "us"],
+      "cdns": "757e7b7e95a90045be37e99daf9f9421",
+      "hosts": [
+        {"host": "http://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"},
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "https://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
       "lastModified": "2026-09-22T21:01:40.000Z"
     }

@@ -31,17 +31,6 @@
       "lastModified": "2026-08-25T16:26:53.000Z"
     },
     {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
       "branches": ["kr"],
       "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
       "hosts": [
@@ -53,6 +42,17 @@
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
       ],
       "lastModified": "2026-08-25T16:26:49.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-27T22:48:54.000Z"
     }
   ],
   "variant": "scor-retail-dev-1"

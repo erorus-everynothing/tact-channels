@@ -20,6 +20,15 @@
   "product": "wow",
   "regions": [
     {
+      "branches": ["cn"],
+      "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94",
+      "hosts": [
+        {"host": "http://blzdist-wow.necdn.leihuo.netease.com?maxhosts=6"},
+        {"host": "https://blzdist-wow.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-25T16:26:50.000Z"
+    },
+    {
       "branches": ["eu"],
       "cdns": "287b8918c145665428c6f714cdc6e3bd",
       "hosts": [
@@ -51,15 +60,6 @@
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
       "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["cn"],
-      "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94",
-      "hosts": [
-        {"host": "http://blzdist-wow.necdn.leihuo.netease.com?maxhosts=6"},
-        {"host": "https://blzdist-wow.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
     }
   ],
   "variant": "wownev7"

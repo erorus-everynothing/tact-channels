@@ -35,13 +35,11 @@
   "product": "fenris",
   "regions": [
     {
-      "branches": ["us"],
-      "cdns": "5262b99fc7196b32fadac2b99a0825f2",
+      "branches": ["cn"],
+      "cdns": "a8c298f28e96d5d12cc94fb166476e70",
       "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+        {"host": "http://blzdist-d4.necdn.leihuo.netease.com?maxhosts=6"},
+        {"host": "https://blzdist-d4.necdn.leihuo.netease.com?maxhosts=6&fallback=1"}
       ],
       "lastModified": "2026-08-25T16:26:52.000Z"
     },
@@ -57,15 +55,6 @@
       "lastModified": "2026-08-25T16:26:52.000Z"
     },
     {
-      "branches": ["cn"],
-      "cdns": "a8c298f28e96d5d12cc94fb166476e70",
-      "hosts": [
-        {"host": "http://blzdist-d4.necdn.leihuo.netease.com?maxhosts=6"},
-        {"host": "https://blzdist-d4.necdn.leihuo.netease.com?maxhosts=6&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:52.000Z"
-    },
-    {
       "branches": ["kr"],
       "cdns": "19345670e52b8e20d1c254ba2302fa8b",
       "hosts": [
@@ -75,6 +64,17 @@
         {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-25T16:26:52.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "5262b99fc7196b32fadac2b99a0825f2",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
       "lastModified": "2026-08-25T16:26:52.000Z"
     }

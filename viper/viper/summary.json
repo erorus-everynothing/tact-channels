@@ -20,6 +20,17 @@
   "product": "viper",
   "regions": [
     {
+      "branches": ["eu"],
+      "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-08-25T16:26:50.000Z"
+    },
+    {
       "branches": ["kr"],
       "cdns": "0fbf4a51bbd73d1cd2d447a1e1c909b9",
       "hosts": [
@@ -29,17 +40,6 @@
         {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=5"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
       "lastModified": "2026-08-25T16:26:50.000Z"
     },

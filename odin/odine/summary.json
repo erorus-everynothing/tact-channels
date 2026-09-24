@@ -20,7 +20,7 @@
   "product": "odin",
   "regions": [
     {
-      "branches": ["us", "eu"],
+      "branches": ["eu", "us"],
       "cdns": "a7b639ca760b00105fdc8ae1ca28ffec",
       "hosts": [
         {"host": "http://level3.blizzard.com?maxhosts=10"},

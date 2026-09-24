@@ -2,7 +2,7 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["eu", "kr", "us"],
+      "branches": ["cn", "eu", "kr", "us"],
       "build": {"name": "prometheus-2_24_1_1-153619-prodemo4", "token": "cf3519e0-2328-440e-96ab-469f05dede65"},
       "buildKey": "eeb68fd3c85f3523055f76db99cc03cf",
       "cdnKey": "abd67d403ab1da68c5caac5f8e44b294",

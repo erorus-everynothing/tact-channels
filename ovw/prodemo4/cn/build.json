@@ -1,0 +1,14 @@
+{
+  "armadilloKey": "",
+  "build": {"name": "prometheus-2_24_1_1-153619-prodemo4", "token": "cf3519e0-2328-440e-96ab-469f05dede65"},
+  "buildKey": "eeb68fd3c85f3523055f76db99cc03cf",
+  "cdnKey": "abd67d403ab1da68c5caac5f8e44b294",
+  "definition": "5eca11bb6f0d4d506ed3f1946698279b",
+  "keyRing": "",
+  "lastModified": "2026-09-24T16:41:44.000Z",
+  "path": "tpr/proe/3",
+  "pipelineId": 300,
+  "productConfig": {"cdnPath": "", "hash": ""},
+  "versionNumber": 1,
+  "versionString": "1"
+}

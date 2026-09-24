@@ -8,10 +8,130 @@
       "cdnKey": "4b240d6dc6e2f65689684325bebe4058",
       "definition": "666201b7b8ca08f0d67306075d695159",
       "keyRing": "",
-      "lastModified": "2026-09-09T12:14:52.000Z",
+      "lastModified": "2026-09-22T16:31:36.000Z",
       "path": "tpr/prov3/2",
       "pipelineId": 299,
-      "productConfig": {"cdnPath": "", "hash": "d15e5a07bee5d25317cc8685a890cf76"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "data_dir": "data/casc/",
+              "decryption_key_name": "prometheus_vendor_bvid_1",
+              "form": {"eula": {"eula": false}, "game_dir": {"dirname": "Overwatch"}},
+              "launch_arguments": [],
+              "launcher_install_info": {
+                "bootstrapper_branch": "launcher",
+                "bootstrapper_migration_version": "1.16.1.0",
+                "bootstrapper_product": "bts",
+                "product_tag": "ow"
+              },
+              "product": "probv3",
+              "shared_container_default_subfolder": "_bvid03_",
+              "supported_locales": [
+                "enUS",
+                "esES",
+                "esMX",
+                "itIT",
+                "ruRU",
+                "plPL",
+                "frFR",
+                "deDE",
+                "ptBR",
+                "trTR",
+                "jaJP",
+                "koKR",
+                "thTH",
+                "zhTW",
+                "zhCN"
+              ],
+              "supports_multibox": false,
+              "supports_offline": false,
+              "title_info": {"title_id": "pro"},
+              "update_method": "ngdp"
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "binaries": {
+                  "game": {
+                    "launch_arguments": [
+                      "--BNetServer=us.actual.battle.net:1119",
+                      "--cluster=probv3",
+                      "--tank_Locale=enUS",
+                      "--tank_Environment=ext",
+                      "--tank_DisableDevData=1"
+                    ],
+                    "relative_path": "Overwatch_r.exe",
+                    "switcher": false
+                  }
+                },
+                "form": {
+                  "game_dir": {
+                    "default": "Program Files",
+                    "required_space": 14000000000,
+                    "space_per_extra_language": 415000000
+                  }
+                },
+                "min_spec": {
+                  "default_required_cpu_cores": 2,
+                  "default_required_ram": 2048,
+                  "default_requires_64_bit": true,
+                  "required_osspecs": {"6.1": {"required_subversion": 0}}
+                },
+                "shared_container_delete_list": [],
+                "shared_container_move_list": [],
+                "shortcut_target_path": "Overwatch Launcher.exe",
+                "tags": ["TPWin", "SPWin", "DevReg", "EExt"],
+                "uninstall": [
+                  {"delete_folder": {"relative_paths": ["data"], "root": "%titlepath%"}},
+                  {
+                    "delete_folder": {
+                      "relative_paths": [
+                        "D3D12",
+                        "BlizzardBrowser",
+                        "ErrorReporting",
+                        "Manifest",
+                        "cache",
+                        "WebBrowserProxy"
+                      ],
+                      "root": "%game%"
+                    }
+                  },
+                  {"delete_file": {"relative_paths": ["Overwatch Launcher.exe"], "root": "%titlepath%"}},
+                  {
+                    "delete_file": {
+                      "relative_paths": [
+                        ".build.db",
+                        "bink2w64.dll",
+                        "ca-bundle.crt",
+                        "GameClientApp.exe",
+                        "libxess.dll",
+                        "NeacInterface.dll",
+                        "NeacLoader.exe",
+                        "NeacSafe64.sys",
+                        "nvngx_dlss.dll",
+                        "OWNeacClient.exe",
+                        "ortp_x64.dll",
+                        "Overwatch_r.exe",
+                        "Overwatch.exe",
+                        "Overwatch Launcher.exe",
+                        "Overwatch_loader.dll",
+                        "vivoxsdk.dll",
+                        "vivoxsdk_x64.dll"
+                      ],
+                      "root": "%game%"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "hash": "d15e5a07bee5d25317cc8685a890cf76",
+        "lastModified": "2026-09-22T16:31:36.000Z"
+      },
       "versionNumber": 153571,
       "versionString": "2.24.1.0.153571"
     }

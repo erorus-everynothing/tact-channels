@@ -5,10 +5,79 @@
   "cdnKey": "6c0afc5096c403a77d3aaf08254189e4",
   "definition": "bf6f25dd0e8ccf38fe040f444d59b547",
   "keyRing": "",
-  "lastModified": "2026-09-02T16:59:51.000Z",
+  "lastModified": "2026-09-22T16:31:15.000Z",
   "path": "tpr/gryphondev",
   "pipelineId": 241,
-  "productConfig": {"cdnPath": "", "hash": "fd7d48825d9d3056739bb3591ed18e96"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "data_dir": "Data/",
+          "decryption_key_name": "gryphondev",
+          "form": {"game_dir": {"dirname": "Gryphon Dev"}},
+          "product": "gryphondev",
+          "supported_locales": ["enUS"],
+          "supports_multibox": false,
+          "supports_offline": false,
+          "title_info": {"title_id": "gryphon"},
+          "update_method": "ngdp"
+        }
+      },
+      "enus": {
+        "config": {
+          "install": [
+            {
+              "add_remove_programs_key": {
+                "display_name": "Gryphon Dev",
+                "icon_path": "%binarypath%",
+                "install_path": "%installpath%",
+                "locale": "%locale%",
+                "root": "Gryphon Dev",
+                "uid": "%uid%",
+                "uninstall_path": "%uninstallpath%"
+              }
+            }
+          ]
+        }
+      },
+      "platform": {
+        "win": {
+          "config": {
+            "binaries": {"game": {"launch_arguments": [], "relative_path": "WarcraftRumble.exe", "switcher": false}},
+            "binary_launch_path": "WarcraftRumble.exe",
+            "binary_version_path": "WarcraftRumble.exe",
+            "form": {"game_dir": {"default": "Program Files", "required_space": 6000000000}},
+            "min_spec": {"required_osspecs": {"10.0": {"required_subversion": 0}}},
+            "tags": ["Win64", "requiredContentStateIgnored"],
+            "uninstall": [
+              {
+                "delete_registry_key_list": {
+                  "flags": "WOW_BOTH",
+                  "key_type": "HKEY_LOCAL_MACHINE",
+                  "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                  "subkeys": ["Gryphon Dev"]
+                }
+              },
+              {
+                "delete_registry_key_list": {
+                  "flags": "WOW_BOTH",
+                  "key_type": "HKEY_CURRENT_USER",
+                  "root": "SOFTWARE\\Blizzard Entertainment",
+                  "subkeys": ["Gryphon Dev"]
+                }
+              },
+              {"delete_folder": {"relative_paths": ["Data"], "root": "%titlepath%"}},
+              {"delete_folder": {"relative_paths": [], "root": "%game%"}},
+              {"delete_file": {"relative_paths": ["WarcraftRumble.exe"], "root": "%game%"}}
+            ]
+          }
+        }
+      }
+    },
+    "hash": "fd7d48825d9d3056739bb3591ed18e96",
+    "lastModified": "2026-09-22T16:31:15.000Z"
+  },
   "versionNumber": 119629,
   "versionString": "16.1.1.119629"
 }

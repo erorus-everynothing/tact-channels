@@ -11,10 +11,49 @@
       "cdnKey": "73a6d93fb787f9b8439ecd6122084b6e",
       "definition": "769faf601633a1f1692189db01f048b2",
       "keyRing": "",
-      "lastModified": "2026-09-16T22:31:28.000Z",
+      "lastModified": "2026-09-22T16:31:44.000Z",
       "path": "tpr/auksdev/5",
       "pipelineId": 235,
-      "productConfig": {"cdnPath": "", "hash": "f8576ddd701c9efed1e1f2e84a1b49eb"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "data_dir": "data",
+              "decryption_key_name": "cortez_live_dev_4",
+              "product": "randgridaukslivedev",
+              "update_method": "ngdp",
+              "use_service_permissions": true,
+              "version_uses_hash_validation": true
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "install": [
+                  {
+                    "create_service": {
+                      "binary_path": "%game%/randgrid.sys",
+                      "display_name": "atvi-randgrid_live_dev",
+                      "service_name": "atvi-randgrid_live_dev",
+                      "service_type": "kernelDriver",
+                      "start_type": "onDemand"
+                    }
+                  }
+                ],
+                "tags": [],
+                "uninstall": [
+                  {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+                  {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+                  {"delete_service": {"service_name": "atvi-randgrid_live_dev"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "f8576ddd701c9efed1e1f2e84a1b49eb",
+        "lastModified": "2026-09-22T16:31:44.000Z"
+      },
       "versionNumber": 28696817,
       "versionString": "1.0.1.28696816"
     }

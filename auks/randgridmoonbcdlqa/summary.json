@@ -8,10 +8,49 @@
       "cdnKey": "99704b2bebe13f295e39920b10ca6070",
       "definition": "b97a56a4fc0d73035dac91ffd901a02c",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:40.000Z",
+      "lastModified": "2026-09-22T16:31:48.000Z",
       "path": "moon/moonvb",
       "pipelineId": 290,
-      "productConfig": {"cdnPath": "", "hash": "16078ee7d810a86bbb681a322130803d"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "data_dir": "data",
+              "decryption_key_name": "moonvendorb",
+              "product": "randgridmoonbcdlqa",
+              "update_method": "ngdp",
+              "use_service_permissions": true,
+              "version_uses_hash_validation": true
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "install": [
+                  {
+                    "create_service": {
+                      "binary_path": "%game%/randgrid.sys",
+                      "display_name": "atvi-randgrid_cdldev",
+                      "service_name": "atvi-randgrid_cdldev",
+                      "service_type": "kernelDriver",
+                      "start_type": "onDemand"
+                    }
+                  }
+                ],
+                "tags": [],
+                "uninstall": [
+                  {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+                  {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+                  {"delete_service": {"service_name": "atvi-randgrid_cdldev"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "16078ee7d810a86bbb681a322130803d",
+        "lastModified": "2026-09-22T16:31:48.000Z"
+      },
       "versionNumber": 14453783,
       "versionString": "0.0.0.14453783d"
     }

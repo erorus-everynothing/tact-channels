@@ -5,10 +5,48 @@
   "cdnKey": "939e50be8d39c6b2423a272d4ee71afd",
   "definition": "411a5d703747b92cf58bf07eaa475284",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:39.000Z",
+  "lastModified": "2026-09-22T16:30:50.000Z",
   "path": "tpr/odin",
   "pipelineId": 193,
-  "productConfig": {"cdnPath": "", "hash": "4ffedb2bf7792ae775076b838dcfa8e4"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "data_dir": "data",
+          "product": "brynhildr_odin",
+          "update_method": "ngdp",
+          "use_service_permissions": true,
+          "version_uses_hash_validation": true
+        }
+      },
+      "platform": {
+        "win": {
+          "config": {
+            "install": [
+              {
+                "create_service": {
+                  "binary_path": "%game%/brynhildr.sys",
+                  "display_name": "atvi-brynhildr",
+                  "service_name": "atvi-brynhildr",
+                  "service_type": "kernelDriver",
+                  "start_type": "onDemand"
+                }
+              }
+            ],
+            "tags": [],
+            "uninstall": [
+              {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+              {"delete_file": {"relative_paths": ["brynhildr.sys"], "root": "%game%"}},
+              {"delete_service": {"service_name": "atvi-brynhildr"}}
+            ]
+          }
+        }
+      }
+    },
+    "hash": "4ffedb2bf7792ae775076b838dcfa8e4",
+    "lastModified": "2026-09-22T16:30:50.000Z"
+  },
   "versionNumber": 22330203,
   "versionString": "1.68.0.22330203"
 }

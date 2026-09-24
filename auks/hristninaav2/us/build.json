@@ -5,10 +5,49 @@
   "cdnKey": "745af699cf44284bf64fdefc3b5223c3",
   "definition": "f0bace8b3198bf03545540d632843afc",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:08.000Z",
+  "lastModified": "2026-09-22T16:31:17.000Z",
   "path": "tpr/ninav",
   "pipelineId": 372,
-  "productConfig": {"cdnPath": "", "hash": "cd2192f18eec06a0e0e70cb68d18e7c5"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "data_dir": "data",
+          "decryption_key_name": "ninavendor",
+          "product": "hristninaav2",
+          "update_method": "ngdp",
+          "use_service_permissions": true,
+          "version_uses_hash_validation": true
+        }
+      },
+      "platform": {
+        "win": {
+          "config": {
+            "install": [
+              {
+                "create_service": {
+                  "binary_path": "%game%/randgrid.sys",
+                  "display_name": "atvi-hrist",
+                  "service_name": "atvi-hrist",
+                  "service_type": "kernelDriver",
+                  "start_type": "onDemand"
+                }
+              }
+            ],
+            "tags": [],
+            "uninstall": [
+              {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+              {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+              {"delete_service": {"service_name": "atvi-hrist"}}
+            ]
+          }
+        }
+      }
+    },
+    "hash": "cd2192f18eec06a0e0e70cb68d18e7c5",
+    "lastModified": "2026-09-22T16:31:17.000Z"
+  },
   "versionNumber": 23137177,
   "versionString": "1.0.3.23137177s"
 }

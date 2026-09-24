@@ -8,10 +8,49 @@
       "cdnKey": "41dbf3a93b700396289c76bcc3f2adad",
       "definition": "d5522168e51bf872eef411958dd029ad",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:05.000Z",
+      "lastModified": "2026-09-22T16:31:14.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
-      "productConfig": {"cdnPath": "", "hash": "000e95d7f65abcc4b835950951295d99"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "data_dir": "data",
+              "decryption_key_name": "forevendor",
+              "product": "geirdrifulforecdlv",
+              "update_method": "ngdp",
+              "use_service_permissions": true,
+              "version_uses_hash_validation": true
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "install": [
+                  {
+                    "create_service": {
+                      "binary_path": "%game%/geirdriful.sys",
+                      "display_name": "atvi-geirdriful_cdl",
+                      "service_name": "atvi-geirdriful_cdl",
+                      "service_type": "kernelDriver",
+                      "start_type": "onDemand"
+                    }
+                  }
+                ],
+                "tags": [],
+                "uninstall": [
+                  {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+                  {"delete_file": {"relative_paths": ["geirdriful.sys"], "root": "%game%"}},
+                  {"delete_service": {"service_name": "atvi-geirdriful_cdl"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "000e95d7f65abcc4b835950951295d99",
+        "lastModified": "2026-09-22T16:31:14.000Z"
+      },
       "versionNumber": 11331607,
       "versionString": "0.0.0.11331607vs"
     }

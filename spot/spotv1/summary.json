@@ -8,10 +8,107 @@
       "cdnKey": "96823cca01c039a514e4764a822bb7c0",
       "definition": "2c8ba40e73359410ea9749d72dac01e9",
       "keyRing": "552fbc6925947ddefc2ccd02fccfd0d2",
-      "lastModified": "2026-08-27T16:11:23.000Z",
+      "lastModified": "2026-09-22T16:32:14.000Z",
       "path": "tpr/spotdev",
       "pipelineId": 257,
-      "productConfig": {"cdnPath": "", "hash": "26cc723f041c63f85b08e2530ae1f971"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "casc_supports_1023_archives": true,
+              "data_dir": "Data/",
+              "decryption_key_name": "spotvendor1",
+              "enable_block_copy_patch": true,
+              "form": {"game_dir": {"dirname": "Spot Vendor"}},
+              "product": "spotv1",
+              "shared_container_default_subfolder": "_vendor01_",
+              "supported_locales": [
+                "enUS",
+                "frFR",
+                "deDE",
+                "itIT",
+                "esES",
+                "koKR",
+                "ptBR",
+                "esMX",
+                "zhTW",
+                "arSA",
+                "jaJP",
+                "plPL",
+                "ruRU"
+              ],
+              "supports_multibox": false,
+              "supports_offline": false,
+              "switcher": false,
+              "title_info": {"title_id": "spot"},
+              "update_method": "ngdp"
+            }
+          },
+          "enus": {
+            "config": {
+              "install": [
+                {
+                  "add_remove_programs_key": {
+                    "display_name": "Spot Vendor 1",
+                    "icon_path": "%binarypath%",
+                    "install_path": "%installpath%",
+                    "locale": "%locale%",
+                    "root": "Spot Vendor 1",
+                    "uid": "%uid%",
+                    "uninstall_path": "%uninstallpath%"
+                  }
+                }
+              ]
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "binaries": {
+                  "game": {
+                    "launch_arguments": [],
+                    "regex": "launcher.exe",
+                    "relative_path": "launcher.exe",
+                    "switcher": false
+                  }
+                },
+                "binary_version_path": "launcher.exe",
+                "form": {"game_dir": {"default": "Program Files", "required_space": 6000000000}},
+                "min_spec": {
+                  "allow_arm_emulation": false,
+                  "default_requires_64_bit": true,
+                  "required_osspecs": {"10.0": {"required_subversion": 0}}
+                },
+                "tags": [],
+                "uninstall": [
+                  {
+                    "delete_registry_key_list": {
+                      "flags": "WOW_BOTH",
+                      "key_type": "HKEY_LOCAL_MACHINE",
+                      "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                      "subkeys": ["Spot Vendor 1"]
+                    }
+                  },
+                  {
+                    "delete_registry_key_list": {
+                      "flags": "WOW_BOTH",
+                      "key_type": "HKEY_CURRENT_USER",
+                      "root": "SOFTWARE\\Blizzard Entertainment",
+                      "subkeys": ["Spot Vendor 1"]
+                    }
+                  },
+                  {"delete_folder": {"relative_paths": ["Data"], "root": "%titlepath%"}},
+                  {"delete_folder": {"relative_paths": ["BlizzardBrowser"], "root": "%game%"}},
+                  {"delete_file": {"relative_paths": ["launcher.exe"], "root": "%game%"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "26cc723f041c63f85b08e2530ae1f971",
+        "lastModified": "2026-09-22T16:32:14.000Z"
+      },
       "versionNumber": 1,
       "versionString": "0.0.0001"
     }

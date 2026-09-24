@@ -11,7 +11,108 @@
       "lastModified": "2026-09-23T18:13:25.000Z",
       "path": "tpr/proc3",
       "pipelineId": 165,
-      "productConfig": {"cdnPath": "", "hash": "95d3d8e023219a51859bce50bdc4c28e"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "data_dir": "data/casc/",
+              "decryption_key_name": "prodev6",
+              "display_locales": [
+                "enUS",
+                "esES",
+                "esMX",
+                "itIT",
+                "ruRU",
+                "plPL",
+                "frFR",
+                "deDE",
+                "ptBR",
+                "jaJP",
+                "koKR",
+                "zhTW",
+                "zhCN"
+              ],
+              "form": {"eula": {"eula": false}, "game_dir": {"dirname": "Overwatch"}},
+              "launch_arguments": [],
+              "launcher_install_info": {
+                "bootstrapper_branch": "launcher",
+                "bootstrapper_migration_version": "1.16.1.0",
+                "bootstrapper_product": "bts",
+                "product_tag": "ow"
+              },
+              "product": "prodev6",
+              "shared_container_default_subfolder": "_dev6_",
+              "supported_locales": [
+                "enUS",
+                "esES",
+                "esMX",
+                "itIT",
+                "ruRU",
+                "plPL",
+                "frFR",
+                "deDE",
+                "ptBR",
+                "jaJP",
+                "koKR",
+                "zhTW",
+                "zhCN"
+              ],
+              "supports_multibox": false,
+              "supports_offline": false,
+              "title_info": {"title_id": "pro"},
+              "update_method": "ngdp"
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "binaries": {
+                  "game": {
+                    "launch_arguments": [
+                      "--BNetServer=us.actual.battle.net:1119",
+                      "--cluster=ProDev6",
+                      "--tank_AlwaysMegadump"
+                    ],
+                    "relative_path": "Overwatch.exe",
+                    "switcher": false
+                  }
+                },
+                "form": {
+                  "game_dir": {
+                    "default": "Program Files",
+                    "required_space": 14000000000,
+                    "space_per_extra_language": 415000000
+                  }
+                },
+                "min_spec": {
+                  "default_required_cpu_cores": 2,
+                  "default_required_ram": 2048,
+                  "default_requires_64_bit": true,
+                  "required_osspecs": {"6.1": {"required_subversion": 0}}
+                },
+                "shared_container_delete_list": [],
+                "shared_container_move_list": [],
+                "shortcut_target_path": "Overwatch Launcher.exe",
+                "tags": ["TPWin", "SPWin", "DevReg", "EExt"],
+                "uninstall": [
+                  {"delete_folder": {"relative_paths": ["data"], "root": "%titlepath%"}},
+                  {
+                    "delete_folder": {
+                      "relative_paths": ["BlizzardBrowser", "ErrorReporting", "Manifest", "cache", "WebBrowserProxy"],
+                      "root": "%game%"
+                    }
+                  },
+                  {"delete_file": {"relative_paths": ["Overwatch Launcher.exe"], "root": "%titlepath%"}},
+                  {"delete_file": {"relative_paths": ["Overwatch.exe", "Overwatch Launcher.exe"], "root": "%game%"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "95d3d8e023219a51859bce50bdc4c28e",
+        "lastModified": "2026-09-22T16:31:39.000Z"
+      },
       "versionNumber": 154018,
       "versionString": "2.25.1.0.154018"
     }

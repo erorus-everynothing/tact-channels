@@ -11,10 +11,48 @@
       "cdnKey": "2cb8cf91e37f8e8ffaa4af3f26d175eb",
       "definition": "1051a70ccf8c38131febe25ac890994b",
       "keyRing": "",
-      "lastModified": "2026-09-17T16:01:53.000Z",
+      "lastModified": "2026-09-22T16:31:43.000Z",
       "path": "tpr/auks",
       "pipelineId": 234,
-      "productConfig": {"cdnPath": "", "hash": "5e5f3ef37942617dd2f9d19023a0d5d4"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "data_dir": "data",
+              "product": "randgridauks",
+              "update_method": "ngdp",
+              "use_service_permissions": true,
+              "version_uses_hash_validation": true
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "install": [
+                  {
+                    "create_service": {
+                      "binary_path": "%game%/randgrid.sys",
+                      "display_name": "atvi-randgrid",
+                      "service_name": "atvi-randgrid",
+                      "service_type": "kernelDriver",
+                      "start_type": "onDemand"
+                    }
+                  }
+                ],
+                "tags": [],
+                "uninstall": [
+                  {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+                  {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+                  {"delete_service": {"service_name": "atvi-randgrid"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "5e5f3ef37942617dd2f9d19023a0d5d4",
+        "lastModified": "2026-09-22T16:31:43.000Z"
+      },
       "versionNumber": 28696816,
       "versionString": "3.10.0.28696816"
     }

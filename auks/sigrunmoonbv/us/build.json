@@ -5,10 +5,49 @@
   "cdnKey": "eb565d7918ab7ae2e1c93f0b78819f80",
   "definition": "6c0721036cddacd313ab67aa26f0c5b8",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:30:06.000Z",
+  "lastModified": "2026-09-22T16:32:12.000Z",
   "path": "moon/moonvb",
   "pipelineId": 290,
-  "productConfig": {"cdnPath": "", "hash": "706285410effc3332e43e51ee2a3e380"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "data_dir": "data",
+          "decryption_key_name": "moonvendorb",
+          "product": "sigrunmoonbv",
+          "update_method": "ngdp",
+          "use_service_permissions": true,
+          "version_uses_hash_validation": true
+        }
+      },
+      "platform": {
+        "win": {
+          "config": {
+            "install": [
+              {
+                "create_service": {
+                  "binary_path": "%game%/randgrid.sys",
+                  "display_name": "atvi-sigrun",
+                  "service_name": "atvi-sigrun",
+                  "service_type": "kernelDriver",
+                  "start_type": "onDemand"
+                }
+              }
+            ],
+            "tags": [],
+            "uninstall": [
+              {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+              {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+              {"delete_service": {"service_name": "atvi-sigrun"}}
+            ]
+          }
+        }
+      }
+    },
+    "hash": "706285410effc3332e43e51ee2a3e380",
+    "lastModified": "2026-09-22T16:32:12.000Z"
+  },
   "versionNumber": 23137177,
   "versionString": "0.0.0.23137177s"
 }

@@ -5,10 +5,114 @@
   "cdnKey": "ae26e42668e87534ab558885cbed41a1",
   "definition": "5c6be476798c14e64712b5b925f32621",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:57.000Z",
+  "lastModified": "2026-09-22T16:32:03.000Z",
   "path": "tpr/sagev",
   "pipelineId": 304,
-  "productConfig": {"cdnPath": "", "hash": "788b19ea9dcfa817ebc49934c16964c7"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "casc_supports_1023_archives": true,
+          "component_dependencies": ["randgridsageaqa"],
+          "data_dir": "Data/",
+          "decryption_key_name": "sagevendor",
+          "enable_block_copy_patch": true,
+          "form": {"game_dir": {"dirname": "Sage Vendor"}},
+          "product": "sagev12",
+          "shared_container_default_subfolder": "_vendor12_",
+          "supported_locales": [
+            "deDE",
+            "enUS",
+            "esMX",
+            "esES",
+            "frFR",
+            "itIT",
+            "jaJP",
+            "plPL",
+            "ptBR",
+            "ruRU",
+            "thTH",
+            "koKR",
+            "zhTW",
+            "zhCN",
+            "arSA"
+          ],
+          "supports_multibox": false,
+          "supports_offline": false,
+          "switcher": false,
+          "title_info": {"title_id": "sage"},
+          "update_method": "ngdp"
+        }
+      },
+      "enus": {
+        "config": {
+          "install": [
+            {
+              "add_remove_programs_key": {
+                "display_name": "Sage Vendor 12",
+                "helplink": "http://us.blizzard.com/support/",
+                "icon_path": "%binarypath%",
+                "install_path": "%installpath%",
+                "locale": "%locale%",
+                "root": "Sage Vendor 12",
+                "uid": "%uid%",
+                "uninstall_path": "%uninstallpath%"
+              }
+            }
+          ]
+        }
+      },
+      "platform": {
+        "win": {
+          "config": {
+            "binaries": {
+              "game": {
+                "launch_arguments": ["cod.exe"],
+                "regex": "cod.exe|bootstrapper.exe",
+                "relative_path": "bootstrapper.exe",
+                "switcher": false
+              }
+            },
+            "binary_launch_path": "bootstrapper.exe",
+            "binary_version_path": "cod.exe",
+            "form": {"game_dir": {"default": "Program Files", "required_space": 6000000000}},
+            "min_spec": {
+              "allow_arm_emulation": false,
+              "default_requires_64_bit": true,
+              "required_osspecs": {"10.0": {"required_subversion": 0}}
+            },
+            "shared_container_delete_list": [],
+            "shared_container_move_list": [],
+            "tags": [],
+            "uninstall": [
+              {
+                "delete_registry_key_list": {
+                  "flags": "WOW_BOTH",
+                  "key_type": "HKEY_LOCAL_MACHINE",
+                  "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                  "subkeys": ["Sage Vendor 12"]
+                }
+              },
+              {
+                "delete_registry_key_list": {
+                  "flags": "WOW_BOTH",
+                  "key_type": "HKEY_CURRENT_USER",
+                  "root": "SOFTWARE\\Blizzard Entertainment",
+                  "subkeys": ["Sage Vendor 12"]
+                }
+              },
+              {"delete_folder": {"relative_paths": ["Data"], "root": "%titlepath%"}},
+              {"delete_folder": {"relative_paths": ["BlizzardBrowser"], "root": "%game%"}},
+              {"delete_file": {"relative_paths": ["launcher.exe"], "root": "%game%"}}
+            ]
+          }
+        }
+      }
+    },
+    "hash": "788b19ea9dcfa817ebc49934c16964c7",
+    "lastModified": "2026-09-22T16:32:02.000Z"
+  },
   "versionNumber": 23181994,
   "versionString": "0.0.0.23181994d"
 }

@@ -8,10 +8,49 @@
   "cdnKey": "7cb3fdbf76083c3862c2a4860a21a0d3",
   "definition": "6f74f6cd2bd25bb014e72d49d6ea1f81",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:06.000Z",
+  "lastModified": "2026-09-22T16:31:16.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
-  "productConfig": {"cdnPath": "", "hash": "e51d1b4a56571e60b29d8fc64edcf039"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "data_dir": "data",
+          "decryption_key_name": "btlrvendor",
+          "product": "herjabtlrv",
+          "update_method": "ngdp",
+          "use_service_permissions": true,
+          "version_uses_hash_validation": true
+        }
+      },
+      "platform": {
+        "win": {
+          "config": {
+            "install": [
+              {
+                "create_service": {
+                  "binary_path": "%game%/herja.sys",
+                  "display_name": "atvi-herja",
+                  "service_name": "atvi-herja",
+                  "service_type": "kernelDriver",
+                  "start_type": "onDemand"
+                }
+              }
+            ],
+            "tags": [],
+            "uninstall": [
+              {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+              {"delete_file": {"relative_paths": ["herja.sys"], "root": "%game%"}},
+              {"delete_service": {"service_name": "atvi-herja"}}
+            ]
+          }
+        }
+      }
+    },
+    "hash": "e51d1b4a56571e60b29d8fc64edcf039",
+    "lastModified": "2026-09-22T16:31:16.000Z"
+  },
   "versionNumber": 26405199,
   "versionString": "0.0.0.26405199s"
 }

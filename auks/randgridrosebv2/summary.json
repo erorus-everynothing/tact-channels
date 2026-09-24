@@ -11,10 +11,49 @@
       "cdnKey": "fc055c4ae67e58f72aa11b61f49b4460",
       "definition": "9275e790b2f5044939451c7ac19ea494",
       "keyRing": "",
-      "lastModified": "2026-08-29T00:22:04.000Z",
+      "lastModified": "2026-09-22T16:31:50.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
-      "productConfig": {"cdnPath": "", "hash": "6faf0ab219a60e6dbc96a746f527a265"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "data_dir": "data",
+              "decryption_key_name": "rosevendorb",
+              "product": "randgridrosebv2",
+              "update_method": "ngdp",
+              "use_service_permissions": true,
+              "version_uses_hash_validation": true
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "install": [
+                  {
+                    "create_service": {
+                      "binary_path": "%game%/randgrid.sys",
+                      "display_name": "atvi-randgrid",
+                      "service_name": "atvi-randgrid",
+                      "service_type": "kernelDriver",
+                      "start_type": "onDemand"
+                    }
+                  }
+                ],
+                "tags": [],
+                "uninstall": [
+                  {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+                  {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+                  {"delete_service": {"service_name": "atvi-randgrid"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "6faf0ab219a60e6dbc96a746f527a265",
+        "lastModified": "2026-09-22T16:31:50.000Z"
+      },
       "versionNumber": 28696816,
       "versionString": "1.0.0.28696816d"
     }

@@ -8,10 +8,49 @@
   "cdnKey": "1a99cb7f66c65eb77a6d69a87591f2fe",
   "definition": "9fb0cda66766fce7d2cb58cd61e653ce",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:30:08.000Z",
+  "lastModified": "2026-09-22T16:32:13.000Z",
   "path": "tpr/rosevb",
   "pipelineId": 356,
-  "productConfig": {"cdnPath": "", "hash": "3c55fa45f5b3be1c9cd3ffe2c3fbe9fb"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "data_dir": "data",
+          "decryption_key_name": "rosevendorb",
+          "product": "skuld_rose_b_dev2",
+          "update_method": "ngdp",
+          "use_service_permissions": true,
+          "version_uses_hash_validation": true
+        }
+      },
+      "platform": {
+        "win": {
+          "config": {
+            "install": [
+              {
+                "create_service": {
+                  "binary_path": "%game%/skuld.sys",
+                  "display_name": "atvi-skuld_dev",
+                  "service_name": "atvi-skuld_dev",
+                  "service_type": "kernelDriver",
+                  "start_type": "onDemand"
+                }
+              }
+            ],
+            "tags": [],
+            "uninstall": [
+              {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+              {"delete_file": {"relative_paths": ["skuld.sys"], "root": "%game%"}},
+              {"delete_service": {"service_name": "atvi-skuld_dev"}}
+            ]
+          }
+        }
+      }
+    },
+    "hash": "3c55fa45f5b3be1c9cd3ffe2c3fbe9fb",
+    "lastModified": "2026-09-22T16:32:13.000Z"
+  },
   "versionNumber": 28347379,
   "versionString": "0.0.0.28347379d"
 }

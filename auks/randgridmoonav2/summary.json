@@ -8,10 +8,49 @@
       "cdnKey": "768d7f5a30c06cdf4a154f76e8ac8fbd",
       "definition": "11bf210137785fbed2c3808a1f71a231",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:40.000Z",
+      "lastModified": "2026-09-22T16:31:48.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
-      "productConfig": {"cdnPath": "", "hash": "d33f6d21ed8b1c93da821dfc06f60f5a"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "data_dir": "data",
+              "decryption_key_name": "moonvendor",
+              "product": "randgridmoonav2",
+              "update_method": "ngdp",
+              "use_service_permissions": true,
+              "version_uses_hash_validation": true
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "install": [
+                  {
+                    "create_service": {
+                      "binary_path": "%game%/randgrid.sys",
+                      "display_name": "atvi-randgrid",
+                      "service_name": "atvi-randgrid",
+                      "service_type": "kernelDriver",
+                      "start_type": "onDemand"
+                    }
+                  }
+                ],
+                "tags": [],
+                "uninstall": [
+                  {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+                  {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+                  {"delete_service": {"service_name": "atvi-randgrid"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "d33f6d21ed8b1c93da821dfc06f60f5a",
+        "lastModified": "2026-09-22T16:31:48.000Z"
+      },
       "versionNumber": 18799432,
       "versionString": "0.0.1.18799431s"
     }

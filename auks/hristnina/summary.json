@@ -8,10 +8,48 @@
       "cdnKey": "baefdede2c436bedda91ac2ff69073e0",
       "definition": "04d38ebf3ff0c55b4e8e26c32e074bab",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:08.000Z",
+      "lastModified": "2026-09-22T16:31:16.000Z",
       "path": "tpr/nina",
       "pipelineId": 387,
-      "productConfig": {"cdnPath": "", "hash": "1e66ed3be532801d1e9c2a9496a26a5b"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "data_dir": "data",
+              "product": "hristnina",
+              "update_method": "ngdp",
+              "use_service_permissions": true,
+              "version_uses_hash_validation": true
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "install": [
+                  {
+                    "create_service": {
+                      "binary_path": "%game%/randgrid.sys",
+                      "display_name": "atvi-hrist",
+                      "service_name": "atvi-hrist",
+                      "service_type": "kernelDriver",
+                      "start_type": "onDemand"
+                    }
+                  }
+                ],
+                "tags": [],
+                "uninstall": [
+                  {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+                  {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+                  {"delete_service": {"service_name": "atvi-hrist"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "1e66ed3be532801d1e9c2a9496a26a5b",
+        "lastModified": "2026-09-22T16:31:16.000Z"
+      },
       "versionNumber": 23130977,
       "versionString": "2.0.0.23130977"
     }

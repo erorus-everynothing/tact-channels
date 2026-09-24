@@ -5,10 +5,50 @@
   "cdnKey": "3b004d7e33b53ea52a485c64cf169314",
   "definition": "4dc9bf5a4b7a42c1dc5aebcc76a95892",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:20.000Z",
+  "lastModified": "2026-09-22T16:30:33.000Z",
   "path": "tpr/bnt001",
   "pipelineId": 63,
-  "productConfig": {"cdnPath": "", "hash": "148386218f54363a87fad97c47af0f35"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "data_dir": "data",
+          "product": "agent_beta",
+          "side_by_side_patching": true,
+          "supports_multibox": true,
+          "supports_offline": true,
+          "update_method": "containerless_ngdp",
+          "version_uses_hash_validation": true
+        }
+      },
+      "platform": {
+        "mac": {
+          "config": {
+            "binaries": {"game": {"launch_arguments": [], "relative_path": "Agent.app"}},
+            "binary_launch_path": "Agent.app",
+            "binary_version_path": "Agent.app",
+            "tags": ["OSX"],
+            "uninstall": [{"delete_folder": {"relative_paths": ["Logs", "Agent.app"], "root": "%game%"}}]
+          }
+        },
+        "win": {
+          "config": {
+            "binaries": {"game": {"launch_arguments": [], "relative_path": "Agent.exe"}},
+            "binary_launch_path": "Agent.exe",
+            "binary_version_path": "Agent.exe",
+            "tags": ["Windows"],
+            "uninstall": [
+              {"delete_folder": {"relative_paths": ["Logs"], "root": "%game%"}},
+              {"delete_file": {"relative_paths": ["Agent.exe"], "root": "%game%"}}
+            ]
+          }
+        }
+      }
+    },
+    "hash": "148386218f54363a87fad97c47af0f35",
+    "lastModified": "2026-09-22T16:30:33.000Z"
+  },
   "versionNumber": 9691,
   "versionString": "2.40.1.9691"
 }

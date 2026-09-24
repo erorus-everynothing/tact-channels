@@ -11,10 +11,49 @@
       "cdnKey": "794f77863c177a02854966ec05219cff",
       "definition": "66189aa33b43112d87a5a54c96ebb5bb",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:39.000Z",
+      "lastModified": "2026-09-22T16:31:47.000Z",
       "path": "tpr/cornvb",
       "pipelineId": 377,
-      "productConfig": {"cdnPath": "", "hash": "296ef63abd26f64cc1896dcfefa56082"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "data_dir": "data",
+              "decryption_key_name": "cornvendorb",
+              "product": "randgridcornbcdlqa",
+              "update_method": "ngdp",
+              "use_service_permissions": true,
+              "version_uses_hash_validation": true
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "install": [
+                  {
+                    "create_service": {
+                      "binary_path": "%game%/randgrid.sys",
+                      "display_name": "atvi-randgrid_cdldev",
+                      "service_name": "atvi-randgrid_cdldev",
+                      "service_type": "kernelDriver",
+                      "start_type": "onDemand"
+                    }
+                  }
+                ],
+                "tags": [],
+                "uninstall": [
+                  {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+                  {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+                  {"delete_service": {"service_name": "atvi-randgrid_cdldev"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "296ef63abd26f64cc1896dcfefa56082",
+        "lastModified": "2026-09-22T16:31:47.000Z"
+      },
       "versionNumber": 22966757,
       "versionString": "0.0.1.22966757de"
     }

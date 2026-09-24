@@ -5,10 +5,28 @@
   "cdnKey": "cf7f74341acfc20af59b408f2516c3d5",
   "definition": "d5757bc3707d9ea870c760cc18e55731",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:50.000Z",
+  "lastModified": "2026-09-22T16:31:02.000Z",
   "path": "tpr/bnt004",
   "pipelineId": 135,
-  "productConfig": {"cdnPath": "", "hash": "e8a9e3b2b36cc844d7a26a18fce57792"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "casc_language_agnostic": true,
+          "containerless_do_clean_up": true,
+          "containerless_do_real_cancel": true,
+          "product": "bts",
+          "supports_multibox": false,
+          "supports_offline": false,
+          "update_method": "containerless ngdp"
+        }
+      },
+      "platform": {"mac": {"config": {"tags": ["OSX"]}}, "win": {"config": {"tags": ["Windows"]}}}
+    },
+    "hash": "e8a9e3b2b36cc844d7a26a18fce57792",
+    "lastModified": "2026-09-22T16:31:00.000Z"
+  },
   "versionNumber": 3141,
   "versionString": "1.18.10.3141"
 }

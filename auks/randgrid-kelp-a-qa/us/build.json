@@ -8,10 +8,49 @@
   "cdnKey": "c74c720d7ca3e86fe681cd11a5a815e7",
   "definition": "856fb666849be9c8f7927ab554cf9e0e",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:34.000Z",
+  "lastModified": "2026-09-22T16:31:43.000Z",
   "path": "tpr/kelpv",
   "pipelineId": 416,
-  "productConfig": {"cdnPath": "", "hash": "d332b14c604cb8bee7e46085afb2aed0"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "data_dir": "data",
+          "decryption_key_name": "kelpvendor",
+          "product": "randgrid-kelp-a-qa",
+          "update_method": "ngdp",
+          "use_service_permissions": true,
+          "version_uses_hash_validation": true
+        }
+      },
+      "platform": {
+        "win": {
+          "config": {
+            "install": [
+              {
+                "create_service": {
+                  "binary_path": "%game%/randgrid.sys",
+                  "display_name": "atvi-randgrid_dev",
+                  "service_name": "atvi-randgrid_dev",
+                  "service_type": "kernelDriver",
+                  "start_type": "onDemand"
+                }
+              }
+            ],
+            "tags": [],
+            "uninstall": [
+              {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+              {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+              {"delete_service": {"service_name": "atvi-randgrid_dev"}}
+            ]
+          }
+        }
+      }
+    },
+    "hash": "d332b14c604cb8bee7e46085afb2aed0",
+    "lastModified": "2026-09-22T16:31:42.000Z"
+  },
   "versionNumber": 27589122,
   "versionString": "1.0.3.27589122d"
 }

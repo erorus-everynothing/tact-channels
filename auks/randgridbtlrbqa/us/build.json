@@ -5,10 +5,49 @@
   "cdnKey": "93984e9d93cf37be80e1f3246f11c4f9",
   "definition": "d051acc355c0b2a72a830d7bf5def2dd",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:37.000Z",
+  "lastModified": "2026-09-22T16:31:46.000Z",
   "path": "tpr/btlrvb",
   "pipelineId": 293,
-  "productConfig": {"cdnPath": "", "hash": "fc80caaacca8268be966cb99f265a3ba"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "data_dir": "data",
+          "decryption_key_name": "btlrvendorb",
+          "product": "randgridbtlrbqa",
+          "update_method": "ngdp",
+          "use_service_permissions": true,
+          "version_uses_hash_validation": true
+        }
+      },
+      "platform": {
+        "win": {
+          "config": {
+            "install": [
+              {
+                "create_service": {
+                  "binary_path": "%game%/randgrid.sys",
+                  "display_name": "atvi-randgrid_dev",
+                  "service_name": "atvi-randgrid_dev",
+                  "service_type": "kernelDriver",
+                  "start_type": "onDemand"
+                }
+              }
+            ],
+            "tags": [],
+            "uninstall": [
+              {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+              {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+              {"delete_service": {"service_name": "atvi-randgrid_dev"}}
+            ]
+          }
+        }
+      }
+    },
+    "hash": "fc80caaacca8268be966cb99f265a3ba",
+    "lastModified": "2026-09-22T16:31:46.000Z"
+  },
   "versionNumber": 22966757,
   "versionString": "0.0.1.22966757d"
 }

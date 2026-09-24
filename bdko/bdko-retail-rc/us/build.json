@@ -5,10 +5,31 @@
   "cdnKey": "0b0dad94e2ae87df3fc7d4ca11370caa",
   "definition": "f9da0481c246c92fc5cdbbf4ba49d8c4",
   "keyRing": "5207a6f67faccd149307da5381c76335",
-  "lastModified": "2026-08-25T18:46:22.000Z",
+  "lastModified": "2026-09-22T16:30:50.000Z",
   "path": "tpr/bdkorc",
   "pipelineId": 395,
-  "productConfig": {"cdnPath": "", "hash": "e992697f2dd3b79d965eb5cb97296f2b"},
+  "productConfig": {
+    "cdnPath": "",
+    "data": {
+      "all": {
+        "config": {
+          "beta": false,
+          "display_locales": ["enUS"],
+          "form": {"game_dir": {"dirname": "bdk"}},
+          "opaque_product_specific": {},
+          "product": "bdko-retail-rc",
+          "ptr": false,
+          "supported_locales": ["enUS"],
+          "supports_multibox": false,
+          "supports_offline": false,
+          "update_method": "ngdp"
+        }
+      },
+      "platform": {}
+    },
+    "hash": "e992697f2dd3b79d965eb5cb97296f2b",
+    "lastModified": "2026-09-22T16:30:50.000Z"
+  },
   "versionNumber": 126481,
   "versionString": "Battle.net Development Kit 1.4.1"
 }

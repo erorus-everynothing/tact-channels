@@ -8,10 +8,90 @@
       "cdnKey": "1f04537114a72964e16a2476081633ff",
       "definition": "1f7ab89054f85433c2c2346518d5c6a9",
       "keyRing": "ee10849edc26b4c293494872f66a0191",
-      "lastModified": "2026-08-25T16:28:22.000Z",
+      "lastModified": "2026-09-22T16:30:35.000Z",
       "path": "tpr/anbsdevbm",
       "pipelineId": 373,
-      "productConfig": {"cdnPath": "", "hash": "b60fc57eadea462140d0d672613e895c"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "casc_language_agnostic": true,
+              "containerless_checksizeonly": false,
+              "data_dir": "Data/",
+              "decryption_key_name": "immortal_live_dev_bm_1",
+              "form": {"game_dir": {"dirname": "Diablo Immortal PTR"}},
+              "product": "anbs-ptr-dev-1",
+              "supported_locales": ["enUS"],
+              "supports_multibox": false,
+              "supports_offline": false,
+              "switcher": false,
+              "title_info": {"title_id": "anbs"},
+              "update_method": "containerless ngdp"
+            }
+          },
+          "enus": {
+            "config": {
+              "install": [
+                {
+                  "add_remove_programs_key": {
+                    "display_name": "Immortal PTR Dev",
+                    "icon_path": "%binarypath%",
+                    "install_path": "%installpath%",
+                    "locale": "%locale%",
+                    "root": "Immortal PTR Dev",
+                    "uid": "%uid%",
+                    "uninstall_path": "%uninstallpath%"
+                  }
+                }
+              ]
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "binaries": {
+                  "game": {
+                    "launch_arguments": ["--dx11", "--sound-api=wwise", "--start=Python", "--console"],
+                    "relative_path": "Engine/Binaries/Win64/DiabloImmortal.exe",
+                    "switcher": false
+                  }
+                },
+                "form": {"game_dir": {"default": "Program Files", "required_space": 6000000000}},
+                "min_spec": {"default_requires_64_bit": true, "required_osspecs": {"6.1": {"required_subversion": 0}}},
+                "tags": [],
+                "uninstall": [
+                  {
+                    "delete_registry_key_list": {
+                      "flags": "WOW_BOTH",
+                      "key_type": "HKEY_LOCAL_MACHINE",
+                      "root": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall",
+                      "subkeys": ["Immortal PTR Dev"]
+                    }
+                  },
+                  {
+                    "delete_registry_key_list": {
+                      "flags": "WOW_BOTH",
+                      "key_type": "HKEY_CURRENT_USER",
+                      "root": "SOFTWARE\\Blizzard Entertainment",
+                      "subkeys": ["Immortal PTR Dev"]
+                    }
+                  },
+                  {
+                    "delete_folder": {
+                      "relative_paths": ["BlizzardBrowser", "Data", "Engine", "LocalData", "Package"],
+                      "root": "%game%"
+                    }
+                  },
+                  {"delete_file": {"relative_paths": ["game.exe"], "root": "%game%"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "b60fc57eadea462140d0d672613e895c",
+        "lastModified": "2026-09-22T16:30:35.000Z"
+      },
       "versionNumber": 1234567,
       "versionString": "0.0.0.1234567"
     }

@@ -11,10 +11,49 @@
       "cdnKey": "1b878add333e2a731548b8917c231978",
       "definition": "3004190fadc97c5f9da01f17a23bc688",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:35.000Z",
+      "lastModified": "2026-09-22T16:31:43.000Z",
       "path": "tpr/aukse",
       "pipelineId": 273,
-      "productConfig": {"cdnPath": "", "hash": "6f92826ff2e17bef464fc4e5ca6e42de"},
+      "productConfig": {
+        "cdnPath": "",
+        "data": {
+          "all": {
+            "config": {
+              "data_dir": "data",
+              "decryption_key_name": "auksevent",
+              "product": "randgridaukscdls",
+              "update_method": "ngdp",
+              "use_service_permissions": true,
+              "version_uses_hash_validation": true
+            }
+          },
+          "platform": {
+            "win": {
+              "config": {
+                "install": [
+                  {
+                    "create_service": {
+                      "binary_path": "%game%/randgrid.sys",
+                      "display_name": "atvi-randgrid_cdl",
+                      "service_name": "atvi-randgrid_cdl",
+                      "service_type": "kernelDriver",
+                      "start_type": "onDemand"
+                    }
+                  }
+                ],
+                "tags": [],
+                "uninstall": [
+                  {"delete_folder": {"relative_paths": ["data"], "root": "%game%"}},
+                  {"delete_file": {"relative_paths": ["randgrid.sys"], "root": "%game%"}},
+                  {"delete_service": {"service_name": "atvi-randgrid_cdl"}}
+                ]
+              }
+            }
+          }
+        },
+        "hash": "6f92826ff2e17bef464fc4e5ca6e42de",
+        "lastModified": "2026-09-22T16:31:43.000Z"
+      },
       "versionNumber": 27589123,
       "versionString": "3.8.0.27589123"
     }

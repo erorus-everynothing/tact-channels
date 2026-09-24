@@ -2,13 +2,13 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["us"],
-      "build": {"name": "demo4-rekey3", "token": "5b1b4a2b-34c2-4cf9-8f41-453030b71484"},
-      "buildKey": "88507b0c287ec46784a161556e52dc03",
-      "cdnKey": "1d71bcc18b2e3cf2c759a30ac0d9346d",
-      "definition": "9695ea7767795d030bb2f079768eb8d9",
+      "branches": ["eu", "kr", "us"],
+      "build": {"name": "prometheus-2_24_1_1-153619-prodemo4", "token": "cf3519e0-2328-440e-96ab-469f05dede65"},
+      "buildKey": "eeb68fd3c85f3523055f76db99cc03cf",
+      "cdnKey": "abd67d403ab1da68c5caac5f8e44b294",
+      "definition": "5eca11bb6f0d4d506ed3f1946698279b",
       "keyRing": "",
-      "lastModified": "2026-09-17T22:23:53.000Z",
+      "lastModified": "2026-09-24T16:41:44.000Z",
       "path": "tpr/proe/3",
       "pipelineId": 300,
       "productConfig": {"cdnPath": "", "hash": ""},
@@ -21,47 +21,44 @@
   "regions": [
     {
       "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
+      "cdns": "40a3feb55a2626f3b3145db3111a2523",
       "hosts": [
+        {"host": "http://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"},
         {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "https://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"},
         {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
         {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["cn"],
-      "cdns": "3c4839a08949ae9f4862f94635508d83",
-      "hosts": [
-        {"host": "http://blzdist-ow.necdn.leihuo.netease.com?maxhosts=4"},
-        {"host": "https://blzdist-ow.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
+      "lastModified": "2026-09-22T21:01:40.000Z"
     },
     {
       "branches": ["tw", "us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
+      "cdns": "757e7b7e95a90045be37e99daf9f9421",
       "hosts": [
+        {"host": "http://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"},
         {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "https://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"},
         {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
         {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
+      "lastModified": "2026-09-22T21:01:40.000Z"
     },
     {
       "branches": ["kr"],
-      "cdns": "f2f702bf5f33ea42ec912e967665ef6b",
+      "cdns": "30688aadb39751365a4b22cbfd74959b",
       "hosts": [
         {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://blzddistkr1-a.akamaihd.net?maxhosts=4&fallback=1"},
+        {"host": "https://blzddistkr1-a.akamaihd.net?maxhosts=4&fallback=1"},
         {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "http://kr.cdn.blizzard.com?maxhosts=2"},
         {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
         {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"},
         {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
       ],
-      "lastModified": "2026-08-25T16:26:52.000Z"
+      "lastModified": "2026-09-22T21:01:40.000Z"
     }
   ],
   "variant": "prodemo4"

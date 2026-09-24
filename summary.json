@@ -1,10 +1,10 @@
 {
   "path": "blue/",
   "public": {
-    "channel": "f34b4f2d7e869ee817f0ef36174d6fc9"
+    "channel": "1c72a49eb1d1dd454cd23eedd8dfcd41"
   },
-  "lastModified": "2026-09-24T16:00:46.000Z",
-  "pointerLastModified": "2026-09-24T16:00:46.000Z",
+  "lastModified": "2026-09-24T16:30:54.000Z",
+  "pointerLastModified": "2026-09-24T16:30:54.000Z",
   "products": {
     "agent": [
       "agent",
@@ -576,6 +576,7 @@
       "wow_classic_era_ptr",
       "wow_classic_ptr",
       "wow_classic_titan",
+      "wow_cn_beta",
       "wowdev",
       "wowdev2",
       "wowdev3",

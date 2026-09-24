@@ -6,27 +6,13 @@
         "android_amazon",
         "android_cn",
         "android_cn_dashen",
-        "android_cn_huawei",
         "android_google",
         "android_onestore",
-        "ios",
-        "ios_cn"
+        "cn",
+        "eu",
+        "kr",
+        "us"
       ],
-      "build": {"name": "251952_36.6.0", "token": "ad0e14c4-9760-af73-d8ab-fa8450637a93"},
-      "buildKey": "b675b6f58af6f623b6d8f8f7315cacb5",
-      "cdnKey": "7847332c8e13b911284e1a73ecaf3e51",
-      "definition": "aad96787c52e8ce7caaa58be2e35c5a2",
-      "keyRing": "",
-      "lastModified": "2026-09-15T17:10:14.000Z",
-      "path": "tpr/hs",
-      "pipelineId": 67,
-      "productConfig": {"cdnPath": "", "hash": "1865ee2775377f01668054015d53b9b9"},
-      "versionNumber": 251952,
-      "versionString": "36.6.0.251952"
-    },
-    {
-      "armadilloKey": "",
-      "branches": ["cn", "eu", "kr", "us"],
       "build": {"name": "253216_36.6.0", "token": "fe0ffcfe-2fa3-8941-60eb-3b8631e1c445"},
       "buildKey": "02d014a785aae84fe6d4bfd64c5ca6ee",
       "cdnKey": "e9b7d268ef94316b358c0a09685a4f6b",
@@ -38,6 +24,21 @@
       "productConfig": {"cdnPath": "", "hash": "1865ee2775377f01668054015d53b9b9"},
       "versionNumber": 253216,
       "versionString": "36.6.0.253216"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["android_cn_huawei", "ios", "ios_cn"],
+      "build": {"name": "251952_36.6.0", "token": "ad0e14c4-9760-af73-d8ab-fa8450637a93"},
+      "buildKey": "b675b6f58af6f623b6d8f8f7315cacb5",
+      "cdnKey": "7847332c8e13b911284e1a73ecaf3e51",
+      "definition": "aad96787c52e8ce7caaa58be2e35c5a2",
+      "keyRing": "",
+      "lastModified": "2026-09-15T17:10:14.000Z",
+      "path": "tpr/hs",
+      "pipelineId": 67,
+      "productConfig": {"cdnPath": "", "hash": "1865ee2775377f01668054015d53b9b9"},
+      "versionNumber": 251952,
+      "versionString": "36.6.0.251952"
     }
   ],
   "infrastructure": false,

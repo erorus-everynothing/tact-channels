@@ -1,17 +1,17 @@
 {
   "armadilloKey": "",
   "build": {
-    "name": "live_server_29192822_cod26_mr_beast_signed_bnet_v17_ship",
-    "token": "11cb5af1-9140-4b5c-ba44-ccb3a29c486d"
+    "name": "live_server_29203226_cod26_mr_beast_signed_bnet_v17_ship",
+    "token": "0185ad7d-3607-41fe-87ad-0a4b46edddf4"
   },
-  "buildKey": "a62cfc694f0d5d822bb71e27af97440b",
-  "cdnKey": "c534be1912a61f9fc1c50ab761180348",
-  "definition": "c3198336474e264da588ab610e7767dd",
+  "buildKey": "abf427056b56642a572b3c79f3e293a1",
+  "cdnKey": "d09db5f5a64464102a95309e9636607b",
+  "definition": "3974e52efca13a5f2ac3662b4a167d56",
   "keyRing": "",
-  "lastModified": "2026-09-25T15:18:23.000Z",
+  "lastModified": "2026-09-25T17:59:52.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
   "productConfig": {"cdnPath": "", "hash": "d655ffc6c3c6f2b5a17f630547e574f7"},
-  "versionNumber": 29192822,
-  "versionString": "1.20.2.29192822s"
+  "versionNumber": 29203226,
+  "versionString": "1.20.2.29203226s"
 }

@@ -4,19 +4,19 @@
       "armadilloKey": "",
       "branches": ["eu"],
       "build": {
-        "name": "live_server_29203226_cod26_mr_beast_bnet_v11_dev",
-        "token": "7083953a-4a79-4956-961c-c418540ef388"
+        "name": "release_29222389_cod26_mr_beast_signed_bnet_v11_dev",
+        "token": "72c53aa3-bfda-4043-abab-dffe49760a7f"
       },
-      "buildKey": "61ee9b550bd022c0606524ac412fae2e",
-      "cdnKey": "a7589dd5688a098f85b9554f93a1c3ac",
-      "definition": "0924cf0b7076c15fee55783c054cf31e",
+      "buildKey": "a244082fe72126ede05e428b6b98e3c2",
+      "cdnKey": "5d63c05f97c87494d86bfd25d4c52d43",
+      "definition": "d233fd155a41b45738e296b95561e62a",
       "keyRing": "",
-      "lastModified": "2026-09-25T15:15:05.000Z",
+      "lastModified": "2026-09-26T17:08:53.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "6dc9087b5dc0926a3bdd49b5b49adf36"},
-      "versionNumber": 29203226,
-      "versionString": "0.0.0.29203226d"
+      "versionNumber": 29222389,
+      "versionString": "0.0.0.29222389d"
     },
     {
       "armadilloKey": "",
@@ -40,19 +40,19 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "live_server_29203226_cod26_mr_beast_signed_bnet_v11_ship",
-        "token": "d3dbcbb0-c392-493b-9094-a4b672f00196"
+        "name": "release_29222389_cod26_mr_beast_signed_bnet_v11_ship",
+        "token": "fa3f2017-d358-444a-8ea4-c85f280859f9"
       },
-      "buildKey": "b204d3b2641eba82b4bd09c3f12f9a90",
-      "cdnKey": "71fd552293103892a6dcb1ce3dc285ba",
-      "definition": "0e898032d9862f4ce5befdc30c1f1adb",
+      "buildKey": "48fbf96779619e0a979a33ee97ceead0",
+      "cdnKey": "6b19b782a9ead8c5bfbec7120c7a0347",
+      "definition": "a7dc9ecf892df9a9e4fbafc2b6639d91",
       "keyRing": "",
-      "lastModified": "2026-09-25T17:28:57.000Z",
+      "lastModified": "2026-09-26T17:08:53.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "1849fb24b1298f2ec169a13ddf891df6"},
-      "versionNumber": 29203226,
-      "versionString": "0.0.0.29203226d"
+      "versionNumber": 29222389,
+      "versionString": "0.0.0.29222389d"
     }
   ],
   "infrastructure": false,

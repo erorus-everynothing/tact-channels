@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["cn", "eu", "kr", "tw", "us"],
-      "build": {"name": "WOW-69934patch5.5.4_ClassicRetail", "token": "5a2b6a0c-289b-4590-8a26-f4d827de37b3"},
-      "buildKey": "ad6184fe0582294d2e5faaf3598a3688",
-      "cdnKey": "a9035bfebbe53afc0f656dd89f22df69",
-      "definition": "fb59f6bc006fb5ca0c6d1fee0618e777",
+      "build": {"name": "WOW-70032patch5.5.4_ClassicRetail", "token": "3049c3bd-976e-413d-aa44-721435c76f03"},
+      "buildKey": "7dba9c25479632aebc53be9d187818e3",
+      "cdnKey": "5b98dd1083c7786da6078bcb57299852",
+      "definition": "c17a387187dcc18bb96e2230b791b7a3",
       "keyRing": "",
-      "lastModified": "2026-09-22T14:08:26.000Z",
+      "lastModified": "2026-09-28T23:42:45.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
       "productConfig": {"cdnPath": "", "hash": "f337a1b6ece3dacf3ec807287f3c2aa6"},
-      "versionNumber": 69934,
-      "versionString": "5.5.4.69934"
+      "versionNumber": 70032,
+      "versionString": "5.5.4.70032"
     }
   ],
   "infrastructure": false,

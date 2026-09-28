@@ -1,17 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {
-    "name": "etu_29049384_cod26_cip_cib3_valkyrie_patched_signed_bnet_ld_ship",
-    "token": "8df63d17-6b75-4d15-8ad4-41c258dfa573"
-  },
-  "buildKey": "9aadacebdf7880e6357c345ec376e636",
-  "cdnKey": "74816955fb78dafd6850da24d14879d0",
-  "definition": "9b440bf7af3f9064e6e4c7c9de2af9a8",
+  "build": {"name": "COD_MW4_CIB2_Rekey", "token": "ced48174-a042-4fea-a159-7b9522cc099c"},
+  "buildKey": "2e242f8f5e6fd9d03c2dfc4ff7568c19",
+  "cdnKey": "f1271916324f86f9ac4bdaa21273dfb8",
+  "definition": "07b58af81283ca847278b73def6dc48e",
   "keyRing": "",
-  "lastModified": "2026-09-19T17:02:12.000Z",
+  "lastModified": "2026-09-28T19:11:14.000Z",
   "path": "tpr/auksdev/5",
   "pipelineId": 235,
-  "productConfig": {"cdnPath": "", "hash": "d7db34015e82d5260477b58fcf337db7"},
-  "versionNumber": 29049384,
-  "versionString": "1.2.1.29049384"
+  "productConfig": {"cdnPath": "", "hash": "e3fb934ddc6ff0e0af23e10a48d2de8e"},
+  "versionNumber": 1,
+  "versionString": "0.0.0.1"
 }

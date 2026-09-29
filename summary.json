@@ -1,10 +1,10 @@
 {
   "path": "blue/",
   "public": {
-    "channel": "d692d7f0df5783638f9ea596fb38a9de"
+    "channel": "315f3874559eb002c290f201c497d52f"
   },
-  "lastModified": "2026-09-29T09:05:34.000Z",
-  "pointerLastModified": "2026-09-29T09:05:34.000Z",
+  "lastModified": "2026-09-29T09:56:34.000Z",
+  "pointerLastModified": "2026-09-29T09:56:34.000Z",
   "products": {
     "agent": [
       "agent",
@@ -424,6 +424,7 @@
       "lbra-retail-rc"
     ],
     "lyra": [
+      "lyra",
       "lyra-retail-dev-1",
       "lyra-retail-rc"
     ],

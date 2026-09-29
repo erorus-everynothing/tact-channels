@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "250339_36.4.0-hse1", "token": "ab150f94-221e-68f5-5032-f9b7e13d1855"},
-  "buildKey": "42060f8c0261ba4ca5bbeff99d43e8d6",
-  "cdnKey": "18530b82f3c5b595be278b0d95f28072",
-  "definition": "3d6157847c0ad2c706803a5e2fa44861",
+  "build": {"name": "253641_37.0.0-hse1", "token": "724db730-e239-5baf-204e-dc2381e0aee3"},
+  "buildKey": "862f80573312f09bbb780eff45970b02",
+  "cdnKey": "62dd73865e59bf631d0ff468cb68de6e",
+  "definition": "cd02ddfa07393732962bd0b609625ee1",
   "keyRing": "",
-  "lastModified": "2026-09-04T19:49:12.000Z",
+  "lastModified": "2026-09-29T21:38:54.000Z",
   "path": "tpr/hse/1",
   "pipelineId": 265,
   "productConfig": {"cdnPath": "", "hash": "de5269e2b1d61b35a17f6a4fa2cb1040"},
-  "versionNumber": 250339,
-  "versionString": "36.4.0.250339"
+  "versionNumber": 253641,
+  "versionString": "37.0.0.253641"
 }

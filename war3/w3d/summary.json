@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["us"],
-      "build": {"name": "3.0.1.24322-live-dev", "token": "11d65ac0-b565-4ccf-ae00-d2d429c1eb79"},
-      "buildKey": "053cbe3ba701d4f59f6a72f1a2262389",
-      "cdnKey": "765bc8641e3314bda8acce99c383e024",
-      "definition": "e62be4fb78456d9e6aba66d79b635767",
+      "build": {"name": "3.0.1.24324-live-dev", "token": "ccfcd7a8-e306-4314-b221-24010a4f5948"},
+      "buildKey": "2ec0be5d2c76e6fe1e2aec1cf4a8baa4",
+      "cdnKey": "7497c1e6ec2c2d6c885815d6b41acedb",
+      "definition": "b1fdee06492799589236cca7896cf27b",
       "keyRing": "",
-      "lastModified": "2026-09-29T05:14:35.000Z",
+      "lastModified": "2026-09-29T14:36:15.000Z",
       "path": "tpr/war3-live-dev/",
       "pipelineId": 284,
       "productConfig": {"cdnPath": "", "hash": "979aa7477e04827d0dbd381816302dc7"},
-      "versionNumber": 24322,
-      "versionString": "3.0.1.24322"
+      "versionNumber": 24324,
+      "versionString": "3.0.1.24324"
     }
   ],
   "infrastructure": false,

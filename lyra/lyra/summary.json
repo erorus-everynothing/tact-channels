@@ -6,12 +6,12 @@
       "build": {"name": "Build_1041720Change_13312615Upload_1042233", "token": "75e460ee-1f07-42cf-ad28-5e38e6615c86"},
       "buildKey": "20ab378973a325f28a050a0882410830",
       "cdnKey": "1d49a12924032b9a3cfdbe677ab201d6",
-      "definition": "f35c80129f09c71da283dec1a007c87c",
+      "definition": "79a63fe9c520dbaff9d26b974343c85c",
       "keyRing": "067a4b465d4e2e223319e90a5d9a42b6",
-      "lastModified": "2026-09-29T09:56:33.000Z",
+      "lastModified": "2026-09-29T16:31:43.000Z",
       "path": "tpr/lyra",
       "pipelineId": 412,
-      "productConfig": {"cdnPath": "", "hash": "bf3f6e71c5b8a2112c0aad8b05705dec"},
+      "productConfig": {"cdnPath": "", "hash": "b7aca940133ea074c9ff23a8cf32d419"},
       "versionNumber": 1041720,
       "versionString": "5.00"
     }

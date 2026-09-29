@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "sg", "us", "xx"],
-      "build": {"name": "WOW-69027patch12.1.0_Darkk", "token": "424d1f62-91c4-4ff4-80e3-fe7ce4391299"},
-      "buildKey": "f9465c0040e93d20960612c94c8828d7",
-      "cdnKey": "ac25a2b7de79ae6ebfbbfb435a4ae2fe",
-      "definition": "93d396116b11dc881730e061298ac684",
+      "build": {"name": "WOW-70077patch12.1.5_PTR", "token": "cdb092b2-92f4-45e0-9f82-ed6e9a45b5b5"},
+      "buildKey": "6e3c0fba50944ba09abcef0d72fff180",
+      "cdnKey": "9c21df5e4db107d2ad198c2013d6b77d",
+      "definition": "5b6e1c7e2489ae1f8e4fc5eb1c7b5c99",
       "keyRing": "3ca57fe7319a297346440e4d2a03a0cd",
-      "lastModified": "2026-08-25T16:30:14.000Z",
+      "lastModified": "2026-09-29T00:11:53.000Z",
       "path": "tpr/wowdev/1",
       "pipelineId": 56,
       "productConfig": {"cdnPath": "", "hash": "f3c18628729844d56c27fdfcb6582d8d"},
-      "versionNumber": 69027,
-      "versionString": "12.1.0.69027"
+      "versionNumber": 70077,
+      "versionString": "12.1.5.70077"
     }
   ],
   "infrastructure": false,

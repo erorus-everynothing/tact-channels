@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["us"],
-      "build": {"name": "prometheus-2_25_1_0-153339-GM-prodev11", "token": "50de95c4-1c94-4970-97ea-7aca46e4ba53"},
-      "buildKey": "832b17ba0efae49e9d9a17e6a873eb90",
-      "cdnKey": "6d4f1c7fc4d09033242c14db156834dc",
-      "definition": "039affadfa89971cbd897a6c5f90aa10",
+      "build": {"name": "prometheus-2_26_0_0-154280-RC-ARM-prodev11", "token": "19e0bd0e-40bb-4e34-b154-2f8e710ccff5"},
+      "buildKey": "6178e4bd4ad9e12e5a612a57b1fb9d87",
+      "cdnKey": "7cb419f182307ee2bc632e9b10871811",
+      "definition": "9d745494961965a83a727d48ce8348d5",
       "keyRing": "",
-      "lastModified": "2026-08-31T18:34:43.000Z",
+      "lastModified": "2026-09-30T23:22:35.000Z",
       "path": "tpr/proa2",
       "pipelineId": 266,
       "productConfig": {"cdnPath": "", "hash": "fcc8f133558c52ed153ca28800760b99"},
-      "versionNumber": 153339,
-      "versionString": "2.25.1.0.153339"
+      "versionNumber": 154280,
+      "versionString": "2.26.0.0.154280"
     }
   ],
   "infrastructure": false,

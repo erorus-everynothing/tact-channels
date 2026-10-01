@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "Build_1041720Change_13312615Upload_1042233", "token": "75e460ee-1f07-42cf-ad28-5e38e6615c86"},
-  "buildKey": "20ab378973a325f28a050a0882410830",
-  "cdnKey": "1d49a12924032b9a3cfdbe677ab201d6",
-  "definition": "79a63fe9c520dbaff9d26b974343c85c",
-  "keyRing": "067a4b465d4e2e223319e90a5d9a42b6",
-  "lastModified": "2026-09-29T16:31:43.000Z",
+  "build": {"name": "Build_1044392Change_13360103Upload_1044620", "token": "ef230287-32f6-4bc1-8a73-d6ba0c66057a"},
+  "buildKey": "d6504d0d9d0a9db7964be86d487b4145",
+  "cdnKey": "bc15e3f711623b66092e100cfcff0832",
+  "definition": "a2295ef49952de8fe433819c0beebb6f",
+  "keyRing": "83bcbafd9a2fc735e36842cd91443623",
+  "lastModified": "2026-10-01T13:00:54.000Z",
   "path": "tpr/lyra",
   "pipelineId": 412,
   "productConfig": {"cdnPath": "", "hash": "b7aca940133ea074c9ff23a8cf32d419"},
-  "versionNumber": 1041720,
+  "versionNumber": 1044392,
   "versionString": "5.00"
 }

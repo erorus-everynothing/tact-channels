@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "tw", "us"],
-      "build": {"name": "WOW-70124patch1.60.1_ForeverBeta", "token": "fd007ded-8a28-4187-a003-91080cbc521d"},
-      "buildKey": "dd3dfc2881c407299f46c2aaf34c130b",
-      "cdnKey": "43061ca8e9f0e2603c8ab50bcae97c2d",
-      "definition": "2cc20b656e9ebc07dcac6e404913c45a",
+      "build": {"name": "WOW-70170patch1.60.1_Beta", "token": "fd6c44dc-3e5d-45d5-9f2f-0abf682f9a69"},
+      "buildKey": "d3f2837397a016e380ea51c4e1e78d1d",
+      "cdnKey": "7bfef39ed156aa00019d651013213326",
+      "definition": "1643bc16dfc500175d15abd6ca585d3a",
       "keyRing": "",
-      "lastModified": "2026-09-30T01:56:26.000Z",
+      "lastModified": "2026-10-01T22:53:55.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
       "productConfig": {"cdnPath": "", "hash": "fcfd1bc39031f5921d00aee2d869adb5"},
-      "versionNumber": 70124,
-      "versionString": "1.60.1.70124"
+      "versionNumber": 70170,
+      "versionString": "1.60.1.70170"
     }
   ],
   "infrastructure": false,

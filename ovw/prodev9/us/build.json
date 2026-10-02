@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "prometheus-2_27_0_0-154301-GM-prodev9", "token": "f14a690c-e850-48a3-ad02-c84a2d56d121"},
-  "buildKey": "f8a144dccb1e41d681c0a428850a47f6",
-  "cdnKey": "d53807bc07863016d3535b551fd3de10",
-  "definition": "305a63d2e1186ab3157bbb08686907c0",
+  "build": {"name": "prometheus-2_27_0_0-154341-GM-prodev9", "token": "579c21f5-cfe9-4b81-b9f4-bc698220766c"},
+  "buildKey": "8bbe4155738d9e9c3f11f166df669a4a",
+  "cdnKey": "d78a83da5eeb08b5661a272a92272a09",
+  "definition": "bfc9c9aeb9321bb18af87e59112e1b33",
   "keyRing": "",
-  "lastModified": "2026-10-01T20:24:25.000Z",
+  "lastModified": "2026-10-02T16:02:44.000Z",
   "path": "tpr/proc3",
   "pipelineId": 165,
   "productConfig": {"cdnPath": "", "hash": "f9e43271bf89a3bd83fe206b303a0b95"},
-  "versionNumber": 154301,
-  "versionString": "2.27.0.0.154301"
+  "versionNumber": 154341,
+  "versionString": "2.27.0.0.154341"
 }

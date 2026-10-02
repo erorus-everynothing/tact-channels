@@ -1,1 +1,14 @@
-{}
+{
+  "armadilloKey": "",
+  "build": {"name": "prometheus-2_25_0_0-154088-BGDL", "token": "7a30bac8-3d4e-4a1b-9383-f737319313e9"},
+  "buildKey": "d043c2131e5e1b64893032a340a96313",
+  "cdnKey": "feb542e1909b718b30e6f54405bb43c5",
+  "definition": "9013e1992312a4fab2bfb8df3ed4dc1b",
+  "keyRing": "",
+  "lastModified": "2026-10-02T19:15:33.000Z",
+  "path": "tpr/ovw",
+  "pipelineId": 43,
+  "productConfig": {"cdnPath": "", "hash": ""},
+  "versionNumber": 154088,
+  "versionString": "2.25.0.0.154088"
+}

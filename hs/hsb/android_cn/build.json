@@ -3,12 +3,12 @@
   "build": {"name": "253932_36.6.3", "token": "5d546fbc-31a1-b26a-3ca1-a042ca31aa1e"},
   "buildKey": "4cbc04aa2148bc2d4d4ea465f0651426",
   "cdnKey": "215a56ae59729e6e8a30b943ff216592",
-  "definition": "6f694f1ea572e081c52d7aabd41f78d4",
+  "definition": "07b8739fcb818d5d71c3cd257c67daa3",
   "keyRing": "",
-  "lastModified": "2026-10-01T17:18:54.000Z",
+  "lastModified": "2026-10-02T19:57:33.000Z",
   "path": "tpr/hs",
   "pipelineId": 67,
-  "productConfig": {"cdnPath": "", "hash": "1865ee2775377f01668054015d53b9b9"},
+  "productConfig": {"cdnPath": "", "hash": "5580641946ccc824a022cb35007c0d8d"},
   "versionNumber": 253932,
   "versionString": "36.6.3.253932.253216"
 }

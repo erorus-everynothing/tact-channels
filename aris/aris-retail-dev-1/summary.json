@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "20260908-145230-vast-seal", "token": "f20c43b1-6464-4cc4-a0e6-ce5a13c1dc43"},
-      "buildKey": "7bc819d8222a9ec0af31d454d666955b",
-      "cdnKey": "fa4a49bc8e200f577112809252ae112d",
-      "definition": "e73e789f2e860453d730715df48988de",
-      "keyRing": "7ad79fa038e9b155324466580e21617f",
-      "lastModified": "2026-09-08T21:38:33.000Z",
+      "build": {"name": "20261005-234627-jittery-ape", "token": "38dff953-6e9b-4b5c-bc16-05ef02febf11"},
+      "buildKey": "1123d569f580a8414561c0954a57edf4",
+      "cdnKey": "b4de6e2b2897989e6994c9df07d47d80",
+      "definition": "016e5a11e53c7809bb4d7cca2e406229",
+      "keyRing": "07411c33c66400a6545d10b78f534ef9",
+      "lastModified": "2026-10-06T15:30:01.000Z",
       "path": "tpr/arisdev",
       "pipelineId": 350,
       "productConfig": {"cdnPath": "", "hash": "3bdd137c047e8e0a57b09a37c0b0203b"},
-      "versionNumber": 501,
-      "versionString": "DE084A207D9FB990839AFBE67B5F30D9"
+      "versionNumber": 502,
+      "versionString": "4CE6F0E95B4AD0FEE49FF3A5A1636CCC"
     }
   ],
   "infrastructure": false,

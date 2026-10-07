@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["cn"],
-      "build": {"name": "WOW-69874patch3.80.2_ClassicTitan", "token": "1114ba0e-3944-4713-941b-abf453d84913"},
-      "buildKey": "492e24cc5d330710df21349f8e8647ba",
-      "cdnKey": "ae86d19f4ff37f2239363425d9289417",
-      "definition": "3084a4eeb911a79a6733356fc4f43228",
+      "build": {"name": "WOW-70177patch3.80.2_ClassicTitan", "token": "63257391-7a4d-47f5-87e4-21ef09a6f4ee"},
+      "buildKey": "7fa2180bbb5d1a3a3f685237b8d1d66a",
+      "cdnKey": "f39eaf0d23ad9a0f85fdbfc2713d3ed3",
+      "definition": "6e3f63d5e4173eeabaf4bd19690cca17",
       "keyRing": "",
-      "lastModified": "2026-09-17T01:00:32.000Z",
+      "lastModified": "2026-10-07T18:52:15.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
       "productConfig": {"cdnPath": "", "hash": "11a7ea270082c4636d7c2edbcda7ae94"},
-      "versionNumber": 69874,
-      "versionString": "3.80.2.69874"
+      "versionNumber": 70177,
+      "versionString": "3.80.2.70177"
     }
   ],
   "infrastructure": false,

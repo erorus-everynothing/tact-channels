@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "20260908-145230-vast-seal", "token": "f20c43b1-6464-4cc4-a0e6-ce5a13c1dc43"},
-  "buildKey": "d04eea388785500d32220b3afe798e1b",
-  "cdnKey": "ec9764974dc82d4added69b1bc328989",
-  "definition": "2f00e953c9560bca27ca5b9e1b81a204",
-  "keyRing": "3fb82a246751cc1154cde4816a129972",
-  "lastModified": "2026-09-14T15:08:12.000Z",
+  "build": {"name": "20261005-234627-jittery-ape", "token": "38dff953-6e9b-4b5c-bc16-05ef02febf11"},
+  "buildKey": "c5da34492d5d8ab8211fa445f7d08a4d",
+  "cdnKey": "6ee88b1603c39967bab1c30f2f092b7c",
+  "definition": "7fad401485943acfb027651d0d2d3768",
+  "keyRing": "b0d13432c6ad015c46a14dee90ab8b70",
+  "lastModified": "2026-10-07T15:23:52.000Z",
   "path": "tpr/aris",
   "pipelineId": 352,
   "productConfig": {"cdnPath": "", "hash": "eba4fd2c96bc4fbedac3e04d92650f7d"},
-  "versionNumber": 501,
-  "versionString": "DE084A207D9FB990839AFBE67B5F30D9"
+  "versionNumber": 502,
+  "versionString": "4CE6F0E95B4AD0FEE49FF3A5A1636CCC"
 }

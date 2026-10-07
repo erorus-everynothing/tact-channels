@@ -2,66 +2,25 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["eu"],
+      "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "trunk_22371135_cod22_sep_signed_bnet_v21_dev",
-        "token": "48be5308-ae91-4881-a3d2-87cc4e0b86cc"
+        "name": "cert_29269881A_cod26_tu1_signed_bnet_21_ship",
+        "token": "0958fee0-1c4a-4e1b-9644-6eb4301a186a"
       },
-      "buildKey": "8e239016fc92fa42a2ee07b6f86522a9",
-      "cdnKey": "d4f737ffe7a310804696af88e8628fbd",
-      "definition": "ed80e3b51e9601f0ed3126782d348f9f",
+      "buildKey": "fb94801cc9506f018924c8a70834800a",
+      "cdnKey": "dc2531fec57a707fd44140736105eb65",
+      "definition": "f79fdb0369dbed67045d34927ce52c4a",
       "keyRing": "",
-      "lastModified": "2026-10-06T19:30:45.000Z",
+      "lastModified": "2026-10-07T21:53:38.000Z",
       "path": "tpr/auksv",
       "pipelineId": 236,
-      "productConfig": {"cdnPath": "", "hash": "fa35c1c5eaa6873a920d3e55e513671f"},
+      "productConfig": {"cdnPath": "", "hash": "82c51a3578d2c16a361a5beada500918"},
       "regions": [
         {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
         {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
       ],
-      "versionNumber": 22371135,
-      "versionString": "1.0.0.22371135d"
-    },
-    {
-      "armadilloKey": "",
-      "branches": ["kr"],
-      "build": {"name": "trunk_22371135_cod22_sep_bnet_v21_dev", "token": "322568b3-7b56-4f72-9ccf-bed2bbe4cfe0"},
-      "buildKey": "4e6dcdb0c9118b2fcf0c7fe160640f10",
-      "cdnKey": "0b8e50f7e9dce000c7bf1b2c1e83bab9",
-      "definition": "63499b3d429c21a4227fc554f741489d",
-      "keyRing": "",
-      "lastModified": "2026-10-06T19:30:45.000Z",
-      "path": "tpr/auksv",
-      "pipelineId": 236,
-      "productConfig": {"cdnPath": "", "hash": "fa35c1c5eaa6873a920d3e55e513671f"},
-      "regions": [
-        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
-        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
-      ],
-      "versionNumber": 22371135,
-      "versionString": "1.0.0.22371135d"
-    },
-    {
-      "armadilloKey": "",
-      "branches": ["us"],
-      "build": {
-        "name": "trunk_22371135_cod22_sep_signed_bnet_v21_ship_rename_fix_bootstrapper",
-        "token": "f8b6bb0d-3089-46f1-9cc3-c6a70b9eb098"
-      },
-      "buildKey": "eef253092e9d6dd5ac13be743cb6ad4f",
-      "cdnKey": "5d4245fca566fd382c7339a1e080cc03",
-      "definition": "0e5254715762d3a4161b1c5f1f085d06",
-      "keyRing": "",
-      "lastModified": "2026-10-06T19:30:45.000Z",
-      "path": "tpr/auksv",
-      "pipelineId": 236,
-      "productConfig": {"cdnPath": "", "hash": "83b71c479610c4711f85a3ef40319b6e"},
-      "regions": [
-        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
-        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
-      ],
-      "versionNumber": 22371135,
-      "versionString": "1.0.1.22371135s"
+      "versionNumber": 29269881,
+      "versionString": "1.0.0.29269881d"
     }
   ],
   "infrastructure": false,

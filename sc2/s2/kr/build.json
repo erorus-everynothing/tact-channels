@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "B97563", "token": "982c2443-b8ef-455c-a60f-81e730d4bc99"},
-  "buildKey": "5bc8dcc1fade3a320c12936586b7c0ed",
-  "cdnKey": "d8aae9fce802373d9da50a2bec7b6040",
-  "definition": "f93cf3663793261e3c9a42765a6786db",
+  "build": {"name": "B98310", "token": "837cc3a7-fdd9-493d-918f-59ba35bbb28e"},
+  "buildKey": "1d231af579faf03e61a364722a3b87b4",
+  "cdnKey": "eb9a23dbf08380cce42cad754cf47b24",
+  "definition": "e196a1d27ee420a1d642d0ec6a115560",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:55.000Z",
+  "lastModified": "2026-10-07T18:16:35.000Z",
   "path": "tpr/sc2",
   "pipelineId": 52,
   "productConfig": {"cdnPath": "", "hash": "0c241b7c4662aa04df68134b5ecdd181"},
-  "versionNumber": 97563,
-  "versionString": "5.0.16.97563"
+  "versionNumber": 98310,
+  "versionString": "5.0.17.98310"
 }

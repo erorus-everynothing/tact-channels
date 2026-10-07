@@ -23,28 +23,7 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["eu"],
-      "build": {"name": "B97563", "token": "982c2443-b8ef-455c-a60f-81e730d4bc99"},
-      "buildKey": "5bc8dcc1fade3a320c12936586b7c0ed",
-      "cdnKey": "d8aae9fce802373d9da50a2bec7b6040",
-      "definition": "e2377df160e7582acd019a8b23bd1c77",
-      "keyRing": "",
-      "lastModified": "2026-10-06T19:31:22.000Z",
-      "path": "tpr/sc2",
-      "pipelineId": 52,
-      "productConfig": {"cdnPath": "", "hash": "0c241b7c4662aa04df68134b5ecdd181"},
-      "regions": [
-        {"branches": ["cn"], "cdns": "3598b2604a265c20226f1e451053089d"},
-        {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
-        {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
-        {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
-      ],
-      "versionNumber": 97563,
-      "versionString": "5.0.16.97563"
-    },
-    {
-      "armadilloKey": "",
-      "branches": ["kr", "tw", "us"],
+      "branches": ["eu", "kr", "tw", "us"],
       "build": {"name": "B98310", "token": "837cc3a7-fdd9-493d-918f-59ba35bbb28e"},
       "buildKey": "1d231af579faf03e61a364722a3b87b4",
       "cdnKey": "eb9a23dbf08380cce42cad754cf47b24",

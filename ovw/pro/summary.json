@@ -33,17 +33,17 @@
     {
       "armadilloKey": "",
       "branches": ["nexon"],
-      "build": {"name": "prometheus-2_25_0_0-154352-KR-NGSX-BNET", "token": "40dfb12e-0e9e-446a-af32-340a8a3e9592"},
-      "buildKey": "6c6bb455ccaca99925b5367cdcfbbd09",
-      "cdnKey": "a7020c5acded3b1fdc9d8dc88b36fc68",
-      "definition": "dd7cc167ced1794364383d71d84ab4eb",
+      "build": {"name": "prometheus-2_25_0_0-154461-KR-NGSX-BNET", "token": "0e612209-840b-4f6c-95ed-03231210254d"},
+      "buildKey": "55d08c0e15ced0c2066314bfd30bda7a",
+      "cdnKey": "c3fcf2a11f2638cfdb16c6554e389b72",
+      "definition": "37d6e94c9ce56ae0c5e814ef1598ed2a",
       "keyRing": "3dabb1bf65a3a797ccc6eff63c51b509",
-      "lastModified": "2026-10-06T18:00:34.000Z",
+      "lastModified": "2026-10-07T03:04:23.000Z",
       "path": "tpr/ovw",
       "pipelineId": 43,
       "productConfig": {"cdnPath": "", "hash": "d7a387e0a9e5d95db9d51dd212d3084c"},
-      "versionNumber": 154352,
-      "versionString": "2.25.0.0.154352KB"
+      "versionNumber": 154461,
+      "versionString": "2.25.0.0.154461KB"
     }
   ],
   "infrastructure": false,

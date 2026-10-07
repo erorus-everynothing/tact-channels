@@ -3,17 +3,17 @@
     {
       "armadilloKey": "",
       "branches": ["cn", "eu", "kr", "tw", "us"],
-      "build": {"name": "WOW-69110patch2.5.6_ClassicPTR", "token": "65503468-0e38-42fe-bc5c-cb9a0a0acc75"},
-      "buildKey": "03edf6c8d7e42bd9b5438522c05938b6",
-      "cdnKey": "9ebeb44997a9ed360a77452cae9cb64d",
-      "definition": "adcb76c160f8070702594a82d5beeff9",
+      "build": {"name": "WOW-70006patch2.5.6_ClassicPTR", "token": "5ccaa825-58f8-497d-b392-d43f0738231d"},
+      "buildKey": "aedfea3d99ab76b4ba2a07cc0951b5b6",
+      "cdnKey": "26b68e5ddb5ae3011a84c41062da2efb",
+      "definition": "43c66b194ba5a5dc9ad4291659403121",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:30:13.000Z",
+      "lastModified": "2026-10-07T00:33:24.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
       "productConfig": {"cdnPath": "", "hash": "078e6fc7e9562636d078c827b9a59547"},
-      "versionNumber": 69110,
-      "versionString": "2.5.6.69110"
+      "versionNumber": 70006,
+      "versionString": "2.5.6.70006"
     }
   ],
   "infrastructure": false,

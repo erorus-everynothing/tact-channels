@@ -37,19 +37,19 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "trunk_24911873_sat_br_seasonal_250_bnet_v10_dev",
-        "token": "6abc3ed8-5210-4bbf-9057-85112afb1334"
+        "name": "main_29371391_cod25_sep_ejected_bnet_v10_dev",
+        "token": "9f66355c-994f-4b03-aba4-e1e12ff761bb"
       },
-      "buildKey": "9060f6d5da3771e1fcb6b9d084a79393",
-      "cdnKey": "5437959851ed6386346ebc262b0468a0",
-      "definition": "c78c0ccef410f2d04d51ff3d9da92e23",
+      "buildKey": "312eea224b448225594b9006e731cb76",
+      "cdnKey": "ef1b1a9d2bf83b37445ac8b432e241a8",
+      "definition": "0044773043d2251caf5c5d99710d0213",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:56.000Z",
+      "lastModified": "2026-10-07T17:59:45.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "bea2f845dd3cb6bc01a05aad925f67bb"},
-      "versionNumber": 24911873,
-      "versionString": "0.0.0.24911873d"
+      "versionNumber": 29371391,
+      "versionString": "0.0.0.29371391d"
     }
   ],
   "infrastructure": false,

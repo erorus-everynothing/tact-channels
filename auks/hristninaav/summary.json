@@ -9,12 +9,16 @@
       },
       "buildKey": "c9c3e37e97efc6ec4e5b8f030968980a",
       "cdnKey": "b46352e798cf00bd70b5a98bbad0ab2d",
-      "definition": "97a8ca353555c0aa8868170f75b669e4",
+      "definition": "c81fef4d6695b51a78e29d94f0cc94c5",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:08.000Z",
+      "lastModified": "2026-10-06T19:31:02.000Z",
       "path": "tpr/ninav",
       "pipelineId": 372,
       "productConfig": {"cdnPath": "", "hash": "c52e472ef6ee5f9d24776878111964e9"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 23124338,
       "versionString": "0.0.0.23124338s"
     }

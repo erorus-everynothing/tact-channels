@@ -3,12 +3,16 @@
   "build": {"name": "etu_19274610_cod23_tus5_5_1_bnet_v15_dev", "token": "93eaaa7e-0d1d-4540-8847-e26eeea6b2b4"},
   "buildKey": "84f6c62b4bc67457fdb2921bf6599db5",
   "cdnKey": "d5c13d82b6826f98f4555f8a456567af",
-  "definition": "ca921517522ddf4a3db513e97b03690f",
+  "definition": "02ad1c97e43d1187631010fee9ceb149",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:13.000Z",
+  "lastModified": "2026-10-06T19:31:04.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
   "productConfig": {"cdnPath": "", "hash": "794b7752524b66dc654ade0d430f156d"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+  ],
   "versionNumber": 19274610,
   "versionString": "0.0.1.19274610d"
 }

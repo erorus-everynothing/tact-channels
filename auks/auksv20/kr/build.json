@@ -3,12 +3,16 @@
   "build": {"name": "trunk_23950546_sat_ihv_bnet_v20_vendor", "token": "91eb6d39-9a20-480a-a01e-c003b4cf786c"},
   "buildKey": "dad3d2b7af756fee8904d0ee8b23ac86",
   "cdnKey": "dbb1ec8d97e93714bfb073e42cac2bd8",
-  "definition": "e468ff053a69ec7d76f341fb6249a7d4",
+  "definition": "0c4c3400874f924320c967823b4f02ad",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:34.000Z",
+  "lastModified": "2026-10-06T19:30:45.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
   "productConfig": {"cdnPath": "", "hash": "4c5951a3b414d6f2c5b1e5d50c8168ff"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+  ],
   "versionNumber": 23950546,
   "versionString": "0.0.3.23950546v"
 }

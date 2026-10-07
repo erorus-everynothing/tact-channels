@@ -3,12 +3,16 @@
   "build": {"name": "18799431_27_06_valkyrie_dev2", "token": "f3b3f8df-ad3a-489f-ab2d-63dd5eb855fb"},
   "buildKey": "702c5fd7a27aedde0cafd200975b7d8b",
   "cdnKey": "91ce84d2e2ded979ebc960a49f5bd4ae",
-  "definition": "5f53dd7d0ebd1463789832ce556894c1",
+  "definition": "4a7ecfffb8fe513e803874339e43eaf1",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:41.000Z",
+  "lastModified": "2026-10-06T19:31:16.000Z",
   "path": "moon/moonvb",
   "pipelineId": 290,
   "productConfig": {"cdnPath": "", "hash": "91e284bce75e261242e261348dbd34a6"},
+  "regions": [
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"},
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"}
+  ],
   "versionNumber": 20167000,
   "versionString": "0.0.0.20167000d"
 }

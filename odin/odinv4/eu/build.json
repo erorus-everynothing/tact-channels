@@ -3,12 +3,16 @@
   "build": {"name": "magmarel_13119180_tu_wz360_11_2_dwl_bv4_dev", "token": "caa0dd5c-74be-476b-8bcd-50e440964439"},
   "buildKey": "51e4a12bc9b362c4fea09764ee83dfe7",
   "cdnKey": "662113a2e28174dacff59d615613038c",
-  "definition": "e21f5b55f6616ef46f302844485d27ad",
+  "definition": "89d0a7f9c73e044badbbab097ff9083d",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:23.000Z",
+  "lastModified": "2026-10-06T19:31:09.000Z",
   "path": "tpr/odinv",
   "pipelineId": 192,
   "productConfig": {"cdnPath": "", "hash": "0ebc1d04bc266015a359def698d08000"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "96a32bfd4f71c803c165e14e74b47aa9"},
+    {"branches": ["us"], "cdns": "20549aa6a072ba2469e628653d82b20e"}
+  ],
   "versionNumber": 13119181,
   "versionString": "1.64.0.13119180d"
 }

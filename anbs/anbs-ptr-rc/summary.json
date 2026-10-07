@@ -6,12 +6,16 @@
       "build": {"name": "1234567_000_dev_empty_row", "token": "ac4de405-510a-4533-86db-8610e40efc7c"},
       "buildKey": "98482c18166e36311ce502e3ef491869",
       "cdnKey": "8c01bd5fcdb61a89e2d6da462f8653ec",
-      "definition": "f0ee15bf3235d5b4114cac272f18fc57",
+      "definition": "596beabdf8a7c7899ffb50834a90e719",
       "keyRing": "0c5fe6db364bb93d9b03a22a3cad8b48",
-      "lastModified": "2026-08-25T16:28:23.000Z",
+      "lastModified": "2026-10-06T19:30:40.000Z",
       "path": "tpr/anbsrcbm",
       "pipelineId": 374,
       "productConfig": {"cdnPath": "", "hash": "8ad90be9524611c31f729f2cf0fc4cc9"},
+      "regions": [
+        {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
+        {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"}
+      ],
       "versionNumber": 1234567,
       "versionString": "0.0.0.1234567"
     }

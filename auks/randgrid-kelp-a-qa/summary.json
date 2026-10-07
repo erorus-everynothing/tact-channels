@@ -9,12 +9,16 @@
       },
       "buildKey": "ac336405d7a6c40e3d8666b423e9c028",
       "cdnKey": "c74c720d7ca3e86fe681cd11a5a815e7",
-      "definition": "856fb666849be9c8f7927ab554cf9e0e",
+      "definition": "3d2644f315492f87640b7bcebe2a630a",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:34.000Z",
+      "lastModified": "2026-10-06T19:31:14.000Z",
       "path": "tpr/kelpv",
       "pipelineId": 416,
       "productConfig": {"cdnPath": "", "hash": "d332b14c604cb8bee7e46085afb2aed0"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 27589122,
       "versionString": "1.0.3.27589122d"
     }

@@ -3,12 +3,16 @@
   "build": {"name": "release_26821066_sat_ihv_bnet_v19_vendor", "token": "6a528a74-84e9-4737-9f00-3b32c2f32c81"},
   "buildKey": "57f307ce5ef173fd40dc2115de4722ea",
   "cdnKey": "567dbedd82d9631e4d757a3ded8c25b6",
-  "definition": "48ab7295dbbf63c91208b13482940693",
+  "definition": "bbba98c33c22d775b9c310443b44aaf5",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:59.000Z",
+  "lastModified": "2026-10-06T19:31:24.000Z",
   "path": "tpr/sagev",
   "pipelineId": 304,
   "productConfig": {"cdnPath": "", "hash": "1a4e38b64495c4ca6c56a63138ba4437"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
+    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+  ],
   "versionNumber": 26821066,
   "versionString": "0.0.0.26821066d"
 }

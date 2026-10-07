@@ -3,12 +3,16 @@
   "build": {"name": "release_29182605_cod26_tu1_bnet_v6_dev", "token": "d924efa7-c568-4736-b3ce-58b428fb0ccd"},
   "buildKey": "8eef0ced4c428cf6e2c5abc00bd0f270",
   "cdnKey": "20a85d950442d46f84afdc1a9619d5e4",
-  "definition": "e2bcd9ada2a4034cc89690b5bba39dc0",
+  "definition": "67a25bfcc9a95d0212f1cce1b17e4323",
   "keyRing": "",
-  "lastModified": "2026-09-24T23:36:52.000Z",
+  "lastModified": "2026-10-06T19:30:46.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
   "productConfig": {"cdnPath": "", "hash": "a58677f4ce84ceb38e45f3e269c86df8"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+  ],
   "versionNumber": 29182605,
   "versionString": "1.21.0.29182605d"
 }

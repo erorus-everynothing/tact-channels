@@ -3,12 +3,16 @@
   "build": {"name": "1234567_000_dev_empty_row", "token": "ac4de405-510a-4533-86db-8610e40efc7c"},
   "buildKey": "58ec40a83e0cd50e729f67e3eb8aca2d",
   "cdnKey": "1f04537114a72964e16a2476081633ff",
-  "definition": "1f7ab89054f85433c2c2346518d5c6a9",
+  "definition": "ce2c1a567830cd3c74eae11b8dba02be",
   "keyRing": "ee10849edc26b4c293494872f66a0191",
-  "lastModified": "2026-08-25T16:28:22.000Z",
+  "lastModified": "2026-10-06T19:30:39.000Z",
   "path": "tpr/anbsdevbm",
   "pipelineId": 373,
   "productConfig": {"cdnPath": "", "hash": "b60fc57eadea462140d0d672613e895c"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"},
+    {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}
+  ],
   "versionNumber": 1234567,
   "versionString": "0.0.0.1234567"
 }

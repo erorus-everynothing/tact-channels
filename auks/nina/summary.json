@@ -9,12 +9,17 @@
       },
       "buildKey": "2129d73b1f2cdd7c2bcd569455a739fa",
       "cdnKey": "7c0c36a1b9c0a6b3eacb868bdc2e19c9",
-      "definition": "a5aa081647743d59fe45a53929dd94bf",
+      "definition": "5a30770a05b005f98920e0bd0ace8443",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:19.000Z",
+      "lastModified": "2026-10-06T19:31:07.000Z",
       "path": "tpr/nina",
       "pipelineId": 387,
       "productConfig": {"cdnPath": "", "hash": "c1319ac3beab3aacb76a91dfa2315217"},
+      "regions": [
+        {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
+        {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
+        {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
+      ],
       "versionNumber": 27582470,
       "versionString": "2.2.0.27582470"
     }

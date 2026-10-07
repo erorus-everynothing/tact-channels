@@ -6,12 +6,16 @@
   },
   "buildKey": "ba88b27fb759c1f7eb3fe36a0659ab5d",
   "cdnKey": "402740a6b6c5bbe7eb0defdfd520535c",
-  "definition": "aa6dc3dcb7b4c9f732a73eee7f9e615c",
+  "definition": "7b1e80e2b3d81d996b21c10d87c148f5",
   "keyRing": "",
-  "lastModified": "2026-09-21T20:53:32.000Z",
+  "lastModified": "2026-10-06T19:30:45.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
   "productConfig": {"cdnPath": "", "hash": "29482e791cd281f18d23c1a1707e6b30"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+  ],
   "versionNumber": 28787707,
   "versionString": "2.14.2.28787707d"
 }

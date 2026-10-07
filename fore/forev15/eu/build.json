@@ -6,12 +6,16 @@
   },
   "buildKey": "a790f97cfb2b4e7f5299c824fe752f99",
   "cdnKey": "b0dcfff32946c30c95e000f61aec18f1",
-  "definition": "dbe27d3a11ba002613fbc547a8648ce5",
+  "definition": "915b118941b98aa4207884add5e22b52",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:59.000Z",
+  "lastModified": "2026-10-06T19:30:58.000Z",
   "path": "tpr/forev",
   "pipelineId": 219,
   "productConfig": {"cdnPath": "", "hash": "e625c64cd48f48e75b4a5258b5e4cbec"},
+  "regions": [
+    {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
+    {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"}
+  ],
   "versionNumber": 11712930,
   "versionString": "1.12.0.11712930d"
 }

@@ -9,12 +9,16 @@
       },
       "buildKey": "1d866797b2c72b7fe42cc824f5d7ef89",
       "cdnKey": "a771965216eb2f56f6f8eac587bef07b",
-      "definition": "f21ffa58726e7af6853328f59d6a366e",
+      "definition": "c87974b65803d23d29cc45d1f5fd72f2",
       "keyRing": "",
-      "lastModified": "2026-09-17T11:18:42.000Z",
+      "lastModified": "2026-10-06T19:31:20.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "623340fdfb3c86b066eb3442adc13ed4"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 29016169,
       "versionString": "0.0.0.29016169d"
     },
@@ -27,12 +31,16 @@
       },
       "buildKey": "57e948114c61346d2f201d78be5998ff",
       "cdnKey": "238855a6d5a6ac9a8bea3b68ded31784",
-      "definition": "90f1acf2d32d4a785c230e4d7591f5b7",
+      "definition": "dea5b17fd71bfd987064e8ca35635b89",
       "keyRing": "",
-      "lastModified": "2026-10-03T00:34:04.000Z",
+      "lastModified": "2026-10-06T19:31:20.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "6ae831a4498558b167453cb3e44b2939"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 29307246,
       "versionString": "0.0.0.29307246d"
     },
@@ -42,12 +50,16 @@
       "build": {"name": "cert_29232569_cod26_tu1_bnet_v24_dev", "token": "288c175d-373f-41af-abdc-213531538f74"},
       "buildKey": "d3d75b0bcba7734a4922657ebcfcfbb1",
       "cdnKey": "a42b17ebff6b1fef0331f484cd4e7e02",
-      "definition": "ebedabc7f3bb50c2c69b84abe4568ef2",
+      "definition": "cfed2691c25a7a8a5bb487b330075cea",
       "keyRing": "",
-      "lastModified": "2026-09-29T23:28:04.000Z",
+      "lastModified": "2026-10-06T19:31:20.000Z",
       "path": "tpr/rosevb",
       "pipelineId": 356,
       "productConfig": {"cdnPath": "", "hash": "6ae831a4498558b167453cb3e44b2939"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 29232569,
       "versionString": "0.0.0.29232569d"
     }

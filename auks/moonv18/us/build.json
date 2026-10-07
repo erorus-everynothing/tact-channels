@@ -3,12 +3,16 @@
   "build": {"name": "main_19534970_jup_full_bnet_v18_dev", "token": "0e9ea3dc-b5e1-487b-b120-8cac2cfcdeb9"},
   "buildKey": "231a495f536f97995ff3628bdd9d957d",
   "cdnKey": "249d07d0ad56b0fb7755f3f276599680",
-  "definition": "53996feefe2c3cd569dccf7936b9bd81",
+  "definition": "2ccd0f1981bc7b0eb3e3490e179f6ce5",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:14.000Z",
+  "lastModified": "2026-10-06T19:31:05.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
   "productConfig": {"cdnPath": "", "hash": "ed659589a9e30de043a20db18b19ff59"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+  ],
   "versionNumber": 19534970,
   "versionString": "0.0.0.19534970d"
 }

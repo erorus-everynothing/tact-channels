@@ -6,12 +6,13 @@
       "build": {"name": "bdk_1.4.1", "token": "52933c0a-bc9f-4206-b48b-9eb3a7582105"},
       "buildKey": "6c91881c1075050c57ab42289541a8d8",
       "cdnKey": "0b0dad94e2ae87df3fc7d4ca11370caa",
-      "definition": "f9da0481c246c92fc5cdbbf4ba49d8c4",
+      "definition": "37f479609936c51c9cb4b4050b733435",
       "keyRing": "5207a6f67faccd149307da5381c76335",
-      "lastModified": "2026-08-25T18:46:22.000Z",
+      "lastModified": "2026-10-06T19:30:47.000Z",
       "path": "tpr/bdkorc",
       "pipelineId": 395,
       "productConfig": {"cdnPath": "", "hash": "e992697f2dd3b79d965eb5cb97296f2b"},
+      "regions": [],
       "versionNumber": 126481,
       "versionString": "Battle.net Development Kit 1.4.1"
     }

@@ -6,12 +6,17 @@
       "build": {"name": "prometheus-2_24_1_1-153619-prodemo4", "token": "cf3519e0-2328-440e-96ab-469f05dede65"},
       "buildKey": "eeb68fd3c85f3523055f76db99cc03cf",
       "cdnKey": "abd67d403ab1da68c5caac5f8e44b294",
-      "definition": "6bbc2d695fd0179270777bcb532cb2fe",
+      "definition": "df1df99358f92748c82a32bf106ab097",
       "keyRing": "",
-      "lastModified": "2026-09-28T22:17:04.000Z",
+      "lastModified": "2026-10-06T19:31:12.000Z",
       "path": "tpr/proe/3",
       "pipelineId": 300,
       "productConfig": {"cdnPath": "", "hash": "1b6c7cde042bf6b4be50485b9cf7dcd4"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "40a3feb55a2626f3b3145db3111a2523"},
+        {"branches": ["tw", "us"], "cdns": "757e7b7e95a90045be37e99daf9f9421"},
+        {"branches": ["kr"], "cdns": "30688aadb39751365a4b22cbfd74959b"}
+      ],
       "versionNumber": 153619,
       "versionString": "2.24.1.1.153619"
     }

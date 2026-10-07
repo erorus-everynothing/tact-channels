@@ -3,12 +3,16 @@
   "build": {"name": "trunk_27167058_sat_clean_launch_bnet_v10_dev", "token": "07c7b89a-b53e-482d-856d-d32880eee910"},
   "buildKey": "671592af6abf76641aa3c0e8bc9e8347",
   "cdnKey": "fba8e3629694b97db909f3a4dfb2f055",
-  "definition": "ad91e9cf1d6f5d68e004094d5d524e46",
+  "definition": "c91665389772deda758a5e4784e9667e",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:30.000Z",
+  "lastModified": "2026-10-06T19:30:43.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
   "productConfig": {"cdnPath": "", "hash": "ed552f78a4912142ccd91c2f25e89305"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+  ],
   "versionNumber": 27167058,
   "versionString": "1.0.0.27167058d"
 }

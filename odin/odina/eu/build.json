@@ -3,12 +3,13 @@
   "build": {"name": "task-alpha_7016125_v5_signed_ship", "token": ""},
   "buildKey": "cba689d591244c2c68583871c4402f5f",
   "cdnKey": "6e77848356818145894360c09319315f",
-  "definition": "3af1f30b95c95737e491c1e8d694889d",
+  "definition": "0fae63f9de5bc1b0984b4a16421a1947",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:20.000Z",
+  "lastModified": "2026-10-06T19:31:08.000Z",
   "path": "tpr/odind",
   "pipelineId": 190,
   "productConfig": {"cdnPath": "", "hash": "0b538eab4ba1f8b141bc55f713ad2027"},
+  "regions": [{"branches": ["eu", "us"], "cdns": "c782c27da917dfab34881294ce6f682e"}],
   "versionNumber": 7016125,
   "versionString": "0.01.0.7016125"
 }

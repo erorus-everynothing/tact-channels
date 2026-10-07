@@ -6,12 +6,16 @@
   },
   "buildKey": "26432b4f912e91cd30e8b89be131eca2",
   "cdnKey": "50aea08ab95f6edefccabaee19987e1f",
-  "definition": "60c4e1381eeab865e26b901875c7b41d",
+  "definition": "bcac62d55235b36f4672cdf517113bec",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:25.000Z",
+  "lastModified": "2026-10-06T19:31:10.000Z",
   "path": "tpr/odinv",
   "pipelineId": 192,
   "productConfig": {"cdnPath": "", "hash": "b502c7eb6e4e9965b29de100dde6bcd3"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "96a32bfd4f71c803c165e14e74b47aa9"},
+    {"branches": ["us"], "cdns": "20549aa6a072ba2469e628653d82b20e"}
+  ],
   "versionNumber": 11116736,
   "versionString": "1.51.1.11116736p"
 }

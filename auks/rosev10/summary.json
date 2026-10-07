@@ -9,12 +9,16 @@
       },
       "buildKey": "40a88ab6e6e84236a8d1a53457aa9561",
       "cdnKey": "bc3435611357dbc7deba599e5e309bd9",
-      "definition": "a4504602f779541c8b005f1aa0bfa76a",
+      "definition": "3639054322040c46b473689976800315",
       "keyRing": "",
-      "lastModified": "2026-10-07T18:03:03.000Z",
+      "lastModified": "2026-10-07T18:10:40.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "95bcf52a9b6269cc689fe6b309288c09"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 29375508,
       "versionString": "0.0.1.29375508d"
     },
@@ -27,12 +31,16 @@
       },
       "buildKey": "f111c621eb7cc47ff8cb23c4bd5844e4",
       "cdnKey": "2595a2be7b5ba1f8c483335043824174",
-      "definition": "8a3a3068d16024f47b5374f1ca35c4f0",
+      "definition": "e9ca5cc03c47cd384d0807eb99b1576c",
       "keyRing": "",
-      "lastModified": "2026-10-05T19:18:54.000Z",
+      "lastModified": "2026-10-06T19:31:17.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "95bcf52a9b6269cc689fe6b309288c09"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 29336254,
       "versionString": "0.0.1.29336254d"
     },
@@ -45,12 +53,16 @@
       },
       "buildKey": "669a8c9a21553cd2bd195f0da84c863f",
       "cdnKey": "2b8f6c119f95ea5deaa870b19c0d40ee",
-      "definition": "d4287a8e54d998ac1bc42fcf5df2faa7",
+      "definition": "30844e8132ff555c08d43184d0cc2a0d",
       "keyRing": "",
-      "lastModified": "2026-10-07T15:14:25.000Z",
+      "lastModified": "2026-10-07T15:20:41.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "0ecf2b47db2584a8a0ddc0c83a21fbf3"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 29375508,
       "versionString": "0.0.0.29375508s"
     }

@@ -3,12 +3,16 @@
   "build": {"name": "spmain_20091410_cer_locs_bnet_v8_dev", "token": "578d15d7-4ccf-4d82-8b01-7be6ebb63673"},
   "buildKey": "387d7d27d5b72329353dfbcf80cbeac9",
   "cdnKey": "20eebfa318a2346b785d6b28ba3252cd",
-  "definition": "f7eb3d5cedfd4801c807389eb8e1c0a6",
+  "definition": "33568633942a89afc2729055dc27687d",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:48.000Z",
+  "lastModified": "2026-10-06T19:30:52.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
   "productConfig": {"cdnPath": "", "hash": "10f748797d6fdf61bd65c94b7159d7f8"},
+  "regions": [
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"},
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"}
+  ],
   "versionNumber": 20091410,
   "versionString": "0.0.0.20091410d"
 }

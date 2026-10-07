@@ -3,12 +3,13 @@
   "build": {"name": "6005768-Tiger", "token": ""},
   "buildKey": "29c661ae76a29d737ab6962018e884d5",
   "cdnKey": "4dd23b6973b5b93a43d9ee7b58ac6ffc",
-  "definition": "928ad4b8ff03346ab1d3291a75423dda",
+  "definition": "dbf93510cd9c9c0e10dc337651e27524",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:54.000Z",
+  "lastModified": "2026-10-06T19:30:56.000Z",
   "path": "tpr/dst2dev",
   "pipelineId": 136,
   "productConfig": {"cdnPath": "", "hash": "e5419b4ee1a0cace0339b2875ca915cb"},
+  "regions": [],
   "versionNumber": 6005768,
   "versionString": "6005768-Takehome"
 }

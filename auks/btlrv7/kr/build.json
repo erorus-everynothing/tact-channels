@@ -3,12 +3,16 @@
   "build": {"name": "main_23813036_cer_clean_bnet_v7_dev", "token": "962553dd-d81d-4e85-94cb-e21ad1697026"},
   "buildKey": "6ac096e1fa1317bfc2768aaab4460b5a",
   "cdnKey": "12b6a06b2b5ccebbbaaa6f38adfbe3e0",
-  "definition": "7fac4cc64356f230d62ca765d524ee79",
+  "definition": "b4c5a613ef62af1ad5e7a58ddc9c115a",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:47.000Z",
+  "lastModified": "2026-10-06T19:30:52.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
   "productConfig": {"cdnPath": "", "hash": "cab3a4a5e2f77cf8168692e696418171"},
+  "regions": [
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"},
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"}
+  ],
   "versionNumber": 23813036,
   "versionString": "0.0.0.23813036d"
 }

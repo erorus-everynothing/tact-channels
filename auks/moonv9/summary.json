@@ -6,12 +6,16 @@
       "build": {"name": "release_22781699_zul_gl_bnet_v9_dev", "token": "7d475fdb-fbf2-4095-b42c-b30d4df17032"},
       "buildKey": "a79199deefaffb217fd2342c2cf60989",
       "cdnKey": "ad1324944cee41115898f608ea86de50",
-      "definition": "8f42211ddfa89cec0983b76e8303c279",
+      "definition": "29b05ad6c98e0bbbb36298f3d80e0c96",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:19.000Z",
+      "lastModified": "2026-10-06T19:31:07.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
       "productConfig": {"cdnPath": "", "hash": "f87b246df245641a2e11204e63456695"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+      ],
       "versionNumber": 22781699,
       "versionString": "0.0.0.22781699d"
     },
@@ -21,12 +25,16 @@
       "build": {"name": "trunk_23031225_zul_full_bnet_v9_dev", "token": "956e5b89-f9cb-4117-bdb9-f278814f4630"},
       "buildKey": "977d1fee7bc8e5bb2477e0f1c0785c1b",
       "cdnKey": "9d1d6993e85e486fc176def25be01fd5",
-      "definition": "9db6ad44541c97842c5c99a8d8810f40",
+      "definition": "0b1f41ceda32f7d8cf181d0097ae8819",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:19.000Z",
+      "lastModified": "2026-10-06T19:31:07.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
       "productConfig": {"cdnPath": "", "hash": "f87b246df245641a2e11204e63456695"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+      ],
       "versionNumber": 23031225,
       "versionString": "0.0.0.23031225d"
     },
@@ -36,12 +44,16 @@
       "build": {"name": "release_22760639_zul_gl_bnet_v9_dev", "token": "aff3cd0c-13fd-4615-90ac-2750a6bce56c"},
       "buildKey": "516059d67f7d615a5a330a8f2669e30b",
       "cdnKey": "24111c8baf0a9e7de950f165164603a2",
-      "definition": "cb8e0ac2655085eca619088e11c98e75",
+      "definition": "da3801a777e80e33dc05fe12c5ab366f",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:19.000Z",
+      "lastModified": "2026-10-06T19:31:07.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
       "productConfig": {"cdnPath": "", "hash": "f87b246df245641a2e11204e63456695"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+      ],
       "versionNumber": 22760639,
       "versionString": "0.0.0.22760639d"
     }

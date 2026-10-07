@@ -6,12 +6,16 @@
   },
   "buildKey": "679e32cb14697465d3d63b4173e492ec",
   "cdnKey": "3c964ac79e5a9ec8e2acba3cf4d8a3b0",
-  "definition": "4197f62d9c3a7eb2caba78e708af5772",
+  "definition": "9f63723d1311109a0fa917d5c070eb38",
   "keyRing": "",
-  "lastModified": "2026-09-11T22:46:43.000Z",
+  "lastModified": "2026-10-06T19:31:18.000Z",
   "path": "tpr/rosev",
   "pipelineId": 302,
   "productConfig": {"cdnPath": "", "hash": "5a917b7ce5e39fc975c755f18d24a785"},
+  "regions": [
+    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+  ],
   "versionNumber": 28919213,
   "versionString": "0.0.0.28919213d"
 }

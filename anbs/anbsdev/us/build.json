@@ -3,12 +3,13 @@
   "build": {"name": "3901109_511_dev_tact_row", "token": "bfde2fde-9c91-4fd2-91a7-9e844f541fd2"},
   "buildKey": "a1019282eff4891246bb8b5e85707596",
   "cdnKey": "fc7109b0a496122e78a55700c208aed7",
-  "definition": "eab0f0a4347a8e8aed1f4991d359c0ba",
+  "definition": "b5034811bb53b1066c18d77a128d3137",
   "keyRing": "",
-  "lastModified": "2026-09-30T09:07:12.000Z",
+  "lastModified": "2026-10-06T19:30:40.000Z",
   "path": "tpr/anbsdev",
   "pipelineId": 262,
   "productConfig": {"cdnPath": "", "hash": "a27720069328eaf95569fe3f4c5a02fa"},
+  "regions": [{"branches": ["eu", "us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
   "versionNumber": 3901109,
   "versionString": "5.1.1.3901109"
 }

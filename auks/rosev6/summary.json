@@ -6,12 +6,16 @@
       "build": {"name": "cert_29269881A_cod26_tu1_signed_bnet_v6_dev", "token": "1889d430-3460-4e8f-9105-c00ebbb685f2"},
       "buildKey": "aeeadc1ac0808da22b93267d6eee018b",
       "cdnKey": "4e98ef5446b2549c183b00e3a57850f4",
-      "definition": "8a1705afd73d03d56c6082c1aede777d",
+      "definition": "81901228f6eea7e9e86418c7ca1d8a5e",
       "keyRing": "",
-      "lastModified": "2026-10-06T13:24:03.000Z",
+      "lastModified": "2026-10-06T19:31:21.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "2c2146d1c5340b34dc953bf8b1ba0e8b"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 29269881,
       "versionString": "0.0.3.29269881d"
     },
@@ -21,12 +25,16 @@
       "build": {"name": "cert_29261340_cod26_tu1_bnet_v6_dev", "token": "20d6bcaa-30dd-4976-85f4-268b278dfb97"},
       "buildKey": "4ec06623c5d00b9b334de0a64b1e9a71",
       "cdnKey": "2c0e0b2dc7c47951cf3afded55c4dd1c",
-      "definition": "0b1eeaed5d0c84343d0287b462a1274c",
+      "definition": "a01f6394dd17ae8f32a3a540de1a11a8",
       "keyRing": "",
-      "lastModified": "2026-09-30T13:39:15.000Z",
+      "lastModified": "2026-10-06T19:31:21.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "2c2146d1c5340b34dc953bf8b1ba0e8b"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 29261340,
       "versionString": "0.0.0.29261340d"
     },
@@ -39,12 +47,16 @@
       },
       "buildKey": "aa8813a517f5c901e83bb8c2bc40711b",
       "cdnKey": "c121b6d0d8c449b8f7e29f2ccb6fbd22",
-      "definition": "2ad4849f847fcbf5d01a2d4fb4828f4a",
+      "definition": "0d257796dca9220dd77fdd930410d395",
       "keyRing": "",
-      "lastModified": "2026-10-06T13:24:03.000Z",
+      "lastModified": "2026-10-06T19:31:21.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "1fe1ce09641417617e492154d2cf4d65"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 29269881,
       "versionString": "0.0.2.29269881s"
     }

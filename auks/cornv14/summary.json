@@ -6,12 +6,16 @@
       "build": {"name": "trunk_29290311_zul_3m_bnet_v14_dev", "token": "015aaab9-e446-4fc7-a2d6-a2789c72ab0c"},
       "buildKey": "d24d13366ed60756f386e2ffe4107238",
       "cdnKey": "7714ecbdc4261ecb296395e316eccc4c",
-      "definition": "5e003c2da98999604921fd80158f2fa4",
+      "definition": "39c0416c3a6ecdf116d4fc5a050574cd",
       "keyRing": "",
-      "lastModified": "2026-10-01T17:04:23.000Z",
+      "lastModified": "2026-10-06T19:30:55.000Z",
       "path": "tpr/cornv",
       "pipelineId": 376,
       "productConfig": {"cdnPath": "", "hash": "157859ad60cca2f9650a39291c1d6bfb"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+      ],
       "versionNumber": 29290311,
       "versionString": "0.0.0.29290311d"
     },
@@ -21,12 +25,16 @@
       "build": {"name": "trunk_29204585_zul_3m_bnet_v14_dev", "token": "a6fdc3a7-b4b9-4895-a704-0f228197529a"},
       "buildKey": "d4c72ea0b4b6832ac10b29160e19a2aa",
       "cdnKey": "6bc51d92c5dceaaf1a1790a72ec04c22",
-      "definition": "5c85129aa3b7625593822282334bc119",
+      "definition": "c30219a0076d959eb45a1c4699ab470e",
       "keyRing": "",
-      "lastModified": "2026-09-25T13:58:02.000Z",
+      "lastModified": "2026-10-06T19:30:55.000Z",
       "path": "tpr/cornv",
       "pipelineId": 376,
       "productConfig": {"cdnPath": "", "hash": "157859ad60cca2f9650a39291c1d6bfb"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+      ],
       "versionNumber": 29204585,
       "versionString": "0.0.0.29204585d"
     },
@@ -36,12 +44,16 @@
       "build": {"name": "release_27931354_zul_gl_bnet_v14_dev", "token": "5843937e-8601-454e-a7d1-7235e454db97"},
       "buildKey": "1eb4b004e57bc35f340936e75e371093",
       "cdnKey": "744bac3dc261a288b758103dbc7f921d",
-      "definition": "209ea4008e79d9f5caf18a9bcd19466f",
+      "definition": "f96e8e0a96fb3830d42d421a2bcacb12",
       "keyRing": "",
-      "lastModified": "2026-09-25T17:08:52.000Z",
+      "lastModified": "2026-10-06T19:30:55.000Z",
       "path": "tpr/cornv",
       "pipelineId": 376,
       "productConfig": {"cdnPath": "", "hash": "157859ad60cca2f9650a39291c1d6bfb"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+      ],
       "versionNumber": 27931354,
       "versionString": "0.0.0.27931354d"
     }

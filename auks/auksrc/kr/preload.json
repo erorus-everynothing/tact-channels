@@ -6,12 +6,16 @@
   },
   "buildKey": "32f6bc006bc24a38874fee6cb15276b9",
   "cdnKey": "da47e557c3afa702d4fdb98d755829af",
-  "definition": "e0ee5bb5c1687a9c776a7febf97f6b45",
+  "definition": "9dcd6b4c24ed7f6e77fb5f60a711e74a",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:29.000Z",
+  "lastModified": "2026-10-06T19:30:43.000Z",
   "path": "tpr/aukslrc",
   "pipelineId": 392,
   "productConfig": {"cdnPath": "", "hash": "b43823a3929fdd62500b56346f2010a1"},
+  "regions": [
+    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
+  ],
   "versionNumber": 27202940,
   "versionString": "0.0.0.27202940e"
 }

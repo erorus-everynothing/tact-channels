@@ -9,12 +9,13 @@
       },
       "buildKey": "fff25ad7e09e422e40bfb46d85c492b6",
       "cdnKey": "11470df0401f528493038ada257b05e1",
-      "definition": "2514a6e116c80693426c524a81240c6d",
+      "definition": "b202c21b544a3cdd0a53d214bf042c8b",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:28:29.000Z",
+      "lastModified": "2026-10-06T19:30:43.000Z",
       "path": "tpr/aukse",
       "pipelineId": 273,
       "productConfig": {"cdnPath": "", "hash": "61f82de3b5240bbf5893b75bb1f8aa96"},
+      "regions": [{"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
       "versionNumber": 27898773,
       "versionString": "3.12.1.27898773ce"
     }

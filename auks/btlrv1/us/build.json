@@ -6,12 +6,16 @@
   },
   "buildKey": "92e5aa792ff62cdb1eb56eccd65acb3f",
   "cdnKey": "d8ee62fe6e83296020f8180bbb2d5164",
-  "definition": "683a2cd1cd4eec7b7d6289d7ef165f8b",
+  "definition": "30f9137b6f3704a82a936740b90b576b",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:40.000Z",
+  "lastModified": "2026-10-06T19:30:48.000Z",
   "path": "tpr/btlrv",
   "pipelineId": 292,
   "productConfig": {"cdnPath": "", "hash": "e15e7411224db97a3faa0fa5aea9a205"},
+  "regions": [
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"},
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"}
+  ],
   "versionNumber": 27953690,
   "versionString": "0.0.1.27953690s"
 }

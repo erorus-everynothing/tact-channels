@@ -6,12 +6,13 @@
   },
   "buildKey": "4a8440befdad1fcc4f7d4ce7d2e51e2b",
   "cdnKey": "a7b9c44d2b956569747d6d0a7666e56e",
-  "definition": "da8c12c4abc7bcf7024aa1147b37550c",
+  "definition": "b9b58ddba5e5443ad0d77e46abc8a019",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:58.000Z",
+  "lastModified": "2026-10-06T19:30:58.000Z",
   "path": "tpr/foree",
   "pipelineId": 264,
   "productConfig": {"cdnPath": "", "hash": "3e76bcb3d627f9484372a877f9e7d91b"},
+  "regions": [{"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
   "versionNumber": 12510470,
   "versionString": "1.24.1.12510470"
 }

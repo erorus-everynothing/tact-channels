@@ -9,12 +9,16 @@
       },
       "buildKey": "da09dadab250d1525440fcb2f2e18dc8",
       "cdnKey": "a26b8950bc42c426feb21ed1237841a2",
-      "definition": "0da6bd0c351662aed9b76ba061f50b05",
+      "definition": "938af912c41200de9f6b9a07c9464561",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:21.000Z",
+      "lastModified": "2026-10-06T19:31:08.000Z",
       "path": "tpr/odinv",
       "pipelineId": 192,
       "productConfig": {"cdnPath": "", "hash": "26512c8b893e9bcc376c4cbfa586408f"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "96a32bfd4f71c803c165e14e74b47aa9"},
+        {"branches": ["us"], "cdns": "20549aa6a072ba2469e628653d82b20e"}
+      ],
       "versionNumber": 15967738,
       "versionString": "1.57.0.15967738d"
     },
@@ -24,12 +28,16 @@
       "build": {"name": "magma_11851697_dropmipch3_bv10_dev", "token": "9c668788-a591-47eb-885c-019d78bfd1a3"},
       "buildKey": "6abfc89e37a19afa038844cd8c8b778e",
       "cdnKey": "b4b7bc36a7c251efd8bad8179e30e6a2",
-      "definition": "35f38e35c64f1687e836ed135f27d01c",
+      "definition": "4c2e771ee13a5db01350e05c36945457",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:21.000Z",
+      "lastModified": "2026-10-06T19:31:08.000Z",
       "path": "tpr/odinv",
       "pipelineId": 192,
       "productConfig": {"cdnPath": "", "hash": "26512c8b893e9bcc376c4cbfa586408f"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "96a32bfd4f71c803c165e14e74b47aa9"},
+        {"branches": ["us"], "cdns": "20549aa6a072ba2469e628653d82b20e"}
+      ],
       "versionNumber": 11851697,
       "versionString": "1.50.0.11851697dd"
     }

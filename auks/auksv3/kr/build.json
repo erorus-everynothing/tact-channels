@@ -3,12 +3,16 @@
   "build": {"name": "main_15023493_autobuild_cp_iw9_v3_dev", "token": "3cf9618d-c52c-46aa-ba83-fa530f4c6853"},
   "buildKey": "0a79053078009b214390ee95edcd7559",
   "cdnKey": "ecce8c4aecce6d7040c195186872bdff",
-  "definition": "d9dbea6d43d0d9a4fdb2816e83cabdf9",
+  "definition": "48ad50975f9e99cd8eb8140c1aff7237",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:35.000Z",
+  "lastModified": "2026-10-06T19:30:45.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
   "productConfig": {"cdnPath": "", "hash": "cbcbbc0a4697ea3d0d79006eb5964cd9"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+  ],
   "versionNumber": 15023493,
   "versionString": "1.16.0.15023493d"
 }

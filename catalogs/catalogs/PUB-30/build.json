@@ -3,12 +3,18 @@
   "build": {"name": "a6173e979b19d55dcb8f64a38d28b3d1-5139", "token": "25afb9a5-9a6e-4d01-a6e6-a7f41a20d76d"},
   "buildKey": "82a0552945eb5602a43a039c9feb58c4",
   "cdnKey": "3ccb2f0ef0e1a55de368597cede4b364",
-  "definition": "26089a3118b28e101b4942d9e9d5d0e6",
+  "definition": "a8bc0b01e1160d8f6e0360e05139e918",
   "keyRing": "",
-  "lastModified": "2026-10-06T19:45:23.000Z",
+  "lastModified": "2026-10-06T19:50:39.000Z",
   "path": "tpr/catalogs",
   "pipelineId": 107,
   "productConfig": {"cdnPath": "", "hash": ""},
+  "regions": [
+    {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
+    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
+    {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
+  ],
   "versionNumber": 385,
   "versionString": "5139"
 }

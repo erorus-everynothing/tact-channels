@@ -9,12 +9,16 @@
       },
       "buildKey": "5d145e25c06b4082ba9f9f78d9e34ca7",
       "cdnKey": "648bd7fa9327524ed916cb09fe337f36",
-      "definition": "834a225f92ad94d93e265db4701f5165",
+      "definition": "023cbed2699c48d405d895895bfecea2",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:11.000Z",
+      "lastModified": "2026-10-06T19:31:03.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
       "productConfig": {"cdnPath": "", "hash": "595cd90af6ff227545e8c6acfade6853"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+      ],
       "versionNumber": 19373551,
       "versionString": "1.0.0.19373551d"
     },
@@ -24,12 +28,16 @@
       "build": {"name": "etu_16850993_cod23_tus1etu2_v1_ship", "token": "c2ff1d7a-fdf9-4dd6-b1fe-183ad20bfef6"},
       "buildKey": "19f3f429f39165fb897b02ee8794127d",
       "cdnKey": "c9bf883f00916ae947e5c47f27659a00",
-      "definition": "3edd67b20687a2cd006c6165792f3c1d",
+      "definition": "1f06d3abe556d00bde667187402a310b",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:11.000Z",
+      "lastModified": "2026-10-06T19:31:03.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
       "productConfig": {"cdnPath": "", "hash": "4b98253a7e067a88b05de54679ddc4a4"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+      ],
       "versionNumber": 16850993,
       "versionString": "0.3.0.16850993d"
     },
@@ -42,12 +50,16 @@
       },
       "buildKey": "dc01739e4f60f03af9b6c75df8d7165d",
       "cdnKey": "98f554c79c681b2626f08a34db9f082a",
-      "definition": "fe205b55020f9b56e77451a5969b6e66",
+      "definition": "70620072666ae9eee9bdbe45ea09799e",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:11.000Z",
+      "lastModified": "2026-10-06T19:31:03.000Z",
       "path": "moon/moonv",
       "pipelineId": 276,
       "productConfig": {"cdnPath": "", "hash": "4023176f7089330f74dc3ffa13a76b56"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+      ],
       "versionNumber": 19373551,
       "versionString": "1.0.0.19373551s"
     }

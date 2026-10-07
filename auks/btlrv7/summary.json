@@ -6,12 +6,16 @@
       "build": {"name": "main_23859064_cer_clean_bnet_v7_dev", "token": "e8744340-c60e-44e8-9191-6e20e49a185b"},
       "buildKey": "553202630125f586cbe6d0af42a614c2",
       "cdnKey": "fd8b31462fb05970f06bee61b85e7907",
-      "definition": "6d7b929f678efbef4b63e977833a6b19",
+      "definition": "91396038c993bd6ffb1a8a2ef6ed2c44",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:28:47.000Z",
+      "lastModified": "2026-10-06T19:30:52.000Z",
       "path": "tpr/btlrv",
       "pipelineId": 292,
       "productConfig": {"cdnPath": "", "hash": "cab3a4a5e2f77cf8168692e696418171"},
+      "regions": [
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"},
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"}
+      ],
       "versionNumber": 23859064,
       "versionString": "0.0.0.23859064d"
     },
@@ -21,12 +25,16 @@
       "build": {"name": "main_23813036_cer_clean_bnet_v7_dev", "token": "962553dd-d81d-4e85-94cb-e21ad1697026"},
       "buildKey": "6ac096e1fa1317bfc2768aaab4460b5a",
       "cdnKey": "12b6a06b2b5ccebbbaaa6f38adfbe3e0",
-      "definition": "7fac4cc64356f230d62ca765d524ee79",
+      "definition": "b4c5a613ef62af1ad5e7a58ddc9c115a",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:28:47.000Z",
+      "lastModified": "2026-10-06T19:30:52.000Z",
       "path": "tpr/btlrv",
       "pipelineId": 292,
       "productConfig": {"cdnPath": "", "hash": "cab3a4a5e2f77cf8168692e696418171"},
+      "regions": [
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"},
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"}
+      ],
       "versionNumber": 23813036,
       "versionString": "0.0.0.23813036d"
     },
@@ -36,12 +44,16 @@
       "build": {"name": "main_23830550_cer_clean_bnet_v7_dev", "token": "0c0e9f68-2c42-4042-9aa0-458743a8d231"},
       "buildKey": "72b3b3887a5a443021f39b52a589a43f",
       "cdnKey": "92c4d8289219640c91801cb30b068c70",
-      "definition": "4c86b43a1e2577455a664e49dc341923",
+      "definition": "ec3dca68e3dea6227086f22669b2260b",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:28:48.000Z",
+      "lastModified": "2026-10-06T19:30:52.000Z",
       "path": "tpr/btlrv",
       "pipelineId": 292,
       "productConfig": {"cdnPath": "", "hash": "cab3a4a5e2f77cf8168692e696418171"},
+      "regions": [
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"},
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"}
+      ],
       "versionNumber": 23830550,
       "versionString": "0.0.0.23830550d"
     }

@@ -6,12 +6,16 @@
   },
   "buildKey": "64eee1aad7911f463aab2821d9a9d314",
   "cdnKey": "413d245a192a0f31300bdcd183bda5c4",
-  "definition": "98899405134a40889932e0c34caef7e5",
+  "definition": "8917fe20a7adb7883fff6ab03f813271",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:16.000Z",
+  "lastModified": "2026-10-06T19:31:06.000Z",
   "path": "moon/moonvb",
   "pipelineId": 290,
   "productConfig": {"cdnPath": "", "hash": "5510d82acda25b06091a0d456f3e8664"},
+  "regions": [
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"},
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"}
+  ],
   "versionNumber": 23100192,
   "versionString": "0.0.1.23100191d"
 }

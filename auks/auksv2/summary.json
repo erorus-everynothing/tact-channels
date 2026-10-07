@@ -9,12 +9,16 @@
       },
       "buildKey": "ba88b27fb759c1f7eb3fe36a0659ab5d",
       "cdnKey": "402740a6b6c5bbe7eb0defdfd520535c",
-      "definition": "aa6dc3dcb7b4c9f732a73eee7f9e615c",
+      "definition": "7b1e80e2b3d81d996b21c10d87c148f5",
       "keyRing": "",
-      "lastModified": "2026-09-21T20:53:32.000Z",
+      "lastModified": "2026-10-06T19:30:45.000Z",
       "path": "tpr/auksv",
       "pipelineId": 236,
       "productConfig": {"cdnPath": "", "hash": "29482e791cd281f18d23c1a1707e6b30"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+      ],
       "versionNumber": 28787707,
       "versionString": "2.14.2.28787707d"
     },
@@ -24,12 +28,16 @@
       "build": {"name": "release_22779665_cod22_sep_bnet_v2_dev", "token": "8fec01fc-2b34-4e57-bb87-fd2600258df0"},
       "buildKey": "439fe63a8718c12dec6d99fdf076e34c",
       "cdnKey": "742c2c1ff1e0be095d84bf38e4d408ef",
-      "definition": "c226653934ac191d053f263c2018cdd7",
+      "definition": "490391926141b9a1f18dcdd5b41082dc",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:28:34.000Z",
+      "lastModified": "2026-10-06T19:30:45.000Z",
       "path": "tpr/auksv",
       "pipelineId": 236,
       "productConfig": {"cdnPath": "", "hash": "4579473609ef12c1f304f432e0e47647"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+      ],
       "versionNumber": 22779665,
       "versionString": "2.2.3.22779665d"
     },
@@ -42,12 +50,16 @@
       },
       "buildKey": "5e45315d12514521dbf040ca9cb67c17",
       "cdnKey": "bd67ab1281af76b8c0ccaf29f8e6bf88",
-      "definition": "d3d0695db17ede51cc8cc7fc98cd08f5",
+      "definition": "401566b5e81e3b029e9e7653bcf42627",
       "keyRing": "",
-      "lastModified": "2026-09-21T20:53:32.000Z",
+      "lastModified": "2026-10-06T19:30:45.000Z",
       "path": "tpr/auksv",
       "pipelineId": 236,
       "productConfig": {"cdnPath": "", "hash": "7c324042868aeb4a55cd3e3f03b85dba"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+        {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+      ],
       "versionNumber": 28787707,
       "versionString": "2.14.2.28787707s"
     }

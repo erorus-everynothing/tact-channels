@@ -6,12 +6,13 @@
       "build": {"name": "Skuld-Rose-Dev-Vendor-dummy", "token": "f19373d6-2e47-42e6-ab3f-b8b932d6ae2d"},
       "buildKey": "13f63efab2f4ac186ac1e9febf72fa4b",
       "cdnKey": "1c31736875d57fa99d1b4fdf9598ea4e",
-      "definition": "3102f18ec23d94f5705a527a650c5973",
+      "definition": "189fe929acfdb452e0c9ce2e684c6ab1",
       "keyRing": "",
-      "lastModified": "2026-08-27T19:07:52.000Z",
+      "lastModified": "2026-10-06T19:31:28.000Z",
       "path": "tpr/auksdev/5",
       "pipelineId": 235,
       "productConfig": {"cdnPath": "", "hash": "0980d80983ed4bac5a38baa0fcbf6f95"},
+      "regions": [{"branches": ["us", "eu"], "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca"}],
       "versionNumber": 1,
       "versionString": "0"
     }

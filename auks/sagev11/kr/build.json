@@ -3,12 +3,16 @@
   "build": {"name": "main_27911530_sat_clean_future_bnet_v11_dev", "token": "835101fd-4514-46e4-908b-4f0c8f43bcd7"},
   "buildKey": "29745628d8f1f91ed376856b7e6dd69f",
   "cdnKey": "690ec71eb2e402cc8145d983bce7ed4e",
-  "definition": "3f194a02d7db8ee32736bc192ebc6ec2",
+  "definition": "99e0a6b1d7b6cd677af55cc06ed8b248",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:56.000Z",
+  "lastModified": "2026-10-06T19:31:23.000Z",
   "path": "tpr/sagev",
   "pipelineId": 304,
   "productConfig": {"cdnPath": "", "hash": "8a3803409fab2781e3a20401aef24da0"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
+    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+  ],
   "versionNumber": 27911530,
   "versionString": "0.0.0.27911530d"
 }

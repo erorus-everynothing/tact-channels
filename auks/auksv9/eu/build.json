@@ -3,12 +3,16 @@
   "build": {"name": "etu_17284883_cod23_tus2_etu1_v9_dev", "token": "61dcb733-3096-4b76-8eb1-c74a27b6a234"},
   "buildKey": "d5c0981b44ff720e73f0ccd9bbd8c2e6",
   "cdnKey": "b84bd1164bbffa65efb86f72fdd3f95b",
-  "definition": "15d1713c6c02d96fcaa932fb0b196695",
+  "definition": "6d5116f7025bd6a593b67fc82ff9d051",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:37.000Z",
+  "lastModified": "2026-10-06T19:30:46.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
   "productConfig": {"cdnPath": "", "hash": "cf974733fcd8d9b2e7e996ff96db1d2b"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+  ],
   "versionNumber": 17284883,
   "versionString": "1.0.1.17284883d"
 }

@@ -3,12 +3,16 @@
   "build": {"name": "test_build5", "token": "dece8f23-b237-4dfd-892b-72a1ef38f60d"},
   "buildKey": "a7722183f307bcabace806db47241826",
   "cdnKey": "b588b78246bf53136e0b984cdcf08879",
-  "definition": "96a1a9d50182a837984a114ca1946a5f",
+  "definition": "6f8a8302bde368ab51f047e160f9713d",
   "keyRing": "3361e83c08d51dc27eda65d61a4600f1",
-  "lastModified": "2026-09-23T15:17:02.000Z",
+  "lastModified": "2026-10-06T19:31:00.000Z",
   "path": "tpr/gdtdev",
   "pipelineId": 364,
   "productConfig": {"cdnPath": "", "hash": "c7585b1177c1b3e423367b729e064fe8"},
+  "regions": [
+    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
+  ],
   "versionNumber": 1,
   "versionString": "0.0.0001"
 }

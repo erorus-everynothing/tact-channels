@@ -3,12 +3,17 @@
   "build": {"name": "B96999-WIN", "token": "a7ea64fb-9f6b-4c58-8c91-dc16c1414ad1"},
   "buildKey": "718b627485324c3a47e905e0acf14a52",
   "cdnKey": "14592e3e0019ec2fe9ae3361844a52b2",
-  "definition": "a1e5dcda75f21971674d559e33b8810b",
+  "definition": "cd11343d61d357c9ff65a33a133cd94b",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:55.000Z",
+  "lastModified": "2026-10-06T19:31:22.000Z",
   "path": "tpr/sc2cv",
   "pipelineId": 391,
   "productConfig": {"cdnPath": "", "hash": "eac788180f4db0832614505be3f0bff6"},
+  "regions": [
+    {"branches": ["cn"], "cdns": "3598b2604a265c20226f1e451053089d"},
+    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
+  ],
   "versionNumber": 96999,
   "versionString": "SC2.5.0.15.96999"
 }

@@ -3,12 +3,16 @@
   "build": {"name": "trunk_23540133_zul_mp_bnet_v14_dev", "token": "eec9e0aa-5152-4485-871d-fc3f9070e648"},
   "buildKey": "f4e550e8b65e360b01216117b7d202e6",
   "cdnKey": "7c48b8f1540b282b0c1f4f23c07814cf",
-  "definition": "795008adfb260be7c35e09ced20849be",
+  "definition": "75f32e657435773cc52aeb07ab82acfc",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:13.000Z",
+  "lastModified": "2026-10-06T19:31:04.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
   "productConfig": {"cdnPath": "", "hash": "0c856e051ba299820aa864eeccbb7d6a"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+  ],
   "versionNumber": 23540133,
   "versionString": "0.0.0.23540133d"
 }

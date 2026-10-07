@@ -6,12 +6,13 @@
       "build": {"name": "6179424-Tiger", "token": ""},
       "buildKey": "d394431b607b2d18d8da44159de947ff",
       "cdnKey": "4e41b672588a7d37dd0727d891bd2745",
-      "definition": "8adbceed1f7d375216ac7553e776444f",
+      "definition": "9d1f305c6d20036f0b90e5eff716ffaa",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:28:53.000Z",
+      "lastModified": "2026-10-06T19:30:56.000Z",
       "path": "tpr/dst2",
       "pipelineId": 129,
       "productConfig": {"cdnPath": "", "hash": "8fda748b29f5e588511133efdc8cf04d"},
+      "regions": [],
       "versionNumber": 6179424,
       "versionString": "2.5.2.3 (6179424)"
     }

@@ -3,12 +3,16 @@
   "build": {"name": "prometheus-2_25_0_0-154088-CN-Dev-prodev13", "token": "b4d8bb66-83bd-4cf6-b83b-883a3ad05a4c"},
   "buildKey": "9169871cd5fc47bb7d35949441c74e7e",
   "cdnKey": "14d6051224cde3c1346af74d8370ecf4",
-  "definition": "43d7b3201cd119a7c598a31a043be6a9",
+  "definition": "a8e01ea773392a3cac70b41be2e67125",
   "keyRing": "",
-  "lastModified": "2026-09-24T23:47:44.000Z",
+  "lastModified": "2026-10-06T19:31:12.000Z",
   "path": "tpr/proa2",
   "pipelineId": 266,
   "productConfig": {"cdnPath": "", "hash": "09c8ec16b096007863994c8d3eb7c1be"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "3177ecdac411abd8be79a021e27535e9"},
+    {"branches": ["us"], "cdns": "13df1783652f5002b492505e39cf190c"}
+  ],
   "versionNumber": 154088,
   "versionString": "2.25.0.0.154088"
 }

@@ -6,12 +6,16 @@
       "build": {"name": "s4release_12363042_tu23_juliet_s4_v3_dev", "token": "15d2e705-6894-4418-9bfa-9c7f3e3daf89"},
       "buildKey": "7f6361dda8f4817ae57d1afd6a819229",
       "cdnKey": "a8894e7eea1e3d36a97f715f6f7a2cd8",
-      "definition": "913059688bb226253fa9bd3ee4df922d",
+      "definition": "b0f25cda7fa32d2d71845e8a1b7cee79",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:00.000Z",
+      "lastModified": "2026-10-06T19:30:59.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "a19cc4b77b521533f836cb3bd6b2c269"},
+      "regions": [
+        {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
+        {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"}
+      ],
       "versionNumber": 12363042,
       "versionString": "1.20.0.12363042d"
     },
@@ -21,12 +25,16 @@
       "build": {"name": "s4live_11536505D_tu18_foxtrot_signed_v3_dev", "token": "d6ad1704-05b5-4f26-8ec0-e1c9d99dd617"},
       "buildKey": "d41c122d87e7d731bffece907ce97ac5",
       "cdnKey": "029c20105d9d50249175cf876d857676",
-      "definition": "a1cdcde36903b43898becacb6f75feb5",
+      "definition": "275b97d7a790a36784c6fe5f6f6ab7a6",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:00.000Z",
+      "lastModified": "2026-10-06T19:30:59.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "a19cc4b77b521533f836cb3bd6b2c269"},
+      "regions": [
+        {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
+        {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"}
+      ],
       "versionNumber": 11536505,
       "versionString": "1.18.2.11536505d"
     },
@@ -36,12 +44,16 @@
       "build": {"name": "s4rel_12510470_tu24_kaiju_s4_signed_v3_ship", "token": "068f76aa-a781-48ec-9f5b-9745fb556e69"},
       "buildKey": "791e927654036b1d19674bfeddc1e73e",
       "cdnKey": "bcedce8388a590f485c61d961b3af186",
-      "definition": "fe3b39f4f17b05e4323c3ce27f123eca",
+      "definition": "0440a78500cc3b0b0303d19af75baa4b",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:00.000Z",
+      "lastModified": "2026-10-06T19:30:59.000Z",
       "path": "tpr/forev",
       "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "a19cc4b77b521533f836cb3bd6b2c269"},
+      "regions": [
+        {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
+        {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"}
+      ],
       "versionNumber": 12510470,
       "versionString": "1.24.0.12510470s"
     }

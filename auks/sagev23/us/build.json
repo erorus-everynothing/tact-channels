@@ -3,12 +3,16 @@
   "build": {"name": "release_28656362_cod25_season6_bnet_v23_dev", "token": "b83e562b-9342-4928-9436-42052e379fc8"},
   "buildKey": "802a3909e877b55ba001d141402f3249",
   "cdnKey": "159106b417630cb8f5f7d04e85f04604",
-  "definition": "98a23ec48db6bf95a336194ebce44a10",
+  "definition": "cb1a6c6c39b9734e9bc89e3da79a8c5a",
   "keyRing": "",
-  "lastModified": "2026-08-26T23:00:03.000Z",
+  "lastModified": "2026-10-06T19:31:25.000Z",
   "path": "tpr/sagevb",
   "pipelineId": 357,
   "productConfig": {"cdnPath": "", "hash": "f687d2f8df26f86660433940795106ff"},
+  "regions": [
+    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+  ],
   "versionNumber": 28656362,
   "versionString": "0.0.0.28656362d"
 }

@@ -6,12 +6,16 @@
       "build": {"name": "driver_24_06_22966757_valkyrie_dev_dev", "token": "982cb1ae-cac0-4c55-b679-bd20dc0a08e3"},
       "buildKey": "6a57467c3bdbc9040cec0133464fdea2",
       "cdnKey": "58312f51912d6419708e66c8b50c6420",
-      "definition": "0cc9d14f34d4669cdf868588b2bc4b57",
+      "definition": "059ecb0c6f5658e3125a21e92e5590e2",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:29:38.000Z",
+      "lastModified": "2026-10-06T19:31:15.000Z",
       "path": "tpr/cornv",
       "pipelineId": 376,
       "productConfig": {"cdnPath": "", "hash": "b1212c55d00249e0fd03c49f7336a857"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+      ],
       "versionNumber": 22966757,
       "versionString": "0.0.1.22966757d"
     }

@@ -6,12 +6,13 @@
   },
   "buildKey": "9aadacebdf7880e6357c345ec376e636",
   "cdnKey": "74816955fb78dafd6850da24d14879d0",
-  "definition": "fe2f5919dff4f9845eef095265866a56",
+  "definition": "99d781b5a5cd04663329a995c25083bc",
   "keyRing": "",
-  "lastModified": "2026-09-28T22:22:53.000Z",
+  "lastModified": "2026-10-06T19:30:42.000Z",
   "path": "tpr/auksdev/5",
   "pipelineId": 235,
   "productConfig": {"cdnPath": "", "hash": "d7db34015e82d5260477b58fcf337db7"},
+  "regions": [{"branches": ["us", "eu"], "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca"}],
   "versionNumber": 29049384,
   "versionString": "1.0.0.29049384"
 }

@@ -3,12 +3,16 @@
   "build": {"name": "main_19321524_jup_mp_v6_dev", "token": "eb2d27af-af47-4d82-952b-8fe9a5037119"},
   "buildKey": "6aeeb3ef23b26ab079bcecbd85575ae1",
   "cdnKey": "c4b5dc76520e5f4723687d4c2383b4cf",
-  "definition": "63210b3c86ef87b95eb66461426af3b0",
+  "definition": "319f392c34f758de1318568fba4511ba",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:29:18.000Z",
+  "lastModified": "2026-10-06T19:31:07.000Z",
   "path": "moon/moonv",
   "pipelineId": 276,
   "productConfig": {"cdnPath": "", "hash": "31fe4b3d5d715192155db9a55825953e"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+  ],
   "versionNumber": 19321524,
   "versionString": "0.0.0.19321524d"
 }

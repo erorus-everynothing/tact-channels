@@ -6,12 +6,18 @@
       "build": {"name": "17897_release_2.53.4-beta", "token": "d83fd188-b90c-4dd6-9e3b-c95df15b6acc"},
       "buildKey": "026c2f3441412dea1f74e0fa07dc05d2",
       "cdnKey": "26f5bb61da223de151cf2c294612d228",
-      "definition": "533e066b99d340b1476183749c93650b",
+      "definition": "243a0295b83d3f19a655dd4b63772abd",
       "keyRing": "",
-      "lastModified": "2026-10-01T15:39:32.000Z",
+      "lastModified": "2026-10-06T19:30:47.000Z",
       "path": "tpr/bnt002",
       "pipelineId": 53,
       "productConfig": {"cdnPath": "", "hash": "c9dc6de3a629d80327fc6e96256dd19e"},
+      "regions": [
+        {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
+        {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+        {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
+        {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
+      ],
       "versionNumber": 17897,
       "versionString": "2.53.4.17897"
     },
@@ -21,12 +27,18 @@
       "build": {"name": "17896_release_2.53.4", "token": "11ea20f1-2c5d-4a13-b9d4-fd80d266a791"},
       "buildKey": "fc7c0cc6d297f35107542757997ed06b",
       "cdnKey": "5218ebe25da882f43903e5848c0e7f1b",
-      "definition": "0343928f2d4930894bc3338fd1e6a0ed",
+      "definition": "d154aff32e9bbd0866bad03a7256596d",
       "keyRing": "",
-      "lastModified": "2026-10-01T15:39:33.000Z",
+      "lastModified": "2026-10-06T19:30:47.000Z",
       "path": "tpr/bnt002",
       "pipelineId": 53,
       "productConfig": {"cdnPath": "", "hash": "c9dc6de3a629d80327fc6e96256dd19e"},
+      "regions": [
+        {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
+        {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+        {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
+        {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
+      ],
       "versionNumber": 17896,
       "versionString": "2.53.4.17896"
     },
@@ -36,12 +48,18 @@
       "build": {"name": "14220_2.16.6", "token": "4c04a4eb-a79f-450b-99cb-eba453ddb2bd"},
       "buildKey": "401bf479ca7b070137079647cd22d84f",
       "cdnKey": "408473274ccf708bf87ec934a8626a3f",
-      "definition": "f6c059c2c3e21037291414fd03611b9b",
+      "definition": "5be081eb5c8f6cb6c989e7e6df698c6e",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:28:38.000Z",
+      "lastModified": "2026-10-06T19:30:47.000Z",
       "path": "tpr/bnt002",
       "pipelineId": 53,
       "productConfig": {"cdnPath": "", "hash": "cb43342ae016258bbbbc2300d0995f73"},
+      "regions": [
+        {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
+        {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+        {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
+        {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
+      ],
       "versionNumber": 14220,
       "versionString": "2.16.6.14220"
     }

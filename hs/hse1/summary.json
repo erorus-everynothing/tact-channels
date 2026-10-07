@@ -6,12 +6,17 @@
       "build": {"name": "253957_37.0.0-hse1", "token": "20dc4aca-0fb3-75a9-3b8a-f7438dc6e3da"},
       "buildKey": "aa755bc980e0413e4ccd64cc2a79dd68",
       "cdnKey": "c035be6f1a05196e173d61ce39124a5e",
-      "definition": "cb6e17d8e5812a86b8c5898815888874",
+      "definition": "428379330c4bb7d6a0a6a622ab6b43b4",
       "keyRing": "",
-      "lastModified": "2026-10-01T17:14:33.000Z",
+      "lastModified": "2026-10-06T19:31:02.000Z",
       "path": "tpr/hse/1",
       "pipelineId": 265,
       "productConfig": {"cdnPath": "", "hash": "de5269e2b1d61b35a17f6a4fa2cb1040"},
+      "regions": [
+        {"branches": ["kr"], "cdns": "4165a2d10276a6dd6bd4942484280b02"},
+        {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
+        {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"}
+      ],
       "versionNumber": 253957,
       "versionString": "37.0.0.253957"
     }

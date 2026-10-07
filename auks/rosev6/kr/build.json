@@ -3,12 +3,16 @@
   "build": {"name": "cert_29261340_cod26_tu1_bnet_v6_dev", "token": "20d6bcaa-30dd-4976-85f4-268b278dfb97"},
   "buildKey": "4ec06623c5d00b9b334de0a64b1e9a71",
   "cdnKey": "2c0e0b2dc7c47951cf3afded55c4dd1c",
-  "definition": "0b1eeaed5d0c84343d0287b462a1274c",
+  "definition": "a01f6394dd17ae8f32a3a540de1a11a8",
   "keyRing": "",
-  "lastModified": "2026-09-30T13:39:15.000Z",
+  "lastModified": "2026-10-06T19:31:21.000Z",
   "path": "tpr/rosev",
   "pipelineId": 302,
   "productConfig": {"cdnPath": "", "hash": "2c2146d1c5340b34dc953bf8b1ba0e8b"},
+  "regions": [
+    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+  ],
   "versionNumber": 29261340,
   "versionString": "0.0.0.29261340d"
 }

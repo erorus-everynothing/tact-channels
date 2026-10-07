@@ -6,12 +6,16 @@
       "build": {"name": "main_28891845_sat_clean_future_bnet_v7_dev", "token": "9a3381c4-9ec3-4a4c-bb7c-64f3115104f8"},
       "buildKey": "ff4e10077487c9d9b466125627a824d3",
       "cdnKey": "f43727ecc4bad7ff53098dffad073149",
-      "definition": "447de01a2735f44adffd6af0df7887df",
+      "definition": "8224016063701c554632c97c06a3a8b7",
       "keyRing": "",
-      "lastModified": "2026-09-09T14:55:53.000Z",
+      "lastModified": "2026-10-06T19:31:27.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "7a9e34b568e04dce3167f795752a7adb"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+      ],
       "versionNumber": 28891845,
       "versionString": "0.0.0.28891845d"
     },
@@ -21,12 +25,16 @@
       "build": {"name": "main_29036170_sat_clean_future_bnet_v7_dev", "token": "953b0bf6-e8ca-41b3-b063-cbde1d6ed739"},
       "buildKey": "e1ec847e31685e5490cd9e7fef7dd823",
       "cdnKey": "18d5436d510d014e3b01b1eb58bfb2a0",
-      "definition": "70c551f96b706cdbaf806ccb95f6e60e",
+      "definition": "796fd34616e0d42c80cd9408a8fd522b",
       "keyRing": "",
-      "lastModified": "2026-09-17T16:11:33.000Z",
+      "lastModified": "2026-10-06T19:31:27.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "7a9e34b568e04dce3167f795752a7adb"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+      ],
       "versionNumber": 29036170,
       "versionString": "0.0.0.29036170d"
     },
@@ -36,12 +44,16 @@
       "build": {"name": "main_29233365_sat_clean_future_bnet_v7_dev", "token": "6402927d-b032-406e-9160-7e3ec198a0a6"},
       "buildKey": "2d2eb93555c905d8f70f9f22bc856e78",
       "cdnKey": "a0345f537e03f34f1385daa33ac854c3",
-      "definition": "c70146bc42157ce476473fbd02177f68",
+      "definition": "fe025ed77e85d43356e070cf018b0b8c",
       "keyRing": "",
-      "lastModified": "2026-09-28T18:57:34.000Z",
+      "lastModified": "2026-10-06T19:31:27.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "7a9e34b568e04dce3167f795752a7adb"},
+      "regions": [
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+      ],
       "versionNumber": 29233365,
       "versionString": "0.0.0.29233365d"
     }

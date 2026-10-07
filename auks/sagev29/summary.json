@@ -9,12 +9,16 @@
       },
       "buildKey": "a1b7a82347204ac22cc0a0d0bebb2a63",
       "cdnKey": "bd3e74b9376cdcf6dfeb476bce65e3b8",
-      "definition": "113cbe3eb1575fd221ba5d36814a98c5",
+      "definition": "047d40a4d237cde6441e7b628060821c",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:30:02.000Z",
+      "lastModified": "2026-10-06T19:31:26.000Z",
       "path": "tpr/sagevb",
       "pipelineId": 357,
       "productConfig": {"cdnPath": "", "hash": "a6946cb37618debf10c6efd978eac7ec"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
       "versionNumber": 24536827,
       "versionString": "0.0.0.24536827d"
     }

@@ -6,12 +6,18 @@
       "build": {"name": "WOW-70003patch1.15.9_ClassicRetail", "token": "f4a077f0-26fc-4162-9fc9-5c3b20a32746"},
       "buildKey": "2417084b8b041ee120d02d4adf31b0bc",
       "cdnKey": "dfcdd1ef52e6a0509a2d579c6eec59bf",
-      "definition": "72401b0ce68f4633d334a9391b8ba19a",
+      "definition": "b7e302d32eda867f31c8733eb1e3ccb3",
       "keyRing": "",
-      "lastModified": "2026-09-29T14:05:04.000Z",
+      "lastModified": "2026-10-06T19:31:30.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
       "productConfig": {"cdnPath": "", "hash": "c9934edfc8f217a2e01c47e4deae8454"},
+      "regions": [
+        {"branches": ["tw", "us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "04458a4f0d38210a778428f7bc1c41c5"},
+        {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"},
+        {"branches": ["kr"], "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"}
+      ],
       "versionNumber": 70003,
       "versionString": "1.15.9.70003"
     }

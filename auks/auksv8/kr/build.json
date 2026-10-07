@@ -3,12 +3,16 @@
   "build": {"name": "main_16302874_autobuild_br_iw9_v8_dev", "token": "3fbf4614-8f35-415a-9c48-20e736f15173"},
   "buildKey": "465beb4dbaed1ffe3288bdcc097494cd",
   "cdnKey": "353f92b33cf020e89ba78e8e60a824e0",
-  "definition": "c12fdbe284b98fdc3135ecacf3c4e2e2",
+  "definition": "0d309b01dd49c4f7d2831c96fbd66ba9",
   "keyRing": "",
-  "lastModified": "2026-08-25T16:28:37.000Z",
+  "lastModified": "2026-10-06T19:30:46.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
   "productConfig": {"cdnPath": "", "hash": "b41d517d5f9108b102027230b4262c1b"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
+    {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
+  ],
   "versionNumber": 16302874,
   "versionString": "1.41.0.16302874d"
 }

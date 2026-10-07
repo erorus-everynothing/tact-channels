@@ -3,12 +3,16 @@
   "build": {"name": "SeaOfThievesInsider_1.152.6357.0", "token": "e2ef628e-9d78-4cb5-b3b4-e35f21ea2c5e"},
   "buildKey": "6b62df14e473930cead5ee8932a3a8f9",
   "cdnKey": "ba094730480e72d3e73cacf11e17dcc8",
-  "definition": "58799bcc80b3e45c8aa1b624703b270b",
+  "definition": "adb8d432cd1cea40e155bb024c59095b",
   "keyRing": "",
-  "lastModified": "2026-10-05T08:32:53.000Z",
+  "lastModified": "2026-10-06T19:31:27.000Z",
   "path": "tpr/scorrc",
   "pipelineId": 335,
   "productConfig": {"cdnPath": "", "hash": "f2aa54854dd908944d31f4cb4b85b5d8"},
+  "regions": [
+    {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
+    {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
+  ],
   "versionNumber": 1526357,
   "versionString": "1.152.6357.0"
 }

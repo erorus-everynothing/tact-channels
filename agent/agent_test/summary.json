@@ -6,12 +6,13 @@
       "build": {"name": "5459-agent-2.10.0", "token": ""},
       "buildKey": "ca32ea5c5a603b7f956c6bfc2ffca95e",
       "cdnKey": "62e2e56f31942a8c432c6607f8c38704",
-      "definition": "0f6ef50e54cc2afb3aa37eb36667eb29",
+      "definition": "0f1b0ac56de23e5505c2afd643c6be08",
       "keyRing": "",
-      "lastModified": "2026-08-25T16:28:21.000Z",
+      "lastModified": "2026-10-06T19:30:39.000Z",
       "path": "bnet/Agent-Live-Dev",
       "pipelineId": 86,
       "productConfig": {"cdnPath": "", "hash": ""},
+      "regions": [],
       "versionNumber": 5459,
       "versionString": "2.10.0.5459"
     }

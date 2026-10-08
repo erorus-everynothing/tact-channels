@@ -6,9 +6,9 @@
       "build": {"name": "3.0.0.24268-retail", "token": "f3e923e8-09dc-41fd-891f-7acf16174332"},
       "buildKey": "3a9d8f26806936764d2d9ad526a65e04",
       "cdnKey": "79546167bae905e76170062b6d346b14",
-      "definition": "970b00f41160e15e3b3183cdf3343368",
+      "definition": "accf740d964fbca0fc1b57ad67c0a3de",
       "keyRing": "",
-      "lastModified": "2026-10-08T22:27:15.000Z",
+      "lastModified": "2026-10-06T19:31:29.000Z",
       "path": "tpr/war3",
       "pipelineId": 100,
       "productConfig": {"cdnPath": "", "hash": "f220f1a2d27b38e9469987ff66e61f04"},
@@ -18,7 +18,7 @@
         {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
       ],
       "versionNumber": 24268,
-      "versionString": "3.0.0.24248"
+      "versionString": "3.0.0.24268"
     }
   ],
   "infrastructure": false,

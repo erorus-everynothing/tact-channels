@@ -1,11 +1,11 @@
 {
   "armadilloKey": "",
-  "build": {"name": "3889484_510_dev_tact_ptrcopy_row", "token": "9b0ad99d-8abd-4ad4-aef8-41dabb21c9a3"},
-  "buildKey": "267ee7643e195c3b52c1e00302268090",
-  "cdnKey": "135c01a3b9bf1ea660a58bc75d049cdc",
-  "definition": "699ea84cab371ca0e5dd7161074c7689",
-  "keyRing": "a43a14ecbee6a8f1ab903094601b4489",
-  "lastModified": "2026-10-08T02:44:30.000Z",
+  "build": {"name": "3879397_510_Gamescom_row", "token": "a0f0d279-67f9-4688-bf05-62846a7c4a3d"},
+  "buildKey": "ce69165c3182141c2b499e75e6bf7715",
+  "cdnKey": "b47105a772747d842d69e7f5e7765132",
+  "definition": "7b163557745ae01db11e0e1de8bcbf45",
+  "keyRing": "f61941fc0f94c640dcc6ac9e02fd5404",
+  "lastModified": "2026-10-08T20:05:52.000Z",
   "path": "tpr/anbsdevbm",
   "pipelineId": 373,
   "productConfig": {"cdnPath": "", "hash": "b60fc57eadea462140d0d672613e895c"},
@@ -13,6 +13,6 @@
     {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"},
     {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}
   ],
-  "versionNumber": 3889484,
-  "versionString": "5.1.0.3889484"
+  "versionNumber": 3879397,
+  "versionString": "5.1.0.3879397"
 }

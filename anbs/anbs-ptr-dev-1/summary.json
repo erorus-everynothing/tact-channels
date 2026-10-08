@@ -3,12 +3,12 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "1234567_000_dev_empty_row", "token": "ac4de405-510a-4533-86db-8610e40efc7c"},
-      "buildKey": "58ec40a83e0cd50e729f67e3eb8aca2d",
-      "cdnKey": "1f04537114a72964e16a2476081633ff",
-      "definition": "ce2c1a567830cd3c74eae11b8dba02be",
-      "keyRing": "ee10849edc26b4c293494872f66a0191",
-      "lastModified": "2026-10-06T19:30:39.000Z",
+      "build": {"name": "3889484_510_dev_tact_ptrcopy_row", "token": "9b0ad99d-8abd-4ad4-aef8-41dabb21c9a3"},
+      "buildKey": "267ee7643e195c3b52c1e00302268090",
+      "cdnKey": "135c01a3b9bf1ea660a58bc75d049cdc",
+      "definition": "699ea84cab371ca0e5dd7161074c7689",
+      "keyRing": "a43a14ecbee6a8f1ab903094601b4489",
+      "lastModified": "2026-10-08T02:44:30.000Z",
       "path": "tpr/anbsdevbm",
       "pipelineId": 373,
       "productConfig": {"cdnPath": "", "hash": "b60fc57eadea462140d0d672613e895c"},
@@ -16,8 +16,8 @@
         {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"},
         {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}
       ],
-      "versionNumber": 1234567,
-      "versionString": "0.0.0.1234567"
+      "versionNumber": 3889484,
+      "versionString": "5.1.0.3889484"
     }
   ],
   "infrastructure": false,

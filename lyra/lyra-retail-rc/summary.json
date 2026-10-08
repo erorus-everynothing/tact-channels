@@ -3,12 +3,12 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "Build_1044392Change_13360103Upload_1044620", "token": "ef230287-32f6-4bc1-8a73-d6ba0c66057a"},
-      "buildKey": "d6504d0d9d0a9db7964be86d487b4145",
-      "cdnKey": "d0a99760b069d442ba7434ffd004d6cd",
-      "definition": "634179c02fbfde1568352bc4bf234525",
-      "keyRing": "83bcbafd9a2fc735e36842cd91443623",
-      "lastModified": "2026-10-06T19:31:03.000Z",
+      "build": {"name": "Build_1048522Change_13413172Upload_1048947", "token": "ae361134-1389-42f3-ab60-03231407a96e"},
+      "buildKey": "539107277edad4a35c928ba8d765bd5b",
+      "cdnKey": "08d59a3be34515e3a1ef7d7989e843dd",
+      "definition": "654f5aedb146bfe124459fb877f8c260",
+      "keyRing": "fb5e18df4ee01c9ff3e6b1414a6038f5",
+      "lastModified": "2026-10-08T09:23:04.000Z",
       "path": "tpr/lyrarc/1",
       "pipelineId": 411,
       "productConfig": {"cdnPath": "", "hash": "bb756c71d9bf57d034893aedc9d473f7"},
@@ -16,7 +16,7 @@
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
       ],
-      "versionNumber": 1044392,
+      "versionNumber": 1048522,
       "versionString": "5.00"
     }
   ],

@@ -3,12 +3,12 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "20261005-234627-jittery-ape", "token": "38dff953-6e9b-4b5c-bc16-05ef02febf11"},
-      "buildKey": "1123d569f580a8414561c0954a57edf4",
-      "cdnKey": "b4de6e2b2897989e6994c9df07d47d80",
-      "definition": "c7ea482c1fa75f26fe99f081ce0aa3df",
-      "keyRing": "07411c33c66400a6545d10b78f534ef9",
-      "lastModified": "2026-10-06T19:30:41.000Z",
+      "build": {"name": "20261008-175532-amused-panda", "token": "b9b27aad-4cda-4c35-b727-538cc5fc80ad"},
+      "buildKey": "03daa5e0f03d8a515d0e48211694c0b9",
+      "cdnKey": "119fb5c3c7c5381ee9c0b02407c2ec1b",
+      "definition": "47a098dc88d900b3dadce73c5c470c7e",
+      "keyRing": "18d98a90a418d9b0960b7bf52c46c91f",
+      "lastModified": "2026-10-09T00:18:32.000Z",
       "path": "tpr/arisdev",
       "pipelineId": 350,
       "productConfig": {"cdnPath": "", "hash": "3bdd137c047e8e0a57b09a37c0b0203b"},
@@ -16,8 +16,8 @@
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
       ],
-      "versionNumber": 502,
-      "versionString": "4CE6F0E95B4AD0FEE49FF3A5A1636CCC"
+      "versionNumber": 503,
+      "versionString": "DD60445373F9ABF869FA746BAE5B6919"
     }
   ],
   "infrastructure": false,

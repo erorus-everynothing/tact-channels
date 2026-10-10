@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "aaab1aa2a18ad3e975c9c5a22706ea35"
+    "channel": "088cae2db9632107af9bb62b0731164e"
   },
-  "lastModified": "2026-10-10T01:04:45.000Z",
-  "pointerLastModified": "2026-10-10T01:04:45.000Z",
+  "lastModified": "2026-10-10T04:51:05.000Z",
+  "pointerLastModified": "2026-10-10T04:51:05.000Z",
   "products": {
     "agent": [
       "agent",
@@ -176,7 +176,6 @@
       "randgridaukscdls",
       "randgridaukscdlv",
       "randgridaukse",
-      "randgridaukslivedev",
       "randgridauksqa",
       "randgridauksqa2",
       "randgridauksrc",

@@ -3,12 +3,12 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "20261010-000026-brave-rabbit", "token": "b9c87585-a1a9-4c1a-8cc3-6175e163b384"},
-      "buildKey": "dd6f8a763ced81eefc6fe99873027da7",
-      "cdnKey": "0e674d80722369d7a7018e10a9e94065",
-      "definition": "335f609271303961da63a7052f388337",
-      "keyRing": "babbaa3db43106a409af970a53d9483a",
-      "lastModified": "2026-10-10T07:17:02.000Z",
+      "build": {"name": "20261011-000014-puny-finch", "token": "73714284-cbeb-4a2c-8016-11900cf7abd4"},
+      "buildKey": "7d22fb1baa04669382d1cff711ded926",
+      "cdnKey": "ce7bdafe7c9778809d34c6fe6f702564",
+      "definition": "1fadb74fc7ecb505c9e93ed550cacb58",
+      "keyRing": "14995548060a2327ddca41bdad382cc2",
+      "lastModified": "2026-10-11T05:27:12.000Z",
       "path": "tpr/arisdev",
       "pipelineId": 350,
       "productConfig": {"cdnPath": "", "hash": "3bdd137c047e8e0a57b09a37c0b0203b"},
@@ -16,8 +16,8 @@
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
       ],
-      "versionNumber": 505,
-      "versionString": "142D77FC951C6F003902D0DCD2CADD3B"
+      "versionNumber": 506,
+      "versionString": "EA410D04E1C6125C734D7835140AFF8C"
     }
   ],
   "infrastructure": false,

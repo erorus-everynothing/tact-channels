@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
   "build": {
-    "name": "cert_29269881_cod26_tu1_signed_bnet_RC_renamed_ship",
-    "token": "a17e7cc4-519c-42a3-8549-6b39f5a8ad7b"
+    "name": "cert_29269881A_cod26_tu1_signed_bnet_RC1_SA_ship",
+    "token": "7765b532-915f-4b52-92ee-05f83a7a57c3"
   },
-  "buildKey": "212550d36729cf41ba411d54e92087f0",
-  "cdnKey": "959d85179a23fe5117155e6f5c366916",
-  "definition": "67bb3b894e7cb088fcc42be3e284e7d7",
+  "buildKey": "3d8404d36aba7c96c8dfc4a3372ca2f2",
+  "cdnKey": "5cffb61c9b89f6b1a92700e7a3a69390",
+  "definition": "f83eb8ec2b811d804d1623a260ad7659",
   "keyRing": "",
-  "lastModified": "2026-10-06T19:30:43.000Z",
+  "lastModified": "2026-10-12T19:20:02.000Z",
   "path": "tpr/aukslrc",
   "pipelineId": 392,
   "productConfig": {"cdnPath": "", "hash": "a0c20d42ed9932710660cff55b94c3d3"},
@@ -17,5 +17,5 @@
     {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
   ],
   "versionNumber": 29269881,
-  "versionString": "0.0.0.29269881s"
+  "versionString": "0.0.1.29269881s"
 }

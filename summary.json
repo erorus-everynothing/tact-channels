@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "7e92695938d1953494158776e229caa6"
+    "channel": "ec9b6dcd67d59c97e422096fa16cd034"
   },
-  "lastModified": "2026-10-13T17:15:35.000Z",
-  "pointerLastModified": "2026-10-13T17:15:36.000Z",
+  "lastModified": "2026-10-13T18:02:36.000Z",
+  "pointerLastModified": "2026-10-13T18:02:37.000Z",
   "products": {
     "agent": [
       "agent",
@@ -255,6 +255,7 @@
       "rosev24",
       "rosev25",
       "rosev26",
+      "rosev27",
       "rosev28",
       "rosev29",
       "rosev30",

@@ -1,11 +1,11 @@
 {
   "armadilloKey": "",
-  "build": {"name": "20261012-000018-crazy-ram", "token": "edd75230-4db3-437f-9e38-016d1146d9a4"},
-  "buildKey": "36f09c36ca2bd860aac33af732e0f387",
-  "cdnKey": "b2255905d00e995dfcf67058f99e356d",
-  "definition": "a87597fff736108de6bd8e9c0574a3a2",
-  "keyRing": "981cb59ca5204e9f8699374b5d9646a6",
-  "lastModified": "2026-10-12T06:36:51.000Z",
+  "build": {"name": "20261013-000050-rotten-gorilla", "token": "1929386b-4a5e-47bc-8d95-adce9656507f"},
+  "buildKey": "bbabaeedf5b7fc1220a7409ba3983555",
+  "cdnKey": "e41ca9c8c67d2793b1e74e796b0306ec",
+  "definition": "4f6d4088212882c56f9a84ff1aaa728f",
+  "keyRing": "32346b5c9e0185d9d3d75b1159f73609",
+  "lastModified": "2026-10-13T05:56:32.000Z",
   "path": "tpr/arisdev",
   "pipelineId": 350,
   "productConfig": {"cdnPath": "", "hash": "3bdd137c047e8e0a57b09a37c0b0203b"},
@@ -13,6 +13,6 @@
     {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
     {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
   ],
-  "versionNumber": 507,
-  "versionString": "138CF4FACD2916B3AA6A65CCBF777B8A"
+  "versionNumber": 508,
+  "versionString": "6EA9A9850F2ED3FC7C480CD125CF0AB0"
 }

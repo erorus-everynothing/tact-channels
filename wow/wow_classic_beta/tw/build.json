@@ -1,11 +1,11 @@
 {
   "armadilloKey": "",
-  "build": {"name": "WOW-70338patch1.60.1_ForeverBeta", "token": "ecda7ce2-2878-45c1-867c-bbfc6237d901"},
-  "buildKey": "f6e309c700cea095978aeb5d85210df4",
-  "cdnKey": "ad00f88bc136373cdfe57c6bb796516b",
-  "definition": "86f63121ca688e9e9410bf07d56d8884",
+  "build": {"name": "WOW-70374patch1.60.1_ForeverBeta", "token": "79822a26-3de8-41db-b482-a42757d5fa36"},
+  "buildKey": "25822068f8fce8b21bc714e7e3210481",
+  "cdnKey": "dffb7f6337496ac02a54d2d5191ccc12",
+  "definition": "5de85f7ca73978082791b8647376baf2",
   "keyRing": "",
-  "lastModified": "2026-10-10T05:04:05.000Z",
+  "lastModified": "2026-10-13T23:24:36.000Z",
   "path": "tpr/wow",
   "pipelineId": 19,
   "productConfig": {"cdnPath": "", "hash": "fcfd1bc39031f5921d00aee2d869adb5"},
@@ -15,6 +15,6 @@
     {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"},
     {"branches": ["kr"], "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"}
   ],
-  "versionNumber": 70338,
-  "versionString": "1.60.1.70338"
+  "versionNumber": 70374,
+  "versionString": "1.60.1.70374"
 }

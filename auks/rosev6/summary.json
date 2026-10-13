@@ -3,12 +3,12 @@
     {
       "armadilloKey": "",
       "branches": ["eu"],
-      "build": {"name": "cert_29269881A_cod26_tu1_signed_bnet_v6_dev", "token": "1889d430-3460-4e8f-9105-c00ebbb685f2"},
-      "buildKey": "aeeadc1ac0808da22b93267d6eee018b",
-      "cdnKey": "4e98ef5446b2549c183b00e3a57850f4",
-      "definition": "81901228f6eea7e9e86418c7ca1d8a5e",
+      "build": {"name": "cert_29269881B_cod26_tu1_signed_bnet_v6_dev", "token": "e975719d-7332-4bb8-b5d0-b41d8e5b2113"},
+      "buildKey": "50ef0b2bf06c98162163ce467eccf896",
+      "cdnKey": "757cb3eefc4b460e36ec2d54b8bfd4f5",
+      "definition": "f3e55f277713db5a5a08fcbc216bffce",
       "keyRing": "",
-      "lastModified": "2026-10-06T19:31:21.000Z",
+      "lastModified": "2026-10-13T13:17:46.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "2c2146d1c5340b34dc953bf8b1ba0e8b"},
@@ -17,7 +17,7 @@
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
       ],
       "versionNumber": 29269881,
-      "versionString": "0.0.3.29269881d"
+      "versionString": "0.0.4.29269881d"
     },
     {
       "armadilloKey": "",
@@ -42,14 +42,14 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "cert_29269881A_cod26_tu1_signed_bnet_v6_ship",
-        "token": "88edaadf-9977-4f2c-958a-a4c3d522cac8"
+        "name": "cert_29269881B_cod26_tu1_signed_bnet_v6_ship",
+        "token": "88731a6c-abc6-4178-ab4f-7ac26a3d8cba"
       },
-      "buildKey": "aa8813a517f5c901e83bb8c2bc40711b",
-      "cdnKey": "c121b6d0d8c449b8f7e29f2ccb6fbd22",
-      "definition": "0d257796dca9220dd77fdd930410d395",
+      "buildKey": "0b1a21aeef4e487c460869a1aa74583a",
+      "cdnKey": "196d0524d384220a84b802bca5956d76",
+      "definition": "c3fcbfa77b0412ce4810561568a80048",
       "keyRing": "",
-      "lastModified": "2026-10-06T19:31:21.000Z",
+      "lastModified": "2026-10-13T13:17:46.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "1fe1ce09641417617e492154d2cf4d65"},
@@ -58,7 +58,7 @@
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
       ],
       "versionNumber": 29269881,
-      "versionString": "0.0.2.29269881s"
+      "versionString": "0.0.3.29269881s"
     }
   ],
   "infrastructure": false,

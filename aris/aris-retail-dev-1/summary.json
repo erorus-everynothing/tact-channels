@@ -3,12 +3,12 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "20261013-000050-rotten-gorilla", "token": "1929386b-4a5e-47bc-8d95-adce9656507f"},
-      "buildKey": "bbabaeedf5b7fc1220a7409ba3983555",
-      "cdnKey": "e41ca9c8c67d2793b1e74e796b0306ec",
-      "definition": "4f6d4088212882c56f9a84ff1aaa728f",
-      "keyRing": "32346b5c9e0185d9d3d75b1159f73609",
-      "lastModified": "2026-10-13T05:56:32.000Z",
+      "build": {"name": "20261014-000018-fat-walrus", "token": "db5607ce-9e30-40da-9f20-bcf68ba07da9"},
+      "buildKey": "d3dff799c6ee381aca446844de08d521",
+      "cdnKey": "bda4310f9d4d63fa44034dff9087ad97",
+      "definition": "829148176e89c409cb24ce296a28b90e",
+      "keyRing": "af68443df2d0f9357aedd9d083e8b29f",
+      "lastModified": "2026-10-14T06:09:11.000Z",
       "path": "tpr/arisdev",
       "pipelineId": 350,
       "productConfig": {"cdnPath": "", "hash": "3bdd137c047e8e0a57b09a37c0b0203b"},
@@ -16,8 +16,8 @@
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
       ],
-      "versionNumber": 508,
-      "versionString": "6EA9A9850F2ED3FC7C480CD125CF0AB0"
+      "versionNumber": 509,
+      "versionString": "9731EDE4F2589DFE6B4595AF28D699C5"
     }
   ],
   "infrastructure": false,

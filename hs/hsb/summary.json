@@ -3,12 +3,12 @@
     {
       "armadilloKey": "",
       "branches": ["android_amazon", "android_google", "android_onestore", "eu", "ios", "kr", "us"],
-      "build": {"name": "254477_37.0.0", "token": "e46a482c-d608-95b0-9829-68dc7088a677"},
-      "buildKey": "58d0dca4d0a68f26f0d651bac5fe39e9",
-      "cdnKey": "e802f396c6a230b39c7a7d575069cd11",
-      "definition": "dfe0b8a02b1c4a79db8600b005c6d5fc",
+      "build": {"name": "255026_37.0.0", "token": "773327ea-d535-50b3-067e-27e0fd77caec"},
+      "buildKey": "33a9c52005a0a84fb00d4cf121b9f566",
+      "cdnKey": "c7c0de0d4fe6a028669579a39d5bb5ba",
+      "definition": "eba40989e0fe30fb398bc1cd53d9be43",
       "keyRing": "",
-      "lastModified": "2026-10-13T17:14:34.000Z",
+      "lastModified": "2026-10-14T00:56:53.000Z",
       "path": "tpr/hs",
       "pipelineId": 67,
       "productConfig": {"cdnPath": "", "hash": "2956fba9063a9c84784f1ed7a566fbe0"},
@@ -18,18 +18,18 @@
         {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
         {"branches": ["cn"], "cdns": "3b1ed235e69dc0bab6b9d3a760e77297"}
       ],
-      "versionNumber": 254477,
-      "versionString": "37.0.0.254477"
+      "versionNumber": 255026,
+      "versionString": "37.0.0.255026.254477"
     },
     {
       "armadilloKey": "",
       "branches": ["android_cn", "android_cn_dashen", "android_cn_huawei", "cn", "ios_cn"],
-      "build": {"name": "254477_37.0.0", "token": "e46a482c-d608-95b0-9829-68dc7088a677"},
-      "buildKey": "58d0dca4d0a68f26f0d651bac5fe39e9",
-      "cdnKey": "e802f396c6a230b39c7a7d575069cd11",
-      "definition": "c11caac1cbb252fa2245435c6afa363f",
+      "build": {"name": "255026_37.0.0", "token": "773327ea-d535-50b3-067e-27e0fd77caec"},
+      "buildKey": "33a9c52005a0a84fb00d4cf121b9f566",
+      "cdnKey": "c7c0de0d4fe6a028669579a39d5bb5ba",
+      "definition": "d4791520e315c188b4f838dabfc7f1b5",
       "keyRing": "",
-      "lastModified": "2026-10-13T17:14:34.000Z",
+      "lastModified": "2026-10-14T00:56:53.000Z",
       "path": "tpr/hs",
       "pipelineId": 67,
       "productConfig": {"cdnPath": "", "hash": "96f77bcc0fd82374561c1c9ddfc287b2"},
@@ -39,8 +39,8 @@
         {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
         {"branches": ["cn"], "cdns": "3b1ed235e69dc0bab6b9d3a760e77297"}
       ],
-      "versionNumber": 254477,
-      "versionString": "37.0.0.254477"
+      "versionNumber": 255026,
+      "versionString": "37.0.0.255026.254477"
     }
   ],
   "infrastructure": false,

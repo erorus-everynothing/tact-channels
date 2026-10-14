@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "1ea08707dafefb5b2c3eab73b5d885cb"
+    "channel": "567988aeed7a6e456d4733531f338fc1"
   },
-  "lastModified": "2026-10-14T06:09:15.000Z",
-  "pointerLastModified": "2026-10-14T06:09:15.000Z",
+  "lastModified": "2026-10-14T09:08:11.000Z",
+  "pointerLastModified": "2026-10-14T09:08:11.000Z",
   "products": {
     "agent": [
       "agent",
@@ -425,6 +425,9 @@
       "lyra",
       "lyra-retail-dev-1",
       "lyra-retail-rc"
+    ],
+    "malb": [
+      "malb-retail-dev-1"
     ],
     "odin": [
       "brynhildr_odin",

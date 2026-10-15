@@ -3,13 +3,13 @@
     {
       "armadilloKey": "",
       "branches": ["android_amazon", "android_google", "android_onestore", "eu", "ios", "kr", "us"],
-      "build": {"name": "255026_37.0.0", "token": "773327ea-d535-50b3-067e-27e0fd77caec"},
-      "buildKey": "33a9c52005a0a84fb00d4cf121b9f566",
+      "build": {"name": "255130_37.0.0", "token": "5ffa381d-fd14-03a4-7909-c1f8c0f1614b"},
+      "buildKey": "adaa96c427202039f22cc717564bdc97",
       "cdnKey": "ff9025d0103bd77a12912ccb15b40178",
       "cdnKeyFile": {"name": "blue/cdnkeys/4d212a15a1d23cad705d63f11babf68d"},
-      "definition": "52eb4ca2b143cfe2c01968beebcaadef",
+      "definition": "1a52aeb521114d1aaa17ba573d51ca39",
       "keyRing": "",
-      "lastModified": "2026-10-15T17:03:47.000Z",
+      "lastModified": "2026-10-15T18:55:19.000Z",
       "path": "tpr/hs",
       "pipelineId": 67,
       "productConfig": {"cdnPath": "", "hash": "2956fba9063a9c84784f1ed7a566fbe0"},
@@ -19,19 +19,19 @@
         {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
         {"branches": ["cn"], "cdns": "3b1ed235e69dc0bab6b9d3a760e77297"}
       ],
-      "versionNumber": 255026,
-      "versionString": "37.0.0.255026.254477"
+      "versionNumber": 255130,
+      "versionString": "37.0.0.255130.254477"
     },
     {
       "armadilloKey": "",
       "branches": ["android_cn", "android_cn_dashen", "android_cn_huawei", "cn", "ios_cn"],
-      "build": {"name": "255026_37.0.0", "token": "773327ea-d535-50b3-067e-27e0fd77caec"},
-      "buildKey": "33a9c52005a0a84fb00d4cf121b9f566",
+      "build": {"name": "255130_37.0.0", "token": "5ffa381d-fd14-03a4-7909-c1f8c0f1614b"},
+      "buildKey": "adaa96c427202039f22cc717564bdc97",
       "cdnKey": "ff9025d0103bd77a12912ccb15b40178",
       "cdnKeyFile": {"name": "blue/cdnkeys/4d212a15a1d23cad705d63f11babf68d"},
-      "definition": "401c5a3813548be89b0197bee443d46d",
+      "definition": "5f22c92f714d826de6c44820fcfe27a6",
       "keyRing": "",
-      "lastModified": "2026-10-15T17:03:47.000Z",
+      "lastModified": "2026-10-15T18:55:19.000Z",
       "path": "tpr/hs",
       "pipelineId": 67,
       "productConfig": {"cdnPath": "", "hash": "96f77bcc0fd82374561c1c9ddfc287b2"},
@@ -41,8 +41,8 @@
         {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
         {"branches": ["cn"], "cdns": "3b1ed235e69dc0bab6b9d3a760e77297"}
       ],
-      "versionNumber": 255026,
-      "versionString": "37.0.0.255026.254477"
+      "versionNumber": 255130,
+      "versionString": "37.0.0.255130.254477"
     }
   ],
   "infrastructure": false,

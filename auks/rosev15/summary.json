@@ -56,12 +56,12 @@
       "buildKey": "ec0e3644058d1000ef78f33be9ad0eb3",
       "cdnKey": "f56845b389a380f021f72e087633b691",
       "cdnKeyFile": {"name": "green/cdnkeys/05a3a81912a6723cad0fe31a0052506c"},
-      "definition": "fe8fe40268cdb76f12b7ea74106ed0e5",
+      "definition": "773178b188146c486a70640f0c1c2418",
       "keyRing": "",
-      "lastModified": "2026-10-15T20:54:29.000Z",
+      "lastModified": "2026-10-15T20:55:30.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
-      "productConfig": {"cdnPath": "", "hash": "734a7664e536f872e8434a68155de460"},
+      "productConfig": {"cdnPath": "", "hash": "a2f13cd75926d2456410028c047fe7fb"},
       "regions": [
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}

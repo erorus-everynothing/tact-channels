@@ -1,21 +1,21 @@
 {
   "armadilloKey": "",
-  "build": {"name": "3141_bna", "token": "5dab645a-8060-4f7f-8e2b-ef732a74de9d"},
-  "buildKey": "4101231186fed9e578d03cdbb7d658ec",
-  "cdnKey": "413678ddc8eb0957567321782faa532d",
+  "build": {"name": "4232_bna", "token": "33b9ea41-4525-4be6-818a-d86f4cb71bb6"},
+  "buildKey": "698b9094737b298546ac3476251cce61",
+  "cdnKey": "aab39df936f0c7cf95f20c60533b3430",
   "cdnKeyFile": {"name": "green/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
-  "definition": "1123ae2a911aaac3ce6cde7105a28168",
+  "definition": "09debd8d1da34813b72ce6df73078e96",
   "keyRing": "",
-  "lastModified": "2026-10-15T19:00:35.000Z",
+  "lastModified": "2026-10-15T20:43:18.000Z",
   "path": "tpr/bnt004",
   "pipelineId": 135,
-  "productConfig": {"cdnPath": "", "hash": "e8a9e3b2b36cc844d7a26a18fce57792"},
+  "productConfig": {"cdnPath": "", "hash": ""},
   "regions": [
     {"branches": ["cn"], "cdns": "8d43db3064cc84a322d13f2eb0b16c9e"},
     {"branches": ["tw", "us"], "cdns": "44fd23cc441744facd12d1bbfb399db2"},
     {"branches": ["eu"], "cdns": "a2177c8cd4db5f7d15544537ce0b994e"},
     {"branches": ["kr"], "cdns": "17c1848bf7f9ce3388e7d66097e2f9df"}
   ],
-  "versionNumber": 3141,
-  "versionString": "1.18.10.3141"
+  "versionNumber": 4232,
+  "versionString": "2.0.0.4232"
 }

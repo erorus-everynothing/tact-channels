@@ -1,12 +1,12 @@
 {
   "armadilloKey": "",
-  "build": {"name": "WOW-70395patch5.5.4_NEVendor5", "token": "47b8d639-98ee-4b40-8a2f-6e19d7aa0dc8"},
-  "buildKey": "f6be617006b256556fe1eabf90c123a2",
-  "cdnKey": "2dc1f8941258230fb9089167dac0bbed",
+  "build": {"name": "WOW-70423patch5.5.4_NEVendor5", "token": "6360e0ce-3c8a-4e90-9754-b93dea95813d"},
+  "buildKey": "0d4b251a218503d77ce30db857dce488",
+  "cdnKey": "b580037cbf8f86ea4f936aa7fa2fb3ef",
   "cdnKeyFile": {"name": "blue/cdnkeys/221f1738e56f3e57b928f2dd7388f254"},
-  "definition": "a738666e0321efef376bd96a76873c84",
+  "definition": "907165a6773afe49b1a57aa261e8ef5a",
   "keyRing": "",
-  "lastModified": "2026-10-15T17:04:14.000Z",
+  "lastModified": "2026-10-15T17:41:22.000Z",
   "path": "tpr/wowvcn",
   "pipelineId": 403,
   "productConfig": {"cdnPath": "", "hash": "c46d24c16c6c4bf2c47d77017c90f587"},
@@ -16,6 +16,6 @@
     {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
     {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"}
   ],
-  "versionNumber": 70395,
-  "versionString": "5.5.4.70395"
+  "versionNumber": 70423,
+  "versionString": "5.5.4.70423"
 }

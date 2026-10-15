@@ -3,12 +3,12 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "20261014-000018-fat-walrus", "token": "db5607ce-9e30-40da-9f20-bcf68ba07da9"},
-      "buildKey": "d3dff799c6ee381aca446844de08d521",
-      "cdnKey": "bda4310f9d4d63fa44034dff9087ad97",
-      "definition": "829148176e89c409cb24ce296a28b90e",
-      "keyRing": "af68443df2d0f9357aedd9d083e8b29f",
-      "lastModified": "2026-10-14T06:09:11.000Z",
+      "build": {"name": "20261015-000054-upset-jellyfish", "token": "2bcf6263-0967-410f-a44e-5c03537335d4"},
+      "buildKey": "2edcba25ac75428d4d2a547936173e16",
+      "cdnKey": "de3307f16251f4d72c4f325d6c14e9ee",
+      "definition": "9dc0c8c5f33d885c32a3dfe8bf9e2fae",
+      "keyRing": "83c9974a5618d328578095eaea788cba",
+      "lastModified": "2026-10-15T06:00:01.000Z",
       "path": "tpr/arisdev",
       "pipelineId": 350,
       "productConfig": {"cdnPath": "", "hash": "3bdd137c047e8e0a57b09a37c0b0203b"},
@@ -16,8 +16,8 @@
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
       ],
-      "versionNumber": 509,
-      "versionString": "9731EDE4F2589DFE6B4595AF28D699C5"
+      "versionNumber": 510,
+      "versionString": "3A3E69213610BD190B514A9AAE5F8598"
     }
   ],
   "infrastructure": false,

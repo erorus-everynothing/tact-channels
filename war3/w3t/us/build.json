@@ -1,11 +1,11 @@
 {
   "armadilloKey": "",
-  "build": {"name": "3.0.1.24332-ptr", "token": "77f926be-ad63-425e-adf0-43e12743160b"},
-  "buildKey": "71c286bbc971889136f05377180b4319",
-  "cdnKey": "f0b3934c08beaca44d58ec2a15865812",
-  "definition": "d64792f034c191db69bb43c9eb14efa7",
+  "build": {"name": "3.0.1.24360-ptr", "token": "8f53db5d-7859-496b-b9c5-2a1589df5fe7"},
+  "buildKey": "5507d175bb77c49e221cb8d9502aeaa8",
+  "cdnKey": "3791aee8dbdf86eb49f2c494f050a09f",
+  "definition": "ec90c3feb9f2f6f9499ea31cc8e869a6",
   "keyRing": "",
-  "lastModified": "2026-10-06T19:31:29.000Z",
+  "lastModified": "2026-10-15T09:24:47.000Z",
   "path": "tpr/war3",
   "pipelineId": 100,
   "productConfig": {"cdnPath": "", "hash": "0dab0e85b60f33f78a784b84cbc0a67f"},
@@ -14,6 +14,6 @@
     {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
     {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
   ],
-  "versionNumber": 24332,
-  "versionString": "3.0.1.24332"
+  "versionNumber": 24360,
+  "versionString": "3.0.1.24360"
 }

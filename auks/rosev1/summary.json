@@ -3,6 +3,26 @@
     {
       "armadilloKey": "",
       "branches": ["eu"],
+      "build": {"name": "trunk_29510881_rex_autobuild_mp_bnet_v1_dev", "token": "91f96bb3-62b0-44b0-b149-a8ac7098a15f"},
+      "buildKey": "41f571a600711e68877174487390a97d",
+      "cdnKey": "9de6a7dedeb64afd991849a21c1a56f2",
+      "cdnKeyFile": {"name": "green/cdnkeys/761feba9dacad85f7fc590804354ed84"},
+      "definition": "c580e5849857fa8fa150f29f6f0b7648",
+      "keyRing": "",
+      "lastModified": "2026-10-16T18:31:10.000Z",
+      "path": "tpr/rosev",
+      "pipelineId": 302,
+      "productConfig": {"cdnPath": "", "hash": "b95748a7bfebc705424b660d3ba96900"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
+      "versionNumber": 29510881,
+      "versionString": "0.0.0.29510881d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["kr"],
       "build": {"name": "trunk_29493546_rex_autobuild_mp_bnet_v1_dev", "token": "a77336bc-f384-4a21-9db7-3141a73de5b5"},
       "buildKey": "7d9e62e205ac87cb59f23998f2ce3c7d",
       "cdnKey": "9de6a7dedeb64afd991849a21c1a56f2",
@@ -22,34 +42,14 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["kr"],
-      "build": {"name": "trunk_29465513_rex_autobuild_mp_bnet_v1_dev", "token": "ecb6f78a-2844-42de-a4f0-35ea254a28a1"},
-      "buildKey": "1b562d33d4bc140da6c540864ba4664c",
-      "cdnKey": "9de6a7dedeb64afd991849a21c1a56f2",
-      "cdnKeyFile": {"name": "green/cdnkeys/761feba9dacad85f7fc590804354ed84"},
-      "definition": "e362e2e3a28b6cd597fef63219da9eb5",
-      "keyRing": "",
-      "lastModified": "2026-10-16T18:31:10.000Z",
-      "path": "tpr/rosev",
-      "pipelineId": 302,
-      "productConfig": {"cdnPath": "", "hash": "b95748a7bfebc705424b660d3ba96900"},
-      "regions": [
-        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
-        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
-      ],
-      "versionNumber": 29465513,
-      "versionString": "0.0.0.29465513d"
-    },
-    {
-      "armadilloKey": "",
       "branches": ["us"],
-      "build": {"name": "trunk_29510881_rex_autobuild_mp_bnet_v1_dev", "token": "91f96bb3-62b0-44b0-b149-a8ac7098a15f"},
-      "buildKey": "41f571a600711e68877174487390a97d",
+      "build": {"name": "trunk_29533223_rex_autobuild_mp_bnet_v1_dev", "token": "20263294-5aca-4b79-8573-add91c259ad0"},
+      "buildKey": "6f98227777c761602ed1c8b4e4dc7ea0",
       "cdnKey": "9de6a7dedeb64afd991849a21c1a56f2",
       "cdnKeyFile": {"name": "green/cdnkeys/761feba9dacad85f7fc590804354ed84"},
-      "definition": "c580e5849857fa8fa150f29f6f0b7648",
+      "definition": "9977db2f1de79c3d1944fc092927b1c4",
       "keyRing": "",
-      "lastModified": "2026-10-16T18:31:10.000Z",
+      "lastModified": "2026-10-16T18:40:10.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "b95748a7bfebc705424b660d3ba96900"},
@@ -57,8 +57,8 @@
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
       ],
-      "versionNumber": 29510881,
-      "versionString": "0.0.0.29510881d"
+      "versionNumber": 29533223,
+      "versionString": "0.0.0.29533223d"
     }
   ],
   "infrastructure": false,

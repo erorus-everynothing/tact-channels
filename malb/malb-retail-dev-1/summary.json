@@ -7,12 +7,12 @@
       "buildKey": "05d157e1eab2e70ef9cc28dae7eea801",
       "cdnKey": "05f0bde79a693421bde629837c0e5fb8",
       "cdnKeyFile": {"name": "green/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"},
-      "definition": "6a68bfd7b3a4aeae6c776d991a653a5c",
+      "definition": "f71bd9e80cf61ac842c3bcc647fd3022",
       "keyRing": "af3232f34cccd04c774f1e16bf522817",
-      "lastModified": "2026-10-15T19:00:46.000Z",
+      "lastModified": "2026-10-16T18:31:10.000Z",
       "path": "tpr/malbdev",
       "pipelineId": 406,
-      "productConfig": {"cdnPath": "", "hash": "129f2006562c476c6608bd5d76eae52e"},
+      "productConfig": {"cdnPath": "", "hash": "2215167c0089dd42bcf50ec8adf91959"},
       "regions": [
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"}

@@ -1,22 +1,22 @@
 {
   "armadilloKey": "",
   "build": {
-    "name": "release_28354448_cod25_season5_5_signed_bnet_v5_ship",
-    "token": "dc3ab604-502d-462b-b38b-979273287169"
+    "name": "release_29444703A_cod26_tu2_nosrv_signed_bnet_v5_ship",
+    "token": "c76f3eb8-e891-45e6-89ba-cdd8ab47af90"
   },
-  "buildKey": "dea7ee4fd114dc4d1917be3ed8329207",
-  "cdnKey": "dc2531fec57a707fd44140736105eb65",
+  "buildKey": "36a254b68e3c0d92cd50002e589e031d",
+  "cdnKey": "b45edad10aef331874ed7752a774f99f",
   "cdnKeyFile": {"name": "green/cdnkeys/4bd880559187a53d69b4ae2dbcc3506f"},
-  "definition": "f9e7e7f23b386b96d7d81b2538f62dd2",
+  "definition": "cd15bad80870a3aa8a20bdec3f7c79bd",
   "keyRing": "",
-  "lastModified": "2026-10-15T19:00:28.000Z",
+  "lastModified": "2026-10-16T05:14:33.000Z",
   "path": "tpr/auksv",
   "pipelineId": 236,
-  "productConfig": {"cdnPath": "", "hash": "745a64bfa55848323e75135e4fd13bcd"},
+  "productConfig": {"cdnPath": "", "hash": "3d2dc06097608414af8e377e7347e1d1"},
   "regions": [
     {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
     {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
   ],
-  "versionNumber": 28354448,
-  "versionString": "2.17.3.28354448s"
+  "versionNumber": 29444703,
+  "versionString": "2.17.3.29444703s"
 }

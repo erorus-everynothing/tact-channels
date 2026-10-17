@@ -3,13 +3,13 @@
     {
       "armadilloKey": "",
       "branches": ["us"],
-      "build": {"name": "3.0.1.24360-ptr", "token": "8f53db5d-7859-496b-b9c5-2a1589df5fe7"},
-      "buildKey": "5507d175bb77c49e221cb8d9502aeaa8",
-      "cdnKey": "3791aee8dbdf86eb49f2c494f050a09f",
+      "build": {"name": "3.0.1.24365-ptr", "token": "06ccdc3b-d440-4c27-861b-af3f2e159766"},
+      "buildKey": "fae594ca881eebff543679392d5e0323",
+      "cdnKey": "c44b5503618b1b39ec2431af51a33160",
       "cdnKeyFile": {"name": "green/cdnkeys/cda48281862c6be2a4fd1c82013e66e6"},
-      "definition": "b5142a206b63818e8707104acb9e5352",
+      "definition": "20058cc79dd350d86001362f410dface",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:01:11.000Z",
+      "lastModified": "2026-10-17T19:15:00.000Z",
       "path": "tpr/war3",
       "pipelineId": 100,
       "productConfig": {"cdnPath": "", "hash": "0dab0e85b60f33f78a784b84cbc0a67f"},
@@ -18,8 +18,8 @@
         {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
         {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
       ],
-      "versionNumber": 24360,
-      "versionString": "3.0.1.24360"
+      "versionNumber": 24365,
+      "versionString": "3.0.1.24365"
     }
   ],
   "infrastructure": false,

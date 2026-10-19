@@ -1,16 +1,16 @@
 {
   "armadilloKey": "",
-  "build": {"name": "74060_Win64Client_3_3_0_fenrisvendor3", "token": "7e514d29-490c-4c71-9d98-982e52db8e9d"},
-  "buildKey": "24ccd474e154642bfd735614d92c1687",
-  "cdnKey": "2d0fc11fbd62e97f60f434f351ae1641",
+  "build": {"name": "74093_Win64Client_3_3_0_fenrisvendor3", "token": "6360dd70-18d0-4458-a0f4-c53b3151ed22"},
+  "buildKey": "04c276383b093b0530112aaf1d902085",
+  "cdnKey": "bc6525b791b8213d98552bed968f9de6",
   "cdnKeyFile": {"name": "green/cdnkeys/95cf4050436827968117d50852640098"},
-  "definition": "41393a3a817414384fb6b13e371dc777",
+  "definition": "51288183d90aab6b34d20ca1912c24d9",
   "keyRing": "",
-  "lastModified": "2026-10-16T17:07:28.000Z",
+  "lastModified": "2026-10-19T04:25:58.000Z",
   "path": "tpr/fenrisv",
   "pipelineId": 206,
   "productConfig": {"cdnPath": "", "hash": "841d7aaac869272b4894be356bcf2d42"},
   "regions": [{"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"}],
-  "versionNumber": 74060,
-  "versionString": "3.3.0.74060"
+  "versionNumber": 74093,
+  "versionString": "3.3.0.74093"
 }

@@ -8,11 +8,11 @@
         "token": "92545d3a-e91e-4a2d-a79c-650d369947fb"
       },
       "buildKey": "5a43ace8b88075f323226b79a7edde17",
-      "cdnKey": "01e85366d9d2dfdfd4f4b23b54ccb9d8",
+      "cdnKey": "d166c5a0c5a864a3edb62305ea60515f",
       "cdnKeyFile": {"name": "green/cdnkeys/10ca03d680e43fe6513297eec93aa72c"},
-      "definition": "4d542bb2bd32f8b2cb413bc4985ff5df",
+      "definition": "a4a2c4896493f2c5225833fe8ae1dbad",
       "keyRing": "",
-      "lastModified": "2026-10-19T13:49:31.000Z",
+      "lastModified": "2026-10-19T15:52:11.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "d9f61927ba3505f917e4a53aaf5b4115"},
@@ -26,16 +26,13 @@
     {
       "armadilloKey": "",
       "branches": ["us"],
-      "build": {
-        "name": "release_28484794C_cod26_beta_tu2_signed_bnet_20_dev",
-        "token": "1b009bb6-1f4c-42dd-97a0-70341234e0fd"
-      },
-      "buildKey": "f5c069dc0fbf89cad3f2eb03eb5aabb8",
-      "cdnKey": "01e85366d9d2dfdfd4f4b23b54ccb9d8",
+      "build": {"name": "release_29563434_cod26_season1_bnet_v20_dev", "token": "ed66d254-f99d-4d15-943c-4492adc79ffc"},
+      "buildKey": "a4f0e18ecb0e181ce0e540ee04ed43a6",
+      "cdnKey": "d166c5a0c5a864a3edb62305ea60515f",
       "cdnKeyFile": {"name": "green/cdnkeys/10ca03d680e43fe6513297eec93aa72c"},
-      "definition": "21df72965297f44f2acae06b66113fbc",
+      "definition": "33ef6e61c60b83ced432e108150fab9f",
       "keyRing": "",
-      "lastModified": "2026-10-19T13:49:31.000Z",
+      "lastModified": "2026-10-19T15:52:11.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "f308bc3b810f64964b94f6099c968f6f"},
@@ -43,8 +40,8 @@
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
       ],
-      "versionNumber": 28484794,
-      "versionString": "0.0.0.28484794Cd"
+      "versionNumber": 29563434,
+      "versionString": "0.0.0.29563434d"
     }
   ],
   "infrastructure": false,

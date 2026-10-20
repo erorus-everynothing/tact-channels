@@ -1,12 +1,12 @@
 {
   "armadilloKey": "",
-  "build": {"name": "SeaOfThieves_2.152.3728.0", "token": "870dd894-35c2-46fc-a7e0-fbba1c2d3476"},
-  "buildKey": "25fe8b9c2d28bb40da0648818ad206e4",
-  "cdnKey": "4bfda6b6fc73a84ae69631ac7b6fc464",
+  "build": {"name": "SeaOfThieves_2.153.100.0", "token": "71562b3f-3bd2-40f5-866d-56f41ada688c"},
+  "buildKey": "45645fa4d3271dd487843302a122fd29",
+  "cdnKey": "eb82c33b2d3ec29ba6879dd673ce8c7e",
   "cdnKeyFile": {"name": "green/cdnkeys/e93ba07aba32018f188bdd3547e50356"},
-  "definition": "f0f7f35577b41f14709e93d7545081fc",
+  "definition": "1cce73361a83f445b1f2a7f7d4107695",
   "keyRing": "",
-  "lastModified": "2026-10-19T15:28:19.000Z",
+  "lastModified": "2026-10-20T18:48:59.000Z",
   "path": "tpr/scorrc",
   "pipelineId": 335,
   "productConfig": {"cdnPath": "", "hash": "a87c633877eaa354107ac1fd3d8a9096"},
@@ -14,6 +14,6 @@
     {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
     {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
   ],
-  "versionNumber": 1523728,
-  "versionString": "2.152.3728.0"
+  "versionNumber": 1530100,
+  "versionString": "2.153.100.0"
 }

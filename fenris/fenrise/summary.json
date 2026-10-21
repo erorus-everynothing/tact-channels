@@ -1,0 +1,71 @@
+{
+  "builds": [
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "fenrisliveevent-6", "token": "4f739357-4f1b-46c2-9dac-fb687e576557"},
+      "buildKey": "838058f27b045fd4d73d419387328672",
+      "cdnKey": "cb51e2d3cda42beb4f15940efb38dde1",
+      "cdnKeyFile": {"name": "green/cdnkeys/b4733745782443fe75ccb4ef05823aa3"},
+      "definition": "40777b437506d06ca5d26819a8e37ecf",
+      "keyRing": "",
+      "lastModified": "2026-10-21T20:49:58.000Z",
+      "path": "tpr/fenrisevent/6",
+      "pipelineId": 289,
+      "productConfig": {"cdnPath": "", "hash": ""},
+      "regions": [
+        {"branches": ["kr"], "cdns": "c0e7d0a17586b7a6b77304f88db69983"},
+        {"branches": ["eu"], "cdns": "8d77fec37bdc531f7ab7a2c3d7a11045"},
+        {"branches": ["us"], "cdns": "bc1754f11f573e568506faa05cbe52e3"}
+      ],
+      "versionNumber": 1,
+      "versionString": "1"
+    }
+  ],
+  "infrastructure": false,
+  "product": "fenris",
+  "regions": [
+    {
+      "branches": ["eu"],
+      "cdns": "8d77fec37bdc531f7ab7a2c3d7a11045",
+      "hosts": [
+        {"host": "http://blzddist1-a.akamaihd.net?maxhosts=5&fallback=1"},
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "https://blzddist1-a.akamaihd.net?maxhosts=5&fallback=1"},
+        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-10-21T19:52:40.000Z"
+    },
+    {
+      "branches": ["kr"],
+      "cdns": "c0e7d0a17586b7a6b77304f88db69983",
+      "hosts": [
+        {"host": "http://level3.blizzard.com?maxhosts=4"},
+        {"host": "http://blzddistkr1-a.akamaihd.net?maxhosts=4&fallback=1"},
+        {"host": "https://blzddistkr1-a.akamaihd.net?maxhosts=4&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
+        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
+        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
+        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
+      ],
+      "lastModified": "2026-10-21T19:52:40.000Z"
+    },
+    {
+      "branches": ["us"],
+      "cdns": "bc1754f11f573e568506faa05cbe52e3",
+      "hosts": [
+        {"host": "http://blzddist1-a.akamaihd.net?maxhosts=5&fallback=1"},
+        {"host": "http://level3.blizzard.com?maxhosts=5"},
+        {"host": "https://blzddist1-a.akamaihd.net?maxhosts=5&fallback=1"},
+        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
+        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
+        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
+      ],
+      "lastModified": "2026-10-21T19:52:40.000Z"
+    }
+  ],
+  "variant": "fenrise"
+}

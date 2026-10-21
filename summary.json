@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "6f295266682585279b2631d6d69e95c7"
+    "channel": "baa28f1ba035bdc8f9a5dffa56b45390"
   },
-  "lastModified": "2026-10-21T21:38:11.000Z",
-  "pointerLastModified": "2026-10-21T21:38:11.000Z",
+  "lastModified": "2026-10-21T21:49:30.000Z",
+  "pointerLastModified": "2026-10-21T21:49:31.000Z",
   "products": {
     "agent": [
       "agent",
@@ -347,6 +347,7 @@
     "fenris": [
       "fenris",
       "fenrisdev",
+      "fenrisdev2",
       "fenrise",
       "fenrise2",
       "fenristest",

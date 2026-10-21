@@ -1,12 +1,12 @@
 {
   "armadilloKey": "",
-  "build": {"name": "WOW-70372patch3.80.2_ClassicTitan", "token": "9efa467d-ed0c-4437-aac3-30dfa181a2e9"},
-  "buildKey": "c76b04ff458fe949ea294c525cf79fe7",
-  "cdnKey": "86e142712006071d5eb4b60e825c1f6e",
+  "build": {"name": "WOW-70522patch3.80.2_ClassicTitan", "token": "eb2b8fa5-3e63-419f-84de-ca85f3db4c42"},
+  "buildKey": "eed3978f9e962450c5a358ef0dcbcf64",
+  "cdnKey": "0be643b8138ab938c75533cdc11302c4",
   "cdnKeyFile": {"name": "green/cdnkeys/aa540d6d77fa9bc61f07a62f5911e245"},
-  "definition": "b0746a8195e2636f2b6ee72ffacf4d2c",
+  "definition": "220ed5697dc86ea6773ba7a127bfc628",
   "keyRing": "",
-  "lastModified": "2026-10-19T22:53:09.000Z",
+  "lastModified": "2026-10-21T01:21:40.000Z",
   "path": "tpr/wow",
   "pipelineId": 19,
   "productConfig": {"cdnPath": "", "hash": "11a7ea270082c4636d7c2edbcda7ae94"},
@@ -16,6 +16,6 @@
     {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"},
     {"branches": ["kr"], "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"}
   ],
-  "versionNumber": 70372,
-  "versionString": "3.80.2.70372"
+  "versionNumber": 70522,
+  "versionString": "3.80.2.70522"
 }

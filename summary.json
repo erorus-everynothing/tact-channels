@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "baa28f1ba035bdc8f9a5dffa56b45390"
+    "channel": "4b457fc84f6ee43d7bb0263c4756587d"
   },
-  "lastModified": "2026-10-21T21:49:30.000Z",
-  "pointerLastModified": "2026-10-21T21:49:31.000Z",
+  "lastModified": "2026-10-21T21:51:10.000Z",
+  "pointerLastModified": "2026-10-21T21:51:11.000Z",
   "products": {
     "agent": [
       "agent",
@@ -323,9 +323,7 @@
       "osib",
       "osic",
       "osidev",
-      "osit",
-      "osiv1",
-      "osiv2"
+      "osit"
     ],
     "diablo3": [
       "d3",

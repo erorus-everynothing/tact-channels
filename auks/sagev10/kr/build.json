@@ -1,12 +1,12 @@
 {
   "armadilloKey": "",
-  "build": {"name": "release_29580566_cod25_sep_ejected_bnet_v10_dev", "token": "ce7fab7e-514a-48e7-a3f4-8732270d9ddf"},
-  "buildKey": "2f715342423322ab7dd05ab8a00d1333",
-  "cdnKey": "7124ebad3fc6b1b0cd55132de0ff4dae",
+  "build": {"name": "release_29600291_cod25_sep_ejected_bnet_v10_dev", "token": "49977739-a68f-40a4-b98a-88d6934ec45a"},
+  "buildKey": "ee28ca647d27f0ec58cf8318a76706c8",
+  "cdnKey": "b677062080d1c78dd007ad1cd77d24dd",
   "cdnKeyFile": {"name": "green/cdnkeys/06c8a76fbed9f03cc3939df0ff28e1e2"},
-  "definition": "d9c7d44858aa15c016e21b5199151e8a",
+  "definition": "5b68f31c283c41e28e19421cf79a61c3",
   "keyRing": "",
-  "lastModified": "2026-10-21T16:00:21.000Z",
+  "lastModified": "2026-10-22T16:43:00.000Z",
   "path": "tpr/sagev",
   "pipelineId": 304,
   "productConfig": {"cdnPath": "", "hash": "66c1c410491fe0901ac2022d9d4767c1"},
@@ -14,6 +14,6 @@
     {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
     {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
   ],
-  "versionNumber": 29580566,
-  "versionString": "0.0.0.29580566d"
+  "versionNumber": 29600291,
+  "versionString": "0.0.0.29600291d"
 }

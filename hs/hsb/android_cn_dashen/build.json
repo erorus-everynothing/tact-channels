@@ -1,12 +1,12 @@
 {
   "armadilloKey": "",
-  "build": {"name": "255130_37.0.0", "token": "5ffa381d-fd14-03a4-7909-c1f8c0f1614b"},
-  "buildKey": "adaa96c427202039f22cc717564bdc97",
+  "build": {"name": "255790_37.0.0", "token": "23925111-89da-8e7a-64df-4124a2205316"},
+  "buildKey": "4849d9f91298cf2ecd9772c2d06ac47e",
   "cdnKey": "6900da814eaa11a5c2f4d0b0f8680422",
   "cdnKeyFile": {"name": "green/cdnkeys/724ae97eb40db38a33fda7791a18ab0c"},
-  "definition": "e53bef32b27abacc2efc4b0461e2cfa6",
+  "definition": "683f06f9cd0839b93dcb77e99f297689",
   "keyRing": "",
-  "lastModified": "2026-10-22T16:18:49.000Z",
+  "lastModified": "2026-10-23T22:11:59.000Z",
   "path": "tpr/hs",
   "pipelineId": 67,
   "productConfig": {"cdnPath": "", "hash": "96f77bcc0fd82374561c1c9ddfc287b2"},
@@ -16,6 +16,6 @@
     {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
     {"branches": ["cn"], "cdns": "3b1ed235e69dc0bab6b9d3a760e77297"}
   ],
-  "versionNumber": 255130,
-  "versionString": "37.0.0.255130.254477"
+  "versionNumber": 255790,
+  "versionString": "37.0.0.255790"
 }

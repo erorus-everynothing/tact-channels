@@ -1,12 +1,12 @@
 {
   "armadilloKey": "",
-  "build": {"name": "WOW-70537patch12.1.7_Vendor3", "token": "098f468d-9790-4c03-be42-e6b495edfcc3"},
-  "buildKey": "57710c7f15daf7cd52862fcbfb23b9ce",
-  "cdnKey": "a9719aea8e3eb911abe0125c2382e284",
+  "build": {"name": "WOW-70587patch12.1.7_Vendor3", "token": "b9884ecb-93fe-4666-a9a6-aae0a6f2a85b"},
+  "buildKey": "111944ffa6241f8769b55e2aaa220913",
+  "cdnKey": "64e7db14544e9db350b5a2837904b7d3",
   "cdnKeyFile": {"name": "green/cdnkeys/6c4384b2d8faa871fe244984165497a6"},
-  "definition": "77dec53599e6444bd66ff461c1d9f614",
+  "definition": "3d1e46f7aa5540fbede4eee2b77d96bf",
   "keyRing": "",
-  "lastModified": "2026-10-21T17:29:59.000Z",
+  "lastModified": "2026-10-23T20:38:50.000Z",
   "path": "tpr/wowv",
   "pipelineId": 163,
   "productConfig": {"cdnPath": "", "hash": "cf360929ce16bb0d52f1020676c3fc5a"},
@@ -15,6 +15,6 @@
     {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
     {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
   ],
-  "versionNumber": 70537,
-  "versionString": "12.1.7.70537"
+  "versionNumber": 70587,
+  "versionString": "12.1.7.70587"
 }

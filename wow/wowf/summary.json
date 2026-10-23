@@ -2,7 +2,7 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["eu", "kr", "tw", "us"],
+      "branches": ["cn", "eu", "kr", "tw", "us"],
       "build": {"name": "WOW-70532patch1.60.1_Retail", "token": "92089415-cfa3-4cc6-82ac-758ee2021081"},
       "buildKey": "2582289d81e380163c7a13472df4cb81",
       "cdnKey": "c13b476a09cb3262797a6fdc88103036",

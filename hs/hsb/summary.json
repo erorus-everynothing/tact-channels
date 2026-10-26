@@ -24,7 +24,7 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["android_cn", "android_cn_dashen"],
+      "branches": ["android_cn", "android_cn_dashen", "android_cn_huawei"],
       "build": {"name": "255790_37.0.0", "token": "23925111-89da-8e7a-64df-4124a2205316"},
       "buildKey": "4849d9f91298cf2ecd9772c2d06ac47e",
       "cdnKey": "6900da814eaa11a5c2f4d0b0f8680422",
@@ -46,7 +46,7 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["android_cn_huawei", "cn", "ios_cn"],
+      "branches": ["cn", "ios_cn"],
       "build": {"name": "255130_37.0.0", "token": "5ffa381d-fd14-03a4-7909-c1f8c0f1614b"},
       "buildKey": "adaa96c427202039f22cc717564bdc97",
       "cdnKey": "6900da814eaa11a5c2f4d0b0f8680422",

@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "63bc097485beef8f7cee8308f851045f"
+    "channel": "fef96b042e3d8a23e21ff3f22b88db98"
   },
-  "lastModified": "2026-10-26T15:29:52.000Z",
-  "pointerLastModified": "2026-10-26T15:29:52.000Z",
+  "lastModified": "2026-10-26T15:56:51.000Z",
+  "pointerLastModified": "2026-10-26T15:56:51.000Z",
   "products": {
     "agent": [
       "agent",
@@ -504,6 +504,9 @@
       "providcn1",
       "providcn2",
       "providcn3"
+    ],
+    "pho": [
+      "phobos_event"
     ],
     "phx": [
       "bna"

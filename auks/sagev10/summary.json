@@ -8,11 +8,11 @@
         "token": "63308a69-36b0-46a3-b3de-c85033d558ef"
       },
       "buildKey": "81c2b0399099867d1d235ae0fd3e99d8",
-      "cdnKey": "8423308c989dff346aec835ec8c61b1b",
+      "cdnKey": "baa75d67ad74232e23f90d786fc64ee9",
       "cdnKeyFile": {"name": "green/cdnkeys/06c8a76fbed9f03cc3939df0ff28e1e2"},
-      "definition": "2646ec1e57d836f3c24d76c651d9d20b",
+      "definition": "73d74a9317bc546d50d2bc38588868a3",
       "keyRing": "",
-      "lastModified": "2026-10-23T13:48:00.000Z",
+      "lastModified": "2026-10-26T14:23:20.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "82207308b3879062aacfcea4e1b03032"},
@@ -27,15 +27,15 @@
       "armadilloKey": "",
       "branches": ["kr", "us"],
       "build": {
-        "name": "release_29642480_cod25_sep_ejected_bnet_v10_dev",
-        "token": "a20085b4-e5a2-4786-88be-5b2347552696"
+        "name": "release_29661121_cod25_sep_ejected_bnet_v10_dev",
+        "token": "fc2f6823-611c-4a35-95a4-90be774c4563"
       },
-      "buildKey": "f832b3d3ffe99fa242ef0359c125e079",
-      "cdnKey": "8423308c989dff346aec835ec8c61b1b",
+      "buildKey": "8b36fee793cafee5c86b67b76ef29e34",
+      "cdnKey": "baa75d67ad74232e23f90d786fc64ee9",
       "cdnKeyFile": {"name": "green/cdnkeys/06c8a76fbed9f03cc3939df0ff28e1e2"},
-      "definition": "b69b2826d82f46a23a418b2cda0033de",
+      "definition": "42bfe6bc092216d3e1da09cfa0ace2d0",
       "keyRing": "",
-      "lastModified": "2026-10-23T13:48:00.000Z",
+      "lastModified": "2026-10-26T14:23:20.000Z",
       "path": "tpr/sagev",
       "pipelineId": 304,
       "productConfig": {"cdnPath": "", "hash": "66c1c410491fe0901ac2022d9d4767c1"},
@@ -43,8 +43,8 @@
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
       ],
-      "versionNumber": 29642480,
-      "versionString": "0.0.0.29642480d"
+      "versionNumber": 29661121,
+      "versionString": "0.0.0.29661121d"
     }
   ],
   "infrastructure": false,

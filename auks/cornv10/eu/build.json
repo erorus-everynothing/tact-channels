@@ -1,12 +1,12 @@
 {
   "armadilloKey": "",
-  "build": {"name": "trunk_29603264_zul_full_bnet_v10_dev", "token": "304ebb56-12d3-4a49-9153-d22fbfa6ec96"},
-  "buildKey": "36c0b34274c637dd360f420a29eaaabc",
-  "cdnKey": "6014e4cbd0b1799458409ce8cb3e9c55",
+  "build": {"name": "trunk_29675845_zul_full_bnet_v10_dev", "token": "95e63848-2864-4fee-94b8-c87cd681b5a8"},
+  "buildKey": "bebdea28b0756249a0d75139e6f3dd3f",
+  "cdnKey": "4394e4826669c4f883c652cc29ec2aab",
   "cdnKeyFile": {"name": "green/cdnkeys/972470f7d64690df041fd24457b9fff7"},
-  "definition": "6bf1f6ca77a30b9904685b7135d2c15a",
+  "definition": "28bcba1f8dff59c118bb0b40166928e5",
   "keyRing": "",
-  "lastModified": "2026-10-23T14:11:51.000Z",
+  "lastModified": "2026-10-26T14:00:48.000Z",
   "path": "tpr/cornv",
   "pipelineId": 376,
   "productConfig": {"cdnPath": "", "hash": "d401bc29fd2ffaa25df7c24da92b75ce"},
@@ -14,6 +14,6 @@
     {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
     {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
   ],
-  "versionNumber": 29603264,
-  "versionString": "0.0.0.29603264d"
+  "versionNumber": 29675845,
+  "versionString": "0.0.0.29675845d"
 }

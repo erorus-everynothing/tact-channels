@@ -1,12 +1,12 @@
 {
   "armadilloKey": "",
-  "build": {"name": "Arkansas_4017337", "token": "c73ac49b-61fc-48d1-b00e-4fb254fe7e23"},
-  "buildKey": "b42dfb29d32c7b3d7393dee25f3869b3",
-  "cdnKey": "42e2beb0e58d5d57ad1eb623ba31191b",
+  "build": {"name": "Arkansas_4067570", "token": "5ab437df-072a-43c4-b628-43c652bf619b"},
+  "buildKey": "42b3f7fb38fd5fa14c81cef9c58fe1c3",
+  "cdnKey": "61199502c3b7dc8e01b0a360a681265b",
   "cdnKeyFile": {"name": "green/cdnkeys/f9627303170d438e883a34690f7fd4a1"},
-  "definition": "c4a03c2a18c7879a4de5944d573e0575",
-  "keyRing": "5d28beb2ff0316e90afca9305a9451d0",
-  "lastModified": "2026-10-15T19:00:24.000Z",
+  "definition": "3eba943f6d427d60690e7daca403faaf",
+  "keyRing": "7a4e9e2cca465c8dd03607bc45f611ca",
+  "lastModified": "2026-10-27T19:06:57.000Z",
   "path": "tpr/arkdev",
   "pipelineId": 383,
   "productConfig": {"cdnPath": "", "hash": "a9a7e0d1608bd5ce9bc967fd680e9167"},
@@ -14,6 +14,6 @@
     {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"},
     {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}
   ],
-  "versionNumber": 3091822,
-  "versionString": "0.0.4252.0"
+  "versionNumber": 3150243,
+  "versionString": "2.0.0.0"
 }

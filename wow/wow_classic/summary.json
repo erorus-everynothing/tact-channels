@@ -2,14 +2,14 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["cn", "eu", "kr", "tw", "us"],
+      "branches": ["cn", "eu", "kr", "tw"],
       "build": {"name": "WOW-70579patch5.5.4_ClassicRetail", "token": "f5e1095d-ff9e-49b0-8d92-b51ec751b0ac"},
       "buildKey": "3320a33a62b08a3ed85998a8ee616aae",
-      "cdnKey": "0a08751bdd80706c48e4d099557fa853",
+      "cdnKey": "212ef6f99fdd1fdc06fbb182e49c3233",
       "cdnKeyFile": {"name": "green/cdnkeys/9a62c5efbaf5da27f5df7410b154e8c6"},
-      "definition": "7c381750eb9eea0814f4a61345cef04d",
+      "definition": "d74b427f740d6b1f4c4e572ef1afa9c2",
       "keyRing": "",
-      "lastModified": "2026-10-27T01:43:51.000Z",
+      "lastModified": "2026-10-27T14:15:00.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
       "productConfig": {"cdnPath": "", "hash": "f337a1b6ece3dacf3ec807287f3c2aa6"},
@@ -21,6 +21,28 @@
       ],
       "versionNumber": 70579,
       "versionString": "5.5.4.70579"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["us"],
+      "build": {"name": "WOW-70631patch5.5.4_ClassicRetail", "token": "513bce4c-159b-4ce6-82d7-8a3a21ba0072"},
+      "buildKey": "91b4109f7697d6c0e7e41d14bc10f907",
+      "cdnKey": "212ef6f99fdd1fdc06fbb182e49c3233",
+      "cdnKeyFile": {"name": "green/cdnkeys/9a62c5efbaf5da27f5df7410b154e8c6"},
+      "definition": "198a2c3fab99d4a72ccbc4dc3e01547b",
+      "keyRing": "",
+      "lastModified": "2026-10-27T14:15:00.000Z",
+      "path": "tpr/wow",
+      "pipelineId": 19,
+      "productConfig": {"cdnPath": "", "hash": "f337a1b6ece3dacf3ec807287f3c2aa6"},
+      "regions": [
+        {"branches": ["tw", "us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "04458a4f0d38210a778428f7bc1c41c5"},
+        {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"},
+        {"branches": ["kr"], "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"}
+      ],
+      "versionNumber": 70631,
+      "versionString": "5.5.4.70631"
     }
   ],
   "infrastructure": false,

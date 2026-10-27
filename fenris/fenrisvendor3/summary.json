@@ -3,19 +3,19 @@
     {
       "armadilloKey": "",
       "branches": ["us"],
-      "build": {"name": "74153_Win64Client_3_3_0_fenrisvendor3", "token": "a81525da-fb6f-44ef-b80c-313ff52c51ef"},
-      "buildKey": "8e97c2912aed793e05fbbaa5dc2862e1",
-      "cdnKey": "a455c4b1a62bb7a7de17d290f7718e64",
+      "build": {"name": "74183_Win64Client_3_3_0_fenrisvendor3", "token": "0f60bd7b-ce97-4127-b32c-d991cde65e28"},
+      "buildKey": "e0307d9448681eb470703faa3a010d5d",
+      "cdnKey": "c446a6fe760b7e856581de05d925ab01",
       "cdnKeyFile": {"name": "green/cdnkeys/95cf4050436827968117d50852640098"},
-      "definition": "ea21d5ee90b153df29f6048b3996991c",
+      "definition": "b0dc864adf5e68d6ec9e531dfc8245d6",
       "keyRing": "",
-      "lastModified": "2026-10-26T04:22:58.000Z",
+      "lastModified": "2026-10-27T04:24:18.000Z",
       "path": "tpr/fenrisv",
       "pipelineId": 206,
       "productConfig": {"cdnPath": "", "hash": "841d7aaac869272b4894be356bcf2d42"},
       "regions": [{"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"}],
-      "versionNumber": 74153,
-      "versionString": "3.3.0.74153"
+      "versionNumber": 74183,
+      "versionString": "3.3.0.74183"
     }
   ],
   "infrastructure": false,

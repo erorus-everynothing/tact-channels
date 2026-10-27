@@ -3,13 +3,13 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "Build_1086933Change_13647032Upload_1087353", "token": "87afbecb-37e8-4ea0-b272-bab9f247cd00"},
-      "buildKey": "9e978a9729e744b56539b2d9a96b79e7",
-      "cdnKey": "964cbbb9645d256b3a2a30376c8f60ec",
+      "build": {"name": "Build_1090142Change_13662125Upload_1090906", "token": "ef812be8-1b54-45cd-a389-fb7f68a0f781"},
+      "buildKey": "5d7bf3681a628d29500f70c8cdba376d",
+      "cdnKey": "b453393299c422bb3e981ea7a7a8c622",
       "cdnKeyFile": {"name": "green/cdnkeys/441d4f0588e8e592c245806ae99d5c58"},
-      "definition": "0a14dc3e82d5b18c95595b3183e4ae2e",
-      "keyRing": "1608853e8d52b8c0a0cd77126e4eccdd",
-      "lastModified": "2026-10-26T10:33:09.000Z",
+      "definition": "e6c925ef09d8d08b9bf01eaf72f09a14",
+      "keyRing": "b88cb09d8409f046f0ed99cc93d0f2e7",
+      "lastModified": "2026-10-27T08:07:29.000Z",
       "path": "tpr/lyradev/1",
       "pipelineId": 410,
       "productConfig": {"cdnPath": "", "hash": "6b1c0e17275505c8e0b9a19dfb6f6705"},
@@ -17,7 +17,7 @@
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
       ],
-      "versionNumber": 1086933,
+      "versionNumber": 1090142,
       "versionString": "5.00"
     }
   ],

@@ -2,18 +2,18 @@
   "armadilloKey": "",
   "build": {"name": "94685", "token": "dc0e6ae2-5c91-4d13-8e66-a1b5e43c216f"},
   "buildKey": "ffd5cc932970465eb249dae76606ae33",
-  "cdnKey": "34bd067bf3b3667adf55344232461efe",
+  "cdnKey": "72419141a916980df13edcdfcceed6e2",
   "cdnKeyFile": {"name": "green/cdnkeys/15bfb951b38f81051441b4f6ec6c6b27"},
-  "definition": "18f1dff74d5cfc0affd5399a5c8aec49",
+  "definition": "f204628595d9742e57e16a4a15a322c5",
   "keyRing": "",
-  "lastModified": "2026-10-21T20:55:59.000Z",
-  "path": "tpr/osiv",
+  "lastModified": "2026-10-28T20:39:39.000Z",
+  "path": "tpr/osiv/2",
   "pipelineId": 250,
-  "productConfig": {"cdnPath": "", "hash": "3f8008d995b92546602e8d7ea5314cb8"},
+  "productConfig": {"cdnPath": "", "hash": "319ba134a5c99e3fa9ef7073cb7b5173"},
   "regions": [
-    {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
-    {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"},
-    {"branches": ["kr"], "cdns": "1d6d6caf60482b4053b7231cbbb850fb"}
+    {"branches": ["us"], "cdns": "5d399315430283867e0bfe8f8d148b04"},
+    {"branches": ["eu"], "cdns": "0d29432d9fe5c1bd748572c3e74ccdd0"},
+    {"branches": ["kr"], "cdns": "aedb8917d3ba11613f6a8337778a1d47"}
   ],
   "versionNumber": 94685,
   "versionString": "3.3.94685"

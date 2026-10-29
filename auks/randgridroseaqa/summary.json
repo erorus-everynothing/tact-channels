@@ -4,15 +4,15 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "trunk_driver_19_08_2026_28546760_valkyrie_valkyrie_dev_dev",
-        "token": "5d4f0753-7af8-421d-a6bf-e5e477c957ce"
+        "name": "trunk_cod26_season1_driver_27_10_2026_29708533_valkyrie_dev",
+        "token": "a351d7e3-86d6-435d-b2ea-1305efdac3b2"
       },
-      "buildKey": "89bf301b7814c8b81d593eb031028c17",
-      "cdnKey": "225e6339d50b168dba0b6d40ce60583f",
+      "buildKey": "e3cc5b61e34c078b8a0d3d3a1d63371b",
+      "cdnKey": "75b9b881346cefbaf428f6ce457fd77e",
       "cdnKeyFile": {"name": "green/cdnkeys/d30981dfc2f7b8f96c5735a7e7179610"},
-      "definition": "689f9242b03df7e900088a1ce1b3cf60",
+      "definition": "f5d01abd95623136a43d925501ad29aa",
       "keyRing": "",
-      "lastModified": "2026-10-28T22:40:40.000Z",
+      "lastModified": "2026-10-29T15:49:00.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "a54f029948990e2a5d0377dc6f27c6f7"},
@@ -20,8 +20,8 @@
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
       ],
-      "versionNumber": 28546760,
-      "versionString": "0.0.1.28546760d"
+      "versionNumber": 29708533,
+      "versionString": "0.0.1.29708533d"
     }
   ],
   "infrastructure": false,

@@ -4,15 +4,15 @@
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "16.1.2.119725.dp-2026hallows.19e287c878.Filtered",
-        "token": "f0e761d5-4e66-a971-2315-1db38400ba23"
+        "name": "16.1.2.119766.dp-oct26dmf.0ace04e82a.Filtered",
+        "token": "ef17c2ff-d659-c904-4ee5-dff3543b6670"
       },
-      "buildKey": "2e3963b6204d6437e380b2c1834d6a77",
-      "cdnKey": "49ea0736f8e167dc20bc6468ad799d81",
+      "buildKey": "235667e1501a3fd0655776806f4aa431",
+      "cdnKey": "a7e51ef9d564e025855c00edc5a332b1",
       "cdnKeyFile": {"name": "green/cdnkeys/71f91ec48e21f1288c4a81a83f3a0e5a"},
-      "definition": "6fa8aa07cc3c296243ac789e1b9af3bd",
+      "definition": "bee115e4e79ffc24561f8e079ae70031",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:44.000Z",
+      "lastModified": "2026-10-29T16:59:38.000Z",
       "path": "tpr/gryphondev",
       "pipelineId": 241,
       "productConfig": {"cdnPath": "", "hash": "fd7d48825d9d3056739bb3591ed18e96"},
@@ -21,8 +21,8 @@
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
         {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
       ],
-      "versionNumber": 119725,
-      "versionString": "16.1.2.119725"
+      "versionNumber": 119766,
+      "versionString": "16.1.2.119766"
     }
   ],
   "infrastructure": false,

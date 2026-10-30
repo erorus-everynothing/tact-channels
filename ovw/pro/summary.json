@@ -71,7 +71,7 @@
   "preloads": [
     {
       "armadilloKey": "",
-      "branches": ["cn", "eu", "kr", "us"],
+      "branches": ["cn", "eu", "kr", "nexon", "us"],
       "build": {"name": "prometheus-2_25_1_0-154905-BGDL", "token": "23cf4e03-4b2e-4221-b0b8-75612e4842d9"},
       "buildKey": "0960c61efa2391b77c1532498e32f9ec",
       "cdnKey": "cbb8f67bb1289e2bc1fc731ec6e2ecd2",

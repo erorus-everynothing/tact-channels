@@ -1,19 +1,19 @@
 {
   "armadilloKey": "",
-  "build": {"name": "Fenris-Live-Dev-Alt-dummy", "token": "a0b4542d-f7e5-4f05-9b61-d895777746cb"},
-  "buildKey": "aee66caddc8f4b8cc96a9ad18c58cb4a",
-  "cdnKey": "0e62043c2cc3f645ec15b4b50d453988",
+  "build": {"name": "74211_Win64Client_3_3_0", "token": "28788eae-d043-4b52-91d4-c10866831ab7"},
+  "buildKey": "bc8079015fc5a1d2b99c8df0dbbead34",
+  "cdnKey": "8c7aa2b7447b4705e0583d13fcdd9379",
   "cdnKeyFile": {"name": "green/cdnkeys/57d42ee9bd1ef616581bb59475f04cf1"},
-  "definition": "e4ba43abb7cbafc7343bd852ebf178e5",
+  "definition": "2b61af98384e888ca751888cb0235b3a",
   "keyRing": "",
-  "lastModified": "2026-10-21T21:49:28.000Z",
+  "lastModified": "2026-10-30T18:50:20.000Z",
   "path": "tpr/fenrisdev2/2",
   "pipelineId": 268,
-  "productConfig": {"cdnPath": "", "hash": ""},
+  "productConfig": {"cdnPath": "", "hash": "195e1afaaaed9e322a50d9f439a38883"},
   "regions": [
     {"branches": ["eu"], "cdns": "0d29432d9fe5c1bd748572c3e74ccdd0"},
     {"branches": ["us"], "cdns": "a744a1699a13347916dd9d7aa0ea70ed"}
   ],
-  "versionNumber": 1,
-  "versionString": "1"
+  "versionNumber": 74211,
+  "versionString": "3.3.0.74211"
 }

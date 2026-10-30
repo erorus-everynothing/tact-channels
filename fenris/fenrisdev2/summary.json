@@ -7,12 +7,12 @@
       "buildKey": "bc8079015fc5a1d2b99c8df0dbbead34",
       "cdnKey": "8c7aa2b7447b4705e0583d13fcdd9379",
       "cdnKeyFile": {"name": "green/cdnkeys/57d42ee9bd1ef616581bb59475f04cf1"},
-      "definition": "2b61af98384e888ca751888cb0235b3a",
+      "definition": "6ae5c655d8620097eef452473dfd95a1",
       "keyRing": "",
-      "lastModified": "2026-10-30T18:50:20.000Z",
+      "lastModified": "2026-10-30T22:56:18.000Z",
       "path": "tpr/fenrisdev2/2",
       "pipelineId": 268,
-      "productConfig": {"cdnPath": "", "hash": "195e1afaaaed9e322a50d9f439a38883"},
+      "productConfig": {"cdnPath": "", "hash": "3f44624c0ce6ee666b0d842deb58afee"},
       "regions": [
         {"branches": ["eu"], "cdns": "0d29432d9fe5c1bd748572c3e74ccdd0"},
         {"branches": ["us"], "cdns": "a744a1699a13347916dd9d7aa0ea70ed"}

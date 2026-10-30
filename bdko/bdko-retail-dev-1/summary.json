@@ -3,13 +3,13 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "bdk_1.8.0-rc1", "token": "bc1b5c1c-57b8-4f41-bcfe-487ebb183c8f"},
-      "buildKey": "1460f28ede092a18a2a81c8f64471c20",
+      "build": {"name": "bdk_1.6.1", "token": "f0ba50f2-f805-4c63-b3f9-f6bd964f02fa"},
+      "buildKey": "a06822f8cc49231e12a07bb8f1d3f55e",
       "cdnKey": "69b44b36ac146243180e6699ad178739",
       "cdnKeyFile": {"name": "green/cdnkeys/3e9ff43c9e0c55c651340490d172fef1"},
-      "definition": "76afbb90672c4b343d12fd98cbc0df0a",
+      "definition": "0a6c171916f5ac41e6790140c9213b88",
       "keyRing": "8cdb018d4fc957abaa88a110409afaca",
-      "lastModified": "2026-10-28T21:50:20.000Z",
+      "lastModified": "2026-10-30T14:42:38.000Z",
       "path": "tpr/bdkodev/1",
       "pipelineId": 394,
       "productConfig": {"cdnPath": "", "hash": "c474413fcc73a5e955536fe01ea42c7b"},
@@ -17,8 +17,8 @@
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
       ],
-      "versionNumber": 130812,
-      "versionString": "Battle.net Development Kit 1.8.0-rc1"
+      "versionNumber": 130735,
+      "versionString": "Battle.net Development Kit 1.6.1"
     }
   ],
   "infrastructure": false,

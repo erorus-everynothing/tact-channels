@@ -3,13 +3,13 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "20261102-075057-jolly-zebra", "token": "bc1de721-e4cd-400f-8d1f-d1c1e0fd6e76"},
-      "buildKey": "85c37a67428e908b3e4bc196eac54a19",
-      "cdnKey": "24fe97621204b96c725261f99146ff65",
+      "build": {"name": "20261103-000011-bitter-koala", "token": "8c44b163-541d-44ee-aa20-2877873e2311"},
+      "buildKey": "66cab92771698363ee7e97c3398913e2",
+      "cdnKey": "73c907dc3cac91788c74ee640c17dd15",
       "cdnKeyFile": {"name": "green/cdnkeys/4adf6e4e2fce0f7bc205acd77117c97d"},
-      "definition": "0db1a8a31203909555d6ad09f07d8702",
-      "keyRing": "298205c0b01030221623a4cdb4f111fc",
-      "lastModified": "2026-11-02T15:10:07.000Z",
+      "definition": "2684b00ff5942adba7c2b475bf0495a7",
+      "keyRing": "553bc060b746b3926f122bf67d95b18c",
+      "lastModified": "2026-11-03T07:56:57.000Z",
       "path": "tpr/arisdev",
       "pipelineId": 350,
       "productConfig": {"cdnPath": "", "hash": "3bdd137c047e8e0a57b09a37c0b0203b"},
@@ -17,8 +17,8 @@
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
       ],
-      "versionNumber": 533,
-      "versionString": "AA0FEEF10C4D8B3670B31068D27C5A2E"
+      "versionNumber": 534,
+      "versionString": "6C6E9506189358B5B3CC9F6ECB8CE4C2"
     }
   ],
   "infrastructure": false,

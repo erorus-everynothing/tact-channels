@@ -3,13 +3,13 @@
     {
       "armadilloKey": "",
       "branches": ["cn", "eu", "kr", "tw", "us"],
-      "build": {"name": "WOW-70755patch1.60.1_Retail", "token": "10167b91-e635-4a65-abc1-d173959df6a4"},
-      "buildKey": "9d9888f2d89a2dcc9eacc68a2d7cb3dc",
-      "cdnKey": "483baa37d48c06ae7d14c83a591c469e",
+      "build": {"name": "WOW-70790patch1.60.1_Retail", "token": "a6995035-1052-4ca4-89ff-f378c65097d2"},
+      "buildKey": "9006ba6948388dd0d4a0578e64b8a92e",
+      "cdnKey": "b19054257ba969b8b65cbc3cf5aa1556",
       "cdnKeyFile": {"name": "green/cdnkeys/47a40ae43f96f21392005d0f6a3e0bc4"},
-      "definition": "8a9a3b8a79cc8f41615d6efcccf047b1",
+      "definition": "f514072a9e6a670d08b071b793108bdf",
       "keyRing": "",
-      "lastModified": "2026-11-04T00:37:13.000Z",
+      "lastModified": "2026-11-04T18:07:52.000Z",
       "path": "tpr/wow",
       "pipelineId": 19,
       "productConfig": {"cdnPath": "", "hash": "0d21f2f209a32c57f8c9b838cb35fd0a"},
@@ -19,8 +19,8 @@
         {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"},
         {"branches": ["kr"], "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"}
       ],
-      "versionNumber": 70755,
-      "versionString": "1.60.1.70755"
+      "versionNumber": 70790,
+      "versionString": "1.60.1.70790"
     }
   ],
   "infrastructure": false,

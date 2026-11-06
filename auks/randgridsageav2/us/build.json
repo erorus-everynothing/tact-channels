@@ -1,15 +1,15 @@
 {
   "armadilloKey": "",
   "build": {
-    "name": "release_driver_06_08_2026_28347379_valkyrie_valkyrie_ship_ship2",
-    "token": "2208de40-d303-4549-b63a-93ef487daca6"
+    "name": "trunk_cod26_season1_driver_27_10_2026_29708533_valkyrie_ship2",
+    "token": "a1660617-76a1-4992-a7bb-a7916b843a29"
   },
-  "buildKey": "01cf5f6998853f910b34c5a5f782b085",
-  "cdnKey": "e9b2feba097a92dcaabdd1701ff09560",
+  "buildKey": "8a6d46e66389241efdb0f84ca15af694",
+  "cdnKey": "a6e653a0af9cc40cee001d7583bb07b4",
   "cdnKeyFile": {"name": "green/cdnkeys/c397ae67fe0117bc88d159896affab80"},
-  "definition": "052d2659becbff5014e3ab7192169260",
+  "definition": "9fc0ebbf74a4dee6ab02ce24ad5021c4",
   "keyRing": "",
-  "lastModified": "2026-11-06T14:10:01.000Z",
+  "lastModified": "2026-11-06T14:16:51.000Z",
   "path": "tpr/sagev",
   "pipelineId": 304,
   "productConfig": {"cdnPath": "", "hash": "86e090be71c0852a3a770319c5c01b54"},
@@ -17,6 +17,6 @@
     {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
     {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
   ],
-  "versionNumber": 28347379,
-  "versionString": "0.0.1.28347379s"
+  "versionNumber": 29705833,
+  "versionString": "0.0.1.29705833s"
 }

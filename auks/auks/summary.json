@@ -4,42 +4,15 @@
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
       "build": {
-        "name": "release_29444703D_cod26_tu2_signed_bnet_r_ship",
-        "token": "a40a6483-2b02-46a8-bddf-cd17b8353019"
+        "name": "release_29668454_cod26_season1_signed_bnet_r_ship_rel",
+        "token": "122a1d10-f3e0-4749-842a-366a708c5079"
       },
-      "buildKey": "54065896041711a74cb2e8277df2bdb0",
-      "cdnKey": "0bf998c579f4373452332b9d69351736",
+      "buildKey": "e21371a2454392c3f7a0dd4bf94a24d0",
+      "cdnKey": "653124638a92dcaf63ccaa28587f7e46",
       "cdnKeyFile": {"name": "green/cdnkeys/4927c05d3fdab05f6e43d1bcffe6afc0"},
-      "definition": "da1d1c4f58266ead78a4ef5310013dbb",
-      "keyRing": "",
-      "lastModified": "2026-11-03T17:00:58.000Z",
-      "path": "tpr/auks",
-      "pipelineId": 234,
-      "productConfig": {"cdnPath": "", "hash": "e15342b90a287d2442c29d5b67a5754f"},
-      "regions": [
-        {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
-        {"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"},
-        {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
-      ],
-      "versionNumber": 29444706,
-      "versionString": "4.1.4.29444703"
-    }
-  ],
-  "infrastructure": false,
-  "preloads": [
-    {
-      "armadilloKey": "",
-      "branches": ["eu", "kr", "us"],
-      "build": {
-        "name": "release_29668454_cod26_season1_signed_bnet_r_ship_ebgdl",
-        "token": "d24244c1-2db2-46ec-b9c9-7a0247516242"
-      },
-      "buildKey": "772401791a172a54a6b0f004c56be042",
-      "cdnKey": "0bf998c579f4373452332b9d69351736",
-      "cdnKeyFile": {"name": "green/cdnkeys/35afbc887599fb8aea53421cba2a2167"},
-      "definition": "6b67c214ecee79b3be1b46053cdfa4f5",
-      "keyRing": "",
-      "lastModified": "2026-11-03T17:00:58.000Z",
+      "definition": "9865bd8e6c4ed28e135e837168c93e97",
+      "keyRing": "8949bb7debf30417f4e007af57ca013b",
+      "lastModified": "2026-11-06T05:01:18.000Z",
       "path": "tpr/auks",
       "pipelineId": 234,
       "productConfig": {"cdnPath": "", "hash": "e15342b90a287d2442c29d5b67a5754f"},
@@ -49,9 +22,10 @@
         {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
       ],
       "versionNumber": 29668454,
-      "versionString": "4.2.0.29668454e"
+      "versionString": "4.2.0.29668454"
     }
   ],
+  "infrastructure": false,
   "product": "auks",
   "regions": [
     {

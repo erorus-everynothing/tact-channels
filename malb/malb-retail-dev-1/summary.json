@@ -3,16 +3,13 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {
-        "name": "Build_5820352Change_13731624_Web_Token_Septem",
-        "token": "350b47ef-7f68-4145-9125-e397d4d338f5"
-      },
-      "buildKey": "6aec932f67a9d1782186d0abc1473ec1",
-      "cdnKey": "0e49665eb6aebcf80b73fdc857599033",
+      "build": {"name": "Build_5823229Change_13820637", "token": "cabd816c-98e3-48b2-9538-811f5f619253"},
+      "buildKey": "52f4a9adea40e11c183d56665c206fbe",
+      "cdnKey": "7c31f0eccd5986309d12f06fc772f247",
       "cdnKeyFile": {"name": "green/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"},
-      "definition": "011f811f4a8881807797aee57e2ad584",
-      "keyRing": "31408a2221ae830b2843fd0b7cdd8bac",
-      "lastModified": "2026-11-07T13:27:19.000Z",
+      "definition": "5aef4388ee74b5dc4322f1ee7553279c",
+      "keyRing": "6ae468ba99d365dc64530efceba0c9c5",
+      "lastModified": "2026-11-07T17:06:59.000Z",
       "path": "tpr/malbdev",
       "pipelineId": 406,
       "productConfig": {"cdnPath": "", "hash": "bceeb48edfc049f273586a644f7b99bc"},
@@ -20,7 +17,7 @@
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
       ],
-      "versionNumber": 5820352,
+      "versionNumber": 5823229,
       "versionString": "2.5"
     }
   ],

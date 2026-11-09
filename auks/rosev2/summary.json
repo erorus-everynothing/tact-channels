@@ -3,16 +3,39 @@
     {
       "armadilloKey": "",
       "branches": ["eu"],
-      "build": {"name": "trunk_28273641_rex_bom_bnet_v2_dev", "token": "309f590a-ebf5-46aa-b75b-1c069aef7599"},
-      "buildKey": "48057711a43e0f20cc9fbd1557fc82cd",
-      "cdnKey": "78844480a29157213b80b0ed4f0556ce",
+      "build": {
+        "name": "trunk_29792110_rex_br_br_season2_bnet_v2_dev",
+        "token": "d4aded7e-6511-4f4c-af4b-55073340edfd"
+      },
+      "buildKey": "ac080c00521d08521d9623478ff06c0d",
+      "cdnKey": "6b6d721a804544a1f1e52c73bde10446",
       "cdnKeyFile": {"name": "green/cdnkeys/87a977e947f8462d3d9b627b05fd7fb7"},
-      "definition": "d45dccc58f89c5703f5e4e8b4271ed07",
+      "definition": "1e1a39fd976bbaeaa760c7f471daf326",
       "keyRing": "",
-      "lastModified": "2026-11-09T13:42:41.000Z",
+      "lastModified": "2026-11-09T14:35:12.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
-      "productConfig": {"cdnPath": "", "hash": "abc5c3464dbbc79b39e26d304bb8406a"},
+      "productConfig": {"cdnPath": "", "hash": "d0c5aa4d58fbb2708769945a353de965"},
+      "regions": [
+        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
+        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+      ],
+      "versionNumber": 29792110,
+      "versionString": "0.0.2.29792110d"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["kr"],
+      "build": {"name": "trunk_28273641_rex_bom_bnet_v2_dev", "token": "309f590a-ebf5-46aa-b75b-1c069aef7599"},
+      "buildKey": "48057711a43e0f20cc9fbd1557fc82cd",
+      "cdnKey": "6b6d721a804544a1f1e52c73bde10446",
+      "cdnKeyFile": {"name": "green/cdnkeys/87a977e947f8462d3d9b627b05fd7fb7"},
+      "definition": "6b8d1c0b3271752388f8d7f4e15e1881",
+      "keyRing": "",
+      "lastModified": "2026-11-09T14:35:12.000Z",
+      "path": "tpr/rosev",
+      "pipelineId": 302,
+      "productConfig": {"cdnPath": "", "hash": "32a22dd667a8e88cc32c85d185b67da5"},
       "regions": [
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
@@ -22,37 +45,17 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["kr"],
-      "build": {"name": "trunk_28241656_rex_bom_bnet_v2_dev", "token": "0074cc51-1da6-4bf6-a1b8-e7b2c74cb609"},
-      "buildKey": "988b96077ef456ffcd7ea3801ff5c938",
-      "cdnKey": "78844480a29157213b80b0ed4f0556ce",
-      "cdnKeyFile": {"name": "green/cdnkeys/87a977e947f8462d3d9b627b05fd7fb7"},
-      "definition": "71a1a23b05720bc46923df1c0ee1ff8a",
-      "keyRing": "",
-      "lastModified": "2026-11-09T13:42:41.000Z",
-      "path": "tpr/rosev",
-      "pipelineId": 302,
-      "productConfig": {"cdnPath": "", "hash": "abc5c3464dbbc79b39e26d304bb8406a"},
-      "regions": [
-        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
-        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
-      ],
-      "versionNumber": 28241656,
-      "versionString": "0.0.2.28241656d"
-    },
-    {
-      "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "trunk_29792110_rex_br_br_season2_bnet_v2_dev",
-        "token": "d4aded7e-6511-4f4c-af4b-55073340edfd"
+        "name": "trunk_29910718_rex_br_br_season2_bnet_v2_dev",
+        "token": "0c8e6fa4-2e4a-462c-bc61-81388888a614"
       },
-      "buildKey": "ac080c00521d08521d9623478ff06c0d",
-      "cdnKey": "78844480a29157213b80b0ed4f0556ce",
+      "buildKey": "3fec8beab432978b6fe5a62a216925ac",
+      "cdnKey": "6b6d721a804544a1f1e52c73bde10446",
       "cdnKeyFile": {"name": "green/cdnkeys/87a977e947f8462d3d9b627b05fd7fb7"},
-      "definition": "1a6c29d26cf4a83559a2509249da0207",
+      "definition": "dd81e1a1a3085404e1d0ebac0568b347",
       "keyRing": "",
-      "lastModified": "2026-11-09T13:42:41.000Z",
+      "lastModified": "2026-11-09T14:35:12.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "d0c5aa4d58fbb2708769945a353de965"},
@@ -60,8 +63,8 @@
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
       ],
-      "versionNumber": 29792110,
-      "versionString": "0.0.0.29792110d"
+      "versionNumber": 29910718,
+      "versionString": "0.0.0.29910718d"
     }
   ],
   "infrastructure": false,

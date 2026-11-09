@@ -3,16 +3,13 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {
-        "name": "Build_5820352Change_13731624_MacBuild_5823541_Change13822117",
-        "token": "366d5fbf-f7b3-4cfc-9894-b5a958c3d232"
-      },
-      "buildKey": "d2d49c34389f65330cda32e955a16c4b",
-      "cdnKey": "064486f5fa476e3d5a4e5979f9ee2a3c",
+      "build": {"name": "PC-5820352-13731624_Mac-5823541-13822117", "token": "7a1ef73b-b490-4681-8f78-59f0b11666b6"},
+      "buildKey": "67d4c729ab44fb4ae942deaa434071dd",
+      "cdnKey": "4a134ea058284c309b6a245db67f4528",
       "cdnKeyFile": {"name": "green/cdnkeys/0bb31ba269202fe40b7adf1889b669b7"},
-      "definition": "cbc31c88a94b2150c0efa7836275ce90",
-      "keyRing": "98072a54ae8295c2a2433d6491ff93da",
-      "lastModified": "2026-11-09T16:05:29.000Z",
+      "definition": "df7db1c00861124ad0339389cf659440",
+      "keyRing": "c32ace66a1280df1acf1e0df0d58fa97",
+      "lastModified": "2026-11-09T17:59:09.000Z",
       "path": "tpr/malbdev",
       "pipelineId": 406,
       "productConfig": {"cdnPath": "", "hash": "bceeb48edfc049f273586a644f7b99bc"},

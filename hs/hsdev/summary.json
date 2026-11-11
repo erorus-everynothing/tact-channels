@@ -3,23 +3,23 @@
     {
       "armadilloKey": "",
       "branches": ["android_cn", "android_cn_dashen", "android_cn_huawei", "cn", "ios_cn", "us"],
-      "build": {"name": "243003_35.6.0-hsdev", "token": "092aa64e-8dce-caef-c9cf-d66c3bfa29a7"},
-      "buildKey": "24c8474abdd08a003629d4b8a221a43b",
+      "build": {"name": "257809_37.2.0-hsdev", "token": "17be0db1-f52c-871f-3e6c-19f71fcbd1a2"},
+      "buildKey": "340bb0ea7fc30afb54326c7e1b822401",
       "cdnKey": "231db51bc521aeb6c333369c151e53e7",
       "cdnKeyFile": {"name": "green/cdnkeys/009c2b183598a11e1163a69a26588596"},
-      "definition": "8b1f15ad8f51d3a68ab61b42247bee37",
+      "definition": "b34f8b0648665eb9dbd590386b79f302",
       "keyRing": "",
-      "lastModified": "2026-11-11T08:28:19.000Z",
+      "lastModified": "2026-11-11T19:02:30.000Z",
       "path": "tpr/hsdev",
       "pipelineId": 214,
-      "productConfig": {"cdnPath": "", "hash": "0f83c2138f544c30a559b97270dc0921"},
+      "productConfig": {"cdnPath": "", "hash": "dce23ef2257893baefc306e5083806fa"},
       "regions": [
         {"branches": ["kr"], "cdns": "4165a2d10276a6dd6bd4942484280b02"},
         {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
         {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"}
       ],
-      "versionNumber": 243003,
-      "versionString": "35.6.0.243003"
+      "versionNumber": 257809,
+      "versionString": "37.2.0.257809"
     }
   ],
   "infrastructure": false,

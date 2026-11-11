@@ -5,11 +5,11 @@
       "branches": ["eu"],
       "build": {"name": "release_29647184_cod26_season1_bnet_v20_dev", "token": "2cae9d58-4260-4050-bce1-59fa97cd864a"},
       "buildKey": "61866bd61a9e13db5ccb67330c09fc15",
-      "cdnKey": "bbf7ee4476fc8e27d3ac32fc4b1437e7",
+      "cdnKey": "37538beb7d31f48782a2e85a9c8de2dd",
       "cdnKeyFile": {"name": "green/cdnkeys/10ca03d680e43fe6513297eec93aa72c"},
-      "definition": "1acc418a2ba95c12b7de0a37c37d8660",
+      "definition": "99f10c7e6fc2542d62eb0edd737149dc",
       "keyRing": "",
-      "lastModified": "2026-11-11T15:55:43.000Z",
+      "lastModified": "2026-11-11T18:09:13.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "70baf70f15ea806d6812d41e9855d006"},
@@ -23,13 +23,16 @@
     {
       "armadilloKey": "",
       "branches": ["us"],
-      "build": {"name": "release_29668454_cod26_season1_bnet_v20_dev", "token": "81c13115-a990-4e39-a6c8-04490a4d23f1"},
-      "buildKey": "813e7599a92d2a17419320d2fa074efd",
-      "cdnKey": "bbf7ee4476fc8e27d3ac32fc4b1437e7",
+      "build": {
+        "name": "etu_29836004_cod26_season1_0_1_signed_bnet_v20_dev",
+        "token": "2e872ce9-c9c0-4dd1-a6a3-a0e402ff1dac"
+      },
+      "buildKey": "a7f43e53753284a39f4ae7e712ad8b53",
+      "cdnKey": "37538beb7d31f48782a2e85a9c8de2dd",
       "cdnKeyFile": {"name": "green/cdnkeys/10ca03d680e43fe6513297eec93aa72c"},
-      "definition": "bc9dc732374cb26b68d1d5cfc3b12260",
+      "definition": "c70a30156a2fb870e48984f0641a6334",
       "keyRing": "",
-      "lastModified": "2026-11-11T15:55:43.000Z",
+      "lastModified": "2026-11-11T18:09:13.000Z",
       "path": "tpr/rosev",
       "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "70baf70f15ea806d6812d41e9855d006"},
@@ -37,8 +40,8 @@
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
       ],
-      "versionNumber": 29668454,
-      "versionString": "0.0.0.29668454d"
+      "versionNumber": 29836004,
+      "versionString": "0.0.0.29836004d"
     }
   ],
   "infrastructure": false,

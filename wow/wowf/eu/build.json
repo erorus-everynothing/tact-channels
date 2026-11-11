@@ -1,10 +1,10 @@
 {
   "armadilloKey": "",
-  "build": {"name": "WOW-70862patch1.60.1_Retail", "token": "4c056f31-765a-4f04-be48-24185ad258a9"},
-  "buildKey": "5ada954223f7c409ea172361f5c9e565",
+  "build": {"name": "WOW-70888patch1.60.1_Retail", "token": "daed35d5-ff0b-4a38-89b6-d5a6b232910a"},
+  "buildKey": "0597e74b01a3f779d849ffe9b3270196",
   "cdnKey": "8ecf609471cb2ea16667be9cc2b7a555",
   "cdnKeyFile": {"name": "green/cdnkeys/47a40ae43f96f21392005d0f6a3e0bc4"},
-  "definition": "56de59841dd0ef039bf16dae32a950be",
+  "definition": "28e4b463a85f2057e9562ec729592ad2",
   "keyRing": "",
   "lastModified": "2026-11-10T15:09:42.000Z",
   "path": "tpr/wow",
@@ -16,6 +16,6 @@
     {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"},
     {"branches": ["kr"], "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"}
   ],
-  "versionNumber": 70862,
-  "versionString": "1.60.1.70862"
+  "versionNumber": 70888,
+  "versionString": "1.60.1.70888"
 }

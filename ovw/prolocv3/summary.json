@@ -5,13 +5,11 @@
       "branches": ["cn", "eu", "kr", "sg", "tw"],
       "build": {"name": "prometheus-2_20_0_0-144630-Loc-V3", "token": "72d13599-805f-4e21-b002-ba0d06a046ad"},
       "buildKey": "ecc1a5f88fdbaf84f59289d9f91f75a6",
-      "cdnKey": "2704382a8fdcaa9cc4f5185062b1c84a",
-      "cdnKeyFile": {"name": "green/cdnkeys/f69dd4df25c3f9b92287fe6d4ec4af30"},
-      "definition": "0eb0f8e87dd3ddbfcce50b1adec8875e",
+      "cdnKeyFile": {"name": "blue/cdnkeys/f69dd4df25c3f9b92287fe6d4ec4af30"},
+      "definition": "699c22d613c627018ef9b9930943aa44",
       "keyRing": "",
-      "lastModified": "2026-11-11T08:39:51.000Z",
+      "lastModified": "2026-11-06T22:20:00.000Z",
       "path": "tpr/prov2/2",
-      "pipelineId": 225,
       "productConfig": {"cdnPath": "", "hash": "40c9b3700857eca2d6ea7fa53b3afe4a"},
       "regions": [
         {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
@@ -25,13 +23,11 @@
       "branches": ["us"],
       "build": {"name": "prometheus-2_26_0_0-155380-Loc-V3", "token": "7a01a13f-2dd6-41ab-b162-3ae1fb0c8104"},
       "buildKey": "5b0d3303f7ab02e57b3484d779aa35e9",
-      "cdnKey": "2704382a8fdcaa9cc4f5185062b1c84a",
-      "cdnKeyFile": {"name": "green/cdnkeys/f69dd4df25c3f9b92287fe6d4ec4af30"},
-      "definition": "a5e60b13aa8ecced50b10b5899c276a5",
+      "cdnKeyFile": {"name": "blue/cdnkeys/f69dd4df25c3f9b92287fe6d4ec4af30"},
+      "definition": "ca5654ccf05e323af2f8470d3c93303f",
       "keyRing": "",
-      "lastModified": "2026-11-11T08:39:51.000Z",
+      "lastModified": "2026-11-10T06:40:26.000Z",
       "path": "tpr/prov2/2",
-      "pipelineId": 225,
       "productConfig": {"cdnPath": "", "hash": "40c9b3700857eca2d6ea7fa53b3afe4a"},
       "regions": [
         {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
@@ -43,29 +39,5 @@
   ],
   "infrastructure": false,
   "product": "ovw",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "prolocv3"
 }

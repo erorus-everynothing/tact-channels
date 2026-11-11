@@ -5,13 +5,11 @@
       "branches": ["us"],
       "build": {"name": "s4main_25216507_vk_geirdriful_v_ship", "token": "0238cb54-fafc-4077-8f28-f6e40fc0caf7"},
       "buildKey": "cdd55f291f1f1353ca20f0533025d8ce",
-      "cdnKey": "97d947c1adb205fb97ea38eb1fd3486e",
-      "cdnKeyFile": {"name": "green/cdnkeys/ccaed141b40c7d340891c8755117fb97"},
-      "definition": "5f06b586cce79d9efd4882c25e236311",
+      "cdnKeyFile": {"name": "blue/cdnkeys/ccaed141b40c7d340891c8755117fb97"},
+      "definition": "783434b9d0e4bd9c16559d9aaf5af41a",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:44.000Z",
+      "lastModified": "2026-11-06T22:19:34.000Z",
       "path": "tpr/forev",
-      "pipelineId": 219,
       "productConfig": {"cdnPath": "", "hash": "7b66b68f67e445aed588763144d377b6"},
       "regions": [
         {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
@@ -23,29 +21,5 @@
   ],
   "infrastructure": false,
   "product": "fore",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "87a06f78212104fe1a98f84f0157ff50",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "geirdrifulforev"
 }

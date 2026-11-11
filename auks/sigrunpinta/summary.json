@@ -5,13 +5,11 @@
       "branches": ["us"],
       "build": {"name": "driver_11_07_23137177_cod23_valkyrie_ship_r", "token": "27c12882-0585-46a8-84cf-0ba1cedafc80"},
       "buildKey": "19416159b36e553e05f43272ad2b0d40",
-      "cdnKey": "5462fb80d4e0ebc86598c90db1791e1e",
-      "cdnKeyFile": {"name": "green/cdnkeys/331a886d9a74edfa9af36a25fafcec90"},
-      "definition": "536fe2757d7893e7fda777741e55ccbf",
+      "cdnKeyFile": {"name": "blue/cdnkeys/331a886d9a74edfa9af36a25fafcec90"},
+      "definition": "87495472760dbd8b7870feabf73bd4f8",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:01:10.000Z",
+      "lastModified": "2026-11-06T22:20:37.000Z",
       "path": "tpr/pinta",
-      "pipelineId": 388,
       "productConfig": {"cdnPath": "", "hash": "f4975cb16cbf2b785b8db17ceff8f484"},
       "regions": [
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
@@ -24,42 +22,5 @@
   ],
   "infrastructure": false,
   "product": "auks",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:49.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "sigrunpinta"
 }

@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "9d25e9101bd329d320b77489d4739f38-test", "token": "d13a9ce1-3d96-482e-a8ba-8c0e1cd51383"},
       "buildKey": "a4aabdba13b722ffdb76ead788c5203e",
-      "cdnKey": "d13f73333f891b85db8a0d90dd2500d3",
-      "cdnKeyFile": {"name": "green/cdnkeys/0f432cb2079ecb3510ec49decce4ceb0"},
-      "definition": "0e14c9893c6a61bd620d443709b01541",
+      "cdnKeyFile": {"name": "blue/cdnkeys/0f432cb2079ecb3510ec49decce4ceb0"},
+      "definition": "65d040a2f3b2383904abee438a114dc8",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:21.000Z",
+      "lastModified": "2026-11-06T22:18:55.000Z",
       "path": "agent/Agent-Redists-Live",
-      "pipelineId": 346,
       "productConfig": {"cdnPath": "", "hash": "d4280a476fe93aa50ff4ce604e6439d3"},
       "regions": [
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
@@ -24,42 +22,5 @@
   ],
   "infrastructure": false,
   "product": "agent",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:49.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "agent_redist"
 }

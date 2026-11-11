@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "styx-1.0.14.0-1", "token": "a763f072-7e98-4329-a245-2c0e03d1d3f0"},
       "buildKey": "ea7e08059b48bf11ca76a927643fa553",
-      "cdnKey": "8ead73903a8033e11ab5588e81962444",
-      "cdnKeyFile": {"name": "green/cdnkeys/c0d897709f3c6547aae6d27a0586e3f1"},
-      "definition": "4aeb8d6ba2f29bf933604b79657f13df",
+      "cdnKeyFile": {"name": "blue/cdnkeys/c0d897709f3c6547aae6d27a0586e3f1"},
+      "definition": "91419e52c9e67b504aa99de877e8df36",
       "keyRing": "32145a4791a49be3d1fe5403e785c7db",
-      "lastModified": "2026-11-11T17:02:17.000Z",
+      "lastModified": "2026-11-06T22:18:59.000Z",
       "path": "tpr/arisrc",
-      "pipelineId": 351,
       "productConfig": {"cdnPath": "", "hash": "154ee4ea57dcd4fd2fd5b0e48e6d7303"},
       "regions": [
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
@@ -23,29 +21,5 @@
   ],
   "infrastructure": false,
   "product": "aris",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "aris-artbook-rc"
 }

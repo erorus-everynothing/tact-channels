@@ -5,13 +5,11 @@
     "token": "e07c7a42-56c3-427a-8ada-f79413a1b7d9"
   },
   "buildKey": "57e948114c61346d2f201d78be5998ff",
-  "cdnKey": "9196eae40825d356b023dcd242db5246",
-  "cdnKeyFile": {"name": "green/cdnkeys/06341ad14df438f56a39ef03784e83ec"},
-  "definition": "618556e99643294351d8e5a6767e7be1",
+  "cdnKeyFile": {"name": "blue/cdnkeys/06341ad14df438f56a39ef03784e83ec"},
+  "definition": "1b3a31ba102ce82f994b63160b1fd1b0",
   "keyRing": "",
-  "lastModified": "2026-11-11T20:32:32.000Z",
+  "lastModified": "2026-11-06T22:20:16.000Z",
   "path": "tpr/rosevb",
-  "pipelineId": 356,
   "productConfig": {"cdnPath": "", "hash": "6ae831a4498558b167453cb3e44b2939"},
   "regions": [
     {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},

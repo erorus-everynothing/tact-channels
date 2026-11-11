@@ -8,13 +8,11 @@
         "token": "734a3e8f-1ed7-4294-b11e-4432cc0ef0e7"
       },
       "buildKey": "daca4d04929c8737279b4ebb7c75570f",
-      "cdnKey": "794f77863c177a02854966ec05219cff",
-      "cdnKeyFile": {"name": "green/cdnkeys/587c8f365f3ed5394e27aabddf4de078"},
-      "definition": "7a65830d9b64a70263204e645d9f5e8a",
+      "cdnKeyFile": {"name": "blue/cdnkeys/587c8f365f3ed5394e27aabddf4de078"},
+      "definition": "3547331e21141942386fab1e366ca091",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:58.000Z",
+      "lastModified": "2026-11-06T22:20:06.000Z",
       "path": "tpr/cornvb",
-      "pipelineId": 377,
       "productConfig": {"cdnPath": "", "hash": "296ef63abd26f64cc1896dcfefa56082"},
       "regions": [
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
@@ -26,29 +24,5 @@
   ],
   "infrastructure": false,
   "product": "auks",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "084aea14e8342085ace15de6e8a53b72",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:52.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "randgridcornbcdlqa"
 }

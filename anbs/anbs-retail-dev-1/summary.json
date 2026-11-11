@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "3458081_423_dev_tact_row", "token": "303f1b7f-d530-4f5d-aa6b-799e4aaff4f3"},
       "buildKey": "8693995bb68e8cf6251a65e066b61d0f",
-      "cdnKey": "b47105a772747d842d69e7f5e7765132",
-      "cdnKeyFile": {"name": "green/cdnkeys/b0908329fe9af6254ac7c3251da557a4"},
-      "definition": "6ae3c4ac0cb187d7d8c4bbe89d54cb03",
+      "cdnKeyFile": {"name": "blue/cdnkeys/b0908329fe9af6254ac7c3251da557a4"},
+      "definition": "f7011e5e2c191f520cd51801de15b014",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:22.000Z",
+      "lastModified": "2026-11-06T22:18:57.000Z",
       "path": "tpr/anbsdevbm",
-      "pipelineId": 373,
       "productConfig": {"cdnPath": "", "hash": "8bf41028fb40ce056835369336a7c677"},
       "regions": [
         {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"},
@@ -23,29 +21,5 @@
   ],
   "infrastructure": false,
   "product": "anbs",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "87a06f78212104fe1a98f84f0157ff50",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "anbs-retail-dev-1"
 }

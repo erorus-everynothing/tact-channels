@@ -8,13 +8,11 @@
         "token": "e777a683-1ecd-4f81-95e0-c123bd987fdb"
       },
       "buildKey": "2129d73b1f2cdd7c2bcd569455a739fa",
-      "cdnKey": "7c0c36a1b9c0a6b3eacb868bdc2e19c9",
-      "cdnKeyFile": {"name": "green/cdnkeys/d306e91fbc5d98f1dcbb0743a656c9d7"},
-      "definition": "8ab0f7f75c4038a5bc7488363cecd8d7",
+      "cdnKeyFile": {"name": "blue/cdnkeys/d306e91fbc5d98f1dcbb0743a656c9d7"},
+      "definition": "fec6eaaf69bfa7512149c5c0114261b7",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:50.000Z",
+      "lastModified": "2026-11-06T22:19:47.000Z",
       "path": "tpr/nina",
-      "pipelineId": 387,
       "productConfig": {"cdnPath": "", "hash": "c1319ac3beab3aacb76a91dfa2315217"},
       "regions": [
         {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
@@ -27,42 +25,5 @@
   ],
   "infrastructure": false,
   "product": "auks",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:49.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "nina"
 }

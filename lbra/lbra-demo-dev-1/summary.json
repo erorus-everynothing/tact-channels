@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "ChicagoDemo_ETU_Exe_6_9_2025", "token": "6f4778e8-f3b9-40b5-a050-324796b835c8"},
       "buildKey": "5977bb548e8bdfe05caee89101f857b5",
-      "cdnKey": "50a715ddda8f77af09cb43c2f645888d",
-      "cdnKeyFile": {"name": "green/cdnkeys/6e8e1f49d2fbe1e92819c00c0d63e6af"},
-      "definition": "3896f1cd18035e1994c017f661b200bd",
+      "cdnKeyFile": {"name": "blue/cdnkeys/6e8e1f49d2fbe1e92819c00c0d63e6af"},
+      "definition": "c75880aec82c016b29f274cdcf6f5655",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:46.000Z",
+      "lastModified": "2026-11-06T22:19:39.000Z",
       "path": "tpr/lbradev",
-      "pipelineId": 366,
       "productConfig": {"cdnPath": "", "hash": "608709ff6f6c0f1acd919a5a983d1853"},
       "regions": [
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
@@ -23,29 +21,5 @@
   ],
   "infrastructure": false,
   "product": "lbra",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "lbra-demo-dev-1"
 }

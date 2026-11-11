@@ -5,13 +5,11 @@
       "branches": ["us"],
       "build": {"name": "prometheus-2_26_0_0-155441-Vendor", "token": "8c91538f-24d7-4e84-b2b3-8402d2252c11"},
       "buildKey": "8729a2405956edc2ad31ecb26f365fc0",
-      "cdnKey": "4bf86b9d18ee90be101c8fedb3d5e7cd",
-      "cdnKeyFile": {"name": "green/cdnkeys/7b1061225c63ded14ef98b4a9bd127a9"},
-      "definition": "e30dfaa9b3c1fa0fe71ac5c7374df4bf",
+      "cdnKeyFile": {"name": "blue/cdnkeys/7b1061225c63ded14ef98b4a9bd127a9"},
+      "definition": "3edb05cacd0fef443e8f62d0a32a8252",
       "keyRing": "",
-      "lastModified": "2026-11-11T00:46:11.000Z",
+      "lastModified": "2026-11-11T00:50:21.000Z",
       "path": "tpr/prov",
-      "pipelineId": 162,
       "productConfig": {"cdnPath": "", "hash": "365c79ca8a0f4c578652a7c93130e605"},
       "regions": [
         {"branches": ["kr"], "cdns": "e3e189f887f0d9913e39df671295e08f"},
@@ -24,38 +22,5 @@
   ],
   "infrastructure": false,
   "product": "ovw",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "e3e189f887f0d9913e39df671295e08f",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
-    },
-    {
-      "branches": ["tw", "us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "prov"
 }

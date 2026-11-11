@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "presub_16418774_cod_tus6_5_1_v15_dev", "token": "d66f1e78-1647-4a75-86b6-8615f5446b26"},
       "buildKey": "c8a661a1a8e05d56ea6f94fa65d0cb76",
-      "cdnKey": "c084a0f87eb84b24907219a28f37bfe3",
-      "cdnKeyFile": {"name": "green/cdnkeys/dd7fb5779eb2211fa01b7cb97cce89b5"},
-      "definition": "92de8d8c4db95b4d58037caeb9ab2c3a",
+      "cdnKeyFile": {"name": "blue/cdnkeys/dd7fb5779eb2211fa01b7cb97cce89b5"},
+      "definition": "e83e4d99d1c06fb4901f23914f897fff",
       "keyRing": "",
-      "lastModified": "2026-11-11T19:15:59.000Z",
+      "lastModified": "2026-11-06T22:19:05.000Z",
       "path": "tpr/auksv",
-      "pipelineId": 236,
       "productConfig": {"cdnPath": "", "hash": "676641e5459660b1c9a561b103566630"},
       "regions": [
         {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
@@ -23,29 +21,5 @@
   ],
   "infrastructure": false,
   "product": "auks",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "aa0fa3968e10940e193d53bcd24b53ef",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "7d77b999022b646a1daa9a56779f335e",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:52.000Z"
-    }
-  ],
   "variant": "auksv15"
 }

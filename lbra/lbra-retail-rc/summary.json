@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "Milestone_Shipping_67856", "token": "792a444b-ee71-4e10-91d5-c715dac05978"},
       "buildKey": "9a613ef3296bdf719918a5c874797312",
-      "cdnKey": "174e31f91c24fca5c207bd2222ecf49e",
-      "cdnKeyFile": {"name": "green/cdnkeys/18670b46ca294ba189e0c63180dea491"},
-      "definition": "f614c51b5cf4d182bd79ff16b33a20b7",
+      "cdnKeyFile": {"name": "blue/cdnkeys/18670b46ca294ba189e0c63180dea491"},
+      "definition": "d6a19af276ff7a9beadc2832384e8436",
       "keyRing": "fec7a2b71b69b3524a140479435d1642",
-      "lastModified": "2026-10-15T19:00:46.000Z",
+      "lastModified": "2026-11-06T22:19:39.000Z",
       "path": "tpr/lbrarc",
-      "pipelineId": 367,
       "productConfig": {"cdnPath": "", "hash": "628465d6ac54530bbc376cb5f833cf77"},
       "regions": [
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
@@ -23,29 +21,5 @@
   ],
   "infrastructure": false,
   "product": "lbra",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "lbra-retail-rc"
 }

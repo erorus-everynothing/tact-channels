@@ -8,13 +8,11 @@
         "token": "53537c9a-80b5-49a6-80e7-9ef7d635b58b"
       },
       "buildKey": "95752802ebbac4282b9f963ab9dad65e",
-      "cdnKey": "174cc63b44b8e3d07257a10720bbb24f",
-      "cdnKeyFile": {"name": "green/cdnkeys/84d1d02ae05ef4325adc1d13bec16054"},
-      "definition": "69a502b54430aac4d2081b0b0d1e53e4",
+      "cdnKeyFile": {"name": "blue/cdnkeys/84d1d02ae05ef4325adc1d13bec16054"},
+      "definition": "5b538c6d1fd97902484b1d1852de4461",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:30.000Z",
+      "lastModified": "2026-11-06T22:19:11.000Z",
       "path": "tpr/odinv",
-      "pipelineId": 192,
       "productConfig": {"cdnPath": "", "hash": "68ce819f5a059eeae3134827e1f1f73f"},
       "regions": [
         {"branches": ["eu"], "cdns": "96a32bfd4f71c803c165e14e74b47aa9"},
@@ -26,29 +24,5 @@
   ],
   "infrastructure": false,
   "product": "odin",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "96a32bfd4f71c803c165e14e74b47aa9",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=10"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=10"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=10&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "20549aa6a072ba2469e628653d82b20e",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=10"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=10"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=10&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "brynhildr_odin_qa2"
 }

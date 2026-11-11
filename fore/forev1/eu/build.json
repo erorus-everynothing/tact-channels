@@ -5,13 +5,11 @@
     "token": "418bd990-1e16-4f1c-81b8-2d3743e15d92"
   },
   "buildKey": "a0f1574578b82fd6c71b33a07680735f",
-  "cdnKey": "97d947c1adb205fb97ea38eb1fd3486e",
-  "cdnKeyFile": {"name": "green/cdnkeys/8346dae836e7d88067fe6ebf24bd559a"},
-  "definition": "caf87f9f947c7ea9a4024b2d1a0fa291",
+  "cdnKeyFile": {"name": "blue/cdnkeys/8346dae836e7d88067fe6ebf24bd559a"},
+  "definition": "1029b77a61765ca53ea5085d0a81e287",
   "keyRing": "",
-  "lastModified": "2026-10-15T19:00:41.000Z",
+  "lastModified": "2026-11-06T22:19:29.000Z",
   "path": "tpr/forev",
-  "pipelineId": 219,
   "productConfig": {"cdnPath": "", "hash": "28316d7070e3976c26521bd9443354fa"},
   "regions": [
     {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},

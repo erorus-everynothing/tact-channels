@@ -5,13 +5,11 @@
       "branches": ["android_amazon", "android_google", "android_onestore", "eu", "ios", "kr", "us"],
       "build": {"name": "256589_37.0.2", "token": "e69ef217-9c65-a42a-2f18-31d0fb36e5c4"},
       "buildKey": "db9bf1be15b694c65a3d16cf89c85b75",
-      "cdnKey": "c38d3354c9efed462361d77fb51a2a54",
-      "cdnKeyFile": {"name": "green/cdnkeys/724ae97eb40db38a33fda7791a18ab0c"},
-      "definition": "64fce632428c194915346d929a245b1b",
+      "cdnKeyFile": {"name": "blue/cdnkeys/724ae97eb40db38a33fda7791a18ab0c"},
+      "definition": "b48d211b95841ac5aa84bcf3254c9012",
       "keyRing": "",
-      "lastModified": "2026-11-03T17:03:59.000Z",
+      "lastModified": "2026-11-06T22:19:37.000Z",
       "path": "tpr/hs",
-      "pipelineId": 67,
       "productConfig": {"cdnPath": "", "hash": "2956fba9063a9c84784f1ed7a566fbe0"},
       "regions": [
         {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
@@ -27,13 +25,11 @@
       "branches": ["android_cn", "android_cn_dashen", "android_cn_huawei", "cn"],
       "build": {"name": "256589_37.0.2", "token": "e69ef217-9c65-a42a-2f18-31d0fb36e5c4"},
       "buildKey": "db9bf1be15b694c65a3d16cf89c85b75",
-      "cdnKey": "c38d3354c9efed462361d77fb51a2a54",
-      "cdnKeyFile": {"name": "green/cdnkeys/724ae97eb40db38a33fda7791a18ab0c"},
-      "definition": "d29aec0ef935d6c53d682f409d5e44e4",
+      "cdnKeyFile": {"name": "blue/cdnkeys/724ae97eb40db38a33fda7791a18ab0c"},
+      "definition": "c294c0c8c0bd0fdb8a21106c9f33bbcb",
       "keyRing": "",
-      "lastModified": "2026-11-03T17:03:59.000Z",
+      "lastModified": "2026-11-06T22:19:37.000Z",
       "path": "tpr/hs",
-      "pipelineId": 67,
       "productConfig": {"cdnPath": "", "hash": "96f77bcc0fd82374561c1c9ddfc287b2"},
       "regions": [
         {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
@@ -49,13 +45,11 @@
       "branches": ["ios_cn"],
       "build": {"name": "256683_37.0.2", "token": "65938ee2-ac17-097d-9a61-7c10b04c86bc"},
       "buildKey": "0595753e7676d5903e62c416f48ac401",
-      "cdnKey": "c38d3354c9efed462361d77fb51a2a54",
-      "cdnKeyFile": {"name": "green/cdnkeys/724ae97eb40db38a33fda7791a18ab0c"},
-      "definition": "3643ef01b099bf9ad1403fa79aaec15b",
+      "cdnKeyFile": {"name": "blue/cdnkeys/724ae97eb40db38a33fda7791a18ab0c"},
+      "definition": "1b4df7ecd20b034a5d83faa19e17a55d",
       "keyRing": "",
-      "lastModified": "2026-11-03T17:03:59.000Z",
+      "lastModified": "2026-11-06T22:19:37.000Z",
       "path": "tpr/hs",
-      "pipelineId": 67,
       "productConfig": {"cdnPath": "", "hash": "96f77bcc0fd82374561c1c9ddfc287b2"},
       "regions": [
         {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
@@ -69,51 +63,5 @@
   ],
   "infrastructure": false,
   "product": "hs",
-  "regions": [
-    {
-      "branches": ["cn"],
-      "cdns": "3b1ed235e69dc0bab6b9d3a760e77297",
-      "hosts": [
-        {"host": "http://blzdist-hs.necdn.leihuo.netease.com?maxhosts=4"},
-        {"host": "https://blzdist-hs.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:53.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:49.000Z"
-    },
-    {
-      "branches": ["tw", "us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "hsb"
 }

@@ -5,13 +5,11 @@
       "branches": ["cn", "eu", "kr", "sg", "tw", "us", "xx"],
       "build": {"name": "5459-agent-2.10.0", "token": ""},
       "buildKey": "ca32ea5c5a603b7f956c6bfc2ffca95e",
-      "cdnKey": "62e2e56f31942a8c432c6607f8c38704",
-      "cdnKeyFile": {"name": "green/cdnkeys/0f5fe66d3da5d981eb19a1e8209a44ef"},
-      "definition": "2359e6f79363aef1d549f690bf29df0e",
+      "cdnKeyFile": {"name": "blue/cdnkeys/0f5fe66d3da5d981eb19a1e8209a44ef"},
+      "definition": "4047f4355e28e3966e3ec79e95e1b9d8",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:21.000Z",
+      "lastModified": "2026-11-06T22:18:55.000Z",
       "path": "bnet/Agent-Live-Dev",
-      "pipelineId": 86,
       "productConfig": {"cdnPath": "", "hash": ""},
       "regions": [],
       "versionNumber": 5459,
@@ -20,6 +18,5 @@
   ],
   "infrastructure": false,
   "product": "agent",
-  "regions": [],
   "variant": "agent_test"
 }

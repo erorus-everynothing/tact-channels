@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "SeaOfThievesInsider_1.153.5828.0", "token": "cf356572-9487-4da9-a5f5-3b8e86b4541d"},
       "buildKey": "44b5eb056859245a91b81dcdda71d6e8",
-      "cdnKey": "a07ad90c1179a47d4cbb653e4471f152",
-      "cdnKeyFile": {"name": "green/cdnkeys/c1b27d9ce4034343ad30cd7b7652fc95"},
-      "definition": "e9ad95efa3de1a75ad21b23d94fc567b",
+      "cdnKeyFile": {"name": "blue/cdnkeys/c1b27d9ce4034343ad30cd7b7652fc95"},
+      "definition": "f5631b9b01847f299ded9f8142f84f9c",
       "keyRing": "",
-      "lastModified": "2026-11-11T00:42:21.000Z",
+      "lastModified": "2026-11-11T00:50:21.000Z",
       "path": "tpr/scordev",
-      "pipelineId": 334,
       "productConfig": {"cdnPath": "", "hash": "1b82239e0c12dd4e180e4f89c5d499db"},
       "regions": [
         {"branches": ["eu"], "cdns": "74238f23349cb93a0d7460c4f998a726"},
@@ -24,42 +22,5 @@
   ],
   "infrastructure": false,
   "product": "SCOR",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "74238f23349cb93a0d7460c4f998a726",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4"}
-      ],
-      "lastModified": "2026-08-25T16:26:53.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:49.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "scor-beta-dev-1"
 }

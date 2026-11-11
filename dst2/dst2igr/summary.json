@@ -5,13 +5,11 @@
       "branches": ["kr", "us"],
       "build": {"name": "5250768a-Tiger", "token": ""},
       "buildKey": "9d78dc285d625952f54b14118b7429a3",
-      "cdnKey": "4e41b672588a7d37dd0727d891bd2745",
-      "cdnKeyFile": {"name": "green/cdnkeys/ee852d1062aec2d29ca6144068c34dfe"},
-      "definition": "5c394ed0771ab0e9cedeede2713e20d4",
+      "cdnKeyFile": {"name": "blue/cdnkeys/ee852d1062aec2d29ca6144068c34dfe"},
+      "definition": "91b3f65fdf0f437722e47fea9b2986f7",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:39.000Z",
+      "lastModified": "2026-11-06T22:19:25.000Z",
       "path": "tpr/dst2",
-      "pipelineId": 129,
       "productConfig": {"cdnPath": "", "hash": "830b6fdf52d915921b1701dcf859542a"},
       "regions": [],
       "versionNumber": 5250768,
@@ -20,6 +18,5 @@
   ],
   "infrastructure": false,
   "product": "dst2",
-  "regions": [],
   "variant": "dst2igr"
 }

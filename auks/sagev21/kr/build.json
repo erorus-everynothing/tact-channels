@@ -5,13 +5,11 @@
     "token": "1200f989-c14c-4516-9c35-0b7e7b149f58"
   },
   "buildKey": "4434891dff962619dcc8454334a24733",
-  "cdnKey": "b5d57b6de2820c5908e6eab590812239",
-  "cdnKeyFile": {"name": "green/cdnkeys/787eca295280fb5454304d31c6ad8206"},
-  "definition": "5c444d6f4d7969ee2e1d563a3f5155d3",
+  "cdnKeyFile": {"name": "blue/cdnkeys/787eca295280fb5454304d31c6ad8206"},
+  "definition": "c3757a23c282b8fabba9f4d5c8ea5cc8",
   "keyRing": "",
-  "lastModified": "2026-10-23T14:26:20.000Z",
+  "lastModified": "2026-11-06T22:20:27.000Z",
   "path": "tpr/sagevb",
-  "pipelineId": 357,
   "productConfig": {"cdnPath": "", "hash": "36bc78cc09412b299a0c481890e7d658"},
   "regions": [
     {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},

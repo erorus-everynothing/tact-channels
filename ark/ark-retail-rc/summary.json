@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "Arkansas_3924202", "token": "6357349b-2d45-44a0-9011-7cedf8f89286"},
       "buildKey": "8ee66453e30d2b3f762c87ae7e9fb2cd",
-      "cdnKey": "ddf44c92e6a6faa65a1f6fa2fa2060ec",
-      "cdnKeyFile": {"name": "green/cdnkeys/b616f220950d8c685587fd3d4fcdd25c"},
-      "definition": "217879d4c18a425b9c402b94abd2958f",
+      "cdnKeyFile": {"name": "blue/cdnkeys/b616f220950d8c685587fd3d4fcdd25c"},
+      "definition": "d32f1196a64d0614b9eee677858d4d3a",
       "keyRing": "d742d0c12282c626c958c0f83675f769",
-      "lastModified": "2026-10-15T19:00:25.000Z",
+      "lastModified": "2026-11-06T22:19:01.000Z",
       "path": "tpr/arkrc",
-      "pipelineId": 384,
       "productConfig": {"cdnPath": "", "hash": "b6aa7809029c3c37383ae3dd6007367a"},
       "regions": [
         {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
@@ -23,29 +21,5 @@
   ],
   "infrastructure": false,
   "product": "ark",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "87a06f78212104fe1a98f84f0157ff50",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "ark-retail-rc"
 }

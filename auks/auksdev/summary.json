@@ -5,13 +5,11 @@
       "branches": ["us"],
       "build": {"name": "COD_MW4_CIB2_Rekey_auksdev", "token": "4bcd67d1-e0d3-4580-8f43-464a7aff6151"},
       "buildKey": "67d11025be3e26df5f0405079c98b35d",
-      "cdnKey": "74816955fb78dafd6850da24d14879d0",
-      "cdnKeyFile": {"name": "green/cdnkeys/6d8c0c668cca7b0dabf9745ae53107c5"},
-      "definition": "28f47a76b9a02cc299025d931acc2548",
+      "cdnKeyFile": {"name": "blue/cdnkeys/6d8c0c668cca7b0dabf9745ae53107c5"},
+      "definition": "7eca7d660b2aa872e3c3be69a3911f36",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:25.000Z",
+      "lastModified": "2026-11-06T22:19:02.000Z",
       "path": "tpr/auksdev/5",
-      "pipelineId": 235,
       "productConfig": {"cdnPath": "", "hash": "436e9b5180c8393e6d214eba32cf2a41"},
       "regions": [{"branches": ["us", "eu"], "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca"}],
       "versionNumber": 1,
@@ -20,16 +18,5 @@
   ],
   "infrastructure": false,
   "product": "auks",
-  "regions": [
-    {
-      "branches": ["eu", "us"],
-      "cdns": "9111a3ba49fa32ba6f8af8c1642d49ca",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=6"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "auksdev"
 }

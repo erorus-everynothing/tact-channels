@@ -5,13 +5,11 @@
       "branches": ["cn", "eu", "kr", "us"],
       "build": {"name": "74134_Win64Client_3_3_0PTR_test", "token": "dc5cb931-4cce-4227-8e51-59c151372655"},
       "buildKey": "3e7e0d9663db32ec37a7f933db1254c2",
-      "cdnKey": "16cab33ceddb5a004afc4636a630436f",
-      "cdnKeyFile": {"name": "green/cdnkeys/649cf69b5869ce23f4689ae79ca913f2"},
-      "definition": "48293b4c29fe2801f2e8b19fbdbd321e",
+      "cdnKeyFile": {"name": "blue/cdnkeys/649cf69b5869ce23f4689ae79ca913f2"},
+      "definition": "f097bae03c18823dff6a3ca2f7253d8d",
       "keyRing": "",
-      "lastModified": "2026-10-22T00:47:08.000Z",
+      "lastModified": "2026-11-06T22:19:28.000Z",
       "path": "tpr/fenrisvc",
-      "pipelineId": 318,
       "productConfig": {"cdnPath": "", "hash": "9752ba0887cf1805be62043863e3f5e6"},
       "regions": [
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
@@ -24,38 +22,5 @@
   ],
   "infrastructure": false,
   "product": "fenris",
-  "regions": [
-    {
-      "branches": ["cn"],
-      "cdns": "a8c298f28e96d5d12cc94fb166476e70",
-      "hosts": [
-        {"host": "http://blzdist-d4.necdn.leihuo.netease.com?maxhosts=6"},
-        {"host": "https://blzdist-d4.necdn.leihuo.netease.com?maxhosts=6&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:52.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "fenrisvendor7"
 }

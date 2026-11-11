@@ -5,13 +5,11 @@
     "token": "fc7146e8-64a6-4cd2-8b2e-60e39db3fbd5"
   },
   "buildKey": "01c3ff5bc41e26a14f3935fe2be5b057",
-  "cdnKey": "5462fb80d4e0ebc86598c90db1791e1e",
-  "cdnKeyFile": {"name": "green/cdnkeys/2ec4de349e0bc2d78372a8196c31cbed"},
-  "definition": "92c5e4b0a81853d21c20a92fbae003e7",
+  "cdnKeyFile": {"name": "blue/cdnkeys/2ec4de349e0bc2d78372a8196c31cbed"},
+  "definition": "36fd3b224988e559c2f3e523f692b255",
   "keyRing": "",
-  "lastModified": "2026-10-15T19:00:53.000Z",
+  "lastModified": "2026-11-06T22:19:54.000Z",
   "path": "tpr/pinta",
-  "pipelineId": 388,
   "productConfig": {"cdnPath": "", "hash": "d4c3a7626146ea92fa2a56f4f32d02a3"},
   "regions": [
     {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},

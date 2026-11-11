@@ -8,13 +8,11 @@
         "token": "9e5f091a-5809-43d0-8305-406b6796bfc1"
       },
       "buildKey": "4a8440befdad1fcc4f7d4ce7d2e51e2b",
-      "cdnKey": "a7b9c44d2b956569747d6d0a7666e56e",
-      "cdnKeyFile": {"name": "green/cdnkeys/6cdebdc72d0d5677d00bc5cff3d7bfae"},
-      "definition": "9cb2971ab5fa2ea5d2f58e8fc51c6339",
+      "cdnKeyFile": {"name": "blue/cdnkeys/6cdebdc72d0d5677d00bc5cff3d7bfae"},
+      "definition": "a41be73482c2c9343df8956642f36633",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:41.000Z",
+      "lastModified": "2026-11-06T22:19:29.000Z",
       "path": "tpr/foree",
-      "pipelineId": 264,
       "productConfig": {"cdnPath": "", "hash": "3e76bcb3d627f9484372a877f9e7d91b"},
       "regions": [{"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
       "versionNumber": 12510470,
@@ -23,18 +21,5 @@
   ],
   "infrastructure": false,
   "product": "fore",
-  "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "forecdlstaff"
 }

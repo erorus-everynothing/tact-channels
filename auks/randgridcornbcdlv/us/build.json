@@ -5,13 +5,11 @@
     "token": "67f7ca4a-7a94-42e5-a761-2e1a370c0d66"
   },
   "buildKey": "2cdfcbbda686c297660e60bf4822a251",
-  "cdnKey": "794f77863c177a02854966ec05219cff",
-  "cdnKeyFile": {"name": "green/cdnkeys/d36f3f047972d23ebe2217bdce89b960"},
-  "definition": "a2623174800831fcbe8ae386f0f1056e",
+  "cdnKeyFile": {"name": "blue/cdnkeys/d36f3f047972d23ebe2217bdce89b960"},
+  "definition": "bdfb47cd7dd1295133fc31b93afed189",
   "keyRing": "",
-  "lastModified": "2026-10-15T19:00:58.000Z",
+  "lastModified": "2026-11-06T22:20:06.000Z",
   "path": "tpr/cornvb",
-  "pipelineId": 377,
   "productConfig": {"cdnPath": "", "hash": "f5c03bacb01186ee2f12e9cfb5d07c32"},
   "regions": [
     {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},

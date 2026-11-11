@@ -1,20 +1,18 @@
 {
   "armadilloKey": "",
-  "build": {"name": "B98644", "token": "51569144-c365-44aa-8e4d-4859ffbcd441"},
-  "buildKey": "bc263c23fb292a85904049de55bd46e5",
-  "cdnKey": "64de8e61f0e0e52312727510f317bbd8",
-  "cdnKeyFile": {"name": "green/cdnkeys/c9c3ce815f433119f503dcc3e92ae30c"},
-  "definition": "f2bfb73cfbb2e05a11b676ac5aab44aa",
+  "build": {"name": "B98674", "token": "ceff1a58-80f1-49c5-8fca-849addd71ee4"},
+  "buildKey": "49725ebf2ce1dbfda65efa1d41bcea50",
+  "cdnKeyFile": {"name": "blue/cdnkeys/c9c3ce815f433119f503dcc3e92ae30c"},
+  "definition": "c3c5b59928d9f1ac1381f18177154850",
   "keyRing": "",
-  "lastModified": "2026-11-09T18:01:19.000Z",
+  "lastModified": "2026-11-11T20:55:58.000Z",
   "path": "tpr/Hero-Live-a",
-  "pipelineId": 10,
   "productConfig": {"cdnPath": "", "hash": "65dcefe76985bd0bd87a1f112bf1a74d"},
   "regions": [
     {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
     {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
     {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
   ],
-  "versionNumber": 98644,
-  "versionString": "2.57.1.98644"
+  "versionNumber": 98674,
+  "versionString": "2.57.1.98674"
 }

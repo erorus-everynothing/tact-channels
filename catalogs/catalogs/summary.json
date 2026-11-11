@@ -5,13 +5,11 @@
       "branches": ["PUB-23"],
       "build": {"name": "c6d101436ad52a68c43b61d89e29a35b-928", "token": ""},
       "buildKey": "53a25687708311696b95eeb711be65c0",
-      "cdnKey": "17b49f5a2fe53d3c80a304d89ea1ec47",
-      "cdnKeyFile": {"name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
-      "definition": "ce4076baaa0369bcc8520002f824820e",
+      "cdnKeyFile": {"name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
+      "definition": "13853f1f44c423862844e7b53d8402a8",
       "keyRing": "",
-      "lastModified": "2026-11-10T19:04:28.000Z",
+      "lastModified": "2026-11-06T22:19:22.000Z",
       "path": "tpr/catalogs",
-      "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
       "regions": [
         {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
@@ -27,13 +25,11 @@
       "branches": ["PUB-24"],
       "build": {"name": "e01bf21d01937716e9bb54af7db13079-977", "token": ""},
       "buildKey": "674418eb84cb30db6b9c6ecd0e69032b",
-      "cdnKey": "17b49f5a2fe53d3c80a304d89ea1ec47",
-      "cdnKeyFile": {"name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
-      "definition": "8adefc4cbe94e85ce73431c430f87b62",
+      "cdnKeyFile": {"name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
+      "definition": "83cfb096f064efbe844952d6bef900cd",
       "keyRing": "",
-      "lastModified": "2026-11-10T19:04:28.000Z",
+      "lastModified": "2026-11-06T22:19:22.000Z",
       "path": "tpr/catalogs",
-      "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
       "regions": [
         {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
@@ -49,13 +45,11 @@
       "branches": ["PUB-25"],
       "build": {"name": "3fe316878e599c59492034119bf117d7-1029", "token": ""},
       "buildKey": "2ac5c0b01a7b7b04e627c54ad1352dbd",
-      "cdnKey": "17b49f5a2fe53d3c80a304d89ea1ec47",
-      "cdnKeyFile": {"name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
-      "definition": "2802500d7775e0fee0f2598252c82a08",
+      "cdnKeyFile": {"name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
+      "definition": "a167f6e656a6556e26670b8499a3245a",
       "keyRing": "",
-      "lastModified": "2026-11-10T19:04:28.000Z",
+      "lastModified": "2026-11-06T22:19:22.000Z",
       "path": "tpr/catalogs",
-      "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
       "regions": [
         {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
@@ -71,13 +65,11 @@
       "branches": ["PUB-26"],
       "build": {"name": "79779d09c3103054b18016f0da02f893-1136", "token": ""},
       "buildKey": "9d3a05e0dfb3e452a10e7447d652584e",
-      "cdnKey": "17b49f5a2fe53d3c80a304d89ea1ec47",
-      "cdnKeyFile": {"name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
-      "definition": "e80d4d2f4f87b7f6e54ea8a187480385",
+      "cdnKeyFile": {"name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
+      "definition": "d49b1b25b0a4cc4d4ba359283067b12a",
       "keyRing": "",
-      "lastModified": "2026-11-10T19:04:28.000Z",
+      "lastModified": "2026-11-06T22:19:22.000Z",
       "path": "tpr/catalogs",
-      "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
       "regions": [
         {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
@@ -93,13 +85,11 @@
       "branches": ["PUB-27"],
       "build": {"name": "431a455dd985c6c565b15efbcc0e1882-1590", "token": ""},
       "buildKey": "8d19cbf0b6b714c841dcb197870d1de1",
-      "cdnKey": "17b49f5a2fe53d3c80a304d89ea1ec47",
-      "cdnKeyFile": {"name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
-      "definition": "cf4bc8aef8bf0f1ce3f01df557b2b241",
+      "cdnKeyFile": {"name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
+      "definition": "156d78ff4d71adde6e6d310245629665",
       "keyRing": "",
-      "lastModified": "2026-11-10T19:04:28.000Z",
+      "lastModified": "2026-11-06T22:19:22.000Z",
       "path": "tpr/catalogs",
-      "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
       "regions": [
         {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
@@ -115,13 +105,11 @@
       "branches": ["PUB-28"],
       "build": {"name": "0b9812cf34ba02a5b486a9c89961e99a-1747", "token": "11e726e1-89dc-4011-97bf-2677cfd66fb7"},
       "buildKey": "b50d624f7242246794edf7140d803836",
-      "cdnKey": "17b49f5a2fe53d3c80a304d89ea1ec47",
-      "cdnKeyFile": {"name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
-      "definition": "9bcaf9cc7cfd7ee038ff2c3a84bbaf71",
+      "cdnKeyFile": {"name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
+      "definition": "3ef12c379777bb411053142a669d8986",
       "keyRing": "",
-      "lastModified": "2026-11-10T19:04:28.000Z",
+      "lastModified": "2026-11-06T22:19:22.000Z",
       "path": "tpr/catalogs",
-      "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
       "regions": [
         {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
@@ -137,13 +125,11 @@
       "branches": ["PUB-29"],
       "build": {"name": "87f77d7cca4592fe83cc118ee50748d3-2547", "token": "ae46a533-d73b-4061-b127-16009ed9a95e"},
       "buildKey": "b630881f588acd6cc3d0782634f9399f",
-      "cdnKey": "17b49f5a2fe53d3c80a304d89ea1ec47",
-      "cdnKeyFile": {"name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
-      "definition": "84334c8f62bd549399b6e53f6d01dfb5",
+      "cdnKeyFile": {"name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
+      "definition": "faac7a1bbf04f04bc2669133396653b0",
       "keyRing": "",
-      "lastModified": "2026-11-10T19:04:28.000Z",
+      "lastModified": "2026-11-06T22:19:22.000Z",
       "path": "tpr/catalogs",
-      "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
       "regions": [
         {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
@@ -159,13 +145,11 @@
       "branches": ["PUB-30"],
       "build": {"name": "ad9aa672b822f9d135cfa45c4f683007-5250", "token": "f53beffc-2f3c-4b03-bdbd-4e4f51b82ec7"},
       "buildKey": "13563f892b62a9b9648743982017e224",
-      "cdnKey": "17b49f5a2fe53d3c80a304d89ea1ec47",
-      "cdnKeyFile": {"name": "green/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
-      "definition": "829413fb0be92b840e18cbdac3fc6fa4",
+      "cdnKeyFile": {"name": "blue/cdnkeys/654c41d9311e342acbd1395b83ce34b0"},
+      "definition": "664e3c5fbd385ebeceb3de95c0b80093",
       "keyRing": "",
-      "lastModified": "2026-11-10T19:04:28.000Z",
+      "lastModified": "2026-11-10T19:10:19.000Z",
       "path": "tpr/catalogs",
-      "pipelineId": 107,
       "productConfig": {"cdnPath": "", "hash": ""},
       "regions": [
         {"branches": ["cn"], "cdns": "ffec4c7f724b685aff96c8e97d715c21"},
@@ -179,51 +163,5 @@
   ],
   "infrastructure": false,
   "product": "catalogs",
-  "regions": [
-    {
-      "branches": ["cn"],
-      "cdns": "ffec4c7f724b685aff96c8e97d715c21",
-      "hosts": [
-        {"host": "http://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4"},
-        {"host": "https://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:49.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "catalogs"
 }

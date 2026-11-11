@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "s4rel_10520076C_tu4_signed_fa_cln_ship", "token": "6b620bf6-e4fe-45b2-bf84-2746bc282efc"},
       "buildKey": "f967ae58657d614c91b9c6c653875a6d",
-      "cdnKey": "a84cc21caa5a18446393aa18fc78df1c",
-      "cdnKeyFile": {"name": "green/cdnkeys/b2a146beec0c7474b6fa481fe9eb5d1e"},
-      "definition": "2029e83a8563a76c55f1162ed16f4f6c",
+      "cdnKeyFile": {"name": "blue/cdnkeys/b2a146beec0c7474b6fa481fe9eb5d1e"},
+      "definition": "6860eff39e6a593cf42f865cd5524ad5",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:40.000Z",
+      "lastModified": "2026-11-06T22:19:28.000Z",
       "path": "tpr/foredev",
-      "pipelineId": 218,
       "productConfig": {"cdnPath": "", "hash": "5682f8d3e640a73c78806fea518384a7"},
       "regions": [
         {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},
@@ -24,42 +22,5 @@
   ],
   "infrastructure": false,
   "product": "fore",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "87a06f78212104fe1a98f84f0157ff50",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "4165a2d10276a6dd6bd4942484280b02",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=5"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "forea"
 }

@@ -8,13 +8,11 @@
         "token": "8bb6d5e2-bcce-446a-aafd-922584b916ac"
       },
       "buildKey": "fd2a053b74a2610f46f83ec632bed217",
-      "cdnKey": "37538beb7d31f48782a2e85a9c8de2dd",
-      "cdnKeyFile": {"name": "green/cdnkeys/5e42c122fc6a12a2eda7c81ea1660762"},
-      "definition": "3aaff5fd62b2cfb517e10647485e1a5a",
+      "cdnKeyFile": {"name": "blue/cdnkeys/5e42c122fc6a12a2eda7c81ea1660762"},
+      "definition": "795876cbffaa00233ac0387f934668ff",
       "keyRing": "",
-      "lastModified": "2026-11-11T18:09:15.000Z",
+      "lastModified": "2026-11-06T22:20:38.000Z",
       "path": "tpr/rosev",
-      "pipelineId": 302,
       "productConfig": {"cdnPath": "", "hash": "e54cacd6a78c5fa372858faaa4322bef"},
       "regions": [
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
@@ -26,29 +24,5 @@
   ],
   "infrastructure": false,
   "product": "auks",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "084aea14e8342085ace15de6e8a53b72",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:52.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "ad298166bc8896ec90ad1cff7b693bd5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=8"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "skuld_rose_a_vendor"
 }

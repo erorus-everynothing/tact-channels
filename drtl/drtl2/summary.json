@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "diablo1_hellfire_1.0.2", "token": "a426ee6f-dcee-4b00-a7e4-42fa51ab53fe"},
       "buildKey": "80542473eb70fc407104ee9868766acd",
-      "cdnKey": "d4811794a6ffe7f1a7ea5e11a0596e8b",
-      "cdnKeyFile": {"name": "green/cdnkeys/f627195357fd33f6e9d5bb0ced014bf6"},
-      "definition": "941ae2e94b6b8185ee9cb620360c699e",
+      "cdnKeyFile": {"name": "blue/cdnkeys/f627195357fd33f6e9d5bb0ced014bf6"},
+      "definition": "dadb59a6562f8fc42b84da8fca6574ed",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:39.000Z",
+      "lastModified": "2026-11-06T22:19:25.000Z",
       "path": "tpr/drtl",
-      "pipelineId": 314,
       "productConfig": {"cdnPath": "", "hash": "077b09e87198602e7bbaa0c7ce6a54e9"},
       "regions": [
         {"branches": ["kr"], "cdns": "52fce0e800d47b8995114e33b742e63c"},
@@ -24,42 +22,5 @@
   ],
   "infrastructure": false,
   "product": "drtl",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "5df668e69943abffe1cb7348d03856a4",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=3"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=3&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:52.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "52fce0e800d47b8995114e33b742e63c",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=3"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=3&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=3&fallback=1"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=3&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:53.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "935e71ab8ad5742d217fa6bad6525e4f",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=3"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=3"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=3&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=3&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:52.000Z"
-    }
-  ],
   "variant": "drtl2"
 }

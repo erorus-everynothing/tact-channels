@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "beta_7089334_9_15_exec_patch_etu2_signed_ship", "token": ""},
       "buildKey": "7fb3b588c3fe3e0134bf3353278369f9",
-      "cdnKey": "1653bbeb97ee8606ab32bf08130ca47d",
-      "cdnKeyFile": {"name": "green/cdnkeys/f1d3cef89da91aaaf31ba36b5239cb64"},
-      "definition": "1fdc71a5d24e08aca47af440429d7243",
+      "cdnKeyFile": {"name": "blue/cdnkeys/f1d3cef89da91aaaf31ba36b5239cb64"},
+      "definition": "bb1d38c07398432113d2a8d7e5d7dec1",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:51.000Z",
+      "lastModified": "2026-11-06T22:19:49.000Z",
       "path": "tpr/odin",
-      "pipelineId": 193,
       "productConfig": {"cdnPath": "", "hash": "27f941036aed8a8a2fd24125b79534a2"},
       "regions": [
         {"branches": ["eu"], "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"},
@@ -24,42 +22,5 @@
   ],
   "infrastructure": false,
   "product": "odin",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:49.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
-    }
-  ],
   "variant": "odinb"
 }

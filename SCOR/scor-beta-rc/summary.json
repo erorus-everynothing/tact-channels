@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "SeaOfThievesInsider_1.153.5037.0", "token": "e380cc6a-f12d-488e-8507-ec16dd221075"},
       "buildKey": "ed3ab872575c029d3a20e7e990cb6132",
-      "cdnKey": "f08cf8e59df1d0f4d613352e0f4cd529",
-      "cdnKeyFile": {"name": "green/cdnkeys/a8cff6b30c3ab4230ae59af864a0fc93"},
-      "definition": "5176ccc00a7676034a1a00d8c9c76902",
+      "cdnKeyFile": {"name": "blue/cdnkeys/a8cff6b30c3ab4230ae59af864a0fc93"},
+      "definition": "8fa015a79c7f9af97eb307279f07409a",
       "keyRing": "",
-      "lastModified": "2026-11-09T09:55:40.000Z",
+      "lastModified": "2026-11-09T10:00:23.000Z",
       "path": "tpr/scorrc",
-      "pipelineId": 335,
       "productConfig": {"cdnPath": "", "hash": "f2aa54854dd908944d31f4cb4b85b5d8"},
       "regions": [
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
@@ -23,29 +21,5 @@
   ],
   "infrastructure": false,
   "product": "SCOR",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "scor-beta-rc"
 }

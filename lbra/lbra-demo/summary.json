@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "ChicagoDemo_BNet_Ship_65876", "token": "e7cea06f-7446-4bba-9f19-05a02cda37c9"},
       "buildKey": "b19e3da2e1bbc0d7288831bb7ea5cc0a",
-      "cdnKey": "9475509a53228cbe90c0fc8dc9e2d30d",
-      "cdnKeyFile": {"name": "green/cdnkeys/50e415f5784f459caf0469c6eade5870"},
-      "definition": "97bc1228f736268dec5b528d34b7870d",
+      "cdnKeyFile": {"name": "blue/cdnkeys/50e415f5784f459caf0469c6eade5870"},
+      "definition": "672a4c4cc747d73945f25ceb0640bed9",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:45.000Z",
+      "lastModified": "2026-11-06T22:19:39.000Z",
       "path": "tpr/lbra",
-      "pipelineId": 368,
       "productConfig": {"cdnPath": "", "hash": "d4a328689e9ed003d5334a462b35d3c4"},
       "regions": [
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
@@ -24,42 +22,5 @@
   ],
   "infrastructure": false,
   "product": "lbra",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=4"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:49.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "lbra-demo"
 }

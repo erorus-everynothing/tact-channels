@@ -5,13 +5,11 @@
     "token": "2d68b6a4-d873-4c94-a020-636a9cd38a97"
   },
   "buildKey": "3107edb8e994e5adc88144e792c303bd",
-  "cdnKey": "87b4b66b3808794ea521b6253c82803e",
-  "cdnKeyFile": {"name": "green/cdnkeys/abd420a180e1bec0c3ef08b7119c8a8c"},
-  "definition": "fa9a7e00a94a281742a0bd14dd72b01f",
+  "cdnKeyFile": {"name": "blue/cdnkeys/abd420a180e1bec0c3ef08b7119c8a8c"},
+  "definition": "126d87a7a94265047675518f451c6894",
   "keyRing": "",
-  "lastModified": "2026-10-15T19:01:14.000Z",
+  "lastModified": "2026-11-06T22:20:57.000Z",
   "path": "tpr/zeus",
-  "pipelineId": 200,
   "productConfig": {"cdnPath": "", "hash": "0364fba9a0e261ded06bd72a5f1440c1"},
   "regions": [
     {"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"},

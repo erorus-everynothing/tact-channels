@@ -5,13 +5,11 @@
       "branches": ["eu"],
       "build": {"name": "sub_12273715_ETU_WZ351_8_24_v5_signed_dev", "token": "9591b653-d6b2-47c0-956d-4f992b8b43b3"},
       "buildKey": "859e29619e73197dfa75e2c19124f71b",
-      "cdnKey": "174cc63b44b8e3d07257a10720bbb24f",
-      "cdnKeyFile": {"name": "green/cdnkeys/ec3190016e1f822c378850408d5ad9ef"},
-      "definition": "383b40ac17549274cf270d3785923367",
+      "cdnKeyFile": {"name": "blue/cdnkeys/ec3190016e1f822c378850408d5ad9ef"},
+      "definition": "266ff98b7240983e4adbbfe100eda1da",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:52.000Z",
+      "lastModified": "2026-11-06T22:19:51.000Z",
       "path": "tpr/odinv",
-      "pipelineId": 192,
       "productConfig": {"cdnPath": "", "hash": "04681c93ff00e549dc44852a3be2270e"},
       "regions": [
         {"branches": ["eu"], "cdns": "96a32bfd4f71c803c165e14e74b47aa9"},
@@ -25,13 +23,11 @@
       "branches": ["kr"],
       "build": {"name": "magma_11460137_filtereddropmip_bv5_dev", "token": "4092017c-57ef-4a04-9334-42464ccea55c"},
       "buildKey": "b42dcb59d6a82cf165b0d8171c8d149e",
-      "cdnKey": "174cc63b44b8e3d07257a10720bbb24f",
-      "cdnKeyFile": {"name": "green/cdnkeys/ec3190016e1f822c378850408d5ad9ef"},
-      "definition": "56b7bb9de885c47530b734b757af83f3",
+      "cdnKeyFile": {"name": "blue/cdnkeys/ec3190016e1f822c378850408d5ad9ef"},
+      "definition": "9cbd9f6aa286cfaa774a0f06db53f085",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:52.000Z",
+      "lastModified": "2026-11-06T22:19:51.000Z",
       "path": "tpr/odinv",
-      "pipelineId": 192,
       "productConfig": {"cdnPath": "", "hash": "04681c93ff00e549dc44852a3be2270e"},
       "regions": [
         {"branches": ["eu"], "cdns": "96a32bfd4f71c803c165e14e74b47aa9"},
@@ -45,13 +41,11 @@
       "branches": ["us"],
       "build": {"name": "sub_12273715_ETU_WZ351_8_24_v5_signed_ship", "token": "be7c4287-c580-4568-b7c5-54c34ff70e4b"},
       "buildKey": "a20a7f5e081690c65aaa6b6bcc7187c7",
-      "cdnKey": "174cc63b44b8e3d07257a10720bbb24f",
-      "cdnKeyFile": {"name": "green/cdnkeys/ec3190016e1f822c378850408d5ad9ef"},
-      "definition": "d1c39562128dae73f18668c785b9d496",
+      "cdnKeyFile": {"name": "blue/cdnkeys/ec3190016e1f822c378850408d5ad9ef"},
+      "definition": "976e05df0cdb6bd0039f6729ac639a54",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:52.000Z",
+      "lastModified": "2026-11-06T22:19:52.000Z",
       "path": "tpr/odinv",
-      "pipelineId": 192,
       "productConfig": {"cdnPath": "", "hash": "e47bb7ab5d6c68946e08423ee040a345"},
       "regions": [
         {"branches": ["eu"], "cdns": "96a32bfd4f71c803c165e14e74b47aa9"},
@@ -63,29 +57,5 @@
   ],
   "infrastructure": false,
   "product": "odin",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "96a32bfd4f71c803c165e14e74b47aa9",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=10"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=10"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=10&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "20549aa6a072ba2469e628653d82b20e",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=10"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=10"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=10&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=10&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "odinv5"
 }

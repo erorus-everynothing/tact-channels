@@ -5,13 +5,11 @@
       "branches": ["cn", "eu", "kr", "us"],
       "build": {"name": "bdk_1.6.1", "token": "f0ba50f2-f805-4c63-b3f9-f6bd964f02fa"},
       "buildKey": "18d5ff3947b7d2a361cbf0d5257e7de6",
-      "cdnKey": "dabae539c09837f68126d27ae8ce5424",
-      "cdnKeyFile": {"name": "green/cdnkeys/f39d824eeda8bb4dd4b728170484bc4b"},
-      "definition": "438398de4df5dbbe0dbd5b21baa45a18",
+      "cdnKeyFile": {"name": "blue/cdnkeys/f39d824eeda8bb4dd4b728170484bc4b"},
+      "definition": "89a534ed19487e4aa378e8b18da7048a",
       "keyRing": "5207a6f67faccd149307da5381c76335",
-      "lastModified": "2026-10-30T15:10:08.000Z",
+      "lastModified": "2026-11-06T22:19:10.000Z",
       "path": "tpr/bdko",
-      "pipelineId": 396,
       "productConfig": {"cdnPath": "", "hash": "9f18c6773ac515e9daa8ef3518506317"},
       "regions": [
         {"branches": ["cn"], "cdns": "bed07fc70258d67071c2ca1148e4b8c6"},
@@ -25,49 +23,5 @@
   ],
   "infrastructure": false,
   "product": "bdko",
-  "regions": [
-    {
-      "branches": ["cn"],
-      "cdns": "bed07fc70258d67071c2ca1148e4b8c6",
-      "hosts": [
-        {"host": "http://blzdist-phx.necdn.leihuo.netease.com?maxhosts=6"},
-        {"host": "https://blzdist-phx.necdn.leihuo.netease.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:53.000Z"
-    },
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "0e52e616adbad7a6a5fa0a41741bb101",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "bdko"
 }

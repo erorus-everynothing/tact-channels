@@ -5,13 +5,11 @@
       "branches": ["eu", "us"],
       "build": {"name": "CRC_1279292A_V2_signed_ship", "token": "91908b9a-9f32-43cc-8f4b-f080e3f2e56d"},
       "buildKey": "99172ae8807ad936bfb440f7c96b30c1",
-      "cdnKey": "9edf3235684da5275986525a5c5cd48f",
-      "cdnKeyFile": {"name": "green/cdnkeys/159a1f241c3a4c4b8891935bcc70c4c2"},
-      "definition": "adc2cf6c063d3870025134c95b168a38",
+      "cdnKeyFile": {"name": "blue/cdnkeys/159a1f241c3a4c4b8891935bcc70c4c2"},
+      "definition": "08f7217a2b491d1f31b6ceb90657fd24",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:45.000Z",
+      "lastModified": "2026-11-06T22:19:38.000Z",
       "path": "tpr/lazrv",
-      "pipelineId": 209,
       "productConfig": {"cdnPath": "", "hash": "24739b4edc11d7b04ac82ada30c1454a"},
       "regions": [
         {"branches": ["eu"], "cdns": "ce4cd0979b60dbb14bb99658c66f4828"},
@@ -23,29 +21,5 @@
   ],
   "infrastructure": false,
   "product": "lazr",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "ce4cd0979b60dbb14bb99658c66f4828",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=3"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
-    }
-  ],
   "variant": "lazrv2"
 }

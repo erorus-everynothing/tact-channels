@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "sg", "tw", "us"],
       "build": {"name": "RETRO_PC_032221", "token": "a235d01f-3bb2-4266-999b-e71192a3529a"},
       "buildKey": "d0b4fe08cf5f1dd9f12bd9498ee0d2c7",
-      "cdnKey": "fc74014306cfadef265d2deb0a3ee143",
-      "cdnKeyFile": {"name": "green/cdnkeys/a27a9a422667e618f37565095f2810fc"},
-      "definition": "a42cda5b9fa12a44f3bb5633663fc3bb",
+      "cdnKeyFile": {"name": "blue/cdnkeys/a27a9a422667e618f37565095f2810fc"},
+      "definition": "3ee321d7b3679e62b848a51715e8a7fc",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:01:05.000Z",
+      "lastModified": "2026-11-06T22:20:19.000Z",
       "path": "tpr/rtro",
-      "pipelineId": 228,
       "productConfig": {"cdnPath": "", "hash": "2618f7788a2dbac1e4c3f221b366e5a5"},
       "regions": [
         {"branches": ["eu"], "cdns": "87a06f78212104fe1a98f84f0157ff50"},
@@ -24,42 +22,5 @@
   ],
   "infrastructure": false,
   "product": "rtro",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "87a06f78212104fe1a98f84f0157ff50",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["kr"],
-      "cdns": "4165a2d10276a6dd6bd4942484280b02",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "http://kr.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://kr.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "http://blizzard.gcdn.cloudn.co.kr?maxhosts=5"},
-        {"host": "https://blizzard.gcdn.cloudn.co.kr?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "rtro"
 }

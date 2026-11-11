@@ -8,13 +8,11 @@
         "token": "22236964-7009-4d47-b887-95d53c0e03f2"
       },
       "buildKey": "73273885684a7ea87c87b98939e6b0d1",
-      "cdnKey": "e486c715b58b5f504b19a34034f6ecc0",
-      "cdnKeyFile": {"name": "green/cdnkeys/cf786ecd0d124c5e5b161474e48e5fda"},
-      "definition": "68f1166b4fb8a5152e3b42fb5766abde",
+      "cdnKeyFile": {"name": "blue/cdnkeys/cf786ecd0d124c5e5b161474e48e5fda"},
+      "definition": "e2a2ccefce2f26ad73f24ce9eb0b8244",
       "keyRing": "",
-      "lastModified": "2026-11-11T20:03:28.000Z",
+      "lastModified": "2026-11-06T22:19:02.000Z",
       "path": "tpr/aukse",
-      "pipelineId": 273,
       "productConfig": {"cdnPath": "", "hash": "cd894a3e4bdbbc5217225145778e372f"},
       "regions": [{"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
       "versionNumber": 28484796,
@@ -23,18 +21,5 @@
   ],
   "infrastructure": false,
   "product": "auks",
-  "regions": [
-    {
-      "branches": ["us"],
-      "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=5&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=5&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:51.000Z"
-    }
-  ],
   "variant": "aukse"
 }

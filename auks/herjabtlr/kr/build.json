@@ -5,13 +5,11 @@
     "token": "677a3127-9837-4512-9327-38d4ace68d53"
   },
   "buildKey": "5f5934bb462406304106a6f36a3f9210",
-  "cdnKey": "0a260092bf75a75b26a3bfb1e71437cd",
-  "cdnKeyFile": {"name": "green/cdnkeys/69bdcf1465b44cbd3651d8e765ad2c32"},
-  "definition": "ed9019a4ef0999bb37b3c91cdc85cc9f",
+  "cdnKeyFile": {"name": "blue/cdnkeys/69bdcf1465b44cbd3651d8e765ad2c32"},
+  "definition": "e55d641e724510d64444c6f82ad6a95f",
   "keyRing": "",
-  "lastModified": "2026-10-15T19:00:44.000Z",
+  "lastModified": "2026-11-06T22:19:35.000Z",
   "path": "cortez/Cerberus-B-Live",
-  "pipelineId": 405,
   "productConfig": {"cdnPath": "", "hash": "899ce187836ed3b2a7a7250b8f34455c"},
   "regions": [
     {"branches": ["eu"], "cdns": "0cc361e1da6f2a076547361ead9c4837"},

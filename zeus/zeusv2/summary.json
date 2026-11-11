@@ -5,13 +5,11 @@
       "branches": ["eu"],
       "build": {"name": "bo5_raw_15931218_v2_dev", "token": "16fa0e37-3364-4cd8-92dd-e37b9a024c4c"},
       "buildKey": "a84937a00a0b1542993ac5ada0e2d232",
-      "cdnKey": "fd725f5ecaac6028654fd0c725ca1964",
-      "cdnKeyFile": {"name": "green/cdnkeys/d39085b6afb05d0e0c53cc5a8e7aa4e0"},
-      "definition": "d0cf418ed569941e857852e893e580af",
+      "cdnKeyFile": {"name": "blue/cdnkeys/d39085b6afb05d0e0c53cc5a8e7aa4e0"},
+      "definition": "e120470f17d14eb659de2445079d10ae",
       "keyRing": "",
-      "lastModified": "2026-11-10T18:19:02.000Z",
+      "lastModified": "2026-11-06T22:21:01.000Z",
       "path": "tpr/zeusv",
-      "pipelineId": 208,
       "productConfig": {"cdnPath": "", "hash": "eb4e56e10d6b7fb31bf1959485fe140f"},
       "regions": [
         {"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"},
@@ -25,13 +23,11 @@
       "branches": ["kr"],
       "build": {"name": "bo5_2_raw_13871677_v2_ship", "token": "8f24df6e-f1d0-49a7-99eb-7757369ee8c3"},
       "buildKey": "53fcbe416236b785060ea81a19e0d650",
-      "cdnKey": "fd725f5ecaac6028654fd0c725ca1964",
-      "cdnKeyFile": {"name": "green/cdnkeys/d39085b6afb05d0e0c53cc5a8e7aa4e0"},
-      "definition": "55eb1b3ec025f40f4abeadbd0449907c",
+      "cdnKeyFile": {"name": "blue/cdnkeys/d39085b6afb05d0e0c53cc5a8e7aa4e0"},
+      "definition": "89ba22b4efbade5ca134aacb245493a9",
       "keyRing": "",
-      "lastModified": "2026-11-10T18:19:02.000Z",
+      "lastModified": "2026-11-06T22:21:01.000Z",
       "path": "tpr/zeusv",
-      "pipelineId": 208,
       "productConfig": {"cdnPath": "", "hash": "eb4e56e10d6b7fb31bf1959485fe140f"},
       "regions": [
         {"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"},
@@ -48,13 +44,11 @@
         "token": "c94fd8c6-131e-4f7b-8056-755b0620b783"
       },
       "buildKey": "bdb879091b794dd7bb990df5ad634f47",
-      "cdnKey": "fd725f5ecaac6028654fd0c725ca1964",
-      "cdnKeyFile": {"name": "green/cdnkeys/d39085b6afb05d0e0c53cc5a8e7aa4e0"},
-      "definition": "a7549b6d3619ef2c45174647fdd37abe",
+      "cdnKeyFile": {"name": "blue/cdnkeys/d39085b6afb05d0e0c53cc5a8e7aa4e0"},
+      "definition": "c04dbfef051095c7cdb073845347cc01",
       "keyRing": "",
-      "lastModified": "2026-11-10T18:19:02.000Z",
+      "lastModified": "2026-11-06T22:21:01.000Z",
       "path": "tpr/zeusv",
-      "pipelineId": 208,
       "productConfig": {"cdnPath": "", "hash": "eb4e56e10d6b7fb31bf1959485fe140f"},
       "regions": [
         {"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"},
@@ -66,29 +60,5 @@
   ],
   "infrastructure": false,
   "product": "zeus",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=5"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=5"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-25T16:26:50.000Z"
-    }
-  ],
   "variant": "zeusv2"
 }

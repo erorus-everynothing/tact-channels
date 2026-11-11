@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "Alabama_3673940", "token": "b8616ea4-f5d3-4461-8141-aef98e27776e"},
       "buildKey": "8aba68431dbfc5c0243eda9b1d4bcb43",
-      "cdnKey": "b087e667b41d634cda109e9b57b99690",
-      "cdnKeyFile": {"name": "green/cdnkeys/b0a3fa93fc872ecd4a1fe730ee97c1c7"},
-      "definition": "0784e54c0f079fb200717c552c528173",
+      "cdnKeyFile": {"name": "blue/cdnkeys/b0a3fa93fc872ecd4a1fe730ee97c1c7"},
+      "definition": "8958204510cd24db021402219f9160f0",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:23.000Z",
+      "lastModified": "2026-11-06T22:18:59.000Z",
       "path": "tpr/aquarc",
-      "pipelineId": 343,
       "productConfig": {"cdnPath": "", "hash": "7f93c7f89b83cba43609d3fb026cc6d8"},
       "regions": [
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
@@ -23,29 +21,5 @@
   ],
   "infrastructure": false,
   "product": "aqua",
-  "regions": [
-    {
-      "branches": ["eu"],
-      "cdns": "287b8918c145665428c6f714cdc6e3bd",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    },
-    {
-      "branches": ["us"],
-      "cdns": "919646d723f2fff72418101b1223ddb0",
-      "hosts": [
-        {"host": "http://level3.blizzard.com?maxhosts=4"},
-        {"host": "http://us.cdn.blizzard.com?maxhosts=4"},
-        {"host": "https://us.cdn.blizzard.com?maxhosts=4&fallback=1"},
-        {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-      ],
-      "lastModified": "2026-08-27T22:48:54.000Z"
-    }
-  ],
   "variant": "aqua-retail-rc"
 }

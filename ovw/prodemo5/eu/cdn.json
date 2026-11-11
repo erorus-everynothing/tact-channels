@@ -1,12 +1,1 @@
-{
-  "cdns": "40a3feb55a2626f3b3145db3111a2523",
-  "hosts": [
-    {"host": "http://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"},
-    {"host": "http://level3.blizzard.com?maxhosts=4"},
-    {"host": "https://blzddist1-a.akamaihd.net?maxhosts=4&fallback=1"},
-    {"host": "http://eu.cdn.blizzard.com?maxhosts=4"},
-    {"host": "https://eu.cdn.blizzard.com?maxhosts=4&fallback=1"},
-    {"host": "https://level3.ssl.blizzard.com?maxhosts=4&fallback=1"}
-  ],
-  "lastModified": "2026-09-22T21:01:40.000Z"
-}
+{}

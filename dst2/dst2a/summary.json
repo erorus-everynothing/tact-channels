@@ -5,13 +5,11 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "5443954-Tiger", "token": ""},
       "buildKey": "217fe1897bdab3920dc861da360c3846",
-      "cdnKey": "60228c1de1ad14c3e41c1b942c73d9e6",
-      "cdnKeyFile": {"name": "green/cdnkeys/14a25ba849e6fef92dc2abb1bed459ff"},
-      "definition": "4aa5d58d5ea05fe8f21e57fd9509c8f3",
+      "cdnKeyFile": {"name": "blue/cdnkeys/14a25ba849e6fef92dc2abb1bed459ff"},
+      "definition": "9352f78fdcf3040a5c93beda3989a192",
       "keyRing": "",
-      "lastModified": "2026-10-15T19:00:39.000Z",
+      "lastModified": "2026-11-06T22:19:25.000Z",
       "path": "tpr/destiny2",
-      "pipelineId": 144,
       "productConfig": {"cdnPath": "", "hash": "5658b5eab9b08d66259de00d353aec90"},
       "regions": [],
       "versionNumber": 5443954,
@@ -20,6 +18,5 @@
   ],
   "infrastructure": false,
   "product": "dst2",
-  "regions": [],
   "variant": "dst2a"
 }

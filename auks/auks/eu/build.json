@@ -5,14 +5,14 @@
     "token": "34d7e7e7-4da6-4c8c-a067-6081bb27cc30"
   },
   "buildKey": "b77d75f24632978028a886e3e7472307",
-  "cdnKey": "51482a451695fb6f6637bbab23c5a551",
+  "cdnKey": "b3f9a57531cb2a824e10673884b7eb0d",
   "cdnKeyFile": {"name": "green/cdnkeys/4927c05d3fdab05f6e43d1bcffe6afc0"},
-  "definition": "ae8007e3f5ed6e6769c9a8328d23479e",
+  "definition": "c94a4eb4220c0b4fd6f11e441c08015c",
   "keyRing": "",
-  "lastModified": "2026-11-10T16:05:37.000Z",
+  "lastModified": "2026-11-11T18:05:28.000Z",
   "path": "tpr/auks",
   "pipelineId": 234,
-  "productConfig": {"cdnPath": "", "hash": "ee7e3574df1aaa83d510920aa3673f64"},
+  "productConfig": {"cdnPath": "", "hash": "9317e544cab150e9a879563cf013497b"},
   "regions": [
     {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
     {"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"},

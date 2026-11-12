@@ -39,23 +39,20 @@
     {
       "armadilloKey": "",
       "branches": ["us"],
-      "build": {
-        "name": "release_28354448A_cod25_season5_5_bnet_v12_dev",
-        "token": "a7e4389c-e606-48a2-b252-0e64389e25e8"
-      },
-      "buildKey": "0f458518c5349880a85eed96971145d6",
+      "build": {"name": "release_28787707_cod25_season6_bnet_v12_dev", "token": "e776cfd8-9432-469a-91cd-764a6e848ab7"},
+      "buildKey": "8f8d89f985179ce2ca8f44a136b3c74c",
       "cdnKeyFile": {"name": "blue/cdnkeys/d39642d7e2af592cef936e60dbb90d6f"},
-      "definition": "786339585b1d3dc109d33fb5aede3699",
+      "definition": "632db832a7e3673cc6c44a4c5e3921ce",
       "keyRing": "",
-      "lastModified": "2026-11-11T19:30:19.000Z",
+      "lastModified": "2026-11-12T15:42:27.000Z",
       "path": "tpr/auksv",
       "productConfig": {"cdnPath": "", "hash": "64b528bb438f858877f51182c4618c8b"},
       "regions": [
         {"branches": ["eu"], "cdns": "aa0fa3968e10940e193d53bcd24b53ef"},
         {"branches": ["us"], "cdns": "7d77b999022b646a1daa9a56779f335e"}
       ],
-      "versionNumber": 28354448,
-      "versionString": "1.0.0.28354448Ad"
+      "versionNumber": 28787707,
+      "versionString": "1.0.0.28787707d"
     }
   ],
   "infrastructure": false,

@@ -1,10 +1,10 @@
 {
   "path": "blue/",
   "public": {
-    "channel": "c98ab6011be8b61543d7319f86c7bd8c"
+    "channel": "be986284301cc60deac1e4dad2481302"
   },
-  "lastModified": "2026-11-12T18:19:30.000Z",
-  "pointerLastModified": "2026-11-12T18:19:30.000Z",
+  "lastModified": "2026-11-12T18:21:00.000Z",
+  "pointerLastModified": "2026-11-12T18:21:00.000Z",
   "products": {
     "agent": [
       "agent",
@@ -134,6 +134,7 @@
       "kelpv1",
       "kelpv2",
       "kelpv3",
+      "kelpv5",
       "moonv1",
       "moonv2",
       "moonv3",

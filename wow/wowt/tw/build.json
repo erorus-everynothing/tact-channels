@@ -1,11 +1,11 @@
 {
   "armadilloKey": "",
-  "build": {"name": "WOW-70740patch12.1.7_PTR", "token": "b8fd7b1c-7984-4219-8f8a-57e80e545d0f"},
-  "buildKey": "b0debd7d08177a2aaf40cff5d6aba81d",
+  "build": {"name": "WOW-70892patch12.1.7_PTR", "token": "50d3a494-e660-494b-acc6-97f9dde98e09"},
+  "buildKey": "53797a3c0102b394880a11c12e985d80",
   "cdnKeyFile": {"name": "blue/cdnkeys/e172cc2c85b22220ee27d32f0cc26ca5"},
-  "definition": "989d515e58dc97091a3b4a52cd5ec490",
+  "definition": "a120b9cc5de2ed68106c0a3f2eac3dc7",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:54.000Z",
+  "lastModified": "2026-11-12T22:19:40.000Z",
   "path": "tpr/wow",
   "productConfig": {"cdnPath": "", "hash": "8e1095475b945aa02fd3f2a2d22993b7"},
   "regions": [
@@ -14,6 +14,6 @@
     {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"},
     {"branches": ["kr"], "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"}
   ],
-  "versionNumber": 70740,
-  "versionString": "12.1.7.70740"
+  "versionNumber": 70892,
+  "versionString": "12.1.7.70892"
 }

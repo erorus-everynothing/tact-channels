@@ -2,13 +2,13 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["us"],
-      "build": {"name": "254477_37.0.0-hse1", "token": "e46a482c-d608-95b0-9829-68dc7088a677"},
-      "buildKey": "d6d3502baa813f0effc1f507a51d5c8f",
+      "branches": ["cn", "us"],
+      "build": {"name": "257428_37.2.0-hse1", "token": "c06715b2-7daf-6140-1afd-897db70b514e"},
+      "buildKey": "d9fbb2ed23982aea258f817ebaf116a7",
       "cdnKeyFile": {"name": "blue/cdnkeys/506a4bf6ba24e1e821e6bbfa32e022ad"},
-      "definition": "8cbd29c1b241d554e051b41c1ce72beb",
+      "definition": "bd519b6886ad1072b71b479675f089de",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:37.000Z",
+      "lastModified": "2026-11-13T07:36:48.000Z",
       "path": "tpr/hse/2",
       "productConfig": {"cdnPath": "", "hash": "b264256ee89ed9d7634abb401621549e"},
       "regions": [
@@ -16,8 +16,8 @@
         {"branches": ["us"], "cdns": "a744a1699a13347916dd9d7aa0ea70ed"},
         {"branches": ["eu"], "cdns": "0d29432d9fe5c1bd748572c3e74ccdd0"}
       ],
-      "versionNumber": 254477,
-      "versionString": "37.0.0.254477"
+      "versionNumber": 257428,
+      "versionString": "37.2.0.257428"
     }
   ],
   "infrastructure": false,

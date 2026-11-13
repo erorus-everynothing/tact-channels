@@ -1,10 +1,10 @@
 {
   "path": "blue/",
   "public": {
-    "channel": "3ee066eb0442f0b1b0c4222ede208d97"
+    "channel": "5ea29179f8e89f41fb1dc416499cde7b"
   },
-  "lastModified": "2026-11-13T20:35:20.000Z",
-  "pointerLastModified": "2026-11-13T20:35:20.000Z",
+  "lastModified": "2026-11-13T20:59:11.000Z",
+  "pointerLastModified": "2026-11-13T20:59:11.000Z",
   "products": {
     "agent": [
       "agent",
@@ -116,6 +116,7 @@
       "btlrv29",
       "btlrv30",
       "cornv1",
+      "cornv2",
       "cornv8",
       "cornv9",
       "cornv10",

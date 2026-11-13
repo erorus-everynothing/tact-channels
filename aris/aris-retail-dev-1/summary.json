@@ -3,20 +3,20 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "20261109-160602-vivacious-emu", "token": "09e312bc-0fc3-4853-8c0c-a62b73aaf105"},
-      "buildKey": "248a204904d3e4445170a5342e396896",
+      "build": {"name": "20261112-191320-clumsy-jellyfish", "token": "75ed7682-8f55-4b77-b193-8bd0f426c8b5"},
+      "buildKey": "22ea3ee36aad7efecc18e5ee1c119bac",
       "cdnKeyFile": {"name": "blue/cdnkeys/4adf6e4e2fce0f7bc205acd77117c97d"},
-      "definition": "6be8a780b660ecb5df842b1e87de715f",
-      "keyRing": "0dd55f1558fd6a044990d8c8a1eb9d1a",
-      "lastModified": "2026-11-09T23:20:18.000Z",
+      "definition": "4442a5874d37ca971ece8c731887fb7a",
+      "keyRing": "cd3b165f04aefa4c44384f900170c0f1",
+      "lastModified": "2026-11-13T02:10:37.000Z",
       "path": "tpr/arisdev",
       "productConfig": {"cdnPath": "", "hash": "3bdd137c047e8e0a57b09a37c0b0203b"},
       "regions": [
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
       ],
-      "versionNumber": 543,
-      "versionString": "D4700A64A7E5FB16651C9BF6914CF621"
+      "versionNumber": 544,
+      "versionString": "6DCE27A5B6E5BBDF5709E2B1D660ED47"
     }
   ],
   "infrastructure": false,

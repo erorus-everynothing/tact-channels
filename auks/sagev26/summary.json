@@ -6,14 +6,14 @@
       "build": {"name": "cert_24495928_cod25_tu1_bnet_v26_dev", "token": "22dba4f3-9bc1-4b11-b060-d925616bd48e"},
       "buildKey": "7a8f854053a227d7af9f7da61a58ac7c",
       "cdnKeyFile": {"name": "blue/cdnkeys/281112990b14c99f56de85a7d8a65689"},
-      "definition": "3442d43cc3ef9ee28325e86b961ab54f",
+      "definition": "db39977832b91b53dd28214e0d5db577",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:29.000Z",
+      "lastModified": "2026-11-13T18:15:50.000Z",
       "path": "tpr/sagevb",
       "productConfig": {"cdnPath": "", "hash": "9a8bd8baf0f11239de971a3476eb4565"},
       "regions": [
-        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
-        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+        {"branches": ["us"], "cdns": "757e7b7e95a90045be37e99daf9f9421"},
+        {"branches": ["eu"], "cdns": "40a3feb55a2626f3b3145db3111a2523"}
       ],
       "versionNumber": 24495928,
       "versionString": "0.0.1.24495928d"
@@ -24,14 +24,14 @@
       "build": {"name": "release_24359020_cod25_tu1_bnet_v26_dev", "token": "048dbb53-cdce-4c1a-a744-74478cfac2f7"},
       "buildKey": "5d35e95cc0a5858b59372759c79ddc34",
       "cdnKeyFile": {"name": "blue/cdnkeys/281112990b14c99f56de85a7d8a65689"},
-      "definition": "dc081dfaabb042319ac05b22e73687fb",
+      "definition": "f7ccac095bb31fefb966e5f623ae327e",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:29.000Z",
+      "lastModified": "2026-11-13T18:15:50.000Z",
       "path": "tpr/sagevb",
       "productConfig": {"cdnPath": "", "hash": "00119268a7fd468e8f6e9e949476460e"},
       "regions": [
-        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
-        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+        {"branches": ["us"], "cdns": "757e7b7e95a90045be37e99daf9f9421"},
+        {"branches": ["eu"], "cdns": "40a3feb55a2626f3b3145db3111a2523"}
       ],
       "versionNumber": 24359020,
       "versionString": "0.0.1.24359020d"

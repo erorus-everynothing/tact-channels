@@ -6,14 +6,14 @@
       "build": {"name": "cert_24536827_cod25_tu1_bnet_v30_dev", "token": "9a9494cc-87cf-4457-b814-373dbe2c3bbb"},
       "buildKey": "7a3c92519f297a37d3f422d672b6d544",
       "cdnKeyFile": {"name": "blue/cdnkeys/91d3214f2998b85f371e71a356e70157"},
-      "definition": "3dee3a3fa4d424b1be48248a963f04b5",
+      "definition": "b22f9bb029f2b39f0ec6ae44bbdaabb3",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:31.000Z",
+      "lastModified": "2026-11-13T18:15:51.000Z",
       "path": "tpr/sagevb",
       "productConfig": {"cdnPath": "", "hash": "2fb8234e7a621acd532d30996e860299"},
       "regions": [
-        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
-        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+        {"branches": ["us"], "cdns": "757e7b7e95a90045be37e99daf9f9421"},
+        {"branches": ["eu"], "cdns": "40a3feb55a2626f3b3145db3111a2523"}
       ],
       "versionNumber": 24536827,
       "versionString": "0.0.0.24536827d"
@@ -24,14 +24,14 @@
       "build": {"name": "release_24525105_cod25_tu2_bnet_v30_dev", "token": "0f4856a0-8b11-4f42-93f5-30fe1446edeb"},
       "buildKey": "a71f386353123a5debc6774a4bb83cc3",
       "cdnKeyFile": {"name": "blue/cdnkeys/91d3214f2998b85f371e71a356e70157"},
-      "definition": "9ac95e1800d7a24eea87b33b80bbbca2",
+      "definition": "d43c8d9157df02caf50cafd0fee421b6",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:31.000Z",
+      "lastModified": "2026-11-13T18:15:51.000Z",
       "path": "tpr/sagevb",
       "productConfig": {"cdnPath": "", "hash": "2fb8234e7a621acd532d30996e860299"},
       "regions": [
-        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
-        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+        {"branches": ["us"], "cdns": "757e7b7e95a90045be37e99daf9f9421"},
+        {"branches": ["eu"], "cdns": "40a3feb55a2626f3b3145db3111a2523"}
       ],
       "versionNumber": 24525105,
       "versionString": "0.0.0.24525105d"
@@ -45,14 +45,14 @@
       },
       "buildKey": "0016d4ea7ea4249b1ec328a6e5dafe36",
       "cdnKeyFile": {"name": "blue/cdnkeys/91d3214f2998b85f371e71a356e70157"},
-      "definition": "47cb8197c94d3bd2d3344a2499782652",
+      "definition": "fd0baab7fdfdc063c55b092ee3f0c34b",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:32.000Z",
+      "lastModified": "2026-11-13T18:15:51.000Z",
       "path": "tpr/sagevb",
       "productConfig": {"cdnPath": "", "hash": "f84fabcb1034a2630187e2e4d46a674f"},
       "regions": [
-        {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
-        {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+        {"branches": ["us"], "cdns": "757e7b7e95a90045be37e99daf9f9421"},
+        {"branches": ["eu"], "cdns": "40a3feb55a2626f3b3145db3111a2523"}
       ],
       "versionNumber": 26297648,
       "versionString": "0.0.0.26297648d"

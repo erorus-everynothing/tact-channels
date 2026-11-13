@@ -3,14 +3,14 @@
   "build": {"name": "release_24820073_cod25_tu3_bnet_v27_ship", "token": "ef4ec2ca-c991-4f2a-a32a-6a258eb34823"},
   "buildKey": "d5570e97ddb260955b2cb16ef20dcdb6",
   "cdnKeyFile": {"name": "blue/cdnkeys/86acbec0bdd83288717c554240c81e47"},
-  "definition": "e52a25c42053dd74c551dfbbf4aebad8",
+  "definition": "be46d6f6f51aaaf20d4b4a222a0f8c35",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:29.000Z",
+  "lastModified": "2026-11-13T18:15:50.000Z",
   "path": "tpr/sagevb",
   "productConfig": {"cdnPath": "", "hash": "8c9c32c57cf4a304deb49941fde0d9e2"},
   "regions": [
-    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
-    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+    {"branches": ["us"], "cdns": "757e7b7e95a90045be37e99daf9f9421"},
+    {"branches": ["eu"], "cdns": "40a3feb55a2626f3b3145db3111a2523"}
   ],
   "versionNumber": 24820073,
   "versionString": "0.0.0.24820073d"

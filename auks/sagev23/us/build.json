@@ -3,14 +3,14 @@
   "build": {"name": "trunk_29562306_sat_wz_season0_bnet_v23_dev", "token": "960a69e2-e15b-4744-a948-1f476fee813d"},
   "buildKey": "4c7b8cd98c9d1a2828ceed0ae7736e31",
   "cdnKeyFile": {"name": "blue/cdnkeys/bd9cf5d5691a7a8f514e37df2623f43b"},
-  "definition": "b0a1b9eb1dbda4c27f7656bf71ecdee8",
+  "definition": "89ade85119425fe512db679c822e1283",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:28.000Z",
+  "lastModified": "2026-11-13T18:15:50.000Z",
   "path": "tpr/sagevb",
   "productConfig": {"cdnPath": "", "hash": "f687d2f8df26f86660433940795106ff"},
   "regions": [
-    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
-    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+    {"branches": ["us"], "cdns": "757e7b7e95a90045be37e99daf9f9421"},
+    {"branches": ["eu"], "cdns": "40a3feb55a2626f3b3145db3111a2523"}
   ],
   "versionNumber": 29562306,
   "versionString": "0.0.0.29562306d"

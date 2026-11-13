@@ -3,14 +3,14 @@
   "build": {"name": "main_28211784_sat_clean_future_bnet_v23_dev", "token": "531d2842-17c9-46d7-92bb-aaee2d84f392"},
   "buildKey": "82078d58649414ff0047914ccedf6e99",
   "cdnKeyFile": {"name": "blue/cdnkeys/bd9cf5d5691a7a8f514e37df2623f43b"},
-  "definition": "2f1fa62a775afc05c1c30b4898d9b2eb",
+  "definition": "e0875a98f998bc375cc942a49cefbb81",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:28.000Z",
+  "lastModified": "2026-11-13T18:15:50.000Z",
   "path": "tpr/sagevb",
   "productConfig": {"cdnPath": "", "hash": "f687d2f8df26f86660433940795106ff"},
   "regions": [
-    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
-    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
+    {"branches": ["us"], "cdns": "757e7b7e95a90045be37e99daf9f9421"},
+    {"branches": ["eu"], "cdns": "40a3feb55a2626f3b3145db3111a2523"}
   ],
   "versionNumber": 28211784,
   "versionString": "0.0.0.28211784d"

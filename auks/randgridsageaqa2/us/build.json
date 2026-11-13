@@ -6,14 +6,14 @@
   },
   "buildKey": "3bae5ea4233a613a85b4075d78d17961",
   "cdnKeyFile": {"name": "blue/cdnkeys/77abaf2908381d1139449e49210c0a8a"},
-  "definition": "bbabeaa50358c936fd9869319c0585a8",
+  "definition": "b3af0df36cee716c7422b19299ef7493",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:09.000Z",
+  "lastModified": "2026-11-13T18:15:00.000Z",
   "path": "tpr/sagev",
   "productConfig": {"cdnPath": "", "hash": "0397f95d7910e2bc85649269c6f0baa5"},
   "regions": [
-    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
-    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+    {"branches": ["eu"], "cdns": "c9be44881e46a1d0ef01aef1604e192b"},
+    {"branches": ["us"], "cdns": "d8a796bebbc426f10aebec716253825a"}
   ],
   "versionNumber": 29708533,
   "versionString": "0.0.2.29708533d"

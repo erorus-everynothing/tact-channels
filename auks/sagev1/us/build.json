@@ -3,14 +3,14 @@
   "build": {"name": "release_29969151_cod25_sep_tu18_bnet_v1_dev", "token": "484a454e-948c-4745-bf2e-4a6a19d33d2e"},
   "buildKey": "3ae274ec86da72552f588faae6b60d67",
   "cdnKeyFile": {"name": "blue/cdnkeys/a900e87b573ec805814195fe918300e9"},
-  "definition": "6cef0b66f2e47a19446bffadd521bb9f",
+  "definition": "a15cf2f3384c4006c582bda1dee710db",
   "keyRing": "",
-  "lastModified": "2026-11-13T13:20:59.000Z",
+  "lastModified": "2026-11-13T18:15:00.000Z",
   "path": "tpr/sagev",
   "productConfig": {"cdnPath": "", "hash": "9498f08a64c5605a50c2723573aed7b5"},
   "regions": [
-    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
-    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+    {"branches": ["eu"], "cdns": "c9be44881e46a1d0ef01aef1604e192b"},
+    {"branches": ["us"], "cdns": "d8a796bebbc426f10aebec716253825a"}
   ],
   "versionNumber": 29969151,
   "versionString": "0.0.0.29969151d"

@@ -3,14 +3,14 @@
   "build": {"name": "release_25575269_cod25season2bnet_v18_dev", "token": "78213e04-f0d3-44f5-883a-66bae0c58a3d"},
   "buildKey": "b17ecd72107f465f12ab20354864ee5a",
   "cdnKeyFile": {"name": "blue/cdnkeys/60eea9b1b03e0e4e6484019f977a5460"},
-  "definition": "40f94377e6ba50f836ee52d89d345116",
+  "definition": "6fc81a8cfa6ae434296e28da16e51166",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:24.000Z",
+  "lastModified": "2026-11-13T18:15:02.000Z",
   "path": "tpr/sagev",
   "productConfig": {"cdnPath": "", "hash": "b486cd93c98f2da1d52e56e4bec6e913"},
   "regions": [
-    {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"},
-    {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"}
+    {"branches": ["eu"], "cdns": "c9be44881e46a1d0ef01aef1604e192b"},
+    {"branches": ["us"], "cdns": "d8a796bebbc426f10aebec716253825a"}
   ],
   "versionNumber": 25575269,
   "versionString": "0.0.0.25575269d"

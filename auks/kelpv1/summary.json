@@ -39,20 +39,20 @@
     {
       "armadilloKey": "",
       "branches": ["us"],
-      "build": {"name": "trunk_29975047_kra_clean_bnet_v1_dev", "token": "7a776f3b-d286-4f85-886a-c022d36d292a"},
-      "buildKey": "40a7043d3f0a307aed27979a3e6bf95d",
+      "build": {"name": "trunk_29996438_kra_clean_bnet_v1_dev", "token": "fd1a744e-2e86-4ee2-b159-ca6eac44ce02"},
+      "buildKey": "78398919c61829fc658d444c26138087",
       "cdnKeyFile": {"name": "blue/cdnkeys/cda8cce0302edf43d8e8e60cf67986a9"},
-      "definition": "e71669e96adfbf666f7f49e3b0d1b2cd",
+      "definition": "e4fa6bc95adfa02a511e5507e8d8f60b",
       "keyRing": "",
-      "lastModified": "2026-11-12T18:19:28.000Z",
+      "lastModified": "2026-11-13T16:38:08.000Z",
       "path": "tpr/kelpv",
       "productConfig": {"cdnPath": "", "hash": "b175c78cba9294cbe1dd572dbc43d684"},
       "regions": [
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
       ],
-      "versionNumber": 29975047,
-      "versionString": "1.0.3.29975047d"
+      "versionNumber": 29996438,
+      "versionString": "1.0.3.29996438d"
     }
   ],
   "infrastructure": false,

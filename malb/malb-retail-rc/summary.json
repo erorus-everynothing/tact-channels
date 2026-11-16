@@ -3,14 +3,14 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "Build_5820352Change_13731624_FixTweakDbEP1", "token": "34d6513d-1985-43b5-be22-14cc50660fea"},
-      "buildKey": "5f0a8227bcd2cbdad7c8eb0c028e51e6",
+      "build": {"name": "Build_5820352Change_13731624_MacFix", "token": "96080102-6294-4b94-b88f-4d3f9fc9df70"},
+      "buildKey": "267a657c92c1386e1527cecd8a63efbf",
       "cdnKeyFile": {"name": "blue/cdnkeys/912b7eaae003ce12a0bdf9a60409cee8"},
-      "definition": "6f9743560632487ea11cf5f2d21df388",
-      "keyRing": "ce278a43386d43b2d016e57392a05324",
-      "lastModified": "2026-11-12T17:16:00.000Z",
+      "definition": "5be7ff98ab9e6676bebdcbcba96483f4",
+      "keyRing": "40ccb06c15fbe7515edc43445449f628",
+      "lastModified": "2026-11-16T14:01:50.000Z",
       "path": "tpr/malbrc",
-      "productConfig": {"cdnPath": "", "hash": "92bc3d74fdcb7a203a345cbe349a1c06"},
+      "productConfig": {"cdnPath": "", "hash": "6779a51e4d692ad0789f4623b734c4c4"},
       "regions": [
         {"branches": ["us"], "cdns": "5262b99fc7196b32fadac2b99a0825f2"},
         {"branches": ["eu"], "cdns": "ef36466b135e3931ea85bdcfaa44f3b5"}

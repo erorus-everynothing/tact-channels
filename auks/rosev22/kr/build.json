@@ -1,17 +1,17 @@
 {
   "armadilloKey": "",
-  "build": {"name": "release_29964295_cod26_season1_5_bnet_v22_dev", "token": "5dd8db60-07d1-45a1-97dd-142b9165bfc6"},
-  "buildKey": "754c224ce92c12d57b602f3aec92e787",
+  "build": {"name": "release_30045484_cod26_season1_5_bnet_v22_dev", "token": "3088bcbd-7963-49d7-a1bd-19fec45a88af"},
+  "buildKey": "691b1d8fb98dfc69ba83dc8b98bfaac2",
   "cdnKeyFile": {"name": "blue/cdnkeys/06fa6ee31e129ce72b48fbcdc11558d7"},
-  "definition": "5aed219b4348bf27e0506b522d1ca6b2",
+  "definition": "abf90194a62574b309a7d8c567a80007",
   "keyRing": "",
-  "lastModified": "2026-11-13T18:22:49.000Z",
+  "lastModified": "2026-11-17T20:50:00.000Z",
   "path": "tpr/rosevb",
   "productConfig": {"cdnPath": "", "hash": "e0e93c11f11c87f016ed1d0e72c9f87c"},
   "regions": [
     {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
     {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
   ],
-  "versionNumber": 29964295,
-  "versionString": "0.0.1.29964295d"
+  "versionNumber": 30045484,
+  "versionString": "0.0.1.30045484d"
 }

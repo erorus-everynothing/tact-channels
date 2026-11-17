@@ -1,17 +1,17 @@
 {
   "armadilloKey": "",
-  "build": {"name": "release_30012461_kra_ms_q4_26_bnet_v5_dev", "token": "4a247349-dcd3-4083-9ef8-a118c4f56588"},
-  "buildKey": "ecf543a940d649eb991cbe7c95a68117",
+  "build": {"name": "release_30042261_kra_ms_q4_26_bnet_v5_dev", "token": "1da93123-0a13-4ca3-9727-bfb79f57cb0f"},
+  "buildKey": "bc559ee63434bde3fdddc7cf48423e23",
   "cdnKeyFile": {"name": "blue/cdnkeys/d92132d47d8ebb71ea333be83def12a3"},
-  "definition": "c21716aee0b410141eb6e94be36c1b8c",
+  "definition": "1d3f1316408806bb772ab61659a4d7d5",
   "keyRing": "",
-  "lastModified": "2026-11-16T15:37:08.000Z",
+  "lastModified": "2026-11-17T15:14:28.000Z",
   "path": "tpr/kelpv",
   "productConfig": {"cdnPath": "", "hash": "94ac25ab3386d9ae4bf1e8c0335a0206"},
   "regions": [
     {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
     {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
   ],
-  "versionNumber": 30012461,
-  "versionString": "1.0.3.30012461d"
+  "versionNumber": 30042261,
+  "versionString": "1.0.3.30042261d"
 }

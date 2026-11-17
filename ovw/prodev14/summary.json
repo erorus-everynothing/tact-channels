@@ -3,20 +3,20 @@
     {
       "armadilloKey": "",
       "branches": ["nexon"],
-      "build": {"name": "prometheus-2_26_0_0-155499-KR-NGSX-prodev14", "token": "243fb44a-e616-4527-ba77-3b32ed977e08"},
-      "buildKey": "8ddc1b02bdbb3f9ce927dcfce58ea02c",
+      "build": {"name": "prometheus-2_26_0_0-155633-KR-NGSX-prodev14", "token": "8fc1c48b-f66b-4062-9182-13b21b2357c2"},
+      "buildKey": "f6c064a1f99a0d85d30ea7e576b7533a",
       "cdnKeyFile": {"name": "blue/cdnkeys/641a6f258e7c794f3d47b3c74086edf1"},
-      "definition": "5386446775e560b9c9989475e213a517",
+      "definition": "689af74a0f6880663343ca05894ed04a",
       "keyRing": "",
-      "lastModified": "2026-11-12T19:22:59.000Z",
+      "lastModified": "2026-11-17T18:22:09.000Z",
       "path": "tpr/proa2",
       "productConfig": {"cdnPath": "", "hash": "0fa772552c345eed6354578e49e37f10"},
       "regions": [
         {"branches": ["eu"], "cdns": "3177ecdac411abd8be79a021e27535e9"},
         {"branches": ["us"], "cdns": "13df1783652f5002b492505e39cf190c"}
       ],
-      "versionNumber": 155499,
-      "versionString": "2.26.0.0.155499"
+      "versionNumber": 155633,
+      "versionString": "2.26.0.0.155633"
     },
     {
       "armadilloKey": "",

@@ -1,17 +1,17 @@
 {
   "armadilloKey": "",
-  "build": {"name": "Build_1090142Change_13662125Upload_1095180", "token": "8fbd2c27-599e-4f76-9caf-5bb1c87c05f5"},
-  "buildKey": "397484be2452867f0f6d663053325a66",
+  "build": {"name": "Build_1127857Change_13891279Upload_1128969", "token": "6e2621a5-2f19-4449-ae45-4096136a9da5"},
+  "buildKey": "3f5ab57f00ebc397a82d1473a6d77eaf",
   "cdnKeyFile": {"name": "blue/cdnkeys/441d4f0588e8e592c245806ae99d5c58"},
-  "definition": "33de73268427f0922825e7bf5b4400fe",
-  "keyRing": "b427d230e8a72dfc019ff7964a7b0968",
-  "lastModified": "2026-11-06T22:19:40.000Z",
+  "definition": "61a22bc6d9a2d19b4ae3221fcb3254a6",
+  "keyRing": "fdbadbc710c42312f2c72f85fcee6109",
+  "lastModified": "2026-11-17T07:35:09.000Z",
   "path": "tpr/lyradev/1",
-  "productConfig": {"cdnPath": "", "hash": "6b1c0e17275505c8e0b9a19dfb6f6705"},
+  "productConfig": {"cdnPath": "", "hash": "b82013199ac89aa534cb33c751ed61b6"},
   "regions": [
     {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
     {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
   ],
-  "versionNumber": 1090142,
+  "versionNumber": 1127857,
   "versionString": "5.00"
 }

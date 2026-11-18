@@ -3,12 +3,12 @@
     {
       "armadilloKey": "",
       "branches": ["cn", "eu", "kr", "sg", "tw", "us", "xx"],
-      "build": {"name": "WOW-70892patch12.1.7_PTR", "token": "50d3a494-e660-494b-acc6-97f9dde98e09"},
-      "buildKey": "53797a3c0102b394880a11c12e985d80",
+      "build": {"name": "WOW-70986patch12.1.7_PTR", "token": "e0543d9c-bb7b-49a2-8958-f180292572ce"},
+      "buildKey": "2261a5a4a269450275cac47d3f1e1506",
       "cdnKeyFile": {"name": "green/cdnkeys/e172cc2c85b22220ee27d32f0cc26ca5"},
-      "definition": "eade72b2e15e58e92762892c83527d51",
+      "definition": "ed315a6a08c66ec067a4eb3604f59e19",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:59:13.000Z",
+      "lastModified": "2026-11-18T23:43:20.000Z",
       "path": "tpr/wow",
       "productConfig": {"cdnPath": "", "hash": "8e1095475b945aa02fd3f2a2d22993b7"},
       "regions": [
@@ -17,8 +17,8 @@
         {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"},
         {"branches": ["kr"], "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"}
       ],
-      "versionNumber": 70892,
-      "versionString": "12.1.7.70892"
+      "versionNumber": 70986,
+      "versionString": "12.1.7.70986"
     }
   ],
   "infrastructure": false,

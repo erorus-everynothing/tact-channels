@@ -1,11 +1,11 @@
 {
   "armadilloKey": "",
-  "build": {"name": "WOW-70631patch5.5.4_ClassicRetail", "token": "513bce4c-159b-4ce6-82d7-8a3a21ba0072"},
-  "buildKey": "91b4109f7697d6c0e7e41d14bc10f907",
+  "build": {"name": "WOW-70960patch5.5.4_ClassicRetail", "token": "4cfad48e-489f-4d6a-85e7-a322b8888816"},
+  "buildKey": "842ac1506d73d75b9a016b70a7d1b3a9",
   "cdnKeyFile": {"name": "green/cdnkeys/9a62c5efbaf5da27f5df7410b154e8c6"},
-  "definition": "ecd95570f0645fd9cbedde46bb456ef3",
+  "definition": "8e59a59879372355ca0a53149b52886d",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:58:55.000Z",
+  "lastModified": "2026-11-18T19:58:56.000Z",
   "path": "tpr/wow",
   "productConfig": {"cdnPath": "", "hash": "f337a1b6ece3dacf3ec807287f3c2aa6"},
   "regions": [
@@ -14,6 +14,6 @@
     {"branches": ["cn"], "cdns": "3cc07b8abb8ad2f7349e2613d7fdad94"},
     {"branches": ["kr"], "cdns": "8967c799fa1e344e1b8dfe8d95e517fe"}
   ],
-  "versionNumber": 70631,
-  "versionString": "5.5.4.70631"
+  "versionNumber": 70960,
+  "versionString": "5.5.4.70960"
 }

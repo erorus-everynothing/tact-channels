@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "driver_11_07_23137177_cod23_valkyrie_ship_r", "token": "27c12882-0585-46a8-84cf-0ba1cedafc80"},
       "buildKey": "19416159b36e553e05f43272ad2b0d40",
-      "cdnKeyFile": {"name": "blue/cdnkeys/331a886d9a74edfa9af36a25fafcec90"},
-      "definition": "87495472760dbd8b7870feabf73bd4f8",
+      "cdnKeyFile": {"name": "green/cdnkeys/331a886d9a74edfa9af36a25fafcec90"},
+      "definition": "1803a2e0fe84a5627d4e6043555d2508",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:37.000Z",
+      "lastModified": "2026-11-18T19:58:33.000Z",
       "path": "tpr/pinta",
       "productConfig": {"cdnPath": "", "hash": "f4975cb16cbf2b785b8db17ceff8f484"},
       "regions": [

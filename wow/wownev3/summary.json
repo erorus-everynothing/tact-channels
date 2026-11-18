@@ -5,10 +5,10 @@
       "branches": ["cn"],
       "build": {"name": "WOW-68943patch3.80.2_NEVendor3", "token": "da616ffe-a263-4f8f-a991-4a93a97235f5"},
       "buildKey": "b1acdaf1e4f7a98174de7e65a80bd9b8",
-      "cdnKeyFile": {"name": "blue/cdnkeys/adcecc9892dc4bbf05bf709249d5b0a0"},
-      "definition": "d126accebb397a01e1a9cbf439a41050",
+      "cdnKeyFile": {"name": "green/cdnkeys/adcecc9892dc4bbf05bf709249d5b0a0"},
+      "definition": "b9af77964e18c8b1327526acbc3084f9",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:52.000Z",
+      "lastModified": "2026-11-18T19:59:10.000Z",
       "path": "tpr/wowvcn",
       "productConfig": {"cdnPath": "", "hash": "18d9bb9215af6c1ff204717f24dc6813"},
       "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "driver_09_07_23120651_valkyrie_dev_dev2", "token": "0c539b98-6cd8-48a4-bfc9-2236c4002833"},
   "buildKey": "f37376709f33c97c809ef574b8f9deb8",
-  "cdnKeyFile": {"name": "blue/cdnkeys/6954f20ddeaafe83c8f6356fa04d0e6f"},
-  "definition": "42da464d8f7d38d2fee6898de0eadd67",
+  "cdnKeyFile": {"name": "green/cdnkeys/6954f20ddeaafe83c8f6356fa04d0e6f"},
+  "definition": "a6616d2c602ef7cb390805c6607f4b10",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:05.000Z",
+  "lastModified": "2026-11-18T19:56:48.000Z",
   "path": "tpr/btlrvb",
   "productConfig": {"cdnPath": "", "hash": "fbde9a92c9cfecd53f8805a8984c9e84"},
   "regions": [

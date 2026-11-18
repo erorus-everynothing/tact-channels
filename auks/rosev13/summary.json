@@ -8,10 +8,10 @@
         "token": "d4b52252-6af2-47d0-8f10-c21e71d99d77"
       },
       "buildKey": "6c3a7271288607319f7e97825dd07b81",
-      "cdnKeyFile": {"name": "blue/cdnkeys/77cce3c245285fc50286e52515a6c5cf"},
-      "definition": "4ba08e4b8b57e2d6b1283dbd2035af01",
+      "cdnKeyFile": {"name": "green/cdnkeys/77cce3c245285fc50286e52515a6c5cf"},
+      "definition": "244d7b12e9a99dd45c8a3032eff3a7e9",
       "keyRing": "",
-      "lastModified": "2026-11-17T14:33:29.000Z",
+      "lastModified": "2026-11-18T19:57:17.000Z",
       "path": "tpr/rosev",
       "productConfig": {"cdnPath": "", "hash": "04836d38cb0ba8f440bf999dbddf2e69"},
       "regions": [
@@ -29,10 +29,10 @@
         "token": "c35e9f01-e805-4de6-b2db-817408f56ec9"
       },
       "buildKey": "81d5e4acc8b5e2e4c7ce606afba5ce93",
-      "cdnKeyFile": {"name": "blue/cdnkeys/77cce3c245285fc50286e52515a6c5cf"},
-      "definition": "c4d3275fd4d72bcc2bde9a7a945467f4",
+      "cdnKeyFile": {"name": "green/cdnkeys/77cce3c245285fc50286e52515a6c5cf"},
+      "definition": "ede1958510105f1ce188a7c62950f43d",
       "keyRing": "",
-      "lastModified": "2026-11-18T13:19:40.000Z",
+      "lastModified": "2026-11-18T19:57:18.000Z",
       "path": "tpr/rosev",
       "productConfig": {"cdnPath": "", "hash": "7873d1053cd910b0a98d64fb6db78391"},
       "regions": [
@@ -50,10 +50,10 @@
         "token": "6c2c8e9a-7e96-4d44-95c4-6089ed8ac96e"
       },
       "buildKey": "8c1f08e30e353f2845d30ebe263a5418",
-      "cdnKeyFile": {"name": "blue/cdnkeys/77cce3c245285fc50286e52515a6c5cf"},
-      "definition": "fc601fe5aae9f86a0499291760a3ffff",
+      "cdnKeyFile": {"name": "green/cdnkeys/77cce3c245285fc50286e52515a6c5cf"},
+      "definition": "f3d861b93d651dfb9410e1cb9dc1c726",
       "keyRing": "",
-      "lastModified": "2026-11-16T17:20:10.000Z",
+      "lastModified": "2026-11-18T19:57:18.000Z",
       "path": "tpr/rosev",
       "productConfig": {"cdnPath": "", "hash": "61b2fd48807843f71279119a57735535"},
       "regions": [

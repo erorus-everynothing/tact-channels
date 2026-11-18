@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "WOW-70960patch5.5.4_ClassicRetail", "token": "4cfad48e-489f-4d6a-85e7-a322b8888816"},
   "buildKey": "842ac1506d73d75b9a016b70a7d1b3a9",
-  "cdnKeyFile": {"name": "blue/cdnkeys/9a62c5efbaf5da27f5df7410b154e8c6"},
-  "definition": "017a1ea5469d87df4784dad6cb1c3f7a",
+  "cdnKeyFile": {"name": "green/cdnkeys/9a62c5efbaf5da27f5df7410b154e8c6"},
+  "definition": "8e59a59879372355ca0a53149b52886d",
   "keyRing": "",
-  "lastModified": "2026-11-17T15:17:29.000Z",
+  "lastModified": "2026-11-18T19:58:56.000Z",
   "path": "tpr/wow",
   "productConfig": {"cdnPath": "", "hash": "f337a1b6ece3dacf3ec807287f3c2aa6"},
   "regions": [

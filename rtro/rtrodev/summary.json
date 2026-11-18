@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "RETRO_PC_021621", "token": "a40ef67a-78e2-41f8-a6e5-30591771a89d"},
       "buildKey": "a48f75056c8ab6d9fcdefddb7494ec42",
-      "cdnKeyFile": {"name": "blue/cdnkeys/6cb679c7f5b23f342245638c852f50db"},
-      "definition": "e803d7af939cb22f80c0c071eb0978f0",
+      "cdnKeyFile": {"name": "green/cdnkeys/6cb679c7f5b23f342245638c852f50db"},
+      "definition": "054b18d18287b241de152c45bb12779e",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:19.000Z",
+      "lastModified": "2026-11-18T19:57:47.000Z",
       "path": "tpr/rtrodev",
       "productConfig": {"cdnPath": "", "hash": "ece7e6154d260f0c66fcbc02c6db2374"},
       "regions": [

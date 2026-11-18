@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "Alabama_3673940", "token": "b8616ea4-f5d3-4461-8141-aef98e27776e"},
       "buildKey": "8aba68431dbfc5c0243eda9b1d4bcb43",
-      "cdnKeyFile": {"name": "blue/cdnkeys/2686bc180891b752296115643300e5f2"},
-      "definition": "32090db172e2130797de9d72be52f2c8",
+      "cdnKeyFile": {"name": "green/cdnkeys/2686bc180891b752296115643300e5f2"},
+      "definition": "2d4cb32c658f5765197e89446162fa8a",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:18:58.000Z",
+      "lastModified": "2026-11-18T19:51:52.000Z",
       "path": "tpr/aqua",
       "productConfig": {"cdnPath": "", "hash": "d198b7fa8cf33370c326312eff02493c"},
       "regions": [

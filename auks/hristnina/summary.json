@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "driver_11_07_23137177_cod22_valkyrie_ship_r", "token": "0fb2507e-8d93-48fc-8779-60f7e8b08bd5"},
       "buildKey": "578395ced0536c831e1b972bf1f60828",
-      "cdnKeyFile": {"name": "blue/cdnkeys/654e7e3de915c30b191d5b4d2479fb1a"},
-      "definition": "7c28dc4f6a4853697c2039ef49cd44e9",
+      "cdnKeyFile": {"name": "green/cdnkeys/654e7e3de915c30b191d5b4d2479fb1a"},
+      "definition": "d7ffb5e61a19eed80f35cf2802d5555a",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:36.000Z",
+      "lastModified": "2026-11-18T19:54:33.000Z",
       "path": "tpr/nina",
       "productConfig": {"cdnPath": "", "hash": "1e66ed3be532801d1e9c2a9496a26a5b"},
       "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "s4rel_11536505_tu18_foxtrot_signed_v7_ship", "token": "a548871d-afdd-4436-a8c0-9b9e76dcdc45"},
   "buildKey": "9b11c858f71dc01ade211596c099ba18",
-  "cdnKeyFile": {"name": "blue/cdnkeys/2794033c85a1ca3f976e1a3d3fc719ff"},
-  "definition": "1cbdb025634177a91499dab4750be39a",
+  "cdnKeyFile": {"name": "green/cdnkeys/2794033c85a1ca3f976e1a3d3fc719ff"},
+  "definition": "16d92902440f6cad23cd522369fb8acb",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:32.000Z",
+  "lastModified": "2026-11-18T19:54:15.000Z",
   "path": "tpr/forev",
   "productConfig": {"cdnPath": "", "hash": "3a38226307f72eaf19c0ce108a20401f"},
   "regions": [

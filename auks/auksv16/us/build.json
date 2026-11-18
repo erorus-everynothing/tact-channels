@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "release_17338715_cod23_tus2_5_v16_dev", "token": "1c2cc241-dccb-4297-80aa-c142b461dd56"},
   "buildKey": "ce46221b76628a976773db7930ad7f4f",
-  "cdnKeyFile": {"name": "blue/cdnkeys/b68ac8cb145806f840837f3010525ed6"},
-  "definition": "1aefcca1c28ec59385c657e97b90d103",
+  "cdnKeyFile": {"name": "green/cdnkeys/b68ac8cb145806f840837f3010525ed6"},
+  "definition": "fff0a23dd75bff2a57077dcea2970352",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:05.000Z",
+  "lastModified": "2026-11-18T19:52:20.000Z",
   "path": "tpr/auksv",
   "productConfig": {"cdnPath": "", "hash": "966fa56dafa25968b6f499fc351442af"},
   "regions": [

@@ -5,10 +5,10 @@
       "branches": ["eu", "us"],
       "build": {"name": "cert_24058625_cod24_tu21_bnet_v10_dev", "token": "67451c35-1897-423d-9b94-bdd9d566e83c"},
       "buildKey": "40811ce1ab265d64fd81ca989e26f024",
-      "cdnKeyFile": {"name": "blue/cdnkeys/731ed2b7e39780644b8e90b31adb7d4e"},
-      "definition": "b3cecad7e432a124dc9d72db7e6f817b",
+      "cdnKeyFile": {"name": "green/cdnkeys/731ed2b7e39780644b8e90b31adb7d4e"},
+      "definition": "1277962dce54d9f11a23689dea25c54d",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:12.000Z",
+      "lastModified": "2026-11-18T19:52:50.000Z",
       "path": "tpr/btlrv",
       "productConfig": {"cdnPath": "", "hash": "7713d1d66b3b180fd61157295c26564a"},
       "regions": [

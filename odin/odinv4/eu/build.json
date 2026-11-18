@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "magmarel_13119180_tu_wz360_11_2_dwl_bv4_dev", "token": "caa0dd5c-74be-476b-8bcd-50e440964439"},
   "buildKey": "51e4a12bc9b362c4fea09764ee83dfe7",
-  "cdnKeyFile": {"name": "blue/cdnkeys/98ccae6799d5052b96d5951649d6f40d"},
-  "definition": "e95eccbbaaa370716a8944d005269fb9",
+  "cdnKeyFile": {"name": "green/cdnkeys/98ccae6799d5052b96d5951649d6f40d"},
+  "definition": "a46909dd10046d9d59a336dc4cf19042",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:51.000Z",
+  "lastModified": "2026-11-18T19:55:45.000Z",
   "path": "tpr/odinv",
   "productConfig": {"cdnPath": "", "hash": "0ebc1d04bc266015a359def698d08000"},
   "regions": [

@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "s4main_11027985_s4_mp_v18_dev_2", "token": "1e74021f-a20c-42f8-bcc2-390229e07260"},
       "buildKey": "b98931320efe5909d64667f7a8dee621",
-      "cdnKeyFile": {"name": "blue/cdnkeys/acb8ff625181c7d4ce577791a04dda4b"},
-      "definition": "05ccb36e09ebf1c5904295be14b208b7",
+      "cdnKeyFile": {"name": "green/cdnkeys/acb8ff625181c7d4ce577791a04dda4b"},
+      "definition": "960f34d0f4287224d16623ca75213577",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:30.000Z",
+      "lastModified": "2026-11-18T19:54:07.000Z",
       "path": "tpr/forev",
       "productConfig": {"cdnPath": "", "hash": "a6adda889e8e459331c088b59f86bb43"},
       "regions": [

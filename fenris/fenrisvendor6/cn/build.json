@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "65833_Win64Client_2_1_0cn_vendor6", "token": "54270acb-6618-4285-a779-7d441df98bd6"},
   "buildKey": "412fa3acbcab060b5a9b63eaf395b351",
-  "cdnKeyFile": {"name": "blue/cdnkeys/32f8a41e724333b928ec218479c13b1f"},
-  "definition": "b6785a9dcfbfb2248824419c2d4c2da2",
+  "cdnKeyFile": {"name": "green/cdnkeys/32f8a41e724333b928ec218479c13b1f"},
+  "definition": "95aac1ebb5e99ab4255ae65eb0ce9771",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:27.000Z",
+  "lastModified": "2026-11-18T19:53:58.000Z",
   "path": "tpr/fenrisvc",
   "productConfig": {"cdnPath": "", "hash": "df8a57042bc589c6126998eebe07cd9d"},
   "regions": [

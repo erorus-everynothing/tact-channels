@@ -5,10 +5,10 @@
       "branches": ["cn"],
       "build": {"name": "B98370-WIN", "token": "21a920fc-199d-4c1c-9eeb-5925d658920b"},
       "buildKey": "bb10ee62e9cf3678dfa74233d5657757",
-      "cdnKeyFile": {"name": "blue/cdnkeys/665b64039d694a9a61b26c8328ad4eff"},
-      "definition": "acab94a41660fecace369a53403b54f5",
+      "cdnKeyFile": {"name": "green/cdnkeys/665b64039d694a9a61b26c8328ad4eff"},
+      "definition": "3a2aa7d70a57449490d6bf9459de8049",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:20.000Z",
+      "lastModified": "2026-11-18T19:57:51.000Z",
       "path": "tpr/sc2",
       "productConfig": {"cdnPath": "", "hash": "ebf79ef6e85f8358784980ac74c2f711"},
       "regions": [

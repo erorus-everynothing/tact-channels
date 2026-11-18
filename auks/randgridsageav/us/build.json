@@ -5,10 +5,10 @@
     "token": "2144c8a4-fd0d-4875-b9e2-d943ba32dfd8"
   },
   "buildKey": "cf94832fb068f8d2918878cdf46d2c0d",
-  "cdnKeyFile": {"name": "blue/cdnkeys/987a1431e418cd67ed9cdcd661a518cc"},
-  "definition": "94c0ef1abad1e3377a2a1fccf41dfa11",
+  "cdnKeyFile": {"name": "green/cdnkeys/987a1431e418cd67ed9cdcd661a518cc"},
+  "definition": "2e590dc28ffa766c2455ed31c4ae14ed",
   "keyRing": "",
-  "lastModified": "2026-11-13T18:15:00.000Z",
+  "lastModified": "2026-11-18T19:57:07.000Z",
   "path": "tpr/sagev",
   "productConfig": {"cdnPath": "", "hash": "c0b0e55d2c5466d6d9bfd0f94ff7e831"},
   "regions": [

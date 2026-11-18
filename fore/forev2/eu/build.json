@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "s4release_11944489_tu20_hotel_s4_v2_dev", "token": "b1b8c668-40cf-4ab9-9e82-c3557d5380c2"},
   "buildKey": "962c8609f4de153905d2846cadf60298",
-  "cdnKeyFile": {"name": "blue/cdnkeys/69eecb9bed31bdf5cc8dd6fd1308e8b2"},
-  "definition": "4933d0e105c2edeb8c1c1072fe85a5aa",
+  "cdnKeyFile": {"name": "green/cdnkeys/69eecb9bed31bdf5cc8dd6fd1308e8b2"},
+  "definition": "3b7ac7c5b9992ade7491fea7c8a47ab6",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:30.000Z",
+  "lastModified": "2026-11-18T19:54:07.000Z",
   "path": "tpr/forev",
   "productConfig": {"cdnPath": "", "hash": "ff988a5d9d6ed5c4d1db880e3fdf9981"},
   "regions": [

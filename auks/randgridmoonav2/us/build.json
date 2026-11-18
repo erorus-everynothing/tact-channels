@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "08_25_24_driver_18799431_valkyrie_v2_ship", "token": "a057c9e5-46ca-4c33-939c-51ba91fcb058"},
   "buildKey": "d4bf0206cca9bf8e3c625f166e515085",
-  "cdnKeyFile": {"name": "blue/cdnkeys/be1355e0eac36722e41f1f6b53bdb901"},
-  "definition": "62b9cd0be03ab733e5e6c8b7c62e3ddb",
+  "cdnKeyFile": {"name": "green/cdnkeys/be1355e0eac36722e41f1f6b53bdb901"},
+  "definition": "5f78548e28e757a0f9dfaba57b01de54",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:07.000Z",
+  "lastModified": "2026-11-18T19:56:58.000Z",
   "path": "moon/moonv",
   "productConfig": {"cdnPath": "", "hash": "d33f6d21ed8b1c93da821dfc06f60f5a"},
   "regions": [

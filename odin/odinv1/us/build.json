@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "magmarel_13858333_tu_laze_2_21_dwl_bv1_dev", "token": "a79f8fa9-6d58-4525-9f08-a005177b189b"},
   "buildKey": "496c9c2cbb169c8da4e72005faf8ab1d",
-  "cdnKeyFile": {"name": "blue/cdnkeys/3d8ec1667722c16b9d788908b3c6f381"},
-  "definition": "94312c587978dc6f0138421898463477",
+  "cdnKeyFile": {"name": "green/cdnkeys/3d8ec1667722c16b9d788908b3c6f381"},
+  "definition": "e32ffe4520e79c4ca457d2db54b5b3f6",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:50.000Z",
+  "lastModified": "2026-11-18T19:55:38.000Z",
   "path": "tpr/odinv",
   "productConfig": {"cdnPath": "", "hash": "80087cd105b755fdbfc346aeed4c6e45"},
   "regions": [

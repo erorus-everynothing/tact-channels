@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "etu_17284883_cod23_tus2_etu1_v9_dev", "token": "61dcb733-3096-4b76-8eb1-c74a27b6a234"},
   "buildKey": "d5c0981b44ff720e73f0ccd9bbd8c2e6",
-  "cdnKeyFile": {"name": "blue/cdnkeys/2f546f15fe886306598c3a06306b6f68"},
-  "definition": "e90c94c7f90b551865e909857896b353",
+  "cdnKeyFile": {"name": "green/cdnkeys/2f546f15fe886306598c3a06306b6f68"},
+  "definition": "bef77e129dacf8503d84ddf21f3f19ea",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:10.000Z",
+  "lastModified": "2026-11-18T19:52:39.000Z",
   "path": "tpr/auksv",
   "productConfig": {"cdnPath": "", "hash": "cf974733fcd8d9b2e7e996ff96db1d2b"},
   "regions": [

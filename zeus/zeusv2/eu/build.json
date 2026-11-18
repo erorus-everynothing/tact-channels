@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "bo5_raw_15931218_v2_dev", "token": "16fa0e37-3364-4cd8-92dd-e37b9a024c4c"},
   "buildKey": "a84937a00a0b1542993ac5ada0e2d232",
-  "cdnKeyFile": {"name": "blue/cdnkeys/d39085b6afb05d0e0c53cc5a8e7aa4e0"},
-  "definition": "e120470f17d14eb659de2445079d10ae",
+  "cdnKeyFile": {"name": "green/cdnkeys/d39085b6afb05d0e0c53cc5a8e7aa4e0"},
+  "definition": "f69788c6e5d6fef35d3db417eed92545",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:21:01.000Z",
+  "lastModified": "2026-11-18T19:59:27.000Z",
   "path": "tpr/zeusv",
   "productConfig": {"cdnPath": "", "hash": "eb4e56e10d6b7fb31bf1959485fe140f"},
   "regions": [

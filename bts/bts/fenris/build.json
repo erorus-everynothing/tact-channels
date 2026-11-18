@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "3141_fenris", "token": "ab71a5bc-ced0-410d-b889-b4928491b900"},
   "buildKey": "b7877df68ec3c68efdc79a9b8acc44b2",
-  "cdnKeyFile": {"name": "blue/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
-  "definition": "03a9323595df48471a9b119de6828ea4",
+  "cdnKeyFile": {"name": "green/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
+  "definition": "5c0965d51146826300c8b62d1d459db2",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:20.000Z",
+  "lastModified": "2026-11-18T19:53:25.000Z",
   "path": "tpr/bnt004",
   "productConfig": {"cdnPath": "", "hash": ""},
   "regions": [

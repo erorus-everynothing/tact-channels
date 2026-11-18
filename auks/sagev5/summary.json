@@ -8,10 +8,10 @@
         "token": "673560f5-9602-4bdc-8cf1-da4f6730e861"
       },
       "buildKey": "257027735917a00ce6b16ad5b5291b19",
-      "cdnKeyFile": {"name": "blue/cdnkeys/28a9f12f955329269b97a8577f5b2dfd"},
-      "definition": "6df463a6f62facb3aacf23160281f409",
+      "cdnKeyFile": {"name": "green/cdnkeys/28a9f12f955329269b97a8577f5b2dfd"},
+      "definition": "74d2a5952128c728feb1d00774c651ee",
       "keyRing": "",
-      "lastModified": "2026-11-13T18:15:02.000Z",
+      "lastModified": "2026-11-18T19:58:23.000Z",
       "path": "tpr/sagev",
       "productConfig": {"cdnPath": "", "hash": "82e45eebf2db2bb28c08866bf8dfefea"},
       "regions": [
@@ -29,10 +29,10 @@
         "token": "81930b5e-d395-4a90-b9aa-db3b1a4bc735"
       },
       "buildKey": "56614893b4e4ce050d315f4df647ddb1",
-      "cdnKeyFile": {"name": "blue/cdnkeys/28a9f12f955329269b97a8577f5b2dfd"},
-      "definition": "d28349bd31ba824706ec6df03c3d6214",
+      "cdnKeyFile": {"name": "green/cdnkeys/28a9f12f955329269b97a8577f5b2dfd"},
+      "definition": "fa5674624c3656714ffdecbc96f660db",
       "keyRing": "",
-      "lastModified": "2026-11-13T18:15:02.000Z",
+      "lastModified": "2026-11-18T19:58:23.000Z",
       "path": "tpr/sagev",
       "productConfig": {"cdnPath": "", "hash": "82e45eebf2db2bb28c08866bf8dfefea"},
       "regions": [

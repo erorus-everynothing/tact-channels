@@ -8,10 +8,10 @@
         "token": "1c835866-111b-43ad-8158-cf6107133934"
       },
       "buildKey": "194191c6170cc5650a4556979c411a4d",
-      "cdnKeyFile": {"name": "blue/cdnkeys/6f9e8ed75807ca8f9f45db33740e23a7"},
-      "definition": "d232820c52e3200125ae820a8676a466",
+      "cdnKeyFile": {"name": "green/cdnkeys/6f9e8ed75807ca8f9f45db33740e23a7"},
+      "definition": "cc1df3320bf0ad7a26209d94af0f1b87",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:15.000Z",
+      "lastModified": "2026-11-18T19:52:59.000Z",
       "path": "tpr/btlrv",
       "productConfig": {"cdnPath": "", "hash": "6365f0c659b3bbb76023b467a9d1426e"},
       "regions": [
@@ -26,10 +26,10 @@
       "branches": ["kr"],
       "build": {"name": "trunk_22334618_cer_clean_bnet_v2_dev", "token": "2509b671-a5a3-45bf-8b99-d3e7a0b5981e"},
       "buildKey": "9d6381138e7db2d442dad1e2ae3daff4",
-      "cdnKeyFile": {"name": "blue/cdnkeys/6f9e8ed75807ca8f9f45db33740e23a7"},
-      "definition": "a53d68904c65136b9991eac533a62ad6",
+      "cdnKeyFile": {"name": "green/cdnkeys/6f9e8ed75807ca8f9f45db33740e23a7"},
+      "definition": "b77e4e565e25916a911d446bc4f4efa3",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:15.000Z",
+      "lastModified": "2026-11-18T19:53:00.000Z",
       "path": "tpr/btlrv",
       "productConfig": {"cdnPath": "", "hash": "a5d545ac7fd99e37cf579a930aeff11b"},
       "regions": [
@@ -47,10 +47,10 @@
         "token": "bf9cd541-1a99-46c3-8407-01c683d72e05"
       },
       "buildKey": "1980b3c4bc17d714de8c4b2e82ac5bd7",
-      "cdnKeyFile": {"name": "blue/cdnkeys/6f9e8ed75807ca8f9f45db33740e23a7"},
-      "definition": "5e5d13c8d74a8a843c86aed147513c61",
+      "cdnKeyFile": {"name": "green/cdnkeys/6f9e8ed75807ca8f9f45db33740e23a7"},
+      "definition": "2ea45aa055de6ad1755e68737afcebd4",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:15.000Z",
+      "lastModified": "2026-11-18T19:53:01.000Z",
       "path": "tpr/btlrv",
       "productConfig": {"cdnPath": "", "hash": "51f2f333c6b355c85d8053d9522ff3d4"},
       "regions": [

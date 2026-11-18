@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "reupload_tu_whiskey_dev", "token": "4132ade5-57ec-42cd-ac45-100e30fd8bb3"},
   "buildKey": "f9943eeda5bb7984dd2fa5aa4b35ddea",
-  "cdnKeyFile": {"name": "blue/cdnkeys/85f738173ccddaae496ddd8d278da870"},
-  "definition": "314c589a058ec14bf41a9aa575764860",
+  "cdnKeyFile": {"name": "green/cdnkeys/85f738173ccddaae496ddd8d278da870"},
+  "definition": "72c76997245b37574043748e312f21c6",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:52.000Z",
+  "lastModified": "2026-11-18T19:55:48.000Z",
   "path": "tpr/odinv",
   "productConfig": {"cdnPath": "", "hash": "03c7c49c615442e9811f8d6cdd9ac35b"},
   "regions": [

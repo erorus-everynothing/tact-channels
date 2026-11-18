@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "s4_tu28_08_18_signed__r_ship_Republish", "token": "1f45cd38-8182-4488-9e65-492f7440a4cf"},
       "buildKey": "b669b4991e594491781a7bfacffc6608",
-      "cdnKeyFile": {"name": "blue/cdnkeys/fec0101841c953bfe53317c775849aec"},
-      "definition": "4bfa774b435cb00803a60e89ab8a9a11",
+      "cdnKeyFile": {"name": "green/cdnkeys/fec0101841c953bfe53317c775849aec"},
+      "definition": "4a34493cb379f3b9d58e7be62027684a",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:28.000Z",
+      "lastModified": "2026-11-18T19:54:00.000Z",
       "path": "tpr/fore",
       "productConfig": {"cdnPath": "", "hash": "8ebb9a61cdfd6673b73507851cecaa17"},
       "regions": [

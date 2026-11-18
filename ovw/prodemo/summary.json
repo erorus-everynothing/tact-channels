@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "prometheus-2_25_0_2_PWX-153323-GM-eoy", "token": "c4c52fa8-1c16-4ae0-8353-ba0293531de8"},
       "buildKey": "e63d6e383bad85443cc97f53fb734f64",
-      "cdnKeyFile": {"name": "blue/cdnkeys/a1ed410a12c99f387a7d17f342025d37"},
-      "definition": "bcaf9de7b8afa29876f5c7d91bd5a0a5",
+      "cdnKeyFile": {"name": "green/cdnkeys/a1ed410a12c99f387a7d17f342025d37"},
+      "definition": "1b30e76d0bd46ef3b9ea2695f58c632a",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:57.000Z",
+      "lastModified": "2026-11-18T19:56:14.000Z",
       "path": "tpr/proc3",
       "productConfig": {"cdnPath": "", "hash": "4b5a27088bf70d9997edae883f91626b"},
       "regions": [

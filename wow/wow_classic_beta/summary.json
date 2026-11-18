@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "tw", "us"],
       "build": {"name": "WOW-70532patch1.60.1_Beta", "token": "2a326a9d-c6ed-4af7-9e1e-ff483bfb71aa"},
       "buildKey": "ad1802f4455e427ed8b7769aab25b0c0",
-      "cdnKeyFile": {"name": "blue/cdnkeys/f8ef49c8a3469ab6ca05997e7170937e"},
-      "definition": "63eaa1160bc3a02e2f42b7207b47654b",
+      "cdnKeyFile": {"name": "green/cdnkeys/f8ef49c8a3469ab6ca05997e7170937e"},
+      "definition": "e8d095be2beb9cc3b237ecefc1898909",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:47.000Z",
+      "lastModified": "2026-11-18T19:58:56.000Z",
       "path": "tpr/wow",
       "productConfig": {"cdnPath": "", "hash": "fcfd1bc39031f5921d00aee2d869adb5"},
       "regions": [

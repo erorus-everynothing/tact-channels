@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "target_raw_8143487D_zeusdev_ship", "token": "2b44e1c0-cf24-4008-b190-5ba3e6e1a500"},
   "buildKey": "9e1cd02990e7d65e2c2fa24003c3aca1",
-  "cdnKeyFile": {"name": "blue/cdnkeys/24b6b34054cf38758b8f1cd8c6ae6043"},
-  "definition": "7a3d7dde044b74bad0dfaf20f889aba5",
+  "cdnKeyFile": {"name": "green/cdnkeys/24b6b34054cf38758b8f1cd8c6ae6043"},
+  "definition": "1fe7bbaffc5d278f30f73acc12dba5c0",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:59.000Z",
+  "lastModified": "2026-11-18T19:59:23.000Z",
   "path": "tpr/zeusdev",
   "productConfig": {"cdnPath": "", "hash": "5d625e01a403098c76469c94b1202bb9"},
   "regions": [

@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "magma_22330203_vk_valkyrie_brynhildr_v_ship", "token": "43145b2e-3d92-426f-84e8-8022f550f1e4"},
       "buildKey": "5254b0c506b921107a465299985d3fbd",
-      "cdnKeyFile": {"name": "blue/cdnkeys/4fce327ccf510dfa2593630c58c76917"},
-      "definition": "d71ec96e61a9d29584aba711a3be36c3",
+      "cdnKeyFile": {"name": "green/cdnkeys/4fce327ccf510dfa2593630c58c76917"},
+      "definition": "96efbb94c6f201f39faa6d261161b24d",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:12.000Z",
+      "lastModified": "2026-11-18T19:52:47.000Z",
       "path": "tpr/odinv",
       "productConfig": {"cdnPath": "", "hash": "8dfafa97458f142f13428a1e13c46301"},
       "regions": [

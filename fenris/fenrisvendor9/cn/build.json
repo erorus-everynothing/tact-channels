@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "68700_Win64Client_diablo_play", "token": "029ab27d-ba73-43e8-adff-7844c7334037"},
   "buildKey": "552e83cd6a9777fffcfdbc207ace6e7f",
-  "cdnKeyFile": {"name": "blue/cdnkeys/df0f348c31aaf46dc0f4c0da00b580d2"},
-  "definition": "406f1821d2f5415341aabe1f2ff5367c",
+  "cdnKeyFile": {"name": "green/cdnkeys/df0f348c31aaf46dc0f4c0da00b580d2"},
+  "definition": "2110a2162adc2f2cad1b0d7381467abe",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:28.000Z",
+  "lastModified": "2026-11-18T19:53:59.000Z",
   "path": "tpr/fenrisvc",
   "productConfig": {"cdnPath": "", "hash": "ab2d127fb14973db97d66e5e30f3eef4"},
   "regions": [

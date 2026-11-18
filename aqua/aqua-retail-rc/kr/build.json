@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "Alabama_3673940", "token": "b8616ea4-f5d3-4461-8141-aef98e27776e"},
   "buildKey": "8aba68431dbfc5c0243eda9b1d4bcb43",
-  "cdnKeyFile": {"name": "blue/cdnkeys/b0a3fa93fc872ecd4a1fe730ee97c1c7"},
-  "definition": "8958204510cd24db021402219f9160f0",
+  "cdnKeyFile": {"name": "green/cdnkeys/b0a3fa93fc872ecd4a1fe730ee97c1c7"},
+  "definition": "e4587fe213b3ce32a12bc80764d3751f",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:18:59.000Z",
+  "lastModified": "2026-11-18T19:51:54.000Z",
   "path": "tpr/aquarc",
   "productConfig": {"cdnPath": "", "hash": "7f93c7f89b83cba43609d3fb026cc6d8"},
   "regions": [

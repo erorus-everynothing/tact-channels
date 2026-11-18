@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "release_30042261_kra_ms_q4_26_bnet_v5_dev", "token": "1da93123-0a13-4ca3-9727-bfb79f57cb0f"},
       "buildKey": "bc559ee63434bde3fdddc7cf48423e23",
-      "cdnKeyFile": {"name": "blue/cdnkeys/d92132d47d8ebb71ea333be83def12a3"},
-      "definition": "1d3f1316408806bb772ab61659a4d7d5",
+      "cdnKeyFile": {"name": "green/cdnkeys/d92132d47d8ebb71ea333be83def12a3"},
+      "definition": "e7dd2eb24f99b1d9150d5fd86652245c",
       "keyRing": "",
-      "lastModified": "2026-11-17T15:14:28.000Z",
+      "lastModified": "2026-11-18T19:54:43.000Z",
       "path": "tpr/kelpv",
       "productConfig": {"cdnPath": "", "hash": "94ac25ab3386d9ae4bf1e8c0335a0206"},
       "regions": [

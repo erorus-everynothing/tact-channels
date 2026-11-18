@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "trunk_30047796_zul_full_bnet_v10_dev", "token": "c122bc3f-af48-431a-bfaf-f571b6c6e787"},
   "buildKey": "ab084b1ab7f7442aeca972d53e149425",
-  "cdnKeyFile": {"name": "blue/cdnkeys/972470f7d64690df041fd24457b9fff7"},
-  "definition": "8784549901bc63e3cac6834fc530adff",
+  "cdnKeyFile": {"name": "green/cdnkeys/972470f7d64690df041fd24457b9fff7"},
+  "definition": "a84970367339c636659cb55694897e17",
   "keyRing": "",
-  "lastModified": "2026-11-17T17:03:58.000Z",
+  "lastModified": "2026-11-18T19:53:35.000Z",
   "path": "tpr/cornv",
   "productConfig": {"cdnPath": "", "hash": "d401bc29fd2ffaa25df7c24da92b75ce"},
   "regions": [

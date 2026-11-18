@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "tw", "us"],
       "build": {"name": "WOW-70630patch1.60.1_Vendor6", "token": "1bf0193e-5d22-436d-a58b-b958c3f7544b"},
       "buildKey": "64aa0620cdffead6c7eb674804dec441",
-      "cdnKeyFile": {"name": "blue/cdnkeys/4563423fd99aae2a268f5633278664c5"},
-      "definition": "5fb2b086cba32fae49f8b70e252d4f77",
+      "cdnKeyFile": {"name": "green/cdnkeys/4563423fd99aae2a268f5633278664c5"},
+      "definition": "1971a56f8d6057686f7d5804f3449228",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:56.000Z",
+      "lastModified": "2026-11-18T19:59:17.000Z",
       "path": "tpr/wowv",
       "productConfig": {"cdnPath": "", "hash": "d96a06faa2135e3a48b32ac6fd9f7269"},
       "regions": [

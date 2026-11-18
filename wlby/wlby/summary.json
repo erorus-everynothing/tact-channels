@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "P1e_04_06_2021_R", "token": "110fc0e0-9b89-4d16-8008-62278caabf57"},
       "buildKey": "a3821180eceeda683cf6c7794172f390",
-      "cdnKeyFile": {"name": "blue/cdnkeys/0e6f3ac0e45cdd1179948973945086c6"},
-      "definition": "9eb2bf2c6127e6df87e6a62142520d79",
+      "cdnKeyFile": {"name": "green/cdnkeys/0e6f3ac0e45cdd1179948973945086c6"},
+      "definition": "aa2f24e96fa6f15599bd2b910602f5e8",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:44.000Z",
+      "lastModified": "2026-11-18T19:58:49.000Z",
       "path": "tpr/wallaby",
       "productConfig": {"cdnPath": "", "hash": "cb84dc5ee397f23eab8e23511534eca8"},
       "regions": [

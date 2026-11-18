@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "B96999-WIN", "token": "a7ea64fb-9f6b-4c58-8c91-dc16c1414ad1"},
   "buildKey": "718b627485324c3a47e905e0acf14a52",
-  "cdnKeyFile": {"name": "blue/cdnkeys/bbb6963ca2ba4364daf2ebbc508f15b1"},
-  "definition": "827c4ff14066bd91d26c47f502f23020",
+  "cdnKeyFile": {"name": "green/cdnkeys/bbb6963ca2ba4364daf2ebbc508f15b1"},
+  "definition": "b100e6762d7a63fee22d3d3b2bb20165",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:20.000Z",
+  "lastModified": "2026-11-18T19:57:52.000Z",
   "path": "tpr/sc2cv",
   "productConfig": {"cdnPath": "", "hash": "eac788180f4db0832614505be3f0bff6"},
   "regions": [

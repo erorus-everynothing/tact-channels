@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "release_22760639_zul_gl_bnet_v9_dev", "token": "aff3cd0c-13fd-4615-90ac-2750a6bce56c"},
   "buildKey": "516059d67f7d615a5a330a8f2669e30b",
-  "cdnKeyFile": {"name": "blue/cdnkeys/dd153b0d5fcc2aabfa18d892ddfbf785"},
-  "definition": "c29c3721145b269691928a62de2aa906",
+  "cdnKeyFile": {"name": "green/cdnkeys/dd153b0d5fcc2aabfa18d892ddfbf785"},
+  "definition": "ccb790768368ec061c6e0f5efd4928a1",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:47.000Z",
+  "lastModified": "2026-11-18T19:55:26.000Z",
   "path": "moon/moonv",
   "productConfig": {"cdnPath": "", "hash": "f87b246df245641a2e11204e63456695"},
   "regions": [

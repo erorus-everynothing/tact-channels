@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "SeaOfThievesInsider_1.153.6709.0", "token": "15e9bee0-b163-4032-9fed-d2ff1c311559"},
   "buildKey": "0b44ac693d1c4ed9b6542d90f84f0d47",
-  "cdnKeyFile": {"name": "blue/cdnkeys/c1b27d9ce4034343ad30cd7b7652fc95"},
-  "definition": "fbc86d1e45402559074a06f5f73041c5",
+  "cdnKeyFile": {"name": "green/cdnkeys/c1b27d9ce4034343ad30cd7b7652fc95"},
+  "definition": "1fb0c5622e4d82e0d4784a9933cd2c45",
   "keyRing": "",
-  "lastModified": "2026-11-14T01:18:10.000Z",
+  "lastModified": "2026-11-18T19:58:28.000Z",
   "path": "tpr/scordev",
   "productConfig": {"cdnPath": "", "hash": "1b82239e0c12dd4e180e4f89c5d499db"},
   "regions": [

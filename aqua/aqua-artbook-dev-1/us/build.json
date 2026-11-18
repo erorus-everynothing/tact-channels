@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "AlabamaArtBook_3435937", "token": "89a245f1-5b70-4fb8-bd6b-deb85ece292b"},
   "buildKey": "326f41f452c28d59cbb719fe201df52a",
-  "cdnKeyFile": {"name": "blue/cdnkeys/e6a81cf8d99c584622909a75f407c47e"},
-  "definition": "1ad846631e07fa8153aa2587c088562e",
+  "cdnKeyFile": {"name": "green/cdnkeys/e6a81cf8d99c584622909a75f407c47e"},
+  "definition": "90e54c6d7a3e1e41e29628d22539872a",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:18:58.000Z",
+  "lastModified": "2026-11-18T19:51:53.000Z",
   "path": "tpr/aquad",
   "productConfig": {"cdnPath": "", "hash": "996fe9e66dda352f8383bec22d54e1bd"},
   "regions": [

@@ -5,10 +5,10 @@
       "branches": ["cn", "eu", "kr", "us"],
       "build": {"name": "B98274", "token": "40082708-0d6d-4f9b-a68f-7011be5eb385"},
       "buildKey": "2e88d7558e219f0e447706b7d6680434",
-      "cdnKeyFile": {"name": "blue/cdnkeys/2f77149066a0e847e641a33117633363"},
-      "definition": "21dbca87593a8bc4a51a10bce67529c1",
+      "cdnKeyFile": {"name": "green/cdnkeys/2f77149066a0e847e641a33117633363"},
+      "definition": "ee36774b36fce170d7dd78bcefc473d6",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:20.000Z",
+      "lastModified": "2026-11-18T19:57:51.000Z",
       "path": "tpr/sc2",
       "productConfig": {"cdnPath": "", "hash": "a2259e54abb742d8780921edbae35e4c"},
       "regions": [

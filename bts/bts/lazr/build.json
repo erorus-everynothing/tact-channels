@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "3141_lazr", "token": "0476188f-ea65-427a-9aab-9d2d699e1f01"},
   "buildKey": "78ada8d34bb5f719d85a2ced89836f48",
-  "cdnKeyFile": {"name": "blue/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
-  "definition": "78ecf4f98d5a9bf143cfd9e3256a1040",
+  "cdnKeyFile": {"name": "green/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
+  "definition": "3dcf7a3957fdfde2f4f7c93902e99395",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:21.000Z",
+  "lastModified": "2026-11-18T19:53:27.000Z",
   "path": "tpr/bnt004",
   "productConfig": {"cdnPath": "", "hash": ""},
   "regions": [

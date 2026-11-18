@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "WOW-69594patch12.1.5_Alpha", "token": "b575e5c9-26cb-48e3-a6d2-4780e1b41663"},
   "buildKey": "0c06f5e50d97941e4173e1518a891ca0",
-  "cdnKeyFile": {"name": "blue/cdnkeys/c99e6ea53afaef8da3fd6fdfa97dc104"},
-  "definition": "984f140ad7afcd43a9b3f2537b2d90d1",
+  "cdnKeyFile": {"name": "green/cdnkeys/c99e6ea53afaef8da3fd6fdfa97dc104"},
+  "definition": "accea36dc75f4f359083f0372e106ca8",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:49.000Z",
+  "lastModified": "2026-11-18T19:59:00.000Z",
   "path": "tpr/wowdev/1",
   "productConfig": {"cdnPath": "", "hash": "aaa48c52871af5864c4988c36a054fa6"},
   "regions": [

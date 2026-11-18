@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "14453783_valkyrie_cdlv_ship", "token": "1868e5b1-610f-487e-95f3-a01520784af1"},
       "buildKey": "5a27cc778ea5c5d17dbbb63cef04bba0",
-      "cdnKeyFile": {"name": "blue/cdnkeys/fddd3d074fe369cd42509a3c36046f5c"},
-      "definition": "4470f53c341ea8204046d66e07b610ac",
+      "cdnKeyFile": {"name": "green/cdnkeys/fddd3d074fe369cd42509a3c36046f5c"},
+      "definition": "f530da372f5608c0d5eb3dada44cc836",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:07.000Z",
+      "lastModified": "2026-11-18T19:56:59.000Z",
       "path": "moon/moonvb",
       "productConfig": {"cdnPath": "", "hash": "3876b4adc62cee05f596531d678f91e9"},
       "regions": [

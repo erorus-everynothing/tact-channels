@@ -5,10 +5,10 @@
     "token": "48b0c482-7fba-4c64-bab8-34bdaa11f367"
   },
   "buildKey": "01653c2c78bf6a820750312be9c42715",
-  "cdnKeyFile": {"name": "blue/cdnkeys/6e0b30b58c544b20537546017399c709"},
-  "definition": "ae54152bbf9d907ec3524b7ee0038beb",
+  "cdnKeyFile": {"name": "green/cdnkeys/6e0b30b58c544b20537546017399c709"},
+  "definition": "2d98626f6575e1cb43fe91a6274db13c",
   "keyRing": "",
-  "lastModified": "2026-11-11T20:10:22.000Z",
+  "lastModified": "2026-11-18T19:56:40.000Z",
   "path": "tpr/aukse",
   "productConfig": {"cdnPath": "", "hash": "9c020a0857bde942ff9024dfbae3e2ea"},
   "regions": [{"branches": ["us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],

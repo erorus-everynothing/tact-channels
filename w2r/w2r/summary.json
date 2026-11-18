@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "1.0.2.2818-retail", "token": "1a302a4a-00c9-4211-814f-7c165c4e248d"},
       "buildKey": "8c048a36ce9cea83936080ab97816f03",
-      "cdnKeyFile": {"name": "blue/cdnkeys/5231e146a60513bcbf95aacac85d3d73"},
-      "definition": "1fb10acdcdddb9564a0f8ea4c83acc57",
+      "cdnKeyFile": {"name": "green/cdnkeys/5231e146a60513bcbf95aacac85d3d73"},
+      "definition": "ca781c665550446e4940f9b86b07d6b8",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:42.000Z",
+      "lastModified": "2026-11-18T19:58:44.000Z",
       "path": "tpr/w2r-live",
       "productConfig": {"cdnPath": "", "hash": "92c79e0f6ab9b69c7d3b6d512006ae1c"},
       "regions": [

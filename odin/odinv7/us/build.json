@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "live_18290054_TU_WZSUNSET_1_8_C_v7_signed_ship", "token": "619f3806-5874-4295-b40b-07fd4b2bce1c"},
   "buildKey": "69c4912d9fad2b84e096140c1639723c",
-  "cdnKeyFile": {"name": "blue/cdnkeys/452d81e78259611bcb6f3027b98f3d68"},
-  "definition": "d932ca60df46e86d6622868542dde368",
+  "cdnKeyFile": {"name": "green/cdnkeys/452d81e78259611bcb6f3027b98f3d68"},
+  "definition": "af595d8974cf9cb9c4a5b1f843efcbb0",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:52.000Z",
+  "lastModified": "2026-11-18T19:55:50.000Z",
   "path": "tpr/odinv",
   "productConfig": {"cdnPath": "", "hash": "a05788bef39c4ccf2aa80b94ccb0bf0d"},
   "regions": [

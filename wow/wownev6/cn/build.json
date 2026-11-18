@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "WOW-70522patch3.80.2_NEVendor6", "token": "d1cc5345-5695-443f-a064-00a4fca58a35"},
   "buildKey": "cc4418a80e5324bcb4c3a71b77876aca",
-  "cdnKeyFile": {"name": "blue/cdnkeys/f987bdb6b60c1ed840326e7db915da72"},
-  "definition": "443d3dd4eca8ba9c0d98899abc881ca3",
+  "cdnKeyFile": {"name": "green/cdnkeys/f987bdb6b60c1ed840326e7db915da72"},
+  "definition": "612ecc367c0231c00d6a8f48205e76cf",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:53.000Z",
+  "lastModified": "2026-11-18T19:59:11.000Z",
   "path": "tpr/wowvcn",
   "productConfig": {"cdnPath": "", "hash": "11a77c835d5f6eb0a33fd3a840756783"},
   "regions": [

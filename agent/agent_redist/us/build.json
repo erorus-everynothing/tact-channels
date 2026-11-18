@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "9d25e9101bd329d320b77489d4739f38-test", "token": "d13a9ce1-3d96-482e-a8ba-8c0e1cd51383"},
   "buildKey": "a4aabdba13b722ffdb76ead788c5203e",
-  "cdnKeyFile": {"name": "blue/cdnkeys/0f432cb2079ecb3510ec49decce4ceb0"},
-  "definition": "65d040a2f3b2383904abee438a114dc8",
+  "cdnKeyFile": {"name": "green/cdnkeys/0f432cb2079ecb3510ec49decce4ceb0"},
+  "definition": "6de98b521f4469eb9982a466644b0a32",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:18:55.000Z",
+  "lastModified": "2026-11-18T19:51:42.000Z",
   "path": "agent/Agent-Redists-Live",
   "productConfig": {"cdnPath": "", "hash": "d4280a476fe93aa50ff4ce604e6439d3"},
   "regions": [

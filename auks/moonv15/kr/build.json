@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "etu_19274610_cod23_tus5_5_1_bnet_v15_dev", "token": "93eaaa7e-0d1d-4540-8847-e26eeea6b2b4"},
   "buildKey": "84f6c62b4bc67457fdb2921bf6599db5",
-  "cdnKeyFile": {"name": "blue/cdnkeys/a0b48c0f48cf1aceb1a9f9c872c8530a"},
-  "definition": "c7a564af6fe64a3da11184946839492d",
+  "cdnKeyFile": {"name": "green/cdnkeys/a0b48c0f48cf1aceb1a9f9c872c8530a"},
+  "definition": "fcde9003e57f579e97daaa59e51a2ebf",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:42.000Z",
+  "lastModified": "2026-11-18T19:55:02.000Z",
   "path": "moon/moonv",
   "productConfig": {"cdnPath": "", "hash": "794b7752524b66dc654ade0d430f156d"},
   "regions": [

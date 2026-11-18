@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "bo5_tu16_9838526A_signed_zc_ship_cln", "token": "4eda3a2d-5157-4abc-a512-4610ed1abe90"},
   "buildKey": "d3e9b28a7e955ca67b420ecea5209e54",
-  "cdnKeyFile": {"name": "blue/cdnkeys/d901b4e70b9ab13f624b361810c63163"},
-  "definition": "6dcdd8776a2a6d483740a5d91810e581",
+  "cdnKeyFile": {"name": "green/cdnkeys/d901b4e70b9ab13f624b361810c63163"},
+  "definition": "73c4f4013e920da551f18d19acb5db5a",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:58.000Z",
+  "lastModified": "2026-11-18T19:59:22.000Z",
   "path": "tpr/zeus",
   "productConfig": {"cdnPath": "", "hash": "aa153e6227d26e84992121ec72b87a79"},
   "regions": [

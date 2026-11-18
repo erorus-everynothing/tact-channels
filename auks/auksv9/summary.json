@@ -5,10 +5,10 @@
       "branches": ["eu"],
       "build": {"name": "etu_17284883_cod23_tus2_etu1_v9_dev", "token": "61dcb733-3096-4b76-8eb1-c74a27b6a234"},
       "buildKey": "d5c0981b44ff720e73f0ccd9bbd8c2e6",
-      "cdnKeyFile": {"name": "blue/cdnkeys/2f546f15fe886306598c3a06306b6f68"},
-      "definition": "e90c94c7f90b551865e909857896b353",
+      "cdnKeyFile": {"name": "green/cdnkeys/2f546f15fe886306598c3a06306b6f68"},
+      "definition": "bef77e129dacf8503d84ddf21f3f19ea",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:10.000Z",
+      "lastModified": "2026-11-18T19:52:39.000Z",
       "path": "tpr/auksv",
       "productConfig": {"cdnPath": "", "hash": "cf974733fcd8d9b2e7e996ff96db1d2b"},
       "regions": [
@@ -26,10 +26,10 @@
         "token": "b66207ea-e0f3-429c-a90f-4b9f3b9d08a6"
       },
       "buildKey": "31c9713ee9a283132f3476de853c2bf6",
-      "cdnKeyFile": {"name": "blue/cdnkeys/2f546f15fe886306598c3a06306b6f68"},
-      "definition": "e6524c64b3a1b673fdf12f13ecb9829b",
+      "cdnKeyFile": {"name": "green/cdnkeys/2f546f15fe886306598c3a06306b6f68"},
+      "definition": "6e8437ddeee6a6cc4c20bc9b6c3e64d1",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:10.000Z",
+      "lastModified": "2026-11-18T19:52:39.000Z",
       "path": "tpr/auksv",
       "productConfig": {"cdnPath": "", "hash": "cf974733fcd8d9b2e7e996ff96db1d2b"},
       "regions": [
@@ -47,10 +47,10 @@
         "token": "9a682f11-c5a5-44df-b5f8-e3920099f5df"
       },
       "buildKey": "be1810fd0502176f0d23fb285ecbe396",
-      "cdnKeyFile": {"name": "blue/cdnkeys/2f546f15fe886306598c3a06306b6f68"},
-      "definition": "f5a79f1546c1f826984449ee8e01df9f",
+      "cdnKeyFile": {"name": "green/cdnkeys/2f546f15fe886306598c3a06306b6f68"},
+      "definition": "9fdd173d2df3123602b3e205e6ff6b52",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:10.000Z",
+      "lastModified": "2026-11-18T19:52:39.000Z",
       "path": "tpr/auksv",
       "productConfig": {"cdnPath": "", "hash": "cf974733fcd8d9b2e7e996ff96db1d2b"},
       "regions": [

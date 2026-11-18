@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "AlabamaArtBook_2338184", "token": "921294f3-c9e3-4969-8b8d-d0d276c85ffd"},
       "buildKey": "09778c8ea67dbf75feb7354c96cf121a",
-      "cdnKeyFile": {"name": "blue/cdnkeys/40d87a9ba528983d5e7ad99c8f1f86b2"},
-      "definition": "0fd8fe51dd20f153c375dd687df8a224",
+      "cdnKeyFile": {"name": "green/cdnkeys/40d87a9ba528983d5e7ad99c8f1f86b2"},
+      "definition": "1985a60220444a5092d23189d6b66b60",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:18:58.000Z",
+      "lastModified": "2026-11-18T19:51:53.000Z",
       "path": "tpr/aquarc",
       "productConfig": {"cdnPath": "", "hash": "b78c8279c606092a9d319579889787b6"},
       "regions": [

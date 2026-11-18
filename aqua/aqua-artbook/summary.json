@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "AlabamaArtBook_3157053", "token": "fa2f4650-8b7e-45e2-91c1-675ca72ed153"},
       "buildKey": "df57443a44ed5a6beaa53044a8f332f1",
-      "cdnKeyFile": {"name": "blue/cdnkeys/79dcd638da01eaac3e0d25a60702e81e"},
-      "definition": "269569b20329e0b0fe003266284a30a5",
+      "cdnKeyFile": {"name": "green/cdnkeys/79dcd638da01eaac3e0d25a60702e81e"},
+      "definition": "a800e88454f4119add6c8ca1160d1f92",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:18:58.000Z",
+      "lastModified": "2026-11-18T19:51:52.000Z",
       "path": "tpr/aqua",
       "productConfig": {"cdnPath": "", "hash": "87773afb6544c6de6ff2c68b0fd74557"},
       "regions": [

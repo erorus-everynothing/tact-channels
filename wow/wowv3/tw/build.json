@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "WOW-70986patch12.1.7_Vendor3", "token": "9aa2f5e0-e912-48fa-8b5b-b1773e920df7"},
   "buildKey": "c50f52b3c2d4bc7284fec3c8522cb78a",
-  "cdnKeyFile": {"name": "blue/cdnkeys/6c4384b2d8faa871fe244984165497a6"},
-  "definition": "13c53bfb850e3cb827eaf62728adde07",
+  "cdnKeyFile": {"name": "green/cdnkeys/6c4384b2d8faa871fe244984165497a6"},
+  "definition": "6f78b211acf966120e95bcd41282f52f",
   "keyRing": "",
-  "lastModified": "2026-11-17T18:41:30.000Z",
+  "lastModified": "2026-11-18T19:59:15.000Z",
   "path": "tpr/wowv",
   "productConfig": {"cdnPath": "", "hash": "cf360929ce16bb0d52f1020676c3fc5a"},
   "regions": [

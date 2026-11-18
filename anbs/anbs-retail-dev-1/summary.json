@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "3458081_423_dev_tact_row", "token": "303f1b7f-d530-4f5d-aa6b-799e4aaff4f3"},
       "buildKey": "8693995bb68e8cf6251a65e066b61d0f",
-      "cdnKeyFile": {"name": "blue/cdnkeys/b0908329fe9af6254ac7c3251da557a4"},
-      "definition": "f7011e5e2c191f520cd51801de15b014",
+      "cdnKeyFile": {"name": "green/cdnkeys/b0908329fe9af6254ac7c3251da557a4"},
+      "definition": "66821a2b90800e027e134e44227efd1a",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:18:57.000Z",
+      "lastModified": "2026-11-18T19:51:49.000Z",
       "path": "tpr/anbsdevbm",
       "productConfig": {"cdnPath": "", "hash": "8bf41028fb40ce056835369336a7c677"},
       "regions": [

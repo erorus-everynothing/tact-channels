@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "s4release_11429386_vk_geirdriful_fc_ship", "token": "04bf10a7-9513-46aa-848d-50fc48150130"},
   "buildKey": "954f69d1bcfd95d8b3c54a30d24659d6",
-  "cdnKeyFile": {"name": "blue/cdnkeys/103686e89d7d7faa7bff050b596678f1"},
-  "definition": "c571675b6c719331c35c8fdd30f416c8",
+  "cdnKeyFile": {"name": "green/cdnkeys/103686e89d7d7faa7bff050b596678f1"},
+  "definition": "2adf978c6684c4cf2372533642e994a5",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:34.000Z",
+  "lastModified": "2026-11-18T19:54:22.000Z",
   "path": "tpr/fore",
   "productConfig": {"cdnPath": "", "hash": "8d7534e07396d7c76cec4418533ad257"},
   "regions": [

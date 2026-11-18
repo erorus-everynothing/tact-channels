@@ -5,10 +5,10 @@
       "branches": ["cn", "eu", "kr", "sg", "tw", "us"],
       "build": {"name": "B73493-TOURNEY", "token": ""},
       "buildKey": "b33cb4136ebce115c652c7cc138ccb9c",
-      "cdnKeyFile": {"name": "blue/cdnkeys/6edcec3e0c3b456b0c468470b027f76d"},
-      "definition": "5d29fe243e576deced3c6d3840b2f560",
+      "cdnKeyFile": {"name": "green/cdnkeys/6edcec3e0c3b456b0c468470b027f76d"},
+      "definition": "0e6a91f3e05b896eb75f739c863831ab",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:36.000Z",
+      "lastModified": "2026-11-18T19:54:31.000Z",
       "path": "tpr/Hero-Live-a",
       "productConfig": {"cdnPath": "", "hash": "a0e69ccf9dba37e120a7f923ce31d23a"},
       "regions": [

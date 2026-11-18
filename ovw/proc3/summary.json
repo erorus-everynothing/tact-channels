@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "prometheus-2_26_1_0-155679-GM-t4t", "token": "400a123d-e570-4f7e-b14f-dfb76704c52c"},
       "buildKey": "36effabf95ac810b2900c767bdb093e1",
-      "cdnKeyFile": {"name": "blue/cdnkeys/f17866b6d7de27f08143df3f7ff03de2"},
-      "definition": "b132a27956ade4a6e1116f8feca9d936",
+      "cdnKeyFile": {"name": "green/cdnkeys/f17866b6d7de27f08143df3f7ff03de2"},
+      "definition": "7f95dbafc4c0e2ed705cd4380bee8117",
       "keyRing": "",
-      "lastModified": "2026-11-18T15:22:09.000Z",
+      "lastModified": "2026-11-18T19:56:10.000Z",
       "path": "tpr/proc3",
       "productConfig": {"cdnPath": "", "hash": "23606fc0bac4e278ccfffd0483aa1faa"},
       "regions": [

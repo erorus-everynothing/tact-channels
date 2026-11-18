@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "257809_37.2.0-hsdev", "token": "17be0db1-f52c-871f-3e6c-19f71fcbd1a2"},
   "buildKey": "340bb0ea7fc30afb54326c7e1b822401",
-  "cdnKeyFile": {"name": "blue/cdnkeys/009c2b183598a11e1163a69a26588596"},
-  "definition": "403a965a510af14794b3570e10c63e3c",
+  "cdnKeyFile": {"name": "green/cdnkeys/009c2b183598a11e1163a69a26588596"},
+  "definition": "e547defb2b5d692821717798fa7d7b98",
   "keyRing": "",
-  "lastModified": "2026-11-11T19:10:21.000Z",
+  "lastModified": "2026-11-18T19:54:38.000Z",
   "path": "tpr/hsdev",
   "productConfig": {"cdnPath": "", "hash": "dce23ef2257893baefc306e5083806fa"},
   "regions": [

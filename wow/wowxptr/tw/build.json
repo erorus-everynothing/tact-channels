@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "WOW-70340patch12.1.5_XPTR", "token": "ec025fcb-d7fc-4b96-a2d1-94cadfae890c"},
   "buildKey": "d29f3a7796f46ad29526f03d6ff4b82c",
-  "cdnKeyFile": {"name": "blue/cdnkeys/60d157c4af3327a4a5a81b6919eb523e"},
-  "definition": "63f1be234391fb075731822d06ae0ba9",
+  "cdnKeyFile": {"name": "green/cdnkeys/60d157c4af3327a4a5a81b6919eb523e"},
+  "definition": "8d05d4375abe39d1a2bdb5d078918fb4",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:57.000Z",
+  "lastModified": "2026-11-18T19:59:19.000Z",
   "path": "tpr/wow",
   "productConfig": {"cdnPath": "", "hash": "c5983bded94d708c1958dde1fa6dbf22"},
   "regions": [

@@ -8,10 +8,10 @@
         "token": "67f7ca4a-7a94-42e5-a761-2e1a370c0d66"
       },
       "buildKey": "2cdfcbbda686c297660e60bf4822a251",
-      "cdnKeyFile": {"name": "blue/cdnkeys/d36f3f047972d23ebe2217bdce89b960"},
-      "definition": "bdfb47cd7dd1295133fc31b93afed189",
+      "cdnKeyFile": {"name": "green/cdnkeys/d36f3f047972d23ebe2217bdce89b960"},
+      "definition": "16bc651b4811eff5404c8ccb545cdfa6",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:06.000Z",
+      "lastModified": "2026-11-18T19:56:53.000Z",
       "path": "tpr/cornvb",
       "productConfig": {"cdnPath": "", "hash": "f5c03bacb01186ee2f12e9cfb5d07c32"},
       "regions": [

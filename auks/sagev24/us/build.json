@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "release_28598281_cod25_season6_bnet_v24_dev", "token": "240546ee-23c0-4d32-b72d-d64886a5cc9b"},
   "buildKey": "506c77611df8442016507ddbb93a176c",
-  "cdnKeyFile": {"name": "blue/cdnkeys/149f18dee3964c4cda41b124e09be7f9"},
-  "definition": "485a03807b143d5ac2ac685466501442",
+  "cdnKeyFile": {"name": "green/cdnkeys/149f18dee3964c4cda41b124e09be7f9"},
+  "definition": "fdf36b9825ce3109db9d0cb5757f7977",
   "keyRing": "",
-  "lastModified": "2026-11-13T18:15:50.000Z",
+  "lastModified": "2026-11-18T19:58:14.000Z",
   "path": "tpr/sagevb",
   "productConfig": {"cdnPath": "", "hash": "2d8f0da2062916b394bc8b87407d90ca"},
   "regions": [

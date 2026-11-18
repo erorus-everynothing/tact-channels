@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "prometheus-2_27_0_0-155630-GM-prodev8", "token": "03c7f8f5-14c5-4f63-8512-1c4e63281804"},
   "buildKey": "723172a1c8ae09767c29f0a5fbc7f3aa",
-  "cdnKeyFile": {"name": "blue/cdnkeys/665db3a5084a50c74d8ef6635b5667fe"},
-  "definition": "eec015380a1182974abf24305b1fe518",
+  "cdnKeyFile": {"name": "green/cdnkeys/665db3a5084a50c74d8ef6635b5667fe"},
+  "definition": "eb07b40449c1559511ecddc831286436",
   "keyRing": "",
-  "lastModified": "2026-11-18T00:38:59.000Z",
+  "lastModified": "2026-11-18T19:56:22.000Z",
   "path": "tpr/proc3",
   "productConfig": {"cdnPath": "", "hash": "df61693bcbbf785594a01c06cbaa978d"},
   "regions": [

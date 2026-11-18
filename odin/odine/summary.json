@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "sub_10750827_12_2_F_oe_signed_ship", "token": "d6ece545-193d-4826-a9b1-564469bb1faa"},
       "buildKey": "fd17a514ea3c599ebe3ea009173a3123",
-      "cdnKeyFile": {"name": "blue/cdnkeys/8d856244eaa52a3d224b59ea5a7fba98"},
-      "definition": "f74f452931de8d3cd6f1f411cc8ca625",
+      "cdnKeyFile": {"name": "green/cdnkeys/8d856244eaa52a3d224b59ea5a7fba98"},
+      "definition": "21eff36aec3b76c0153ec698ea7aa44d",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:49.000Z",
+      "lastModified": "2026-11-18T19:55:36.000Z",
       "path": "tpr/odine",
       "productConfig": {"cdnPath": "", "hash": "bd9b4ab93f6acf82b586701c6ccf53fb"},
       "regions": [

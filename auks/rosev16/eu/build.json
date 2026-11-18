@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "trunk_29491801_rex_br_br_all_bnet_v16_dev", "token": "5c22175f-b920-49b6-b102-d199d4e4f4b7"},
   "buildKey": "eb5316639b44e543703ec1b9bcad352d",
-  "cdnKeyFile": {"name": "blue/cdnkeys/a3239bc2816d15ac7fe9425432f2e78b"},
-  "definition": "9a9c4056bd216a8d9472eb4376a05981",
+  "cdnKeyFile": {"name": "green/cdnkeys/a3239bc2816d15ac7fe9425432f2e78b"},
+  "definition": "dc642c3e68b816e46b755b5d60784d90",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:20:13.000Z",
+  "lastModified": "2026-11-18T19:57:21.000Z",
   "path": "tpr/rosev",
   "productConfig": {"cdnPath": "", "hash": "f35a0918e534978761769dd14b95bdd2"},
   "regions": [

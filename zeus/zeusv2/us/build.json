@@ -5,10 +5,10 @@
     "token": "c94fd8c6-131e-4f7b-8056-755b0620b783"
   },
   "buildKey": "bdb879091b794dd7bb990df5ad634f47",
-  "cdnKeyFile": {"name": "blue/cdnkeys/d39085b6afb05d0e0c53cc5a8e7aa4e0"},
-  "definition": "c04dbfef051095c7cdb073845347cc01",
+  "cdnKeyFile": {"name": "green/cdnkeys/d39085b6afb05d0e0c53cc5a8e7aa4e0"},
+  "definition": "0af74ae293fb47fb56b75e65309eff03",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:21:01.000Z",
+  "lastModified": "2026-11-18T19:59:28.000Z",
   "path": "tpr/zeusv",
   "productConfig": {"cdnPath": "", "hash": "eb4e56e10d6b7fb31bf1959485fe140f"},
   "regions": [

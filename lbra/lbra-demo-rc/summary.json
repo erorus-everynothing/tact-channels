@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "ChicagoDemo_BNet_Ship_65876", "token": "310de860-bcb0-4294-83b0-b543ed53545e"},
       "buildKey": "b19e3da2e1bbc0d7288831bb7ea5cc0a",
-      "cdnKeyFile": {"name": "blue/cdnkeys/38611d095742c63f2c0b601817a60506"},
-      "definition": "d4ff4f8fdecda7c8714c60e222cdbdd4",
+      "cdnKeyFile": {"name": "green/cdnkeys/38611d095742c63f2c0b601817a60506"},
+      "definition": "6d85f3c0472b5f7fa28a8b38e3e0a1c2",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:39.000Z",
+      "lastModified": "2026-11-18T19:54:47.000Z",
       "path": "tpr/lbrarc",
       "productConfig": {"cdnPath": "", "hash": "051e8bb0c1c5c40489a16e958b911b2b"},
       "regions": [

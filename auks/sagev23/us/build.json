@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "trunk_29562306_sat_wz_season0_bnet_v23_dev", "token": "960a69e2-e15b-4744-a948-1f476fee813d"},
   "buildKey": "4c7b8cd98c9d1a2828ceed0ae7736e31",
-  "cdnKeyFile": {"name": "blue/cdnkeys/bd9cf5d5691a7a8f514e37df2623f43b"},
-  "definition": "89ade85119425fe512db679c822e1283",
+  "cdnKeyFile": {"name": "green/cdnkeys/bd9cf5d5691a7a8f514e37df2623f43b"},
+  "definition": "19075da4b1568b20abd0c42ac35904ef",
   "keyRing": "",
-  "lastModified": "2026-11-13T18:15:50.000Z",
+  "lastModified": "2026-11-18T19:58:13.000Z",
   "path": "tpr/sagevb",
   "productConfig": {"cdnPath": "", "hash": "f687d2f8df26f86660433940795106ff"},
   "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "74145_Win64Client_3_3_0PTR_test", "token": "0b22cb91-3dc7-4c09-9daa-33332cee091d"},
   "buildKey": "60eca910a85862363625bc9888c9e236",
-  "cdnKeyFile": {"name": "blue/cdnkeys/db4ea1be6dfe967fca1b749ecc5ee78c"},
-  "definition": "a50030336e86be401ae31ed0ca915aa2",
+  "cdnKeyFile": {"name": "green/cdnkeys/db4ea1be6dfe967fca1b749ecc5ee78c"},
+  "definition": "d81e8d0a23d0bdef873fef83722bf50e",
   "keyRing": "",
-  "lastModified": "2026-11-06T22:19:27.000Z",
+  "lastModified": "2026-11-18T19:53:54.000Z",
   "path": "tpr/fenris",
   "productConfig": {"cdnPath": "", "hash": "40396553d73d518e1edf0f4980cb5661"},
   "regions": [

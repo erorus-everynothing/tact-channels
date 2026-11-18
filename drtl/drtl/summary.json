@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "diablo1_1.0.9.3", "token": "e4ea00d6-6501-4f25-adce-a9f49045ce66"},
       "buildKey": "395b1c18e360ca905388a9e71cb6eb36",
-      "cdnKeyFile": {"name": "blue/cdnkeys/274cd637eb0a9227b5f159d3c2cb1162"},
-      "definition": "dd2f4a803f12fcf412e57e1557a6111f",
+      "cdnKeyFile": {"name": "green/cdnkeys/274cd637eb0a9227b5f159d3c2cb1162"},
+      "definition": "fd7cb5474427efde3bc272ad63ca09e1",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:19:24.000Z",
+      "lastModified": "2026-11-18T19:53:45.000Z",
       "path": "tpr/drtl",
       "productConfig": {"cdnPath": "", "hash": "03c89f30cbe8106e242ee0f44978c8a8"},
       "regions": [

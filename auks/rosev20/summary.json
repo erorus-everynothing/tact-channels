@@ -3,20 +3,23 @@
     {
       "armadilloKey": "",
       "branches": ["eu"],
-      "build": {"name": "release_29647184_cod26_season1_bnet_v20_dev", "token": "2cae9d58-4260-4050-bce1-59fa97cd864a"},
-      "buildKey": "61866bd61a9e13db5ccb67330c09fc15",
+      "build": {
+        "name": "release_30023674_cod26_season1_5_bnet_v20_dev",
+        "token": "f25bcab8-763c-4398-867f-befc4d182177"
+      },
+      "buildKey": "e42930ec6d955aff87a499db7b70ae34",
       "cdnKeyFile": {"name": "blue/cdnkeys/10ca03d680e43fe6513297eec93aa72c"},
-      "definition": "f5e704ab417d1d64cb155eabd1613ae5",
+      "definition": "07c31c20d1faaaf41d4ded9928f3b975",
       "keyRing": "",
-      "lastModified": "2026-11-06T22:20:14.000Z",
+      "lastModified": "2026-11-16T17:32:39.000Z",
       "path": "tpr/rosev",
       "productConfig": {"cdnPath": "", "hash": "70baf70f15ea806d6812d41e9855d006"},
       "regions": [
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
       ],
-      "versionNumber": 29647184,
-      "versionString": "0.0.0.29647184d"
+      "versionNumber": 30023674,
+      "versionString": "0.0.0.30023674d"
     },
     {
       "armadilloKey": "",
@@ -43,22 +46,22 @@
       "armadilloKey": "",
       "branches": ["us"],
       "build": {
-        "name": "release_30023674_cod26_season1_5_bnet_v20_dev",
-        "token": "f25bcab8-763c-4398-867f-befc4d182177"
+        "name": "release_30068932_cod26_season1_5_bnet_v20_dev",
+        "token": "b05368fd-9797-41ce-84b9-087041676158"
       },
-      "buildKey": "e42930ec6d955aff87a499db7b70ae34",
+      "buildKey": "2010b8198d3101da60fb553d796f7ce1",
       "cdnKeyFile": {"name": "blue/cdnkeys/10ca03d680e43fe6513297eec93aa72c"},
-      "definition": "07c31c20d1faaaf41d4ded9928f3b975",
+      "definition": "23707bcd95d83e368d36ab6ef40b38e0",
       "keyRing": "",
-      "lastModified": "2026-11-16T17:32:39.000Z",
+      "lastModified": "2026-11-18T19:38:12.000Z",
       "path": "tpr/rosev",
       "productConfig": {"cdnPath": "", "hash": "70baf70f15ea806d6812d41e9855d006"},
       "regions": [
         {"branches": ["us"], "cdns": "ad298166bc8896ec90ad1cff7b693bd5"},
         {"branches": ["eu"], "cdns": "084aea14e8342085ace15de6e8a53b72"}
       ],
-      "versionNumber": 30023674,
-      "versionString": "0.0.0.30023674d"
+      "versionNumber": 30068932,
+      "versionString": "0.0.0.30068932d"
     }
   ],
   "infrastructure": false,

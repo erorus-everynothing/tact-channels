@@ -3,9 +3,9 @@
   "build": {"name": "3.0.1.24408-live-dev", "token": "f870324d-3c6e-42a8-8d50-fae56abaf440"},
   "buildKey": "14cfb0559d35efe0526cd42ea0130b7d",
   "cdnKeyFile": {"name": "blue/cdnkeys/c3bdf2cfe733b9d488daefb7030ad935"},
-  "definition": "421650389051d873523d878ac99ecafc",
+  "definition": "2d85570179f657d023bd8a66b7b6bdbf",
   "keyRing": "",
-  "lastModified": "2026-11-16T21:11:29.000Z",
+  "lastModified": "2026-11-18T16:54:40.000Z",
   "path": "tpr/war3-live-dev/",
   "productConfig": {"cdnPath": "", "hash": "979aa7477e04827d0dbd381816302dc7"},
   "regions": [
@@ -13,6 +13,6 @@
     {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
     {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
   ],
-  "versionNumber": 24408,
-  "versionString": "3.0.1.24408"
+  "versionNumber": 24412,
+  "versionString": "3.0.1.24412"
 }

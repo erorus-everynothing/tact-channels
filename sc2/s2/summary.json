@@ -23,12 +23,12 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "tw", "us"],
-      "build": {"name": "B98725", "token": "4552882b-106c-4519-8f2e-66c0b7595581"},
-      "buildKey": "fc8bb118dde9ed72ca73d2e452f7e464",
+      "build": {"name": "B98310", "token": "837cc3a7-fdd9-493d-918f-59ba35bbb28e"},
+      "buildKey": "1d231af579faf03e61a364722a3b87b4",
       "cdnKeyFile": {"name": "green/cdnkeys/96a9643a50445184aa5c94cea23072e2"},
-      "definition": "7482bbccc734cf143e9ff0cce261c1b1",
+      "definition": "743ffc8131b710760549cd41f2a3db32",
       "keyRing": "",
-      "lastModified": "2026-11-19T22:02:50.000Z",
+      "lastModified": "2026-11-18T19:57:50.000Z",
       "path": "tpr/sc2",
       "productConfig": {"cdnPath": "", "hash": "0c241b7c4662aa04df68134b5ecdd181"},
       "regions": [
@@ -37,8 +37,8 @@
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
         {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"}
       ],
-      "versionNumber": 98725,
-      "versionString": "5.0.17.98725"
+      "versionNumber": 98310,
+      "versionString": "5.0.17.98310"
     }
   ],
   "infrastructure": false,

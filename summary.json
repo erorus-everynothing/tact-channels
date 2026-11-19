@@ -1,10 +1,10 @@
 {
   "path": "green/",
   "public": {
-    "channel": "43c373b9d64582917db664f985b07731"
+    "channel": "7eaa7d8d1c15b32d4de99c30847ee8ef"
   },
-  "lastModified": "2026-11-19T13:27:47.000Z",
-  "pointerLastModified": "2026-11-19T13:27:48.000Z",
+  "lastModified": "2026-11-19T13:54:45.000Z",
+  "pointerLastModified": "2026-11-19T13:54:46.000Z",
   "products": {
     "agent": [
       "agent",
@@ -127,6 +127,7 @@
       "herjabtlr",
       "herjabtlrqa",
       "herjabtlrv",
+      "hildr_sage_qa",
       "hristnina",
       "hristninaav",
       "hristninaav2",

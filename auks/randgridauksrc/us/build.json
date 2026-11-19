@@ -1,20 +1,20 @@
 {
   "armadilloKey": "",
   "build": {
-    "name": "release_driver_27_08_2026_28696816_valkyrie_valkyrie_ship_ship",
-    "token": "e77cbff4-111b-4bae-9d72-f4d44f52bc48"
+    "name": "trunk_cod26_season1_driver_27_10_2026_29708533_valkyrie_ship1",
+    "token": "86763e4b-7167-421e-a113-4b8a40229d7c"
   },
-  "buildKey": "766640ef54bb502a2d7f22652f1d869a",
+  "buildKey": "c7eb5702073ff17643d41adaee7122e3",
   "cdnKeyFile": {"name": "green/cdnkeys/9160f7afc2ef3a26385d8bfbadd5fbed"},
-  "definition": "e10eef2813bee510d9e4ed9d87c9ee2a",
+  "definition": "6143b3195ee1094ce54e9ac5c989e89f",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:56:41.000Z",
+  "lastModified": "2026-11-19T23:00:50.000Z",
   "path": "tpr/aukslrc",
   "productConfig": {"cdnPath": "", "hash": "291ad59e173875e80c85c7c7794db31d"},
   "regions": [
     {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
     {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
   ],
-  "versionNumber": 28696816,
-  "versionString": "1.0.0.28696816s"
+  "versionNumber": 29708533,
+  "versionString": "1.0.0.29708533s"
 }

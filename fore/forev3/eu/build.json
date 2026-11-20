@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "s4release_12363042_tu23_juliet_s4_v3_dev", "token": "15d2e705-6894-4418-9bfa-9c7f3e3daf89"},
   "buildKey": "7f6361dda8f4817ae57d1afd6a819229",
-  "cdnKeyFile": {"name": "green/cdnkeys/e675502c2784070974867a6f71aa6b19"},
-  "definition": "4735e79e70b03acbf0aa3442d0a0b31c",
+  "cdnKeyFile": {"name": "blue/cdnkeys/e675502c2784070974867a6f71aa6b19"},
+  "definition": "3b0109446e00a39698322005c27668bb",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:54:10.000Z",
+  "lastModified": "2026-11-20T15:35:04.000Z",
   "path": "tpr/forev",
   "productConfig": {"cdnPath": "", "hash": "a19cc4b77b521533f836cb3bd6b2c269"},
   "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "3141_viper", "token": "83ec052a-55a7-4e3d-8d5a-bafa7e962abc"},
   "buildKey": "55faf91c2331422773257c342b685533",
-  "cdnKeyFile": {"name": "green/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
-  "definition": "cf927475e1273a4b8dce40e99ed01cb5",
+  "cdnKeyFile": {"name": "blue/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
+  "definition": "38eb8f593df9a3a88fb1c255a69efb6c",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:53:31.000Z",
+  "lastModified": "2026-11-20T15:34:31.000Z",
   "path": "tpr/bnt004",
   "productConfig": {"cdnPath": "", "hash": ""},
   "regions": [

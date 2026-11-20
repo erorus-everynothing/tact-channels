@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "driver_09_07_23120651_valkyrie_dev_dev", "token": "6cf45966-5a78-4325-87ec-8076c6e7684b"},
       "buildKey": "6f841dad21d9b47b778a262faaacaf36",
-      "cdnKeyFile": {"name": "green/cdnkeys/81634aaf50155edf5d94cccb5b3162be"},
-      "definition": "683858a12b199c97e37d612314fd71d5",
+      "cdnKeyFile": {"name": "blue/cdnkeys/81634aaf50155edf5d94cccb5b3162be"},
+      "definition": "d2725fe3a2cad33c97e597fbec15bdb0",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:56:44.000Z",
+      "lastModified": "2026-11-20T15:37:08.000Z",
       "path": "tpr/btlrv",
       "productConfig": {"cdnPath": "", "hash": "e43e8b9ed6955883ee9c113cf695f389"},
       "regions": [

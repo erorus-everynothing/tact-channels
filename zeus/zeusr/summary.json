@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "bo5_2_raw_8279943_signed_zr_ship", "token": "9eff45a9-66f7-495d-8c78-549a085d6cd5"},
       "buildKey": "7b6a2486e14468f703dba22731c11354",
-      "cdnKeyFile": {"name": "green/cdnkeys/43463aabd60b778cbe3313a6ac394981"},
-      "definition": "c59b5f0299e2b8f15198b097678d2641",
+      "cdnKeyFile": {"name": "blue/cdnkeys/43463aabd60b778cbe3313a6ac394981"},
+      "definition": "d23ca61cdbfcb2c89a6ee804796acfdb",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:59:24.000Z",
+      "lastModified": "2026-11-20T15:39:20.000Z",
       "path": "tpr/zeusdev",
       "productConfig": {"cdnPath": "", "hash": "b53693ecf4e5c9a42c3b44fc3263a5dd"},
       "regions": [

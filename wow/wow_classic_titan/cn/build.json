@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "WOW-70522patch3.80.2_ClassicTitan", "token": "eb2b8fa5-3e63-419f-84de-ca85f3db4c42"},
   "buildKey": "eed3978f9e962450c5a358ef0dcbcf64",
-  "cdnKeyFile": {"name": "green/cdnkeys/aa540d6d77fa9bc61f07a62f5911e245"},
-  "definition": "3b69f31815611c90481ab6d708910044",
+  "cdnKeyFile": {"name": "blue/cdnkeys/aa540d6d77fa9bc61f07a62f5911e245"},
+  "definition": "2512b1a6e34523e98d0de5c1dec4887d",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:58:59.000Z",
+  "lastModified": "2026-11-20T15:38:58.000Z",
   "path": "tpr/wow",
   "productConfig": {"cdnPath": "", "hash": "11a7ea270082c4636d7c2edbcda7ae94"},
   "regions": [

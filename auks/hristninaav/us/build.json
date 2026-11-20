@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "driver_11_07_23137177_cod22_valkyrie_ship_ship", "token": "bda54447-255e-4b8a-80c0-bc3e9adc52ee"},
   "buildKey": "c9c3e37e97efc6ec4e5b8f030968980a",
-  "cdnKeyFile": {"name": "green/cdnkeys/bd9a2a5adc2a969fd85a04fde87c9464"},
-  "definition": "ee8bd7588ddd562492a90defc726ffea",
+  "cdnKeyFile": {"name": "blue/cdnkeys/bd9a2a5adc2a969fd85a04fde87c9464"},
+  "definition": "e04855b06b2f65108d45dd95c7b6e939",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:54:33.000Z",
+  "lastModified": "2026-11-20T15:35:24.000Z",
   "path": "tpr/ninav",
   "productConfig": {"cdnPath": "", "hash": "c52e472ef6ee5f9d24776878111964e9"},
   "regions": [

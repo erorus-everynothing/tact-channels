@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "14453783_valkyrie_cdldev_dev", "token": "c6cb65ea-aa76-40f3-9065-9aaa034b9371"},
   "buildKey": "2440fd267d942551c950541e416c4182",
-  "cdnKeyFile": {"name": "green/cdnkeys/88665d896c8e1831bd8291df8e0e9af8"},
-  "definition": "38003c36312bfd134b709f4e16e5b5aa",
+  "cdnKeyFile": {"name": "blue/cdnkeys/88665d896c8e1831bd8291df8e0e9af8"},
+  "definition": "10c0e6eb748df0c60fe9685e6a37dcfd",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:56:58.000Z",
+  "lastModified": "2026-11-20T15:37:20.000Z",
   "path": "moon/moonvb",
   "productConfig": {"cdnPath": "", "hash": "16078ee7d810a86bbb681a322130803d"},
   "regions": [

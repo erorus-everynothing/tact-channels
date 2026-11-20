@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "3.0.1.24412-live-dev", "token": "b38cb98a-658b-489f-9cb3-60b4bd778283"},
       "buildKey": "2b31bb1aa5a2e913b6b06410a417ba6a",
-      "cdnKeyFile": {"name": "green/cdnkeys/c3bdf2cfe733b9d488daefb7030ad935"},
-      "definition": "3c82faebeb0f71c8a9d73a428f9dbe67",
+      "cdnKeyFile": {"name": "blue/cdnkeys/c3bdf2cfe733b9d488daefb7030ad935"},
+      "definition": "72d2b73ae4833fa136320e5b32450741",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:58:47.000Z",
+      "lastModified": "2026-11-18T16:55:10.000Z",
       "path": "tpr/war3-live-dev/",
       "productConfig": {"cdnPath": "", "hash": "979aa7477e04827d0dbd381816302dc7"},
       "regions": [

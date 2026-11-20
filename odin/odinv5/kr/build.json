@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "magma_11460137_filtereddropmip_bv5_dev", "token": "4092017c-57ef-4a04-9334-42464ccea55c"},
   "buildKey": "b42dcb59d6a82cf165b0d8171c8d149e",
-  "cdnKeyFile": {"name": "green/cdnkeys/ec3190016e1f822c378850408d5ad9ef"},
-  "definition": "bd64d9807aadac2e117ac32bc5e683cd",
+  "cdnKeyFile": {"name": "blue/cdnkeys/ec3190016e1f822c378850408d5ad9ef"},
+  "definition": "9cbd9f6aa286cfaa774a0f06db53f085",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:55:47.000Z",
+  "lastModified": "2026-11-20T15:36:24.000Z",
   "path": "tpr/odinv",
   "productConfig": {"cdnPath": "", "hash": "04681c93ff00e549dc44852a3be2270e"},
   "regions": [

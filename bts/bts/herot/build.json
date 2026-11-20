@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "2988_herot", "token": ""},
   "buildKey": "5921030b832e5f0cebaaf98fe155f125",
-  "cdnKeyFile": {"name": "green/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
-  "definition": "4f0661fb81174536c37786ead4519adf",
+  "cdnKeyFile": {"name": "blue/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
+  "definition": "7d652e6dc53c1fcce1add129a1893d0b",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:53:26.000Z",
+  "lastModified": "2026-11-20T15:34:28.000Z",
   "path": "tpr/bnt004",
   "productConfig": {"cdnPath": "", "hash": ""},
   "regions": [

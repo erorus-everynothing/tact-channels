@@ -8,10 +8,10 @@
         "token": "2d68b6a4-d873-4c94-a020-636a9cd38a97"
       },
       "buildKey": "3107edb8e994e5adc88144e792c303bd",
-      "cdnKeyFile": {"name": "green/cdnkeys/abd420a180e1bec0c3ef08b7119c8a8c"},
-      "definition": "5004f5ce9c125177cd0dbf9c6e354420",
+      "cdnKeyFile": {"name": "blue/cdnkeys/abd420a180e1bec0c3ef08b7119c8a8c"},
+      "definition": "126d87a7a94265047675518f451c6894",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:59:20.000Z",
+      "lastModified": "2026-11-20T15:39:16.000Z",
       "path": "tpr/zeus",
       "productConfig": {"cdnPath": "", "hash": "0364fba9a0e261ded06bd72a5f1440c1"},
       "regions": [

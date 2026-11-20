@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "SeaOfThieves_2.153.6901.0", "token": "261460b5-4962-4d4a-85e2-31c61d91f8eb"},
       "buildKey": "7bc43fea157ac1f9c1bdfdec495b587b",
-      "cdnKeyFile": {"name": "green/cdnkeys/7c381fdd581a16cbe2898ffb443d8e6e"},
-      "definition": "09b70f066bd37b42e1add550b30b085e",
+      "cdnKeyFile": {"name": "blue/cdnkeys/7c381fdd581a16cbe2898ffb443d8e6e"},
+      "definition": "05a65a45bdf102803c8434ce7a0fe9c2",
       "keyRing": "",
-      "lastModified": "2026-11-19T10:18:41.000Z",
+      "lastModified": "2026-11-20T15:38:35.000Z",
       "path": "tpr/scor",
       "productConfig": {"cdnPath": "", "hash": "cf6268b7831df0e1c2cf7149f9d5ee00"},
       "regions": [

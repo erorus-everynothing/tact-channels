@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "release_30091472_cod26_season1_5_bnet_v22_dev", "token": "00848302-80ce-4ade-be1e-558969782149"},
   "buildKey": "2c753a199fe9e07298bc1fc3da38a502",
-  "cdnKeyFile": {"name": "green/cdnkeys/06fa6ee31e129ce72b48fbcdc11558d7"},
-  "definition": "86003fb88a7f30e3f74155faea694641",
+  "cdnKeyFile": {"name": "blue/cdnkeys/06fa6ee31e129ce72b48fbcdc11558d7"},
+  "definition": "33ce037696bfc73f9cc40a64fcfd77ed",
   "keyRing": "",
-  "lastModified": "2026-11-19T18:44:40.000Z",
+  "lastModified": "2026-11-20T15:37:45.000Z",
   "path": "tpr/rosevb",
   "productConfig": {"cdnPath": "", "hash": "e0e93c11f11c87f016ed1d0e72c9f87c"},
   "regions": [

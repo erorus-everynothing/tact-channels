@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "3141_zeus", "token": "7c1a7dbd-be53-4ed5-94f2-9962ce2007fe"},
   "buildKey": "ead1a67d1f84dfdf75d044807eef1e5e",
-  "cdnKeyFile": {"name": "green/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
-  "definition": "544ad53dd7989e3a4664bbee4b4bdf0c",
+  "cdnKeyFile": {"name": "blue/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
+  "definition": "27632393c04d05c0b96b1f44b8417560",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:53:32.000Z",
+  "lastModified": "2026-11-20T15:34:33.000Z",
   "path": "tpr/bnt004",
   "productConfig": {"cdnPath": "", "hash": ""},
   "regions": [

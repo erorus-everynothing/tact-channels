@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "gdt_client-1.0.9.0", "token": "fd836ae3-43e4-4e31-8a5d-b3130714a3b5"},
   "buildKey": "28e897d3715f88c024332ae9aaaf044f",
-  "cdnKeyFile": {"name": "green/cdnkeys/cca2e90c462ebd29a35245578e77bc85"},
-  "definition": "06453db1c5b3c2ea016ff0040d3a4f3b",
+  "cdnKeyFile": {"name": "blue/cdnkeys/cca2e90c462ebd29a35245578e77bc85"},
+  "definition": "451d250ab10959d520efdbd5c18d989a",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:54:19.000Z",
+  "lastModified": "2026-11-20T15:35:12.000Z",
   "path": "tpr/gdtdev",
   "productConfig": {"cdnPath": "", "hash": "f4df6609d533f7f4552c80461e733df1"},
   "regions": [

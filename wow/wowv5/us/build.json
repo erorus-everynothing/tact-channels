@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "WOW-68184patch2.5.6_Vendor5", "token": "62a051e3-ff52-4a52-a5e0-d9b8a9879a2a"},
   "buildKey": "c7e0772214a96ae5d8af672c2199a98a",
-  "cdnKeyFile": {"name": "green/cdnkeys/eaca5dff9de80b4b0cac9340f415cdf1"},
-  "definition": "7c19d1d068723c4a23cb0df5640e9115",
+  "cdnKeyFile": {"name": "blue/cdnkeys/eaca5dff9de80b4b0cac9340f415cdf1"},
+  "definition": "8481b159c6d2d5f11bc62f1e904798ba",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:59:16.000Z",
+  "lastModified": "2026-11-20T15:39:13.000Z",
   "path": "tpr/wowv",
   "productConfig": {"cdnPath": "", "hash": "ee73aab1b8fc5185df76b504891a51c7"},
   "regions": [

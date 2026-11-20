@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "s4release_13838748_tu25_laze_s4_v1_dev", "token": "45a71654-3ad2-480d-8427-eb6d404134dc"},
   "buildKey": "d567e4d27f6a451f130b8e4359e271de",
-  "cdnKeyFile": {"name": "green/cdnkeys/8346dae836e7d88067fe6ebf24bd559a"},
-  "definition": "5426b4f981de72415f4f80ba8122e350",
+  "cdnKeyFile": {"name": "blue/cdnkeys/8346dae836e7d88067fe6ebf24bd559a"},
+  "definition": "e32eefaf37a37b75d451ebf4428e906e",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:54:04.000Z",
+  "lastModified": "2026-11-20T15:34:59.000Z",
   "path": "tpr/forev",
   "productConfig": {"cdnPath": "", "hash": "28316d7070e3976c26521bd9443354fa"},
   "regions": [

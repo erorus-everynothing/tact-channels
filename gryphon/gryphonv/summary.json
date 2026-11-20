@@ -8,10 +8,10 @@
         "token": "479a0030-7765-29db-412e-64da0b9d425d"
       },
       "buildKey": "d82db154ec55317bc85679953ceb5a84",
-      "cdnKeyFile": {"name": "green/cdnkeys/1fc39e48fbde33ba1aa0e59ac01942d6"},
-      "definition": "98a33febf96a52cd797e7d037848679d",
+      "cdnKeyFile": {"name": "blue/cdnkeys/1fc39e48fbde33ba1aa0e59ac01942d6"},
+      "definition": "4bd1b63a6a8640575a5c6b58b48f471f",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:54:28.000Z",
+      "lastModified": "2026-11-20T15:35:19.000Z",
       "path": "tpr/gryphonv",
       "productConfig": {"cdnPath": "", "hash": "5468b09a2a13dac08ed0b26208b178e9"},
       "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "magma_22330203_vk_valkyrie_brynhildr_r_ship", "token": "9da569d9-097c-4777-8932-882776d86d5f"},
   "buildKey": "9d46541f614b1b4fbcf054893fab5cf6",
-  "cdnKeyFile": {"name": "green/cdnkeys/c23d64f818af4fe911af0527199a8b8e"},
-  "definition": "c870210f691de3f37a27b53d2b70bb85",
+  "cdnKeyFile": {"name": "blue/cdnkeys/c23d64f818af4fe911af0527199a8b8e"},
+  "definition": "c03d2c4c5bcdd19dee2de3ed45c0190d",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:52:44.000Z",
+  "lastModified": "2026-11-20T15:33:54.000Z",
   "path": "tpr/odin",
   "productConfig": {"cdnPath": "", "hash": "4ffedb2bf7792ae775076b838dcfa8e4"},
   "regions": [

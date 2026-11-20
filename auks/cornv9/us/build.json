@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "release_29356837_zul_gl_bnet_v9_dev", "token": "e66cae57-2cd3-4919-8944-957b5bd58a6b"},
   "buildKey": "35c0ba6bcc684bcc318faa81e132a5cf",
-  "cdnKeyFile": {"name": "green/cdnkeys/9d8181de4c02c2956a979fdeba7ba310"},
-  "definition": "d1104e8c6a45ced1f6618eed5a699e9b",
+  "cdnKeyFile": {"name": "blue/cdnkeys/9d8181de4c02c2956a979fdeba7ba310"},
+  "definition": "beee33e5c4198da20c1fb3987546d46b",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:53:42.000Z",
+  "lastModified": "2026-11-20T15:34:40.000Z",
   "path": "tpr/cornv",
   "productConfig": {"cdnPath": "", "hash": "dd79bba13d6fe85220a1ad73b43d29b2"},
   "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "WOW-70006patch2.5.6_ClassicPTR", "token": "5ccaa825-58f8-497d-b392-d43f0738231d"},
   "buildKey": "aedfea3d99ab76b4ba2a07cc0951b5b6",
-  "cdnKeyFile": {"name": "green/cdnkeys/7a72f88b6b2fd952598d34c8d533f970"},
-  "definition": "b879f5255b11661b2cf237fa26e3ba77",
+  "cdnKeyFile": {"name": "blue/cdnkeys/7a72f88b6b2fd952598d34c8d533f970"},
+  "definition": "ee72732f07c85a4bfe7f3570b7545edd",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:58:58.000Z",
+  "lastModified": "2026-11-20T15:38:57.000Z",
   "path": "tpr/wow",
   "productConfig": {"cdnPath": "", "hash": "078e6fc7e9562636d078c827b9a59547"},
   "regions": [

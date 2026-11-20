@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "bo5_raw_13810990_v7_vendor", "token": "6667b1d2-2bb4-44a8-88c6-95580b014ccd"},
       "buildKey": "e9ca835cb44b096c17936419140ccd10",
-      "cdnKeyFile": {"name": "green/cdnkeys/aaa8af63e1bf506ee1d575e607658369"},
-      "definition": "40259ede7e64f2d607718f740254a2db",
+      "cdnKeyFile": {"name": "blue/cdnkeys/aaa8af63e1bf506ee1d575e607658369"},
+      "definition": "6feb5fae5246a0f8cba1fea3678ed8a2",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:59:31.000Z",
+      "lastModified": "2026-11-20T15:39:27.000Z",
       "path": "tpr/zeusv",
       "productConfig": {"cdnPath": "", "hash": "7a0dfd63881ecb3eaa4b02627b9f6453"},
       "regions": [

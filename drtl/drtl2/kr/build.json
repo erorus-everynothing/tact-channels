@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "diablo1_hellfire_1.0.2", "token": "a426ee6f-dcee-4b00-a7e4-42fa51ab53fe"},
   "buildKey": "80542473eb70fc407104ee9868766acd",
-  "cdnKeyFile": {"name": "green/cdnkeys/f627195357fd33f6e9d5bb0ced014bf6"},
-  "definition": "96c62577bfec167db9b775810850705d",
+  "cdnKeyFile": {"name": "blue/cdnkeys/f627195357fd33f6e9d5bb0ced014bf6"},
+  "definition": "dadb59a6562f8fc42b84da8fca6574ed",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:53:45.000Z",
+  "lastModified": "2026-11-20T15:34:43.000Z",
   "path": "tpr/drtl",
   "productConfig": {"cdnPath": "", "hash": "077b09e87198602e7bbaa0c7ce6a54e9"},
   "regions": [

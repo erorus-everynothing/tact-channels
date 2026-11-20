@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "bo5_TU34_15931218C_signed_v12_ship", "token": "8244c799-6653-41b4-a563-019ed9c3c730"},
   "buildKey": "7019ac5fbc9a7bdea73d79a3a1b27cc5",
-  "cdnKeyFile": {"name": "green/cdnkeys/024ea3ee6981078c6ee6b3e54a4aa84e"},
-  "definition": "791168661245591fd58fd4dcabff3e9b",
+  "cdnKeyFile": {"name": "blue/cdnkeys/024ea3ee6981078c6ee6b3e54a4aa84e"},
+  "definition": "114a67ee67cc7f80cfb00f1ef1ea74a9",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:59:26.000Z",
+  "lastModified": "2026-11-20T15:39:22.000Z",
   "path": "tpr/zeusv",
   "productConfig": {"cdnPath": "", "hash": "d39cd43f050aabbd55fe72758697cb00"},
   "regions": [

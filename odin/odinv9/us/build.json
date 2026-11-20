@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "magma_14265259_magmatu_bv9_vendor_rename", "token": "10496b5a-c07a-4638-b906-9665f2ea2795"},
   "buildKey": "a02db78cca0c924badd4de6d12e753fb",
-  "cdnKeyFile": {"name": "green/cdnkeys/9dd5e9a6946c610899922377b2a0cda1"},
-  "definition": "0be84261272a55b393a2ac2467100b2e",
+  "cdnKeyFile": {"name": "blue/cdnkeys/9dd5e9a6946c610899922377b2a0cda1"},
+  "definition": "54a721ca4a1c03dea9bd45e2a7e1ad56",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:55:53.000Z",
+  "lastModified": "2026-11-20T15:36:28.000Z",
   "path": "tpr/odinv",
   "productConfig": {"cdnPath": "", "hash": "b502c7eb6e4e9965b29de100dde6bcd3"},
   "regions": [

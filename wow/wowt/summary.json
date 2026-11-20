@@ -5,10 +5,10 @@
       "branches": ["cn", "eu", "kr", "sg", "tw", "us", "xx"],
       "build": {"name": "WOW-70986patch12.1.7_PTR", "token": "e0543d9c-bb7b-49a2-8958-f180292572ce"},
       "buildKey": "2261a5a4a269450275cac47d3f1e1506",
-      "cdnKeyFile": {"name": "green/cdnkeys/e172cc2c85b22220ee27d32f0cc26ca5"},
-      "definition": "ed315a6a08c66ec067a4eb3604f59e19",
+      "cdnKeyFile": {"name": "blue/cdnkeys/e172cc2c85b22220ee27d32f0cc26ca5"},
+      "definition": "2f3b7f4f8599716cf25fb9453c653e0a",
       "keyRing": "",
-      "lastModified": "2026-11-18T23:43:20.000Z",
+      "lastModified": "2026-11-20T15:39:10.000Z",
       "path": "tpr/wow",
       "productConfig": {"cdnPath": "", "hash": "8e1095475b945aa02fd3f2a2d22993b7"},
       "regions": [

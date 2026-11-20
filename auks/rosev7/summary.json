@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "trunk_30067695_rex_autobuild_mp_bnet_v7_dev", "token": "301f227d-9933-4d15-a02f-6ddd9dc295a6"},
       "buildKey": "17f480b0acba279263db9b1d6deb08fa",
-      "cdnKeyFile": {"name": "green/cdnkeys/0e4c4c14d91d4516b9183d3c7eef7d07"},
-      "definition": "1720e6db3ba532f0de5b09d9830eb193",
+      "cdnKeyFile": {"name": "blue/cdnkeys/0e4c4c14d91d4516b9183d3c7eef7d07"},
+      "definition": "d13e5ef3bb8819dce5eb6915febf5e4b",
       "keyRing": "",
-      "lastModified": "2026-11-19T01:18:22.000Z",
+      "lastModified": "2026-11-20T15:37:56.000Z",
       "path": "tpr/rosev",
       "productConfig": {"cdnPath": "", "hash": "dd3405642e5722e62960e224ae73796c"},
       "regions": [

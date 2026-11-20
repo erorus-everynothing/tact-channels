@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "sub_12273715_ETU_WZ351_8_24_v5_signed_dev", "token": "9591b653-d6b2-47c0-956d-4f992b8b43b3"},
   "buildKey": "859e29619e73197dfa75e2c19124f71b",
-  "cdnKeyFile": {"name": "green/cdnkeys/ec3190016e1f822c378850408d5ad9ef"},
-  "definition": "bc7b0055ff7522eca68fe29831ded8d4",
+  "cdnKeyFile": {"name": "blue/cdnkeys/ec3190016e1f822c378850408d5ad9ef"},
+  "definition": "266ff98b7240983e4adbbfe100eda1da",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:55:46.000Z",
+  "lastModified": "2026-11-20T15:36:24.000Z",
   "path": "tpr/odinv",
   "productConfig": {"cdnPath": "", "hash": "04681c93ff00e549dc44852a3be2270e"},
   "regions": [

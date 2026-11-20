@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "prometheus-2_26_0_0-155764-probv3", "token": "dc820e89-acb4-4f3d-92f3-db13607b0b82"},
       "buildKey": "2fd15a269ba3c8e1a1215aebbaf4017b",
-      "cdnKeyFile": {"name": "green/cdnkeys/550fb6b6e244b5dff2d8fcaf5657063a"},
-      "definition": "48a5931a346554ec33f49fe7df05342e",
+      "cdnKeyFile": {"name": "blue/cdnkeys/550fb6b6e244b5dff2d8fcaf5657063a"},
+      "definition": "bd77b60554314073271c69c6e0b89bcd",
       "keyRing": "",
-      "lastModified": "2026-11-20T13:19:20.000Z",
+      "lastModified": "2026-11-20T15:36:37.000Z",
       "path": "tpr/prov3/2",
       "productConfig": {"cdnPath": "", "hash": "d15e5a07bee5d25317cc8685a890cf76"},
       "regions": [

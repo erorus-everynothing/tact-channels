@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "70960", "token": "ad22313a-24e7-4b89-984b-bbed6912bf23"},
       "buildKey": "468bd58462ea8516a5ba9da3cce0c10d",
-      "cdnKeyFile": {"name": "green/cdnkeys/a92f574eff99992352c2ba50ac316b8b"},
-      "definition": "68a009848723a82c5d58841e61fa6a32",
+      "cdnKeyFile": {"name": "blue/cdnkeys/a92f574eff99992352c2ba50ac316b8b"},
+      "definition": "282792cd9e7b8ce23c988fc4d82a7fc1",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:55:56.000Z",
+      "lastModified": "2026-11-20T15:36:31.000Z",
       "path": "tpr/osidev",
       "productConfig": {"cdnPath": "", "hash": "0d9d921545dd5ae3c938ae156ce4ff72"},
       "regions": [

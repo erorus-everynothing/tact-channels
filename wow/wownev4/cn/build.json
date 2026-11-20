@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "WOW-63631patch1.15.8_NEVendor4", "token": "4dd19a25-2ba4-46c1-b029-dc3646a2342f"},
   "buildKey": "c88e99428eaea718d9abd48c95cc0ff1",
-  "cdnKeyFile": {"name": "green/cdnkeys/17366a1432cdcb2bddec247372278051"},
-  "definition": "267df8cd109d7ea15bfcead609c2f1c6",
+  "cdnKeyFile": {"name": "blue/cdnkeys/17366a1432cdcb2bddec247372278051"},
+  "definition": "a0e40ac5305b5be5c17fb1d808f61058",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:59:10.000Z",
+  "lastModified": "2026-11-20T15:39:07.000Z",
   "path": "tpr/wowvcn",
   "productConfig": {"cdnPath": "", "hash": "b2b86c8994a78bf314b9261476d66af7"},
   "regions": [

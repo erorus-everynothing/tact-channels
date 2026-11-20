@@ -5,10 +5,10 @@
     "token": "ac9c6976-34f8-44b9-acef-fc6bd988edaf"
   },
   "buildKey": "86f4cea9f1a3a752142c01d004d7f52a",
-  "cdnKeyFile": {"name": "green/cdnkeys/3026f5ebbdc6694d54c7956893542f1c"},
-  "definition": "17bc78dbe8757cd455772e25ffcd5f9e",
+  "cdnKeyFile": {"name": "blue/cdnkeys/3026f5ebbdc6694d54c7956893542f1c"},
+  "definition": "2b0500b61829d77925abcf6a4405fb62",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:55:14.000Z",
+  "lastModified": "2026-11-20T15:35:59.000Z",
   "path": "moon/moonvb",
   "productConfig": {"cdnPath": "", "hash": "768f9785ca3e7b531b3f3446ab59b8b7"},
   "regions": [

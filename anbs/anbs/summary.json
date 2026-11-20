@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "3935504_513_prod_row", "token": "1a59d8c1-8e64-437f-afc5-01900d2a84cc"},
       "buildKey": "19109e4d4ab7895439562a8a12cafd55",
-      "cdnKeyFile": {"name": "green/cdnkeys/a73d0c658f951b7f9b23b5174e0c7492"},
-      "definition": "52b0ca15689bb7d0d8649ff025cac5c2",
+      "cdnKeyFile": {"name": "blue/cdnkeys/a73d0c658f951b7f9b23b5174e0c7492"},
+      "definition": "9b5c774f5ffc4d7a5b25e85062d44f98",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:51:43.000Z",
+      "lastModified": "2026-11-20T15:33:01.000Z",
       "path": "tpr/anbs",
       "productConfig": {"cdnPath": "", "hash": "3e517440aea0d79fb43fda0e69719488"},
       "regions": [

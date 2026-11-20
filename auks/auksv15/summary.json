@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "presub_16418774_cod_tus6_5_1_v15_dev", "token": "d66f1e78-1647-4a75-86b6-8615f5446b26"},
       "buildKey": "c8a661a1a8e05d56ea6f94fa65d0cb76",
-      "cdnKeyFile": {"name": "green/cdnkeys/dd7fb5779eb2211fa01b7cb97cce89b5"},
-      "definition": "341be66f5d487d5c8261f5ba924e0e30",
+      "cdnKeyFile": {"name": "blue/cdnkeys/dd7fb5779eb2211fa01b7cb97cce89b5"},
+      "definition": "e83e4d99d1c06fb4901f23914f897fff",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:52:19.000Z",
+      "lastModified": "2026-11-20T15:33:32.000Z",
       "path": "tpr/auksv",
       "productConfig": {"cdnPath": "", "hash": "676641e5459660b1c9a561b103566630"},
       "regions": [

@@ -5,10 +5,10 @@
     "token": "e777a683-1ecd-4f81-95e0-c123bd987fdb"
   },
   "buildKey": "2129d73b1f2cdd7c2bcd569455a739fa",
-  "cdnKeyFile": {"name": "green/cdnkeys/d306e91fbc5d98f1dcbb0743a656c9d7"},
-  "definition": "123eea600349085dd447621f1b388e26",
+  "cdnKeyFile": {"name": "blue/cdnkeys/d306e91fbc5d98f1dcbb0743a656c9d7"},
+  "definition": "fec6eaaf69bfa7512149c5c0114261b7",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:55:27.000Z",
+  "lastModified": "2026-11-20T15:36:10.000Z",
   "path": "tpr/nina",
   "productConfig": {"cdnPath": "", "hash": "c1319ac3beab3aacb76a91dfa2315217"},
   "regions": [

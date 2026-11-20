@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "release_23661850_cod24_tu20_bnet_v6_dev", "token": "079a35a7-ab5b-4d17-9d0d-bcdb21a691b5"},
   "buildKey": "2d031b2c4b20986b64dede31a4077c96",
-  "cdnKeyFile": {"name": "green/cdnkeys/1d32b8ab777c4474916292b5ae6ccbef"},
-  "definition": "63643496eb6ba5bc35908b39ba5d929f",
+  "cdnKeyFile": {"name": "blue/cdnkeys/1d32b8ab777c4474916292b5ae6ccbef"},
+  "definition": "2e08df32db4d74a1d471f15d8c0aab97",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:53:19.000Z",
+  "lastModified": "2026-11-20T15:34:22.000Z",
   "path": "tpr/btlrv",
   "productConfig": {"cdnPath": "", "hash": "a74a9aff8d71e325b57aa4b64b42c7f2"},
   "regions": [

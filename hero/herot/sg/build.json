@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "B98674", "token": "ceff1a58-80f1-49c5-8fca-849addd71ee4"},
   "buildKey": "49725ebf2ce1dbfda65efa1d41bcea50",
-  "cdnKeyFile": {"name": "green/cdnkeys/c9c3ce815f433119f503dcc3e92ae30c"},
-  "definition": "da6f22a0f80cdd7b046f54648d2d5e30",
+  "cdnKeyFile": {"name": "blue/cdnkeys/c9c3ce815f433119f503dcc3e92ae30c"},
+  "definition": "c3c5b59928d9f1ac1381f18177154850",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:54:32.000Z",
+  "lastModified": "2026-11-20T15:35:22.000Z",
   "path": "tpr/Hero-Live-a",
   "productConfig": {"cdnPath": "", "hash": "65dcefe76985bd0bd87a1f112bf1a74d"},
   "regions": [

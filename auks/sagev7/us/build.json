@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "main_29233365_sat_clean_future_bnet_v7_dev", "token": "6402927d-b032-406e-9160-7e3ec198a0a6"},
   "buildKey": "2d2eb93555c905d8f70f9f22bc856e78",
-  "cdnKeyFile": {"name": "green/cdnkeys/3b5c4f6586ba6d58f8d518a9e8bc0463"},
-  "definition": "36bc475436fe1de2838e75a831c69096",
+  "cdnKeyFile": {"name": "blue/cdnkeys/3b5c4f6586ba6d58f8d518a9e8bc0463"},
+  "definition": "93a0fd9e4e6730cfd970afc06cb680b8",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:58:25.000Z",
+  "lastModified": "2026-11-20T15:38:32.000Z",
   "path": "tpr/sagev",
   "productConfig": {"cdnPath": "", "hash": "7a9e34b568e04dce3167f795752a7adb"},
   "regions": [

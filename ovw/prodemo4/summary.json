@@ -5,10 +5,10 @@
       "branches": ["cn", "eu", "kr", "us"],
       "build": {"name": "prometheus-2_24_1_1-153619-prodemo4", "token": "cf3519e0-2328-440e-96ab-469f05dede65"},
       "buildKey": "eeb68fd3c85f3523055f76db99cc03cf",
-      "cdnKeyFile": {"name": "green/cdnkeys/a88e821b64955a8fe8b24570f3e66921"},
-      "definition": "ed67204bb037c1db24897136825a308d",
+      "cdnKeyFile": {"name": "blue/cdnkeys/a88e821b64955a8fe8b24570f3e66921"},
+      "definition": "805580fbf2956ff4277839a51f43156a",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:56:15.000Z",
+      "lastModified": "2026-11-20T15:36:45.000Z",
       "path": "tpr/proe/3",
       "productConfig": {"cdnPath": "", "hash": "1b6c7cde042bf6b4be50485b9cf7dcd4"},
       "regions": [

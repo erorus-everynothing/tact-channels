@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "prometheus-2_26_0_0-154284-RC-ARM-prodev11", "token": "b64a3331-5812-4c82-a51e-b26bf44b8fd3"},
       "buildKey": "16f49f201b1363fd3205807834920e85",
-      "cdnKeyFile": {"name": "green/cdnkeys/741cd73ad5b24b4e0c3f2deb94ea025a"},
-      "definition": "c1a85f6845ca198888c0a911b5085145",
+      "cdnKeyFile": {"name": "blue/cdnkeys/741cd73ad5b24b4e0c3f2deb94ea025a"},
+      "definition": "9bd91bd51a568047499818ec3ac011f3",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:56:18.000Z",
+      "lastModified": "2026-11-20T15:36:47.000Z",
       "path": "tpr/proa2",
       "productConfig": {"cdnPath": "", "hash": "fcc8f133558c52ed153ca28800760b99"},
       "regions": [

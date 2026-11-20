@@ -5,10 +5,10 @@
       "branches": ["eu"],
       "build": {"name": "presub_16321818_cod_tus6_5_1_v10_dev", "token": "02104e47-f366-4b4a-9a5f-5e8dc8571c62"},
       "buildKey": "a72ac25ae3665db137434e5ab209481b",
-      "cdnKeyFile": {"name": "green/cdnkeys/2c71b0150288891e481c3f609dc32254"},
-      "definition": "ca36061fe4f7227488318a998c23e5f1",
+      "cdnKeyFile": {"name": "blue/cdnkeys/2c71b0150288891e481c3f609dc32254"},
+      "definition": "88bfd764d778a0fbb7eb7a1953f764d0",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:52:13.000Z",
+      "lastModified": "2026-11-20T15:33:26.000Z",
       "path": "tpr/auksv",
       "productConfig": {"cdnPath": "", "hash": "4cc2c72a8e9b99965132b83d95661d77"},
       "regions": [
@@ -26,10 +26,10 @@
         "token": "f3f87236-4f7c-4425-95da-2356fce55f29"
       },
       "buildKey": "d5d00eed50a9472dfb125e99d1bcdb16",
-      "cdnKeyFile": {"name": "green/cdnkeys/2c71b0150288891e481c3f609dc32254"},
-      "definition": "62c8213ed1bec22dcfcfeb7034fc7d83",
+      "cdnKeyFile": {"name": "blue/cdnkeys/2c71b0150288891e481c3f609dc32254"},
+      "definition": "609c976a02580d96c2dc643e5a58755b",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:52:13.000Z",
+      "lastModified": "2026-11-20T15:33:27.000Z",
       "path": "tpr/auksv",
       "productConfig": {"cdnPath": "", "hash": "ce77022d28e63b6d6756f7072035a383"},
       "regions": [
@@ -47,10 +47,10 @@
         "token": "07c7b89a-b53e-482d-856d-d32880eee910"
       },
       "buildKey": "671592af6abf76641aa3c0e8bc9e8347",
-      "cdnKeyFile": {"name": "green/cdnkeys/2c71b0150288891e481c3f609dc32254"},
-      "definition": "30a095a35c8d9eebc001973dd5890eb5",
+      "cdnKeyFile": {"name": "blue/cdnkeys/2c71b0150288891e481c3f609dc32254"},
+      "definition": "aba433fa59b85fd364b720553e8e1bdc",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:52:14.000Z",
+      "lastModified": "2026-11-20T15:33:27.000Z",
       "path": "tpr/auksv",
       "productConfig": {"cdnPath": "", "hash": "ed552f78a4912142ccd91c2f25e89305"},
       "regions": [

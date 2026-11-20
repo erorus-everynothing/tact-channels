@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "driver_04_29_22309603_valkyrie_ship_ship_esport", "token": "3389fd1d-4d6f-4461-bc95-7e49288b8db8"},
   "buildKey": "97868bcdff110fe9717c8db48b67a53b",
-  "cdnKeyFile": {"name": "green/cdnkeys/6e2111f09b2141df8146144e4fc52161"},
-  "definition": "b78a83bf369fd5a6ead1b1a330f11b9b",
+  "cdnKeyFile": {"name": "blue/cdnkeys/6e2111f09b2141df8146144e4fc52161"},
+  "definition": "1fde9579b7c3d4193ff8813273a20bb3",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:56:47.000Z",
+  "lastModified": "2026-11-20T15:37:10.000Z",
   "path": "tpr/btlrvb",
   "productConfig": {"cdnPath": "", "hash": "2fbd4c056a099445792c0652e7b885e9"},
   "regions": [

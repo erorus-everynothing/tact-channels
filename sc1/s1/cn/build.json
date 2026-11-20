@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "1.23.10.11269-retail", "token": "cd01051e-b97e-47ba-885e-ba64ca3c8447"},
   "buildKey": "4f29e696409f060a27d9bb716a87ab2b",
-  "cdnKeyFile": {"name": "green/cdnkeys/931505f3e7d592f65108de813ea0f05c"},
-  "definition": "0fff6b5410eca62b6b0250a000648745",
+  "cdnKeyFile": {"name": "blue/cdnkeys/931505f3e7d592f65108de813ea0f05c"},
+  "definition": "9d37c5fc9dff878876debb9b5f2005ba",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:57:47.000Z",
+  "lastModified": "2026-11-20T15:37:59.000Z",
   "path": "tpr/sc1live",
   "productConfig": {"cdnPath": "", "hash": "c61fc45c039ea8dfd98febbc5b6e73b8"},
   "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "s4_tu28_08_18_signed__v7_ship", "token": "b6000c1b-94d1-4827-9265-2d7c674eb885"},
   "buildKey": "3ce0c9308067dea342372ab72ff022f7",
-  "cdnKeyFile": {"name": "green/cdnkeys/2794033c85a1ca3f976e1a3d3fc719ff"},
-  "definition": "06a1ae9991b24a5d4e94a343d7006f98",
+  "cdnKeyFile": {"name": "blue/cdnkeys/2794033c85a1ca3f976e1a3d3fc719ff"},
+  "definition": "3ab23fd9c2b612f3a4aae296f5e9ca59",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:54:16.000Z",
+  "lastModified": "2026-11-20T15:35:09.000Z",
   "path": "tpr/forev",
   "productConfig": {"cdnPath": "", "hash": "b05fb72dae74dc24e7dcc1f82a49c301"},
   "regions": [

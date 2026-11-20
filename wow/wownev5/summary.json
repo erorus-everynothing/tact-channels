@@ -5,10 +5,10 @@
       "branches": ["cn"],
       "build": {"name": "WOW-70579patch5.5.4_NEVendor5", "token": "e44bb54a-706a-4f6f-9976-ba96fbf1a9d6"},
       "buildKey": "a01d8ac1d38f9a8713ed95829cb625e2",
-      "cdnKeyFile": {"name": "green/cdnkeys/09e8d142cf46ef1934876052bb27837f"},
-      "definition": "2c50daea2ddb1ec9ae648faa3e3cd351",
+      "cdnKeyFile": {"name": "blue/cdnkeys/09e8d142cf46ef1934876052bb27837f"},
+      "definition": "a59df6ad733fb70e47685519586fc9f8",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:59:11.000Z",
+      "lastModified": "2026-11-20T15:39:07.000Z",
       "path": "tpr/wowvcn",
       "productConfig": {"cdnPath": "", "hash": "c46d24c16c6c4bf2c47d77017c90f587"},
       "regions": [

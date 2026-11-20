@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "live_9060482_tu23_exe_patch_signed_d_ship4", "token": "022bdbfe-ec02-477f-a09d-0c3e3f3d150f"},
       "buildKey": "2afae92477c357e5ee41b15d3e081ad0",
-      "cdnKeyFile": {"name": "green/cdnkeys/1e7dc56684dd5f4dc5588e4c3e22759e"},
-      "definition": "03cfdf449199ea84ae5d04cb7226e6c4",
+      "cdnKeyFile": {"name": "blue/cdnkeys/1e7dc56684dd5f4dc5588e4c3e22759e"},
+      "definition": "901b6f1a3fda8a9d79bc26be100d3df0",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:58:41.000Z",
+      "lastModified": "2026-11-20T15:38:46.000Z",
       "path": "tpr/viperd",
       "productConfig": {"cdnPath": "", "hash": "2c895602355535c720cd53e27c4daa3f"},
       "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "release_30089248_kra_ms_q4_26_bnet_v6_dev", "token": "7f476e8a-250a-4d67-9a3b-e8fe3be9a707"},
   "buildKey": "8effc2f17e37571350a669a2f0990799",
-  "cdnKeyFile": {"name": "green/cdnkeys/5636a8cc1cf27b1cc65ea469b97b7988"},
-  "definition": "2c7a67f8db4571e1537b232152d8ff94",
+  "cdnKeyFile": {"name": "blue/cdnkeys/5636a8cc1cf27b1cc65ea469b97b7988"},
+  "definition": "f15c075180cdd071742a3b15603413f1",
   "keyRing": "",
-  "lastModified": "2026-11-20T15:11:41.000Z",
+  "lastModified": "2026-11-20T15:35:32.000Z",
   "path": "tpr/kelpv",
   "productConfig": {"cdnPath": "", "hash": "1990d58b5a37c8462c62c4774979c7e2"},
   "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "3141_wlby", "token": "3ef11673-5ea6-4ced-8ec0-3165ce0d48df"},
   "buildKey": "aae549f2b933718d59ed51a3fa40e1c1",
-  "cdnKeyFile": {"name": "green/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
-  "definition": "bcaa6723b0e170782b99d71b4998a21c",
+  "cdnKeyFile": {"name": "blue/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
+  "definition": "6a8465717439b8f92eab5203dba02a0f",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:53:31.000Z",
+  "lastModified": "2026-11-20T15:34:32.000Z",
   "path": "tpr/bnt004",
   "productConfig": {"cdnPath": "", "hash": ""},
   "regions": [

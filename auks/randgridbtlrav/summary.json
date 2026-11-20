@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "driver_09_07_23120651_valkyrie_ship_ship", "token": "fa61bce5-e3ba-478a-8bed-0c8453a8c614"},
       "buildKey": "a606f702f13020266fa2725b2028536e",
-      "cdnKeyFile": {"name": "green/cdnkeys/c4b3b04b02d8ac1f7dbfbfb81e82a3df"},
-      "definition": "2795319bdf8cfe1490f58ec57bbe131a",
+      "cdnKeyFile": {"name": "blue/cdnkeys/c4b3b04b02d8ac1f7dbfbfb81e82a3df"},
+      "definition": "5ab6d93e042589647f325f2db2e93b1e",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:56:45.000Z",
+      "lastModified": "2026-11-20T15:37:08.000Z",
       "path": "tpr/btlrv",
       "productConfig": {"cdnPath": "", "hash": "f21f797b185900ac44f98d1ee2d3e5c2"},
       "regions": [

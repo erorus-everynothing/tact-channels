@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "s4main_11331607s_vk_geirdriful_cdlv_ship", "token": "ba617ef0-9e96-4787-aedb-e13ef5171418"},
       "buildKey": "8a385bb4e350e41a97c82abdf21ce467",
-      "cdnKeyFile": {"name": "green/cdnkeys/4ebd9a674e59211894e8b933435c2171"},
-      "definition": "7a22e607befaf29bc0afa6acc1264996",
+      "cdnKeyFile": {"name": "blue/cdnkeys/4ebd9a674e59211894e8b933435c2171"},
+      "definition": "e6a1bd4ee0b70df232a6267b52ac58dd",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:54:24.000Z",
+      "lastModified": "2026-11-20T15:35:16.000Z",
       "path": "tpr/forev",
       "productConfig": {"cdnPath": "", "hash": "000e95d7f65abcc4b835950951295d99"},
       "regions": [

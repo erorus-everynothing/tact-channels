@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "main_18625411_jup_full_bnet_v19_dev", "token": "b598f281-3989-426b-8a9a-0c13aed58ae3"},
   "buildKey": "5fd5b087913b96ab3b7d4f2424af55ab",
-  "cdnKeyFile": {"name": "green/cdnkeys/7db1ddf588f1413ffc5b78cf98766e6f"},
-  "definition": "2890f46500d2d88ee23756c58a8d6fff",
+  "cdnKeyFile": {"name": "blue/cdnkeys/7db1ddf588f1413ffc5b78cf98766e6f"},
+  "definition": "d6b6464f1b4efdf03ae083aa973d6473",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:55:07.000Z",
+  "lastModified": "2026-11-20T15:35:54.000Z",
   "path": "moon/moonv",
   "productConfig": {"cdnPath": "", "hash": "d63d9745ea5afe3fdf92e61a453a1893"},
   "regions": [

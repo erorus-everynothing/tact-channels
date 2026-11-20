@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "trunk_22960696_cod22_sep_tu2_bnet_v1_dev", "token": "f62f4ad0-7c9e-471b-88f0-1ab58466c56a"},
   "buildKey": "aef25d43d8e358f3023ab529a94337a2",
-  "cdnKeyFile": {"name": "green/cdnkeys/6a8a1e2284a01092551654efc26ef460"},
-  "definition": "9dfd4b6452d2ce8f35140a4dc4f936dc",
+  "cdnKeyFile": {"name": "blue/cdnkeys/6a8a1e2284a01092551654efc26ef460"},
+  "definition": "744773c2442d73aa33325ff5ea2197a0",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:55:28.000Z",
+  "lastModified": "2026-11-20T15:36:11.000Z",
   "path": "tpr/ninav",
   "productConfig": {"cdnPath": "", "hash": "88904d719c4bc1d03e82ae9212b0765c"},
   "regions": [

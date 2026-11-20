@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "Alabama_3673940", "token": "b8616ea4-f5d3-4461-8141-aef98e27776e"},
       "buildKey": "38627bf5b6de999aabd83063a8b9c2e8",
-      "cdnKeyFile": {"name": "green/cdnkeys/eb849a90ffeea4227b2a33beba3b6223"},
-      "definition": "cdeea498f73053ec528fad8d452d3b05",
+      "cdnKeyFile": {"name": "blue/cdnkeys/eb849a90ffeea4227b2a33beba3b6223"},
+      "definition": "2be551b2c71b5fa13c63c8d0ef0b209b",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:51:54.000Z",
+      "lastModified": "2026-11-20T15:33:10.000Z",
       "path": "tpr/aquad",
       "productConfig": {"cdnPath": "", "hash": "49b8fa922c2ff7ae9d8383750e2cf4d3"},
       "regions": [

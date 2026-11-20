@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "s4release_16011591_tu26_mike_s4_v2_dev", "token": "f44330f3-2d59-4258-9535-a10d62ba098f"},
   "buildKey": "e325aba65074a798d3bd939d84f4c8fe",
-  "cdnKeyFile": {"name": "green/cdnkeys/69eecb9bed31bdf5cc8dd6fd1308e8b2"},
-  "definition": "998939dc490c57f02f2dd6330bb1fc14",
+  "cdnKeyFile": {"name": "blue/cdnkeys/69eecb9bed31bdf5cc8dd6fd1308e8b2"},
+  "definition": "478cfc72ee2e5a301b3e2a14a1e9c5f2",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:54:08.000Z",
+  "lastModified": "2026-11-20T15:35:03.000Z",
   "path": "tpr/forev",
   "productConfig": {"cdnPath": "", "hash": "ff988a5d9d6ed5c4d1db880e3fdf9981"},
   "regions": [

@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "trunk_29761131_zul_3m_bnet_v1_dev", "token": "b75b50a5-246b-4597-a63c-0d20c0e8b109"},
       "buildKey": "854b85dc3f42ea82d2eb592ae0557b52",
-      "cdnKeyFile": {"name": "green/cdnkeys/dbf5c356386b366be5692b9d5407c400"},
-      "definition": "e31809e2db892b57dd7181bc8b5e3aaf",
+      "cdnKeyFile": {"name": "blue/cdnkeys/dbf5c356386b366be5692b9d5407c400"},
+      "definition": "b104d39ccd5fca78556d79af1883f796",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:53:35.000Z",
+      "lastModified": "2026-11-20T15:34:35.000Z",
       "path": "tpr/cornv",
       "productConfig": {"cdnPath": "", "hash": "b829664fe2f6e39f1bc479f907ba43aa"},
       "regions": [

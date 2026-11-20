@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "live_14830367C_cod_tus4_signed_v12_dev", "token": "9c3214f5-00c8-43ad-9429-0dcb7cb82533"},
   "buildKey": "4ffd5060ae297a5340290dfe65927f9d",
-  "cdnKeyFile": {"name": "green/cdnkeys/d39642d7e2af592cef936e60dbb90d6f"},
-  "definition": "615e6494bbbffa8078f6fd1d98876fce",
+  "cdnKeyFile": {"name": "blue/cdnkeys/d39642d7e2af592cef936e60dbb90d6f"},
+  "definition": "0465f750c953ae147867224f8e25c91a",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:52:16.000Z",
+  "lastModified": "2026-11-20T15:33:30.000Z",
   "path": "tpr/auksv",
   "productConfig": {"cdnPath": "", "hash": "466ccc7cf3497b71a6ec0efe06aebbe2"},
   "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "4232_wow", "token": "907bf222-6bea-4cde-9111-99eab0c2be61"},
   "buildKey": "33295b22a4ed4ed20f2c5ff0b096195a",
-  "cdnKeyFile": {"name": "green/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
-  "definition": "11e78b386e2dfe31c86c70c85fd11bf8",
+  "cdnKeyFile": {"name": "blue/cdnkeys/acb96cfaa35628e98bd16700cb5a7eac"},
+  "definition": "c0a031d68d9530cf5ebb31e2fdac85e0",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:53:31.000Z",
+  "lastModified": "2026-11-20T15:34:32.000Z",
   "path": "tpr/bnt004",
   "productConfig": {"cdnPath": "", "hash": ""},
   "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "SeaOfThieves_2.153.6901.0", "token": "261460b5-4962-4d4a-85e2-31c61d91f8eb"},
   "buildKey": "7bc43fea157ac1f9c1bdfdec495b587b",
-  "cdnKeyFile": {"name": "green/cdnkeys/e93ba07aba32018f188bdd3547e50356"},
-  "definition": "9bc191dfd0d2e5fb35daa69106b330ea",
+  "cdnKeyFile": {"name": "blue/cdnkeys/e93ba07aba32018f188bdd3547e50356"},
+  "definition": "331488ac3adb74b5aeb369a9017d86c6",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:58:29.000Z",
+  "lastModified": "2026-11-18T11:04:30.000Z",
   "path": "tpr/scorrc",
   "productConfig": {"cdnPath": "", "hash": "a87c633877eaa354107ac1fd3d8a9096"},
   "regions": [

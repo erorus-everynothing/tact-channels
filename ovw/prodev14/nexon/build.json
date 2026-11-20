@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "prometheus-2_25_1_0-155627-KR-NGSX-prodev14", "token": "2eb529fe-88b5-4718-9b04-a1d363723ea9"},
   "buildKey": "4c64de6816b69cbe771cb744d3c48590",
-  "cdnKeyFile": {"name": "green/cdnkeys/641a6f258e7c794f3d47b3c74086edf1"},
-  "definition": "8e4422f07b64a9e780e0f12404ae50db",
+  "cdnKeyFile": {"name": "blue/cdnkeys/641a6f258e7c794f3d47b3c74086edf1"},
+  "definition": "338f1d02df5b83d8121dd01e961e26a9",
   "keyRing": "",
-  "lastModified": "2026-11-19T18:33:10.000Z",
+  "lastModified": "2026-11-20T15:36:48.000Z",
   "path": "tpr/proa2",
   "productConfig": {"cdnPath": "", "hash": "0fa772552c345eed6354578e49e37f10"},
   "regions": [

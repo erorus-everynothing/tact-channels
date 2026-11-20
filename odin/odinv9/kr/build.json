@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "magrel_13858333_TU_LAZE_2_21_v9_signed3_vendor", "token": "e5e22566-738a-4d5b-a459-31167e7af3d1"},
   "buildKey": "45d1aafb0f9267295a89fdc911227c0e",
-  "cdnKeyFile": {"name": "green/cdnkeys/9dd5e9a6946c610899922377b2a0cda1"},
-  "definition": "5d5f73a179ddaf5a8cd153145ca38e11",
+  "cdnKeyFile": {"name": "blue/cdnkeys/9dd5e9a6946c610899922377b2a0cda1"},
+  "definition": "92825e26e7165000b3ab240d7a1740f4",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:55:53.000Z",
+  "lastModified": "2026-11-20T15:36:28.000Z",
   "path": "tpr/odinv",
   "productConfig": {"cdnPath": "", "hash": "b502c7eb6e4e9965b29de100dde6bcd3"},
   "regions": [

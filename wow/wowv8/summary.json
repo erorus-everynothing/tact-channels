@@ -5,10 +5,10 @@
       "branches": ["cn", "eu", "us"],
       "build": {"name": "WOW-64889patch12.0.1_Vendor8", "token": "0c4379e9-1baa-4916-af1d-7bc0197cec1d"},
       "buildKey": "c3bbbd594ea1c8671527194bff0cb8ee",
-      "cdnKeyFile": {"name": "green/cdnkeys/16a1b3dcd9380052f34468252aed195a"},
-      "definition": "f105219e46ca1a2e0aad49225b76bbe9",
+      "cdnKeyFile": {"name": "blue/cdnkeys/16a1b3dcd9380052f34468252aed195a"},
+      "definition": "c56e894fc744fe572f4288fcd0a6cd5c",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:59:18.000Z",
+      "lastModified": "2026-11-20T15:39:14.000Z",
       "path": "tpr/wowv",
       "productConfig": {"cdnPath": "", "hash": "0aa371b52e77fa92b15ef37e39fbb3b8"},
       "regions": [

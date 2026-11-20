@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "trunk_21386002_cer_clean_bnet_v23_dev_esports", "token": "3b1ede2d-3ca7-4d5e-bbe8-37d9dddfba5a"},
   "buildKey": "aaee4f02083416f02cf3c112150289a4",
-  "cdnKeyFile": {"name": "green/cdnkeys/1e49c5c1fd2c46293d5fbcced519a7b1"},
-  "definition": "0591b13823c6dff8e8452359266ee354",
+  "cdnKeyFile": {"name": "blue/cdnkeys/1e49c5c1fd2c46293d5fbcced519a7b1"},
+  "definition": "3a06bcb5eb6e49cb454a51503a1cb066",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:53:03.000Z",
+  "lastModified": "2026-11-20T15:34:09.000Z",
   "path": "tpr/btlrvb",
   "productConfig": {"cdnPath": "", "hash": "de2201f23330156f0ea64f0176eb55ff"},
   "regions": [

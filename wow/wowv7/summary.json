@@ -5,10 +5,10 @@
       "branches": ["cn", "eu", "kr", "tw", "us"],
       "build": {"name": "WOW-66839patch5.5.3_Vendor7", "token": "723f9d7c-4d7d-403c-9101-6c1aa7153503"},
       "buildKey": "1835d02f70516eaf78e9f663b9572bee",
-      "cdnKeyFile": {"name": "green/cdnkeys/6ed4582349aa7cce539343ec6872d923"},
-      "definition": "83996ecd50e42039c47efffce0e6fa73",
+      "cdnKeyFile": {"name": "blue/cdnkeys/6ed4582349aa7cce539343ec6872d923"},
+      "definition": "28ce2959d2b35a7f490cdc936cc2471f",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:59:18.000Z",
+      "lastModified": "2026-11-20T15:39:14.000Z",
       "path": "tpr/wowv",
       "productConfig": {"cdnPath": "", "hash": "aa7f8e3c1a384dc5d1535e6eb2bb9bb5"},
       "regions": [

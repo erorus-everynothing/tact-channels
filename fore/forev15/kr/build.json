@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "s4main_9934453_IHVS_bv15_dev", "token": "1f087bc8-9ae9-4734-9621-5f53f4f1b557"},
   "buildKey": "8f3fc9eac905c71037f257b584be2542",
-  "cdnKeyFile": {"name": "green/cdnkeys/9d5782c68195d68ac39a7ba6e31b0ffa"},
-  "definition": "a11b2ca0ba441073d5d667f4a32d3fe7",
+  "cdnKeyFile": {"name": "blue/cdnkeys/9d5782c68195d68ac39a7ba6e31b0ffa"},
+  "definition": "48ec5f4d7f5c72afc2b6fda7c8709213",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:54:06.000Z",
+  "lastModified": "2026-11-20T15:35:01.000Z",
   "path": "tpr/forev",
   "productConfig": {"cdnPath": "", "hash": "75fa4144b2eef13e94c9b5eaa47afad1"},
   "regions": [

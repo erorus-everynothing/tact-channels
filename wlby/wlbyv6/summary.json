@@ -5,10 +5,10 @@
       "branches": ["eu", "us"],
       "build": {"name": "Beta_4b_Shipping_3_05_2021_v6", "token": "cebfc336-1b96-473b-9d48-c7ffaa1bd6ae"},
       "buildKey": "3b95a0b5e4aaa771eebbeffef20c8346",
-      "cdnKeyFile": {"name": "green/cdnkeys/a85072dd1d732ef9a31036992955dc2f"},
-      "definition": "0ab0037d6c407063352c00a4d0104eff",
+      "cdnKeyFile": {"name": "blue/cdnkeys/a85072dd1d732ef9a31036992955dc2f"},
+      "definition": "5abed26d34498d46e54d7679c84c4cce",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:58:53.000Z",
+      "lastModified": "2026-11-20T15:38:54.000Z",
       "path": "tpr/wallabyv",
       "productConfig": {"cdnPath": "", "hash": "621a88e35ddaf2b3ba9f77fac046267a"},
       "regions": [

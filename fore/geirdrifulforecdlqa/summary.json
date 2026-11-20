@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "s4release_11429386_vk_geirdriful_cdldev_dev", "token": "76f3646e-6a21-46b6-bdc4-1b0275ce34af"},
       "buildKey": "e07f331e1ec86867bb265fdbd80473a1",
-      "cdnKeyFile": {"name": "green/cdnkeys/7a73468da5e1d1c00ae89f03a0ccd27e"},
-      "definition": "e073097880d84b2483c30a8d88a8cbbf",
+      "cdnKeyFile": {"name": "blue/cdnkeys/7a73468da5e1d1c00ae89f03a0ccd27e"},
+      "definition": "04e6858e68a38bfe088cda4360ad82cd",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:54:22.000Z",
+      "lastModified": "2026-11-20T15:35:15.000Z",
       "path": "tpr/forev",
       "productConfig": {"cdnPath": "", "hash": "42b9efc3babcafe31b2eccfa6374956f"},
       "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "magma_13739813_vk_valkyrie_brynhildr_dev2_dev", "token": "53537c9a-80b5-49a6-80e7-9ef7d635b58b"},
   "buildKey": "95752802ebbac4282b9f963ab9dad65e",
-  "cdnKeyFile": {"name": "green/cdnkeys/84d1d02ae05ef4325adc1d13bec16054"},
-  "definition": "481536b97e6567acbc06aa600f40c030",
+  "cdnKeyFile": {"name": "blue/cdnkeys/84d1d02ae05ef4325adc1d13bec16054"},
+  "definition": "5b538c6d1fd97902484b1d1852de4461",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:52:46.000Z",
+  "lastModified": "2026-11-20T15:33:55.000Z",
   "path": "tpr/odinv",
   "productConfig": {"cdnPath": "", "hash": "68ce819f5a059eeae3134827e1f1f73f"},
   "regions": [

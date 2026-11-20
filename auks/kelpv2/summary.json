@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "trunk_30092861_kra_clean_bnet_v2_dev", "token": "16ec84b7-f5d0-4af2-9ee7-50da3c27d403"},
       "buildKey": "487523d17cca73d9c43ef583772d3fe3",
-      "cdnKeyFile": {"name": "green/cdnkeys/a969523479534fae70abe49be2ca5793"},
-      "definition": "003e1127fb7cfbf71918f45024523bb2",
+      "cdnKeyFile": {"name": "blue/cdnkeys/a969523479534fae70abe49be2ca5793"},
+      "definition": "e9a096789f806e422091ac5724017b96",
       "keyRing": "",
-      "lastModified": "2026-11-20T15:12:19.000Z",
+      "lastModified": "2026-11-20T15:35:31.000Z",
       "path": "tpr/kelpv",
       "productConfig": {"cdnPath": "", "hash": "ba1d6d39101d109aa424ab36f6ce8f85"},
       "regions": [

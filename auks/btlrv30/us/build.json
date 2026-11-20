@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "cert_20175579_cod24_tu1_bnet_v30_dev", "token": "ea1f0ec6-be8d-4d13-9472-afca77347940"},
   "buildKey": "fe6988748f18f86ce9fae165255f4204",
-  "cdnKeyFile": {"name": "green/cdnkeys/0b53de996813f2975eb8b0921dea90a1"},
-  "definition": "63d703649b929c82c77591d9060dbed3",
+  "cdnKeyFile": {"name": "blue/cdnkeys/0b53de996813f2975eb8b0921dea90a1"},
+  "definition": "ef47c675c1bd2ac0596b8ff346664a8d",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:53:15.000Z",
+  "lastModified": "2026-11-20T15:34:18.000Z",
   "path": "tpr/btlrvb",
   "productConfig": {"cdnPath": "", "hash": "97f0372898c34c42266408fca8e959d4"},
   "regions": [

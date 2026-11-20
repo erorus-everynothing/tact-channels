@@ -5,10 +5,10 @@
       "branches": ["eu", "kr", "us"],
       "build": {"name": "beta_7089334_9_15_exec_patch_etu2_signed_ship", "token": ""},
       "buildKey": "7fb3b588c3fe3e0134bf3353278369f9",
-      "cdnKeyFile": {"name": "green/cdnkeys/f1d3cef89da91aaaf31ba36b5239cb64"},
-      "definition": "380d32076dbe523e09451fdd62d66c80",
+      "cdnKeyFile": {"name": "blue/cdnkeys/f1d3cef89da91aaaf31ba36b5239cb64"},
+      "definition": "bb1d38c07398432113d2a8d7e5d7dec1",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:55:35.000Z",
+      "lastModified": "2026-11-20T15:36:15.000Z",
       "path": "tpr/odin",
       "productConfig": {"cdnPath": "", "hash": "27f941036aed8a8a2fd24125b79534a2"},
       "regions": [

@@ -5,10 +5,10 @@
       "branches": ["us"],
       "build": {"name": "release_22816335_cod22_sep_bnet_v3_dev", "token": "7fd0a2db-1d85-4c83-bc9a-6a25dcd1a205"},
       "buildKey": "fa650d59d7141cbf77f977302c784779",
-      "cdnKeyFile": {"name": "green/cdnkeys/8c8d68dde20b146e62216fbfff0c66d1"},
-      "definition": "343069eec3f5db7483af105f5901b995",
+      "cdnKeyFile": {"name": "blue/cdnkeys/8c8d68dde20b146e62216fbfff0c66d1"},
+      "definition": "e092cba71a5393924b4d9501d8fa70d8",
       "keyRing": "",
-      "lastModified": "2026-11-18T19:55:31.000Z",
+      "lastModified": "2026-11-20T15:36:12.000Z",
       "path": "tpr/ninav",
       "productConfig": {"cdnPath": "", "hash": "df6240bbcc460045c38a84fd4e8de4a2"},
       "regions": [

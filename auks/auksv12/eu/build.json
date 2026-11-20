@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "trunk_23796243_sat_rvn_sp_bnet_v12_dev", "token": "c501a6a4-acfe-4de9-9862-c51a13a8ceb6"},
   "buildKey": "c4911049172e517476a0dc6be0084ff6",
-  "cdnKeyFile": {"name": "green/cdnkeys/d39642d7e2af592cef936e60dbb90d6f"},
-  "definition": "937bc5a9caa822a5ea7de8abd33bfeb5",
+  "cdnKeyFile": {"name": "blue/cdnkeys/d39642d7e2af592cef936e60dbb90d6f"},
+  "definition": "91a722b9f751615c65203bc24a556190",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:52:15.000Z",
+  "lastModified": "2026-11-20T15:33:29.000Z",
   "path": "tpr/auksv",
   "productConfig": {"cdnPath": "", "hash": "192fcf248ce0c603a022e40bd9c631c4"},
   "regions": [

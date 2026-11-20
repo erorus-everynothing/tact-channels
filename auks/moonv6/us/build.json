@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "release_19750334_cod23_tus6_bnet_v6_dev_r1", "token": "d8d00c18-c8d4-4a90-a011-7401718fb804"},
   "buildKey": "b11486f93367918b0e2bc3d925427edb",
-  "cdnKeyFile": {"name": "green/cdnkeys/add57da8de17f63f7d277a4e86aeb276"},
-  "definition": "1623d92f0074085342906c9fcd003e59",
+  "cdnKeyFile": {"name": "blue/cdnkeys/add57da8de17f63f7d277a4e86aeb276"},
+  "definition": "ca9088a9053bd32eead566caef2df155",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:55:23.000Z",
+  "lastModified": "2026-11-20T15:36:07.000Z",
   "path": "moon/moonv",
   "productConfig": {"cdnPath": "", "hash": "31fe4b3d5d715192155db9a55825953e"},
   "regions": [

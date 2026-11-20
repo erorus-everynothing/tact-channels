@@ -5,10 +5,10 @@
     "token": "b6d3a55c-74fd-4a24-9aab-80c37f3c73c9"
   },
   "buildKey": "ee77330336b2a889b124daa8abcc771c",
-  "cdnKeyFile": {"name": "green/cdnkeys/d01cddc00a2ac688a69361fe1d7e3707"},
-  "definition": "352a59981c0955da86b573c1c5647824",
+  "cdnKeyFile": {"name": "blue/cdnkeys/d01cddc00a2ac688a69361fe1d7e3707"},
+  "definition": "83ec7ec1552e1555841486cc87e840ac",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:56:36.000Z",
+  "lastModified": "2026-11-20T15:37:01.000Z",
   "path": "tpr/kelpvb",
   "productConfig": {"cdnPath": "", "hash": "e1471dec6fc937b5d139c84d7bb492b5"},
   "regions": [

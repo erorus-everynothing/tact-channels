@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "trunk_30047624_kra_clean_bnet_v1_dev", "token": "b75e801d-dcdb-4943-87f6-ff84825b40a8"},
   "buildKey": "33245158e0463fb21aa9c3b8e3a429cd",
-  "cdnKeyFile": {"name": "green/cdnkeys/cda8cce0302edf43d8e8e60cf67986a9"},
-  "definition": "a03b877d6921bc8a5ec139000fa9f787",
+  "cdnKeyFile": {"name": "blue/cdnkeys/cda8cce0302edf43d8e8e60cf67986a9"},
+  "definition": "433843ff9482c0b14e99c6308d66f5c5",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:54:41.000Z",
+  "lastModified": "2026-11-17T15:15:58.000Z",
   "path": "tpr/kelpv",
   "productConfig": {"cdnPath": "", "hash": "b175c78cba9294cbe1dd572dbc43d684"},
   "regions": [

@@ -2,10 +2,10 @@
   "armadilloKey": "",
   "build": {"name": "main_11764253_jup_mp_v5_dev", "token": "e09b0d7f-bcee-4e82-a0d2-2f64d52465cf"},
   "buildKey": "fd4050272d60bbb8ec444ada4c6fd5a6",
-  "cdnKeyFile": {"name": "green/cdnkeys/df7bcef433760bd45f3b7ab75143a93d"},
-  "definition": "39254fc696df17c5390db87fa879f27c",
+  "cdnKeyFile": {"name": "blue/cdnkeys/df7bcef433760bd45f3b7ab75143a93d"},
+  "definition": "323e06c8f2bb072d8eeca44caf276c57",
   "keyRing": "",
-  "lastModified": "2026-11-18T19:54:13.000Z",
+  "lastModified": "2026-11-20T15:35:07.000Z",
   "path": "tpr/forev",
   "productConfig": {"cdnPath": "", "hash": "db82f5582680a616dadb1fd726970152"},
   "regions": [

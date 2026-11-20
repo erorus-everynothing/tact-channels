@@ -1,18 +1,18 @@
 {
   "armadilloKey": "",
-  "build": {"name": "20261117-212928-wicked-elephant", "token": "33e6d9c1-a5b7-48ae-8463-6b0929de1156"},
-  "buildKey": "3068a61e0b7e929e2a7bc9fbcae96065",
+  "build": {"name": "20261118-174422-grubby-okapi", "token": "b3442738-dc32-4b61-bdc3-bda82454cbcb"},
+  "buildKey": "a9c2d5faf7ec02492a7f091c577bad43",
   "cdnKeyFile": {"name": "blue/cdnkeys/89f85ad2c74e2324557d509e526146c2"},
-  "definition": "02e1a0eb2d58dcb0d9c5c0f9eebba027",
-  "keyRing": "e617781316e402e6c1b57f775b2b358b",
-  "keyRingFile": {"name": "blue/keyrings/e617781316e402e6c1b57f775b2b358b", "algorithm": "Armadillo"},
-  "lastModified": "2026-11-20T15:33:15.000Z",
+  "definition": "295dd9ec57aaef13c7aa5e7c237ad1c7",
+  "keyRing": "0c61b1d4affeff21d5b7ead8dfb1f73e",
+  "keyRingFile": {"name": "blue/keyrings/0c61b1d4affeff21d5b7ead8dfb1f73e", "algorithm": "Armadillo"},
+  "lastModified": "2026-11-20T20:58:51.000Z",
   "path": "tpr/arisrc",
   "productConfig": {"cdnPath": "", "hash": "5bff35d0e36b3bb1664bd27bcc7e6e47"},
   "regions": [
     {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
     {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
   ],
-  "versionNumber": 545,
-  "versionString": "5B654FBAE8797704F87A3077B133DF5C"
+  "versionNumber": 546,
+  "versionString": "2C716E87B5FB32C905BCE44E50518380"
 }

@@ -3,12 +3,12 @@
     {
       "armadilloKey": "",
       "branches": ["cn", "us"],
-      "build": {"name": "258147_37.2.0-hse1", "token": "d1bcd4b4-935c-f752-2d5b-5e25a90907d5"},
-      "buildKey": "61e1417136e8221cb06977be2789dda4",
+      "build": {"name": "258533_37.2.0-hse1", "token": "a38c9753-dc42-f64f-1276-ee61e3244b89"},
+      "buildKey": "2b09ad09403360dfe8362e906e064086",
       "cdnKeyFile": {"name": "blue/cdnkeys/506a4bf6ba24e1e821e6bbfa32e022ad"},
-      "definition": "071f03e7cc04ef23ddfdfb64b09962d9",
+      "definition": "efcfb700ece07c174d312c98b526d377",
       "keyRing": "",
-      "lastModified": "2026-11-16T19:47:18.000Z",
+      "lastModified": "2026-11-20T19:14:30.000Z",
       "path": "tpr/hse/2",
       "productConfig": {"cdnPath": "", "hash": "b264256ee89ed9d7634abb401621549e"},
       "regions": [
@@ -16,8 +16,8 @@
         {"branches": ["us"], "cdns": "a744a1699a13347916dd9d7aa0ea70ed"},
         {"branches": ["eu"], "cdns": "0d29432d9fe5c1bd748572c3e74ccdd0"}
       ],
-      "versionNumber": 258147,
-      "versionString": "37.2.0.258147"
+      "versionNumber": 258533,
+      "versionString": "37.2.0.258533"
     }
   ],
   "infrastructure": false,

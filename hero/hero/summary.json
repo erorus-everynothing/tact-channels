@@ -21,26 +21,7 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["eu", "kr", "sg", "tw"],
-      "build": {"name": "B98348", "token": "c8406f81-9f1f-4428-b03c-2f9eda594417"},
-      "buildKey": "a64c9b7ebf1c6a811ffefad97865ed80",
-      "cdnKeyFile": {"name": "blue/cdnkeys/504f7842166f5495aa7607f901d2cad2"},
-      "definition": "34be95777e7e3f005cb2a3980fb6733e",
-      "keyRing": "",
-      "lastModified": "2026-11-20T15:35:21.000Z",
-      "path": "tpr/Hero-Live-a",
-      "productConfig": {"cdnPath": "", "hash": "a0c5874544505acfa8952db0b0a4e48f"},
-      "regions": [
-        {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
-        {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
-        {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
-      ],
-      "versionNumber": 98348,
-      "versionString": "2.57.0.98348"
-    },
-    {
-      "armadilloKey": "",
-      "branches": ["us"],
+      "branches": ["eu", "us"],
       "build": {"name": "B98746", "token": "495491f1-1635-4dfc-b9d5-1b70cc58ad25"},
       "buildKey": "672e6bffb31a8efc554ce6685716231b",
       "cdnKeyFile": {"name": "blue/cdnkeys/504f7842166f5495aa7607f901d2cad2"},
@@ -56,6 +37,25 @@
       ],
       "versionNumber": 98746,
       "versionString": "2.57.1.98746"
+    },
+    {
+      "armadilloKey": "",
+      "branches": ["kr", "sg", "tw"],
+      "build": {"name": "B98348", "token": "c8406f81-9f1f-4428-b03c-2f9eda594417"},
+      "buildKey": "a64c9b7ebf1c6a811ffefad97865ed80",
+      "cdnKeyFile": {"name": "blue/cdnkeys/504f7842166f5495aa7607f901d2cad2"},
+      "definition": "34be95777e7e3f005cb2a3980fb6733e",
+      "keyRing": "",
+      "lastModified": "2026-11-20T15:35:21.000Z",
+      "path": "tpr/Hero-Live-a",
+      "productConfig": {"cdnPath": "", "hash": "a0c5874544505acfa8952db0b0a4e48f"},
+      "regions": [
+        {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
+        {"branches": ["kr"], "cdns": "04bd82b9b6322af0d25fc9bc1ffd1df2"},
+        {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
+      ],
+      "versionNumber": 98348,
+      "versionString": "2.57.0.98348"
     }
   ],
   "infrastructure": false,

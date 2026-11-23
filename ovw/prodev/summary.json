@@ -3,20 +3,20 @@
     {
       "armadilloKey": "",
       "branches": ["us"],
-      "build": {"name": "prometheus-2_99_0_0-155768-GM-prodev1", "token": "31e6d108-7798-4d81-9b0e-c132902558ed"},
-      "buildKey": "642af06d6fb7385259ae7519439aa02a",
+      "build": {"name": "prometheus-2_99_0_0-155804-GM-prodev1", "token": "89a90302-aad6-42ee-bdab-c733dd2eb513"},
+      "buildKey": "25a4a0a22ab84c9d3cf7fd9fc6d484c0",
       "cdnKeyFile": {"name": "blue/cdnkeys/952ee79caebb7a877df88d22f6ee5415"},
-      "definition": "620eaa742f670630b9dd71910b074926",
+      "definition": "376018ff3c78bb16038016192bb11aec",
       "keyRing": "",
-      "lastModified": "2026-11-20T15:36:46.000Z",
+      "lastModified": "2026-11-23T14:49:10.000Z",
       "path": "tpr/proa",
       "productConfig": {"cdnPath": "", "hash": "5a7367555c811b090f0864931e589fd7"},
       "regions": [
         {"branches": ["us"], "cdns": "8ba8fd31ff5c56864770fe5fe5f42d01"},
         {"branches": ["eu"], "cdns": "7c8b57c7a1d9c82ee9dc10381fca9acb"}
       ],
-      "versionNumber": 155768,
-      "versionString": "2.99.0.0.155768"
+      "versionNumber": 155804,
+      "versionString": "2.99.0.0.155804"
     }
   ],
   "infrastructure": false,

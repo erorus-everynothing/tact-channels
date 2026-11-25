@@ -1,10 +1,10 @@
 {
   "path": "blue/",
   "public": {
-    "channel": "8d9b5632acf5cf2c2a4926a12bf67e61"
+    "channel": "a4b46cef05e084594992c3e37d65a766"
   },
-  "lastModified": "2026-11-25T21:59:03.000Z",
-  "pointerLastModified": "2026-11-25T21:59:04.000Z",
+  "lastModified": "2026-11-25T22:00:24.000Z",
+  "pointerLastModified": "2026-11-25T22:00:26.000Z",
   "products": {
     "agent": [
       "agent",
@@ -614,6 +614,7 @@
       "wownev8",
       "wownev9",
       "wownev10",
+      "wownev11",
       "wownev12",
       "wowt",
       "wowv",

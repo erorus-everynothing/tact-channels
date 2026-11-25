@@ -2,7 +2,7 @@
   "builds": [
     {
       "armadilloKey": "",
-      "branches": ["cn", "eu", "kr", "tw"],
+      "branches": ["cn", "kr", "tw"],
       "build": {"name": "WOW-71037patch1.60.1_Retail", "token": "4ba6ed40-c771-45d8-8327-344dd27009a3"},
       "buildKey": "0acab1e6aa41b46165d2ca66853b417b",
       "cdnKeyFile": {"name": "blue/cdnkeys/47a40ae43f96f21392005d0f6a3e0bc4"},
@@ -22,7 +22,7 @@
     },
     {
       "armadilloKey": "",
-      "branches": ["us"],
+      "branches": ["eu", "us"],
       "build": {"name": "WOW-71091patch1.60.1_Retail", "token": "cd02536f-e0d8-4d10-bce5-3b7637788c8d"},
       "buildKey": "3cd52a7a64f9bad078020b1e95af8a00",
       "cdnKeyFile": {"name": "blue/cdnkeys/47a40ae43f96f21392005d0f6a3e0bc4"},

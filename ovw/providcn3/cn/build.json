@@ -1,11 +1,11 @@
 {
   "armadilloKey": "",
-  "build": {"name": "prometheus-2_26_1_0-155810-providcn3", "token": "3ca42008-4498-4276-bec6-1b7ec897b9c4"},
-  "buildKey": "c998c2d8964a21b915e0b334b6f50732",
+  "build": {"name": "prometheus-2_26_1_0-155846-providcn3", "token": "d157ed29-a576-407f-aa0f-50e933e72884"},
+  "buildKey": "e4fa39baa5baafbbfb89b998aaaec636",
   "cdnKeyFile": {"name": "blue/cdnkeys/04a870839341bf5a07adf9528e0776d8"},
-  "definition": "d1bb86a891b946ba1854a17188be0f91",
+  "definition": "910002291d6b2982d881561524d21833",
   "keyRing": "",
-  "lastModified": "2026-11-23T21:42:50.000Z",
+  "lastModified": "2026-11-25T21:00:27.000Z",
   "path": "tpr/prov3/2",
   "productConfig": {"cdnPath": "", "hash": "b3824d3b626a0f0d9c559b097a071819"},
   "regions": [
@@ -13,6 +13,6 @@
     {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"},
     {"branches": ["tw", "us"], "cdns": "919646d723f2fff72418101b1223ddb0"}
   ],
-  "versionNumber": 155810,
-  "versionString": "2.26.1.0.155810"
+  "versionNumber": 155846,
+  "versionString": "2.26.1.0.155846"
 }

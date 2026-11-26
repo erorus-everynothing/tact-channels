@@ -3,13 +3,13 @@
     {
       "armadilloKey": "",
       "branches": ["eu", "kr", "us"],
-      "build": {"name": "Build_1090142Change_13662125Upload_1095180", "token": "8fbd2c27-599e-4f76-9caf-5bb1c87c05f5"},
-      "buildKey": "278e7ec00bde1291605c75f7949d9f35",
+      "build": {"name": "Build_1145604Change_13996721Upload_1147157", "token": "781c2763-3979-4d84-b635-177c9570b46c"},
+      "buildKey": "db815337913fb4cea39f535e0326c0f1",
       "cdnKeyFile": {"name": "blue/cdnkeys/ad2ec88ec2e445eb3ddaaec670d6d275"},
-      "definition": "a936dd752b2d568a6b69977afe7ec17c",
-      "keyRing": "3fbc586f3d9a49c9adadfbe481ea8bb5",
-      "keyRingFile": {"name": "blue/keyrings/3fbc586f3d9a49c9adadfbe481ea8bb5"},
-      "lastModified": "2026-11-20T15:35:39.000Z",
+      "definition": "c324d3fb18e3eafa803e1bb6ab35cdc5",
+      "keyRing": "c259bce72fd4216d7d7e4380e0f65643",
+      "keyRingFile": {"name": "blue/keyrings/c259bce72fd4216d7d7e4380e0f65643"},
+      "lastModified": "2026-11-26T13:01:01.000Z",
       "path": "tpr/lyra",
       "productConfig": {"cdnPath": "", "hash": "62195ed1bf8a3e816d507886e0b779f7"},
       "regions": [
@@ -17,7 +17,7 @@
         {"branches": ["us"], "cdns": "919646d723f2fff72418101b1223ddb0"},
         {"branches": ["eu"], "cdns": "287b8918c145665428c6f714cdc6e3bd"}
       ],
-      "versionNumber": 1090142,
+      "versionNumber": 1145604,
       "versionString": "5.00"
     }
   ],

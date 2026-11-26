@@ -1,14 +1,14 @@
 {
   "armadilloKey": "",
-  "build": {"name": "3996927_514_dev_tact_row", "token": "921bfefa-ab89-4147-ac2b-654ce76e11bc"},
-  "buildKey": "4c6c8f9fe400bc525af5667556936df5",
+  "build": {"name": "4012483_514_dev_tact_row", "token": "81c6eb2c-db11-4cbb-965c-1a6eba67933d"},
+  "buildKey": "1da5083c0f64b616afe7a6a79e75cd42",
   "cdnKeyFile": {"name": "blue/cdnkeys/e5ba99441ac6a601707b2df618a9110a"},
-  "definition": "73dd5b493ba8ad50278518e77a4dfcde",
+  "definition": "cd6a565cbe8a4e052aff45a9ef563223",
   "keyRing": "",
-  "lastModified": "2026-11-20T15:33:07.000Z",
+  "lastModified": "2026-11-26T09:05:50.000Z",
   "path": "tpr/anbsdev",
   "productConfig": {"cdnPath": "", "hash": "a27720069328eaf95569fe3f4c5a02fa"},
   "regions": [{"branches": ["eu", "us"], "cdns": "b6fb48f95d9ca4d2ac083a8eaaab74e5"}],
-  "versionNumber": 3996927,
-  "versionString": "5.1.4.3996927"
+  "versionNumber": 4012483,
+  "versionString": "5.1.4.4012483"
 }
